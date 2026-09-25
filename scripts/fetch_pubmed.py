@@ -134,7 +134,8 @@ def main():
                 continue
             if rec["pmid"] in existing:
                 path, old = existing[rec["pmid"]]
-                merged = {k: v for k, v in old.items() if k not in PUBMED_KEYS}
+                # update in place so key order (and therefore the diff) stays stable
+                merged = dict(old)
                 merged.update(rec)
                 # keep a hand-set labPaper override
                 if "labPaperOverride" in old:
@@ -143,7 +144,9 @@ def main():
                 path = OUT / f"{rec['year']}-{slugify(rec['title'])}-{rec['pmid']}.json"
                 merged = {**rec, "highlight": False, "tags": []}
                 n_new += 1
-            path.write_text(json.dumps(merged, indent=2, ensure_ascii=False) + "\n")
+            text = json.dumps(merged, indent=2, ensure_ascii=False) + "\n"
+            if not path.exists() or path.read_text() != text:
+                path.write_text(text)
         time.sleep(0.4)
     print(f"wrote {len(idlist)} records ({n_new} new) to {OUT.relative_to(ROOT)}")
 
