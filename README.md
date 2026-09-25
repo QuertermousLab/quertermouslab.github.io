@@ -76,6 +76,6 @@ unreachable. Rebuild to refresh the counts.
 ## Needs verification before launch
 
 - Current member roster/titles (seeded from the old site + Stanford Profiles, Sept 2026);
-  Laila Rad has no bio/photo yet.
+  Lora Randa has no bio yet.
 - Alumni positions are copied from the old alumni page and may be out of date.
 - If the domain changes, update `site` in `astro.config.mjs`, `public/robots.txt`, `public/CNAME` and the repo Pages settings.
