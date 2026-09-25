@@ -1,0 +1,41 @@
+{
+  "title": "Novel role for the potent endogenous inotrope apelin in human cardiac dysfunction",
+  "authors": [
+    "Mary M Chen",
+    "Euan A Ashley",
+    "David X F Deng",
+    "Anya Tsalenko",
+    "Alicia Deng",
+    "Raymond Tabibiazar",
+    "Amir Ben-Dor",
+    "Brett Fenster",
+    "Eugene Yang",
+    "Jennifer Y King",
+    "Michael Fowler",
+    "Robert Robbins",
+    "Frances L Johnson",
+    "Laurakay Bruhn",
+    "Theresa McDonagh",
+    "Henry Dargie",
+    "Zohar Yakhini",
+    "Philip S Tsao",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation",
+  "journalAbbrev": "Circulation",
+  "year": 2003,
+  "date": "2003-09-08",
+  "doi": "10.1161/01.CIR.0000091235.94914.75",
+  "pmid": "12963638",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/01.CIR.0000091235.94914.75",
+  "abstract": "BACKGROUND: Apelin is among the most potent stimulators of cardiac contractility known. However, no physiological or pathological role for apelin-angiotensin receptor-like 1 (APJ) signaling has ever been described. METHODS AND RESULTS: We performed transcriptional profiling using a spotted cDNA microarray with 12 814 unique clones on paired samples of left ventricle obtained before and after placement of a left ventricular assist device in 11 patients. The significance analysis of microarrays and a novel rank consistency score designed to exploit the paired structure of the data confirmed that natriuretic peptides were among the most significantly downregulated genes after offloading. The most significantly upregulated gene was the G-protein-coupled receptor APJ, the specific receptor for apelin. We demonstrate here using immunoassay and immunohistochemical techniques that apelin is localized primarily in the endothelium of the coronary arteries and is found at a higher concentration in cardiac tissue after mechanical offloading. These findings imply an important paracrine signaling pathway in the heart. We additionally extend the clinical significance of this work by reporting for the first time circulating human apelin levels and demonstrating increases in the plasma level of apelin in patients with left ventricular dysfunction. CONCLUSIONS: The apelin-APJ signaling pathway emerges as an important novel mediator of cardiovascular control.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

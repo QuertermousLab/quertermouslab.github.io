@@ -1,0 +1,30 @@
+{
+  "title": "Genetics and Genomics of Coronary Artery Disease",
+  "authors": [
+    "Milos Pjanic",
+    "Clint L Miller",
+    "Robert Wirka",
+    "Juyong B Kim",
+    "Daniel M DiRenzo",
+    "Thomas Quertermous"
+  ],
+  "journal": "Current cardiology reports",
+  "journalAbbrev": "Curr Cardiol Rep",
+  "year": 2016,
+  "date": "2016-10-01",
+  "doi": "10.1007/s11886-016-0777-y",
+  "pmid": "27586139",
+  "pmcid": "PMC5872834",
+  "url": "https://doi.org/10.1007/s11886-016-0777-y",
+  "abstract": "Coronary artery disease (or coronary heart disease), is the leading cause of mortality in many of the developing as well as the developed countries of the world. Cholesterol-enriched plaques in the heart's blood vessels combined with inflammation lead to the lesion expansion, narrowing of blood vessels, reduced blood flow, and may subsequently cause lesion rupture and a heart attack. Even though several environmental risk factors have been established, such as high LDL-cholesterol, diabetes, and high blood pressure, the underlying genetic composition may substantially modify the disease risk; hence, genome composition and gene-environment interactions may be critical for disease progression. Ongoing scientific efforts have seen substantial advancements related to the fields of genetics and genomics, with the major breakthroughs yet to come. As genomics is the most rapidly advancing field in the life sciences, it is important to present a comprehensive overview of current efforts. Here, we present a summary of various genetic and genomics assays and approaches applied to coronary artery disease research.",
+  "pubTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

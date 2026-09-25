@@ -1,0 +1,43 @@
+{
+  "title": "Integrative functional genomics identifies regulatory mechanisms at coronary artery disease loci",
+  "authors": [
+    "Clint L Miller",
+    "Milos Pjanic",
+    "Ting Wang",
+    "Trieu Nguyen",
+    "Ariella Cohain",
+    "Jonathan D Lee",
+    "Ljubica Perisic",
+    "Ulf Hedin",
+    "Ramendra K Kundu",
+    "Deshna Majmudar",
+    "Juyong B Kim",
+    "Oliver Wang",
+    "Christer Betsholtz",
+    "Arno Ruusalepp",
+    "Oscar Franzén",
+    "Themistocles L Assimes",
+    "Stephen B Montgomery",
+    "Eric E Schadt",
+    "Johan L M Björkegren",
+    "Thomas Quertermous"
+  ],
+  "journal": "Nature communications",
+  "journalAbbrev": "Nat Commun",
+  "year": 2016,
+  "date": "2016-07-08",
+  "doi": "10.1038/ncomms12092",
+  "pmid": "27386823",
+  "pmcid": "PMC4941121",
+  "url": "https://doi.org/10.1038/ncomms12092",
+  "abstract": "Coronary artery disease (CAD) is the leading cause of mortality and morbidity, driven by both genetic and environmental risk factors. Meta-analyses of genome-wide association studies have identified >150 loci associated with CAD and myocardial infarction susceptibility in humans. A majority of these variants reside in non-coding regions and are co-inherited with hundreds of candidate regulatory variants, presenting a challenge to elucidate their functions. Herein, we use integrative genomic, epigenomic and transcriptomic profiling of perturbed human coronary artery smooth muscle cells and tissues to begin to identify causal regulatory variation and mechanisms responsible for CAD associations. Using these genome-wide maps, we prioritize 64 candidate variants and perform allele-specific binding and expression analyses at seven top candidate loci: 9p21.3, SMAD3, PDGFD, IL6R, BMP1, CCDC97/TGFB1 and LMOD1. We validate our findings in expression quantitative trait loci cohorts, which together reveal new links between CAD associations and regulatory function in the appropriate disease context.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

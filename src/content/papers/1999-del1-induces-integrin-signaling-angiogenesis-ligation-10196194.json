@@ -1,0 +1,28 @@
+{
+  "title": "Del1 induces integrin signaling and angiogenesis by ligation of alphaVbeta3",
+  "authors": [
+    "K Penta",
+    "J A Varner",
+    "L Liaw",
+    "C Hidai",
+    "R Schatzman",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1999,
+  "date": "1999-04-16",
+  "doi": "10.1074/jbc.274.16.11101",
+  "pmid": "10196194",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.274.16.11101",
+  "abstract": "Del1 is a novel extracellular matrix protein encoding three Notch-like epidermal growth factor repeats, an RGD motif, and two discoidin domains. Del1 is expressed in an endothelial cell-restricted pattern during early development. In studies reported here, recombinant baculovirus Del1 protein was shown to promote alphavbeta3-dependent endothelial cell attachment and migration. Attachment of endothelial cells to Del1 was associated with clustering of alphavbeta3, the formation of focal complexes, and recruitment of talin and vinculin into these complexes. These events were shown to be associated with phosphorylation of proteins in the focal complexes, including the time-dependent phosphorylation of p125(FAK), MAPK, and Shc. When recombinant Del1 was evaluated in an in ovo chick chorioallantoic membrane assay, it was found to have potent angiogenic activity. This angiogenic activity was inhibited by a monoclonal antibody directed against alphavbeta3, and an RAD mutant Del1 protein was inactive. Thus Del1 provides a unique autocrine angiogenic pathway for the embryonic endothelium, and this function is mediated in part by productive ligation of integrin alphavbeta3.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

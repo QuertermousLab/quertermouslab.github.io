@@ -1,0 +1,32 @@
+{
+  "title": "Pancreatitis activates pancreatic apelin-APJ axis in mice",
+  "authors": [
+    "Song Han",
+    "Ella W Englander",
+    "Guillermo A Gomez",
+    "Judith F Aronson",
+    "Cristiana Rastellini",
+    "R P Garofalo",
+    "Deepthi Kolli",
+    "Thomas Quertermous",
+    "Ramendra Kundu",
+    "George H Greeley"
+  ],
+  "journal": "American journal of physiology. Gastrointestinal and liver physiology",
+  "journalAbbrev": "Am J Physiol Gastrointest Liver Physiol",
+  "year": 2013,
+  "date": "2013-05-16",
+  "doi": "10.1152/ajpgi.00370.2012",
+  "pmid": "23681476",
+  "pmcid": "PMC3725680",
+  "url": "https://doi.org/10.1152/ajpgi.00370.2012",
+  "abstract": "Pancreatitis is classified into acute pancreatitis (AP) and chronic pancreatitis (CP). Apelin, a small regulatory peptide, is the endogenous ligand for the APJ receptor. Apelin and APJ are expressed in the pancreas. The aims of this study were to examine whether apelin influences the inflammatory and fibrosis responses to pancreatitis in mice and to identify mechanisms behind apelin's activities. Supramaximal cerulein induction of AP or CP caused significant (P < 0.05) elevations in pancreatic apelin and APJ expression. Levels declined during the recovery phases. In apelin gene-knockout mice with pancreatitis, pancreatic neutrophil invasion and myeloperoxidase activity were enhanced significantly, and apelin treatment suppressed both. Apelin exposure reduced CP-induced elevations of extracellular matrix-associated proteins. Apelin inhibited PDGF-simulated connective tissue growth factor production and proliferation of pancreatic stellate cells (PSCs). Serum granulocyte colony-stimulating factor and keratinocyte cytokine levels were higher in apelin gene-knockout than wild-type mice with pancreatitis. Apelin reduced AP- and CP-induced elevations in pancreatic NF-κB activation. Together, these findings imply that the pancreatic apelin-APJ system functions to curb the inflammatory and fibrosis responses during pancreatitis. Furthermore, findings suggest that apelin reduces inflammation and fibrosis by reducing neutrophil recruitment and PSC activity. Inhibition of neutrophil invasion may be mediated by reduced keratinocyte cytokine and granulocyte colony-stimulating factor secretion. Apelin-induced reductions in PSC proliferation and connective tissue growth factor production are putative mechanisms underlying apelin's inhibition of extracellular matrix production. The apelin-associated changes in NF-κB binding may be linked to apelin's regulation of pancreatic inflammatory and fibrosis responses during pancreatitis.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

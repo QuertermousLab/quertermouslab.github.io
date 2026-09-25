@@ -1,0 +1,22 @@
+{
+  "title": "Purification of bacteriophage clones",
+  "authors": [
+    "T Quertermous"
+  ],
+  "journal": "Current protocols in molecular biology",
+  "journalAbbrev": "Curr Protoc Mol Biol",
+  "year": 2001,
+  "date": "2001-05-01",
+  "doi": "10.1002/0471142727.mb0605s13",
+  "pmid": "18265260",
+  "pmcid": null,
+  "url": "https://doi.org/10.1002/0471142727.mb0605s13",
+  "abstract": "Careful purification of the clone of interest away from contaminating phage is required before growth and characterization of the clone can proceed. It is common for a \"purified\" clone to be contaminated by a second phage, leading to confusing results and wasted time. Several rounds of purification should be performed even if the phage appears pure as early as the secondary screening stage. In this unit, phage plates are correctly oriented to the autoradiograph film, and a region that should contain the clone of interest is sampled by toothpicking each phage plaque onto secondary plates containing a lawn of host cells. Alternatively, a plug of agarose can be taken from the primary plate, placed in suspension medium, and this solution used to plate a small secondary library. Plaques on the secondary plates are transferred to nitrocellulose filters, hybridized to a 32P-labeled probe, and an isolated positive plaque is picked, diluted in suspension medium, and regrown. This process is repeated until the desired plaque is purified.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

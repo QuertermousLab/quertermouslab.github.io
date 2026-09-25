@@ -1,0 +1,32 @@
+{
+  "title": "HIF-1 regulates hypoxia- and insulin-induced expression of apelin in adipocytes",
+  "authors": [
+    "Alexander J Glassford",
+    "Patrick Yue",
+    "Ahmad Y Sheikh",
+    "Hyung J Chun",
+    "Shirin Zarafshar",
+    "Denise A Chan",
+    "Gerald M Reaven",
+    "Thomas Quertermous",
+    "Philip S Tsao"
+  ],
+  "journal": "American journal of physiology. Endocrinology and metabolism",
+  "journalAbbrev": "Am J Physiol Endocrinol Metab",
+  "year": 2007,
+  "date": "2007-09-18",
+  "doi": "10.1152/ajpendo.00490.2007",
+  "pmid": "17878221",
+  "pmcid": "PMC2570255",
+  "url": "https://doi.org/10.1152/ajpendo.00490.2007",
+  "abstract": "Apelin, a novel peptide with significant cardioactive properties, is upregulated by insulin in adipocytes. However, the mechanism by which insulin promotes apelin production is unknown. Hypoxia-inducible factor-1 (HIF-1), a heterodimeric transcription factor involved in the angiogenic and metabolic responses to tissue hypoxia, has been shown to be activated by insulin in various settings. We therefore hypothesized that HIF-1 regulates insulin-mediated apelin expression in adipocytes. 3T3-L1 cells were differentiated into adipocytes in culture. For experiments, serum-starved 3T3-L1 cells were exposed to insulin and/or a 1% O(2) environment. Apelin expression was assessed using quantitative real-time PCR and ELISA. To directly assess the role of HIF-1 in apelin production, we differentiated mouse embryonic fibroblasts (MEFs) containing a targeted deletion of the HIF-1alpha gene into adipocytes and measured their response to insulin and hypoxia. Apelin expression in mature 3T3-L1 adipocytes was increased significantly by insulin and was attenuated by pharmacological inhibition of insulin signaling. Exposure of cells to either hypoxia or the chemical HIF activators cobalt chloride (CoCl(2)) and dimethyloxaloylglycine (DMOG) resulted in significant upregulation of apelin, consistent with a role for HIF in apelin induction. Moreover, hypoxia-, CoCl(2)-, DMOG-, and insulin-induced apelin expression were all attenuated in differentiated HIF-1alpha-deficient MEFs. In summary, in cultured 3T3-L1 adipocytes and differentiated MEFs, HIF-1 appears to be involved in hypoxia- and insulin-induced apelin expression.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

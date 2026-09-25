@@ -1,0 +1,32 @@
+{
+  "title": "Role of endothelial cell-selective adhesion molecule in hematogeneous metastasis",
+  "authors": [
+    "Husni M Cangara",
+    "Tatsuro Ishida",
+    "Tetsuya Hara",
+    "Li Sun",
+    "Ryuji Toh",
+    "Yoshiyuki Rikitake",
+    "Ramendra K Kundu",
+    "Thomas Quertermous",
+    "Ken-ichi Hirata",
+    "Yoshitake Hayashi"
+  ],
+  "journal": "Microvascular research",
+  "journalAbbrev": "Microvasc Res",
+  "year": 2010,
+  "date": "2010-02-11",
+  "doi": "10.1016/j.mvr.2010.02.006",
+  "pmid": "20153339",
+  "pmcid": "PMC5316236",
+  "url": "https://doi.org/10.1016/j.mvr.2010.02.006",
+  "abstract": "The spread of malignant cells from a localized tumor is thought to be directly related to the number of microvessels in the tumor. The endothelial cell-selective adhesion molecule (ESAM) is a member of the immunoglobulin superfamily that mediates homophilic interactions between endothelial cells. Previous studies have indicated that ESAM regulates angiogenesis in the primary tumor growth and endothelial permeability. In this study, we aimed to further elucidate the role of ESAM in tumor metastasis through angiogenic processes. ESAM expression was higher in hypervascular metastatic tumor tissues than in normal tissues in human lungs. Cell culture studies found that conditioned medium from B16F10 melanoma cells increased ESAM expression in endothelial cells and promoted endothelial migration and tube formation. The B16F10 medium-induced endothelial migration and tube formation were significantly attenuated when ESAM was downregulated by siRNA transfection. Intravenous injection of B16F10 cells into ESAM+/+ and ESAM-/- mice for comparison of metastatic potential resulted in the number of metastatic lung nodules in ESAM-/- mice being 83% lower than of those in ESAM+/+ mice. The microvascular density in the tumor was also lower in ESAM-/- than in ESAM+/+ mice. These findings indicate that ESAM regulates tumor metastasis through endothelial cell migration and tube formation in metastatic nodules. Inhibition of ESAM may therefore inhibit tumor metastasis by inhibiting the angiogenic processes.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

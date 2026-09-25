@@ -1,0 +1,25 @@
+{
+  "title": "Cloning and characterization of a basic helix-loop-helix protein expressed in early mesoderm and the developing somites",
+  "authors": [
+    "E E Quertermous",
+    "H Hidai",
+    "M A Blanar",
+    "T Quertermous"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 1994,
+  "date": "1994-07-19",
+  "doi": "10.1073/pnas.91.15.7066",
+  "pmid": "8041747",
+  "pmcid": "PMC44339",
+  "url": "https://doi.org/10.1073/pnas.91.15.7066",
+  "abstract": "Basic helix-loop-helix (bHLH) heterodimer protein complexes regulate transcription of genes during the processes of differentiation and development. To study the molecular basis of early mesodermal differentiation, we sought to identify bHLH proteins from cells of mesodermal origin. By using an interaction cloning strategy with a radiolabled recombinant bHLH protein, E12, a clone encoding a potential heterodimer partner was isolated from an endothelial cell library. This gene (bHLH-EC2) is most homologous to Twist but shares similarity within the bHLH domain with TAL1 and other members of this family. bHLH-EC2 is expressed in cultured endothelial cells and in embryonic stem cell, erythroleukemia, and muscle cell lines in a differentiation-dependent manner. In situ hybridization studies of mouse embryos reveal that bHLH-EC2 is expressed throughout the primitive mesoderm as early as 7.5 days postcoitum. Expression then becomes restricted to the paraxial mesoderm and to the dermamyotome of the developing somite. Expression of bHLH-EC2 in cells destined to become myoblasts thus predates expression of myogenic bHLH factors. bHLH-EC2 is expressed in early endothelial and hematopoietic cells in vivo, as shown by RNA studies of embryonic yolk sac and cultured cells derived from yolk sac explants. These findings suggest that bHLH-EC2 plays a role in the development of multiple cell types derived from the primitive mesoderm.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Sex-specific genetic architecture of human fatness in Chinese: the SAPPHIRe Study",
+  "authors": [
+    "Y-F Chiu",
+    "L-M Chuang",
+    "H-Y Kao",
+    "K-C Shih",
+    "M-W Lin",
+    "W-J Lee",
+    "T Quertermous",
+    "J D Curb",
+    "I Chen",
+    "B L Rodriguez",
+    "C A Hsiung"
+  ],
+  "journal": "Human genetics",
+  "journalAbbrev": "Hum Genet",
+  "year": 2010,
+  "date": "2010-08-20",
+  "doi": "10.1007/s00439-010-0877-5",
+  "pmid": "20725740",
+  "pmcid": "PMC4446122",
+  "url": "https://doi.org/10.1007/s00439-010-0877-5",
+  "abstract": "To dissect the genetic architecture of sexual dimorphism in obesity-related traits, we evaluated the sex-genotype interaction, sex-specific heritability and genome-wide linkages for seven measurements related to obesity. A total of 1,365 non-diabetic Chinese subjects from the family study of the Stanford Asia-Pacific Program of Hypertension and Insulin Resistance were used to search for quantitative trait loci (QTLs) responsible for the obesity-related traits. Pleiotropy and co-incidence effects from the QTLs were also examined using the bivariate linkage approach. We found that sex-specific differences in heritability and the genotype-sex interaction effects were substantially significant for most of these traits. Several QTLs with strong linkage evidence were identified after incorporating genotype by sex (G × S) interactions into the linkage mapping, including one QTL for hip circumference [maximum LOD score (MLS) = 4.22, empirical p = 0.000033] and two QTLs: for BMI on chromosome 12q with MLS 3.37 (empirical p = 0.0043) and 3.10 (empirical p = 0.0054). Sex-specific analyses demonstrated that these linkage signals all resulted from females rather than males. Most of these QTLs for obesity-related traits replicated the findings in other ethnic groups. Bivariate linkage analyses showed several obesity traits were influenced by a common set of QTLs. All regions with linkage signals were observed in one gender, but not in the whole sample, suggesting the genetic architecture of obesity-related traits does differ by gender. These findings are useful for further identification of the liability genes for these phenotypes through candidate genes or genome-wide association analysis.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

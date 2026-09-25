@@ -1,0 +1,37 @@
+{
+  "title": "Cloning and characterization of developmental endothelial locus-1: an embryonic endothelial cell protein that binds the alphavbeta3 integrin receptor",
+  "authors": [
+    "C Hidai",
+    "T Zupancic",
+    "K Penta",
+    "A Mikhail",
+    "M Kawana",
+    "E E Quertermous",
+    "Y Aoka",
+    "M Fukagawa",
+    "Y Matsui",
+    "D Platika",
+    "R Auerbach",
+    "B L Hogan",
+    "R Snodgrass",
+    "T Quertermous"
+  ],
+  "journal": "Genes & development",
+  "journalAbbrev": "Genes Dev",
+  "year": 1998,
+  "date": "1998-01-01",
+  "doi": "10.1101/gad.12.1.21",
+  "pmid": "9420328",
+  "pmcid": "PMC529342",
+  "url": "https://doi.org/10.1101/gad.12.1.21",
+  "abstract": "We have taken advantage of an enhancer trap event in a line of transgenic mice to identify a unique developmentally regulated endothelial cell locus (Del1). The protein encoded in this locus contains three EGF-like repeats homologous to those in Notch and related proteins, including an EGF-like repeat that contains an RGD motif, and two discoidin I-like domains. Del1 is shown to be a matrix protein and to promote adhesion of endothelial cells through interaction with the alphavbeta3 integrin receptor. Embryonic endothelial-like yolk sac cells expressing recombinant Del1 protein, or grown on an extracellular matrix containing Del1 protein, are inhibited from forming vascular-like structures. Expression of Del1 protein in the chick chorioallantoic membrane leads to loss of vascular integrity and promotes vessel remodeling. Del1 is thus a new ligand for the alphavbeta3 integrin receptor and may function to regulate vascular morphogenesis or remodeling in embryonic development.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

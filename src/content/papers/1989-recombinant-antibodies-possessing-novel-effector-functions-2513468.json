@@ -1,0 +1,25 @@
+{
+  "title": "Recombinant antibodies possessing novel effector functions",
+  "authors": [
+    "T W Love",
+    "M S Runge",
+    "E Haber",
+    "T Quertermous"
+  ],
+  "journal": "Methods in enzymology",
+  "journalAbbrev": "Methods Enzymol",
+  "year": 1989,
+  "date": "1989-01-01",
+  "doi": "10.1016/0076-6879(89)78037-x",
+  "pmid": "2513468",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/0076-6879(89)78037-x",
+  "abstract": "Our method for constructing an antifibrin antibody-t-PA chimeric protein can be adapted to form other bifunctional, antibody-targeted proteins. Once an appropriate targeting antibody is obtained, the investigator can derive the heavy chain loss variant cell lines and clone the functional heavy chain rearrangement transcribed by the hybridoma. Other useful reagents include antisera directed against mouse Fab and antisera against whatever effector component is to be combined with the antibody. These are helpful during the screening of transfectants and the characterization of the secreted fusion protein, and they allow for protein purification by affinity chromatography. An assay of the functional activity of the effector domain is also desirable. The apparent retention of enzymatic activity and substrate specificity in our antibody-targeted plasminogen activator hybrid demonstrates that even complex molecules with strict folding requirements and multiple intrachain disulfide bonds can be used to form hybrid recombinant proteins. We have documented by electrophoretic transfer blotting that the heavy chain-t-PA fusion protein is secreted in association with light chain in the form of a 180-kDa dimer. The heavy chains appear to be attached by disulfide bonds at the hinge region, as is the case with the heavy chains of natural immunoglobulins. Our method can be adapted to various uses. More or less of the antibody constant region could be employed, depending on the desired geometry and the immunologic interactions mediated by the Fc domain. We have made a recombinant fusion peptide containing an additional 100 constant region amino acids but found that its targeting and catalytic abilities did not differ from those of the smaller molecule. Recent reports indicate that it is possible to express an antibody Fv that has full antigen recognition and binding properties; such small immunoglobulins could minimize potential immunogenicity while affording full targeting capability. The use of a human constant region sequence may also provide a less immunogenic molecule, and, by transferring the complementarity-determining regions of the monoclonal antibody into human variable region sequence, it may be possible to completely \"humanize\" an antibody-directed chimeric protein. The application of these and other innovative approaches should soon make antibodies an attractive means of targeting a wide range of molecules, both in scientific investigation and in medical therapy.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

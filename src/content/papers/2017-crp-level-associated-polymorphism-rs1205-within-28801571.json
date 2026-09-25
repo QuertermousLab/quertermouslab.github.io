@@ -1,0 +1,33 @@
+{
+  "title": "CRP-level-associated polymorphism rs1205 within the CRP gene is associated with 2-hour glucose level: The SAPPHIRe study",
+  "authors": [
+    "Wayne Huey-Herng Sheu",
+    "Wen-Chang Wang",
+    "Kwan-Dun Wu",
+    "Chih-Tsueng He",
+    "Chii-Min Hwu",
+    "Thomas Quertermous",
+    "Wan-Shan Hsieh",
+    "Wen-Jane Lee",
+    "Chih-Tai Ting",
+    "Yii-Der I Chen",
+    "Chao A Hsiung"
+  ],
+  "journal": "Scientific reports",
+  "journalAbbrev": "Sci Rep",
+  "year": 2017,
+  "date": "2017-08-11",
+  "doi": "10.1038/s41598-017-08696-2",
+  "pmid": "28801571",
+  "pmcid": "PMC5554245",
+  "url": "https://doi.org/10.1038/s41598-017-08696-2",
+  "abstract": "C-reactive protein (CRP) encoded by CRP gene is a reflection of systemic inflammation. Many studies associated CRP level with diabetes and glucose levels, but the association of CRP gene with these traits is unclear. We conducted a cross-sectional study consisting of 945 siblings from 330 families collected by the Stanford Asian Pacific Program in Hypertension and Insulin Resistance (SAPPHIRe) to investigate associations between CRP polymorphisms, circulating CRP, diabetes, and glucose levels. Five single-nucleotide polymorphisms were analyzed: rs3093059, rs2794521, rs1417938, rs1800947, and rs1205. The generalized estimating equation approach was used to deal with correlated data within families. CRP level was positively correlated with diabetes prevalence and levels of fasting and 2-hour glucose (each P < 0.008). Alleles C at rs3093059 and G at rs1205 were associated with elevated CRP level (each P < 1.2 × 10-6). Allele C at rs3093059 was associated with fasting glucose (β = 0.20, P = 0.045) and G at rs1205 was associated with 2-hour glucose (β = 0.46, P = 0.00090) post oral glucose tolerance test, but only the latter passed Bonferroni correction. No polymorphism was associated with diabetes. Since 2-hour glucose is an indicator of glucose tolerance, this study indicated CRP gene is associated with glucose intolerance.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

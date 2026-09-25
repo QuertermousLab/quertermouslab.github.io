@@ -1,0 +1,37 @@
+{
+  "title": "AMPA-Type Glutamate Receptors Associated With Vascular Smooth Muscle Cell Subpopulations in Atherosclerosis and Vascular Injury",
+  "authors": [
+    "Alessandro L Gallina",
+    "Urszula Rykaczewska",
+    "Robert C Wirka",
+    "April S Caravaca",
+    "Vladimir S Shavva",
+    "Mohamad Youness",
+    "Glykeria Karadimou",
+    "Mariette Lengquist",
+    "Anton Razuvaev",
+    "Gabrielle Paulsson-Berne",
+    "Thomas Quertermous",
+    "Anton Gisterå",
+    "Stephen G Malin",
+    "Laura Tarnawski",
+    "Ljubica Matic",
+    "Peder S Olofsson"
+  ],
+  "journal": "Frontiers in cardiovascular medicine",
+  "journalAbbrev": "Front Cardiovasc Med",
+  "year": 2021,
+  "date": "2021-04-20",
+  "doi": "10.3389/fcvm.2021.655869",
+  "pmid": "33959644",
+  "pmcid": "PMC8093397",
+  "url": "https://doi.org/10.3389/fcvm.2021.655869",
+  "abstract": "Objectives and Aims: Vascular smooth muscle cells (VSMCs) are key constituents of both normal arteries and atherosclerotic plaques. They have an ability to adapt to changes in the local environment by undergoing phenotypic modulation. An improved understanding of the mechanisms that regulate VSMC phenotypic changes may provide insights that suggest new therapeutic targets in treatment of cardiovascular disease (CVD). The amino-acid glutamate has been associated with CVD risk and VSMCs metabolism in experimental models, and glutamate receptors regulate VSMC biology and promote pulmonary vascular remodeling. However, glutamate-signaling in human atherosclerosis has not been explored. Methods and Results: We identified glutamate receptors and glutamate metabolism-related enzymes in VSMCs from human atherosclerotic lesions, as determined by single cell RNA sequencing and microarray analysis. Expression of the receptor subunits glutamate receptor, ionotropic, α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic (AMPA)-type subunit 1 (GRIA1) and 2 (GRIA2) was restricted to cells of mesenchymal origin, primarily VSMCs, as confirmed by immunostaining. In a rat model of arterial injury and repair, changes of GRIA1 and GRIA2 mRNA level were most pronounced at time points associated with VSMC proliferation, migration, and phenotypic modulation. In vitro, human carotid artery SMCs expressed GRIA1, and selective AMPA-type receptor blocking inhibited expression of typical contractile markers and promoted pathways associated with VSMC phenotypic modulation. In our biobank of human carotid endarterectomies, low expression of AMPA-type receptor subunits was associated with higher content of inflammatory cells and a higher frequency of adverse clinical events such as stroke. Conclusion: AMPA-type glutamate receptors are expressed in VSMCs and are associated with phenotypic modulation. Patients suffering from adverse clinical events showed significantly lower mRNA level of GRIA1 and GRIA2 in their atherosclerotic lesions compared to asymptomatic patients. These results warrant further mapping of neurotransmitter signaling in the pathogenesis of human atherosclerosis.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

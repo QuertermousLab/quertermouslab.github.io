@@ -1,0 +1,26 @@
+{
+  "title": "Hybrid molecules: insights into plasminogen activator function",
+  "authors": [
+    "M S Runge",
+    "C Bode",
+    "E Haber",
+    "T Quertermous"
+  ],
+  "journal": "Molecular biology & medicine",
+  "journalAbbrev": "Mol Biol Med",
+  "year": 1991,
+  "date": "1991-04-01",
+  "doi": null,
+  "pmid": "1806766",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/1806766/",
+  "abstract": "Hybrid molecules containing the catalytic domain of either tissue plasminogen activator (tPA) or single chain urokinase-type plasminogen activator (scuPA), and the fibrin binding domain of a murine antifibrin monoclonal antibody were constructed using either cDNA or genomic DNA encoding the plasminogen activator and genomic DNA encoding antifibrin monoclonal antibody 59D8. In order to optimize expression of these fusion proteins in hybridoma cells, we compared plasminogen activator 3' UT domains (which decrease mRNA stability) with immunoglobulin and beta globin 3' UT domains (which increase mRNA stability). The presence of the plasminogen activator 3' UT domain resulted in approximately tenfold lower steady-state mRNA levels, and 300 to 500-fold lower levels of expressed functional protein. The initial goal of these studies was to increase the fibrinolytic potency and selectivity of tPA or scuPA. Fusion proteins comprising an antifibrin antibody domain and the catalytic domain of either tPA or scuPA were expressed and shown to have very different properties. The fusion protein that comprised the Fab portion of an antifibrin antibody and the catalytic domain of tPA, while displaying antigen binding properties indistinguishable from those of the parent antibody and amidolytic activity similar to that of tPA, was not more efficient than tPA in an in vitro clot lysis assay. In contrast, it had been shown that tPA chemically coupled to the same antibody was four- to sixfold more efficient in fibrinolysis both in vitro and in vivo. A recombinant scuPA-antifibrin antibody hybrid, however, was sixfold more potent than scuPA in vitro and 20-fold more potent in a rabbit thrombolysis model. An explanation for this apparent discrepancy may relate to the requirement for stimulation by fibrin in order for tPA to achieve its maximal catalytic activity, a property that was demonstrated to have been lost in the antifibrin-tPA fusion protein. In contrast, the activity of urokinase is independent of the presence of fibrin. This may explain the greater success achieved in enhancing catalytic activity in the urokinase-antifibrin fusion protein. It is of additional interest that fibrin or soluble fibrin fragments stimulate the catalytic activity of both tPA and the isolated tPA B chain, demonstrating that at least part of the enhanced catalytic activity of tPA observed in the presence of fibrin is independent of fibrin binding either by the tPA kringles or finger domain (or any heavy chain domain). These data indicate that it is possible to construct recombinant hybrid molecules in which both plasminogen activator catalytic function and antibody binding are preserved.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "pubTypes": [
+    "Journal Article",
+    "Review"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

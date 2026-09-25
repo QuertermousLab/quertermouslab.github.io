@@ -1,0 +1,37 @@
+{
+  "title": "Chemokine (C-C Motif) Ligand 2 Expressing Adventitial Fibroblast Expansion During Loeys-Dietz Syndrome Aortic Aneurysm Formation",
+  "authors": [
+    "Alex R Dalal",
+    "Albert J Pedroza",
+    "Jennifer L Kim",
+    "Casey Gilles",
+    "Wenduo Gu",
+    "Sho Kusadokoro",
+    "Rohan Shad",
+    "Olivia Mitchel",
+    "William Jackson",
+    "William Hiesinger",
+    "Gerald J Berry",
+    "Elena G MacFarlane",
+    "Thomas Quertermous",
+    "Paul Cheng",
+    "Michael P Fischbein"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2025,
+  "date": "2025-03-20",
+  "doi": "10.1161/ATVBAHA.124.322069",
+  "pmid": "40109260",
+  "pmcid": "PMC12018128",
+  "url": "https://doi.org/10.1161/ATVBAHA.124.322069",
+  "abstract": "BACKGROUND: Loeys-Dietz syndrome (LDS), caused by mutations in the TGF-β (transforming growth factor-β) signaling cascade, leads to aggressive thoracic aneurysms. While vascular smooth muscle cell (SMC) phenotype modulation has been implicated in thoracic aneurysm formation, we sought to characterize the role of cell state transitions in LDS aneurysm pathogenesis. METHODS: We performed single-cell transcriptomic characterization of aortic root/ascending aorta from a murine LDS model (Tgfbr2G357W/+ versus littermate WT [wild-type] control) at 8 weeks, 24 weeks, and aortic root/ascending aortic samples from human LDS surgical specimens (n=5 LDS [TGFBR1/2] and n=2 donor control) to understand cell state transitions and transcriptomic alterations in LDS. Select cell markers were spatially localized with RNA in situ hybridization, immunofluorescence, and immunohistochemistry. Single-cell RNA sequencing of murine and human LDS samples (>30 000 cells) revealed unique SMC, fibroblast, and macrophage transcriptomic profiles in LDS. RESULTS: Instead of SMC phenotypic modulation seen in Marfan syndrome, transcriptomic alterations observed in LDS are most prominent in the adventitial fibroblast in the Tgfbr2G357W/+ mouse model. While a distinct modulated SMC cluster does not appear in Tgfbr2G357W/+, SMCs transcriptomically differ from WT counterparts. Adventitial fibroblasts were activated into a proinflammatory state associated with increased macrophage recruitment (Ccl2, Il6, Ccl7, and Cxcl2) and fibrotic response genes (Col1a1, Col1a2, and Col3a1), with a 6-fold increase in aortic wall macrophage content in Tgfbr2G357W/+ compared with WT. Similar findings were also observed in human LDS aortic samples with increased proinflammatory adventitial fibroblast transcriptomic program in parallel with heightened macrophage recruitment. CONCLUSIONS: Despite phenotypic similarities in aneurysm formation, the dominant cellular and molecular mechanism of Marfan syndrome and LDS aneurysms are distinct. LDS mouse and human adventitial fibroblasts transcriptomically modulate into a proinflammatory state. Adventitial fibroblasts, in addition to SMCs, are another important pathological cell population during LDS aneurysm formation to consider for targeted therapy to potentially impede LDS aneurysm formation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

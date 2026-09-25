@@ -1,0 +1,30 @@
+{
+  "title": "FGF-1 enhanced cardiogenesis in differentiating embryonal carcinoma cell cultures, which was opposite to the effect of FGF-2",
+  "authors": [
+    "Chiaki Hidai",
+    "Okada Masako",
+    "Hiromi Ikeda",
+    "Hirotaka Nagashima",
+    "Rumiko Matsuoka",
+    "Thomas Quertermous",
+    "Hiroshi Kasanuki",
+    "Shinichiro Kokubun",
+    "Masatoshi Kawana"
+  ],
+  "journal": "Journal of molecular and cellular cardiology",
+  "journalAbbrev": "J Mol Cell Cardiol",
+  "year": 2003,
+  "date": "2003-04-01",
+  "doi": "10.1016/s0022-2828(03)00019-1",
+  "pmid": "12689822",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/s0022-2828(03)00019-1",
+  "abstract": "To investigate the effect of fibroblast growth factors (FGFs) on cellular differentiation, we employed a multipotent mouse embryonal carcinoma cell line, P19, which differentiates into cardiac muscle, skeletal muscle and neural cells in the presence of the appropriate concentrations of retinoic acid (RA). Under conditions appropriate for cardiac muscle differentiation, the expression of FGF-1 was significantly enhanced before any tissue-specific gene was induced. In contrast, up-regulation of the FGF-2 gene was observed with skeletal muscle-inducing concentrations of RA. Exogenous FGF-1, under skeletal muscle-inducing conditions, suppressed the expression of marker genes for skeletal muscle and induced cardiac alpha myosin heavy chain (alphaMHC) gene with up-regulation of bone morphogenetic protein-4 (BMP-4) and GATA-4. Unlike FGF-1, exogenous FGF-2 promoted skeletal muscle differentiation. These results indicate that FGF-1 and FGF-2 play different roles in P19 cell differentiation induced by RA.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

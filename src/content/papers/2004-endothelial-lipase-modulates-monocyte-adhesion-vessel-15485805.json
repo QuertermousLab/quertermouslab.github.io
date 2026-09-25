@@ -1,0 +1,30 @@
+{
+  "title": "Endothelial lipase modulates monocyte adhesion to the vessel wall. A potential role in inflammation",
+  "authors": [
+    "Yoko Kojma",
+    "Ken-Ichi Hirata",
+    "Tatsuro Ishida",
+    "Yasushi Shimokawa",
+    "Nobutaka Inoue",
+    "Seinosuke Kawashima",
+    "Thomas Quertermous",
+    "Mitsuhiro Yokoyama"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 2004,
+  "date": "2004-10-13",
+  "doi": "10.1074/jbc.M411112200",
+  "pmid": "15485805",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.M411112200",
+  "abstract": "Endothelial lipase (EL), a new member of the lipoprotein lipase gene family, plays a central role in high density lipoprotein metabolism. Previous studies indicated that EL is expressed in endothelial cells, macrophages, and smooth muscle cells in atherosclerotic lesions in human coronary arteries. However, the functional role of EL in the local vessel wall remains obscure. In this study, we evaluated the ability of EL to modulate monocyte adhesion to the endothelial cell surface. EL mRNA and protein levels were markedly increased in tissues of the mouse model of inflammation induced by lipopolysaccharide injection. Adhesion assays in vitro revealed that overexpression of EL in COS7 or Pro5 cells enhanced monocyte bindings to the EL-expression cells. Heparin or heparinase treatment inhibited EL-mediated increases of monocyte adhesion in a dose-dependent manner. Moreover, ex vivo adhesion assays revealed that the number of adherent monocytes on aortic strips was significantly increased in EL transgenic mice and decreased in EL knock-out mice as compared with wild-type mice. These results suggest that EL on the endothelial cell surface can promote monocyte adhesion to the vascular endothelium through the interaction with heparan sulfate proteoglycans. Thus, the up-regulation of EL by inflammatory stimuli may be involved in the progression of inflammation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

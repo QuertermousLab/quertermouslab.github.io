@@ -1,0 +1,30 @@
+{
+  "title": "An \"almost exhaustive\" search-based sequential permutation method for detecting epistasis in disease association studies",
+  "authors": [
+    "Li Ma",
+    "Themistocles L Assimes",
+    "Narges B Asadi",
+    "Carlos Iribarren",
+    "Thomas Quertermous",
+    "Wing H Wong"
+  ],
+  "journal": "Genetic epidemiology",
+  "journalAbbrev": "Genet Epidemiol",
+  "year": 2010,
+  "date": "2010-07-01",
+  "doi": "10.1002/gepi.20496",
+  "pmid": "20583286",
+  "pmcid": "PMC4830696",
+  "url": "https://doi.org/10.1002/gepi.20496",
+  "abstract": "Due to the complex nature of common diseases, their etiology is likely to involve \"uncommon but strong\" (UBS) interactive effects--i.e. allelic combinations that are each present in only a small fraction of the patients but associated with high disease risk. However, the identification of such effects using standard methods for testing association can be difficult. In this work, we introduce a method for testing interactions that is particularly powerful in detecting UBS effects. The method consists of two modules--one is a pattern counting algorithm designed for efficiently evaluating the risk significance of each marker combination, and the other is a sequential permutation scheme for multiple testing correction. We demonstrate the work of our method using a candidate gene data set for cardiovascular and coronary diseases with an injected UBS three-locus interaction. In addition, we investigate the power and false rejection properties of our method using data sets simulated from a joint dominance three-locus model that gives rise to UBS interactive effects. The results show that our method can be much more powerful than standard approaches such as trend test and multifactor dimensionality reduction for detecting UBS interactions.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

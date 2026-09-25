@@ -1,0 +1,33 @@
+{
+  "title": "Dual in vivo magnetic resonance evaluation of magnetically labeled mouse embryonic stem cells and cardiac function at 1.5 t",
+  "authors": [
+    "Takayasu Arai",
+    "Theo Kofidis",
+    "Jeff W M Bulte",
+    "Jorg de Bruin",
+    "Ross D Venook",
+    "Gerald J Berry",
+    "Michael V Mcconnell",
+    "Thomas Quertermous",
+    "Robert C Robbins",
+    "Phillip C Yang"
+  ],
+  "journal": "Magnetic resonance in medicine",
+  "journalAbbrev": "Magn Reson Med",
+  "year": 2006,
+  "date": "2006-01-01",
+  "doi": "10.1002/mrm.20702",
+  "pmid": "16315206",
+  "pmcid": null,
+  "url": "https://doi.org/10.1002/mrm.20702",
+  "abstract": "Cell therapy has demonstrated the potential to restore injured myocardium. A reliable in vivo imaging method to localize transplanted cells and monitor their restorative effects will enable a systematic investigation of this therapeutic modality. The dual MRI capability of imaging both magnetically labeled mouse embryonic stem cells (mESC) and their restorative effects on cardiac function in a murine model of acute myocardial infarction is demonstrated. Serial in vivo MR detection of transplanted mESC and monitoring of the mESC-treated myocardium was conducted over a 4-week period using a 1.5 T clinical scanner. During the 4-week duration, the mESC-treated myocardium demonstrated sustained improvement of the left ventricular (LV) ejection fraction and conservation of LV mass. Furthermore, no significant difference of their restorative effects on the cardiac function was created by the magnetic labeling of mESC. Thus, in vivo MRI enables simultaneous detection of transplanted mESC and their therapeutic effect on the injured myocardium.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

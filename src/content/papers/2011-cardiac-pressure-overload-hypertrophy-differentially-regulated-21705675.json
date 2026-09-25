@@ -1,0 +1,32 @@
+{
+  "title": "Cardiac pressure overload hypertrophy is differentially regulated by β-adrenergic receptor subtypes",
+  "authors": [
+    "Mingming Zhao",
+    "Giovanni Fajardo",
+    "Takashi Urashima",
+    "Joshua M Spin",
+    "Sara Poorfarahani",
+    "Viswanathan Rajagopalan",
+    "Diem Huynh",
+    "Andrew Connolly",
+    "Thomas Quertermous",
+    "Daniel Bernstein"
+  ],
+  "journal": "American journal of physiology. Heart and circulatory physiology",
+  "journalAbbrev": "Am J Physiol Heart Circ Physiol",
+  "year": 2011,
+  "date": "2011-06-24",
+  "doi": "10.1152/ajpheart.00453.2010",
+  "pmid": "21705675",
+  "pmcid": "PMC3197363",
+  "url": "https://doi.org/10.1152/ajpheart.00453.2010",
+  "abstract": "In isolated myocytes, hypertrophy induced by norepinephrine is mediated via α(1)-adrenergic receptors (ARs) and not β-ARs. However, mice with deletions of both major cardiac α(1)-ARs still develop hypertrophy in response to pressure overload. Our purpose was to better define the role of β-AR subtypes in regulating cardiac hypertrophy in vivo, important given the widespread clinical use of β-AR antagonists and the likelihood that patients treated with these agents could develop conditions of further afterload stress. Mice with deletions of β(1), β(2), or both β(1)- and β(2)-ARs were subjected to transverse aortic constriction (TAC). After 3 wk, β(1)(-/-) showed a 21% increase in heart to body weight vs. sham controls, similar to wild type, whereas β(2)(-/-) developed exaggerated (49% increase) hypertrophy. Only when both β-ARs were ablated (β(1)β(2)(-/-)) was hypertrophy totally abolished. Cardiac function was preserved in all genotypes. Several known inhibitors of cardiac hypertrophy (FK506 binding protein 5, thioredoxin interacting protein, and S100A9) were upregulated in β(1)β(2)(-/-) compared with the other genotypes, whereas transforming growth factor-β(2), a positive mediator of hypertrophy was upregulated in all genotypes except the β(1)β(2)(-/-). In contrast to recent reports suggesting that angiogenesis plays a critical role in regulating cardiac hypertrophy-induced heart failure, we found no evidence that angiogenesis or its regulators (VEGF, Hif1α, and p53) play a role in compensated cardiac hypertrophy. Pressure overload hypertrophy in vivo is dependent on a coordination of signaling through both β(1)- and β(2)-ARs, mediated through several key cardiac remodeling pathways. Angiogenesis is not a prerequisite for compensated cardiac hypertrophy.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Genetic structure, self-identified race/ethnicity, and confounding in case-control association studies",
+  "authors": [
+    "Hua Tang",
+    "Tom Quertermous",
+    "Beatriz Rodriguez",
+    "Sharon L R Kardia",
+    "Xiaofeng Zhu",
+    "Andrew Brown",
+    "James S Pankow",
+    "Michael A Province",
+    "Steven C Hunt",
+    "Eric Boerwinkle",
+    "Nicholas J Schork",
+    "Neil J Risch"
+  ],
+  "journal": "American journal of human genetics",
+  "journalAbbrev": "Am J Hum Genet",
+  "year": 2004,
+  "date": "2004-12-29",
+  "doi": "10.1086/427888",
+  "pmid": "15625622",
+  "pmcid": "PMC1196372",
+  "url": "https://doi.org/10.1086/427888",
+  "abstract": "We have analyzed genetic data for 326 microsatellite markers that were typed uniformly in a large multiethnic population-based sample of individuals as part of a study of the genetics of hypertension (Family Blood Pressure Program). Subjects identified themselves as belonging to one of four major racial/ethnic groups (white, African American, East Asian, and Hispanic) and were recruited from 15 different geographic locales within the United States and Taiwan. Genetic cluster analysis of the microsatellite markers produced four major clusters, which showed near-perfect correspondence with the four self-reported race/ethnicity categories. Of 3,636 subjects of varying race/ethnicity, only 5 (0.14%) showed genetic cluster membership different from their self-identified race/ethnicity. On the other hand, we detected only modest genetic differentiation between different current geographic locales within each race/ethnicity group. Thus, ancient geographic ancestry, which is highly correlated with self-identified race/ethnicity--as opposed to current residence--is the major determinant of genetic structure in the U.S. population. Implications of this genetic structure for case-control association studies are discussed.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

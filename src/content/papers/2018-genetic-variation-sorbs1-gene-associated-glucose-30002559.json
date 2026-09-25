@@ -1,0 +1,34 @@
+{
+  "title": "Genetic variation of SORBS1 gene is associated with glucose homeostasis and age at onset of diabetes: A SAPPHIRe Cohort Study",
+  "authors": [
+    "Tien-Jyun Chang",
+    "Wen-Chang Wang",
+    "Chao A Hsiung",
+    "Chih-Tsueng He",
+    "Ming-Wei Lin",
+    "Wayne Huey-Herng Sheu",
+    "Yi-Cheng Chang",
+    "Tom Quertermous",
+    "Yii-Der Ida Chen",
+    "Jerome I Rotter",
+    "Lee-Ming Chuang",
+    "SAPPHIRe Study Group"
+  ],
+  "journal": "Scientific reports",
+  "journalAbbrev": "Sci Rep",
+  "year": 2018,
+  "date": "2018-07-12",
+  "doi": "10.1038/s41598-018-28891-z",
+  "pmid": "30002559",
+  "pmcid": "PMC6043583",
+  "url": "https://doi.org/10.1038/s41598-018-28891-z",
+  "abstract": "The SORBS1 gene plays an important role in insulin signaling. We aimed to examine whether common single-nucleotide polymorphisms (SNPs) of SORBS1 are associated with prevalence and incidence of diabetes, age at onset of diabetes, and the related traits of glucose homeostasis. A total of 1135 siblings from 492 ethnic Chinese families were recruited at baseline, and 630 were followed up for 5.19 ± 0.96 years. Nine SNPs including rs7081076, rs2281939, rs3818540, rs2274490, rs61739184, rs726176, rs2296966, rs17849148, and rs3193970 were genotyped and examined. To deal with correlated data of subjects within the same families, the generalized estimating equations approach was applied throughout all association analyses. The GG genotype of rs2281939 was associated with a higher risk of diabetes at baseline, an earlier onset of diabetes, and higher steady-state plasma glucose levels in the modified insulin suppression test. The minor allele T of rs2296966 was associated with higher prevalence and incidence of diabetes, an earlier onset of diabetes, and higher 2-h glucose during oral glucose tolerance test. These two SNPs revealed independent associations with age of diabetes onset as well as risk of diabetes at baseline. These findings supported that SORBS1 gene participates in the pathogenesis of diabetes.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Linkage analysis incorporating gene-age interactions identifies seven novel lipid loci: the Family Blood Pressure Program",
+  "authors": [
+    "Jeannette Simino",
+    "Rezart Kume",
+    "Aldi T Kraja",
+    "Stephen T Turner",
+    "Craig L Hanis",
+    "Wayne Sheu",
+    "Ida Chen",
+    "Cashell Jaquish",
+    "Richard S Cooper",
+    "Aravinda Chakravarti",
+    "Thomas Quertermous",
+    "Eric Boerwinkle",
+    "Steven C Hunt",
+    "D C Rao"
+  ],
+  "journal": "Atherosclerosis",
+  "journalAbbrev": "Atherosclerosis",
+  "year": 2014,
+  "date": "2014-04-26",
+  "doi": "10.1016/j.atherosclerosis.2014.04.008",
+  "pmid": "24819747",
+  "pmcid": "PMC4322916",
+  "url": "https://doi.org/10.1016/j.atherosclerosis.2014.04.008",
+  "abstract": "OBJECTIVE: To detect novel loci with age-dependent effects on fasting (≥ 8 h) levels of total cholesterol, high-density lipoprotein, low-density lipoprotein, and triglycerides using 3600 African Americans, 1283 Asians, 3218 European Americans, and 2026 Mexican Americans from the Family Blood Pressure Program (FBPP). METHODS: Within each subgroup (defined by network, race, and sex), we employed stepwise linear regression (retention p ≤ 0.05) to adjust lipid levels for age, age-squared, age-cubed, body-mass-index, current smoking status, current drinking status, field center, estrogen therapy (females only), as well as antidiabetic, antihypertensive, and antilipidemic medication use. For each trait, we pooled the standardized male and female residuals within each network and race and fit a generalized variance components model that incorporated gene-age interactions. We conducted FBPP-wide and race-specific meta-analyses by combining the p-values of each linkage marker across subgroups using a modified Fisher's method. RESULTS: We identified seven novel loci with age-dependent effects; four total cholesterol loci from the meta-analysis of Mexican Americans (on chromosomes 2q24.1, 4q21.21, 8q22.2, and 12p11.23) and three high-density lipoprotein loci from the meta-analysis of all FBPP subgroups (on chromosomes 1p12, 14q11.2, and 21q21.1). These loci lacked significant genome-wide linkage or association evidence in the literature and had logarithm of odds (LOD) score ≥ 3 in the meta-analysis with LOD ≥ 1 in at least two network and race subgroups (exclusively of non-European descent). CONCLUSION: Incorporating gene-age interactions into the analysis of lipids using multi-ethnic cohorts can enhance gene discovery. These interaction loci can guide the selection of families for sequencing studies of lipid-associated variants.",
+  "pubTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

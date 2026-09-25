@@ -1,0 +1,41 @@
+{
+  "title": "Functional regulatory mechanism of smooth muscle cell-restricted LMOD1 coronary artery disease locus",
+  "authors": [
+    "Vivek Nanda",
+    "Ting Wang",
+    "Milos Pjanic",
+    "Boxiang Liu",
+    "Trieu Nguyen",
+    "Ljubica Perisic Matic",
+    "Ulf Hedin",
+    "Simon Koplev",
+    "Lijiang Ma",
+    "Oscar Franzén",
+    "Arno Ruusalepp",
+    "Eric E Schadt",
+    "Johan L M Björkegren",
+    "Stephen B Montgomery",
+    "Michael P Snyder",
+    "Thomas Quertermous",
+    "Nicholas J Leeper",
+    "Clint L Miller"
+  ],
+  "journal": "PLoS genetics",
+  "journalAbbrev": "PLoS Genet",
+  "year": 2018,
+  "date": "2018-11-16",
+  "doi": "10.1371/journal.pgen.1007755",
+  "pmid": "30444878",
+  "pmcid": "PMC6268002",
+  "url": "https://doi.org/10.1371/journal.pgen.1007755",
+  "abstract": "Recent genome-wide association studies (GWAS) have identified multiple new loci which appear to alter coronary artery disease (CAD) risk via arterial wall-specific mechanisms. One of the annotated genes encodes LMOD1 (Leiomodin 1), a member of the actin filament nucleator family that is highly enriched in smooth muscle-containing tissues such as the artery wall. However, it is still unknown whether LMOD1 is the causal gene at this locus and also how the associated variants alter LMOD1 expression/function and CAD risk. Using epigenomic profiling we recently identified a non-coding regulatory variant, rs34091558, which is in tight linkage disequilibrium (LD) with the lead CAD GWAS variant, rs2820315. Herein we demonstrate through expression quantitative trait loci (eQTL) and statistical fine-mapping in GTEx, STARNET, and human coronary artery smooth muscle cell (HCASMC) datasets, rs34091558 is the top regulatory variant for LMOD1 in vascular tissues. Position weight matrix (PWM) analyses identify the protective allele rs34091558-TA to form a conserved Forkhead box O3 (FOXO3) binding motif, which is disrupted by the risk allele rs34091558-A. FOXO3 chromatin immunoprecipitation and reporter assays show reduced FOXO3 binding and LMOD1 transcriptional activity by the risk allele, consistent with effects of FOXO3 downregulation on LMOD1. LMOD1 knockdown results in increased proliferation and migration and decreased cell contraction in HCASMC, and immunostaining in atherosclerotic lesions in the SMC lineage tracing reporter mouse support a key role for LMOD1 in maintaining the differentiated SMC phenotype. These results provide compelling functional evidence that genetic variation is associated with dysregulated LMOD1 expression/function in SMCs, together contributing to the heritable risk for CAD.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

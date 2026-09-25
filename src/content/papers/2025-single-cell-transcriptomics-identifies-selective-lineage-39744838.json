@@ -1,0 +1,30 @@
+{
+  "title": "Single-Cell Transcriptomics Identifies Selective Lineage-Specific Regulation of Genes in Aortic Smooth Muscle Cells in Mice",
+  "authors": [
+    "Shalabh Shukla",
+    "Sayantan Jana",
+    "Nicole Sanford",
+    "Chloe Y Lee",
+    "Li Liu",
+    "Paul Cheng",
+    "Thomas Quertermous",
+    "David A Dichek"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2025,
+  "date": "2025-01-02",
+  "doi": "10.1161/ATVBAHA.124.321482",
+  "pmid": "39744838",
+  "pmcid": "PMC11875902",
+  "url": "https://doi.org/10.1161/ATVBAHA.124.321482",
+  "abstract": "BACKGROUND: Smooth muscle cells (SMCs) of the proximal thoracic aorta are derived from second heart field (SHF) and cardiac neural crest (CNC) lineages. Recent studies, both in vitro and in vivo, have implied relevance of lineage-specific SMC functions in the pathophysiology of thoracic aortic diseases; however, whether 2 lineage-derived SMCs have any predisposed transcriptional differences in the control aorta remains unexplored. METHODS: Single-cell RNA sequencing and single-nucleus assay for transposase-accessible chromatin sequencing were performed on isolated cells from the aortic root and ascending aortas of 14-week-old SHF-traced (Mef2c-Cre+/0-Yfp+/0) and CNC-traced (Wnt1-Cre+/0-Yfp+/0) male mice. RNA in situ hybridization was performed for spatial expression of selected differentially expressed genes (DEGs) of both lineages. RESULTS: Lineage stratification of SMCs in the proximal thoracic aorta was identified using antibody-based immunofluorescence staining. Single-cell RNA sequencing recognized 12 consistently upregulated DEGs (Des, Tnnt2, Hand2os1, Psd, Gpc3, Meis2, Dcn, Gm34030, Palld, Nrtn, Lum, and Cfh) in SHF-derived SMCs and 9 consistently upregulated DEGs (Ccn5, Ccdc42, Tes, Eln, Aebp1, Galnt6, Ccn2, Aopep, and Wtip) in CNC-derived SMCs. RNA in situ hybridization validated upregulated expressions of selective SHF-specific DEGs at the aortic root. We found SHF-derived SMCs contain a distinct, large subpopulation of SMCs that is enriched with Des and Tnnt2 expressions. Single-nucleus assay for transposase-accessible chromatin analysis further confirmed higher chromosomal accessibility for upregulated DEGs of SHF-derived SMCs. CONCLUSIONS: The present study recognizes the presence of limited but distinct transcriptomic differences between CNC-derived and SHF-derived SMCs in the control proximal thoracic aorta.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

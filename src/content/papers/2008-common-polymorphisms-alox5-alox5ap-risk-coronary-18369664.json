@@ -1,0 +1,43 @@
+{
+  "title": "Common polymorphisms of ALOX5 and ALOX5AP and risk of coronary artery disease",
+  "authors": [
+    "Themistocles L Assimes",
+    "Joshua W Knowles",
+    "James R Priest",
+    "Analabha Basu",
+    "Kelly A Volcik",
+    "Audrey Southwick",
+    "Holly K Tabor",
+    "Jaana Hartiala",
+    "Hooman Allayee",
+    "Megan L Grove",
+    "Raymond Tabibiazar",
+    "Stephen Sidney",
+    "Stephen P Fortmann",
+    "Alan Go",
+    "Mark Hlatky",
+    "Carlos Iribarren",
+    "Eric Boerwinkle",
+    "Richard Myers",
+    "Neil Risch",
+    "Thomas Quertermous"
+  ],
+  "journal": "Human genetics",
+  "journalAbbrev": "Hum Genet",
+  "year": 2008,
+  "date": "2008-03-28",
+  "doi": "10.1007/s00439-008-0489-5",
+  "pmid": "18369664",
+  "pmcid": "PMC4023692",
+  "url": "https://doi.org/10.1007/s00439-008-0489-5",
+  "abstract": "Recent human genetic studies suggest that allelic variants of leukotriene pathway genes influence the risk of clinical and subclinical atherosclerosis. We sequenced the promoter, exonic, and splice site regions of ALOX5 and ALOX5AP and then genotyped 7 SNPs in ALOX5 and 6 SNPs in ALOX5AP in 1,552 cases with clinically significant coronary artery disease (CAD) and 1,583 controls from Kaiser Permanente including a subset of participants of the coronary artery risk development in young adults study. A nominally significant association was detected between a promoter SNP in ALOX5 (rs12762303) and CAD in our subset of white/European subjects (adjusted odds ratio per minor allele, log-additive model, 1.32; P = 0.002). In this race/ethnic group, rs12762303 has a minor allele frequency of 15% and is tightly linked to variation at the SP1 variable tandem repeat promoter polymorphism. However, the association between CAD and rs12762303 could not be reproduced in the atherosclerosis risk in communities study (hazard rate ratio per minor allele; 1.08, P = 0.1). Assuming a recessive mode of inheritance, the association was not significant in either population study but our power to detect modest effects was limited. No significant associations were observed between all other SNPs and the risk of CAD. Overall, our findings do not support a link between common allelic variation in or near ALOX5 or ALOX5AP and the risk of CAD. However, additional studies are needed to exclude modest effects of promoter variation in ALOX5 on the risk of CAD assuming a recessive mode of inheritance.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

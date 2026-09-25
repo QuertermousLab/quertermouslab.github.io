@@ -1,0 +1,26 @@
+{
+  "title": "Frontiers in nephrology: genomic approaches to understanding the molecular basis of atherosclerosis",
+  "authors": [
+    "Euan A Ashley",
+    "Joshua M Spin",
+    "Raymond Tabibiazar",
+    "Thomas Quertermous"
+  ],
+  "journal": "Journal of the American Society of Nephrology : JASN",
+  "journalAbbrev": "J Am Soc Nephrol",
+  "year": 2007,
+  "date": "2007-10-17",
+  "doi": "10.1681/ASN.2007040514",
+  "pmid": "17942952",
+  "pmcid": null,
+  "url": "https://doi.org/10.1681/ASN.2007040514",
+  "abstract": "Atherosclerosis is a complex multicellular disease that is responsible for pathology in various organ systems. The understanding of its initiation and progression has been enhanced in recent years by the application of high-throughput genomic tools such as the microarray. Increasing in genomic coverage, such tools allow a view of the disease unaffected by previous conjecture as to the primary signal of interest. New statistical tools and pathway modeling techniques have established definitively for the first time the central role of inflammation in this process. This article reviews the genomic literature relating to atherosclerosis from cell culture, animal models, and human tissues. In this comparison of these differing approaches, the available data are synthesized to reach a new understanding of the complex interplay between vascular wall and immune system components.",
+  "pubTypes": [
+    "Journal Article",
+    "Review"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

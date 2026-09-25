@@ -1,0 +1,31 @@
+{
+  "title": "Single-Cell Transcriptomic Census of Endothelial Changes Induced by Matrix Stiffness and the Association with Atherosclerosis",
+  "authors": [
+    "Maedeh Zamani",
+    "Yu-Hao Cheng",
+    "Frank Charbonier",
+    "Vivek Kumar Gupta",
+    "Aaron T Mayer",
+    "Alexandro E Trevino",
+    "Thomas Quertermous",
+    "Ovijit Chaudhuri",
+    "Patrick Cahan",
+    "Ngan F Huang"
+  ],
+  "journal": "Advanced functional materials",
+  "journalAbbrev": "Adv Funct Mater",
+  "year": 2022,
+  "date": "2022-09-12",
+  "doi": "10.1002/adfm.202203069",
+  "pmid": "36816792",
+  "pmcid": "PMC9937733",
+  "url": "https://doi.org/10.1002/adfm.202203069",
+  "abstract": "Vascular endothelial cell (EC) plasticity plays a critical role in the progression of atherosclerosis by giving rise to mesenchymal phenotypes in the plaque lesion. Despite the evidence for arterial stiffening as a major contributor to atherosclerosis, the complex interplay among atherogenic stimuli in vivo has hindered attempts to determine the effects of extracellular matrix (ECM) stiffness on endothelial-mesenchymal transition (EndMT). To study the regulatory effects of ECM stiffness on EndMT, an in vitro model is developed in which human coronary artery ECs are cultured on physiological or pathological stiffness substrates. Leveraging single-cell RNA sequencing, cell clusters with mesenchymal transcriptional features are identified to be more prevalent on pathological substrates than physiological substrates. Trajectory inference analyses reveal a novel mesenchymal-to-endothelial reverse transition, which is blocked by pathological stiffness substrates, in addition to the expected EndMT trajectory. ECs pushed to a mesenchymal character by pathological stiffness substrates are enriched in transcriptional signatures of atherosclerotic ECs from human and murine plaques. This study characterizes at single-cell resolution the transcriptional programs that underpin EC plasticity in both physiological or pathological milieus, and thus serves as a valuable resource for more precisely defining EndMT and the transcriptional programs contributing to atherosclerosis.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

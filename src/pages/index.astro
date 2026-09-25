@@ -1,0 +1,292 @@
+---
+import Base from '../layouts/Base.astro';
+import ArteryHero from '../components/ArteryHero.astro';
+import PaperCard from '../components/PaperCard.astro';
+import ThemeArt from '../components/ThemeArt.astro';
+import { getCollection } from 'astro:content';
+import { getPapers, fmtDate, bySurname } from '../lib/papers';
+import { pipeline, themes, consortia } from '../data/site';
+
+const papers = await getPapers();
+const highlights = papers
+  .filter((p) => p.data.highlight)
+  .sort((a, b) => (a.data.highlightOrder ?? 99) - (b.data.highlightOrder ?? 99))
+  .slice(0, 6);
+const news = (await getCollection('news')).sort((a, b) => +b.data.date - +a.data.date).slice(0, 4);
+const people = await getCollection('people', ({ data }) => data.group !== 'alumni' && data.group !== 'admin');
+const alumni = await getCollection('people', ({ data }) => data.group === 'alumni');
+const pi = people.find((p) => p.data.group === 'pi')!;
+---
+<Base overlayNav>
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="container hero__grid">
+      <div class="hero__copy">
+        <span class="eyebrow">Stanford Cardiovascular Medicine</span>
+        <h1>From genetic risk to the <em>artery wall</em>.</h1>
+        <p class="lede">
+          We decode how inherited variation reshapes the smooth muscle, endothelial and fibroblast
+          cells of human arteries — and how those changes cause coronary artery disease, the world's
+          leading cause of death.
+        </p>
+        <div class="hero__cta">
+          <a class="btn btn--primary" href="/research/">Explore our research</a>
+          <a class="btn btn--ghost" href="/publications/">Publications</a>
+        </div>
+      </div>
+      <div class="hero__art">
+        <ArteryHero />
+        <p class="hero__hint">Hover a cell type to find it in the plaque</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ APPROACH ============ -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow">Our approach</span>
+          <h2>Following risk from DNA to disease</h2>
+          <p class="lede">Each coronary artery disease locus is a clue. We trace it through the regulatory genome to a causal gene,
+            to the cell state it controls, and finally to the biology of the plaque.</p>
+        </div>
+      </div>
+      <ol class="flow reveal">
+        {pipeline.map((s, i) => (
+          <li style={`--i:${i}`}>
+            <span class="flow__k">{String(i + 1).padStart(2, '0')} · {s.k}</span>
+            <strong>{s.t}</strong>
+            <span class="flow__d">{s.d}</span>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <!-- ============ THEMES ============ -->
+  <section class="section section--tint">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow">Research</span>
+          <h2>What we work on</h2>
+        </div>
+        <a class="btn btn--light" href="/research/">All research themes →</a>
+      </div>
+      <div class="themes">
+        {themes.map((t, i) => (
+          <a class="theme card reveal" href={`/research/#${t.id}`} style={`--c:${t.color}`}>
+            <div class="theme__img"><ThemeArt kind={t.illustration} /></div>
+            <div class="theme__body">
+              <span class="theme__n">{String(i + 1).padStart(2, '0')}</span>
+              <h3>{t.title}</h3>
+              <p>{t.short}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HIGHLIGHTS ============ -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow">Selected publications</span>
+          <h2>Recent discoveries</h2>
+        </div>
+        <a class="btn btn--light" href="/publications/">All publications →</a>
+      </div>
+      <div class="papers">
+        {highlights.map((p) => <PaperCard paper={p} />)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ NEWS + PI ============ -->
+  <section class="section section--dark">
+    <div class="container split">
+      <div class="reveal">
+        <span class="eyebrow">News</span>
+        <h2>Lab news</h2>
+        <ul class="news">
+          {news.map((n) => (
+            <li>
+              <time>{fmtDate(n.data.date, n.data.datePrecision)}</time>
+              <a href={`/news/#${n.id}`}>{n.data.title}</a>
+            </li>
+          ))}
+        </ul>
+        <a class="btn btn--ghost" href="/news/">All news</a>
+      </div>
+      <div class="pi reveal">
+        <img src={pi.data.photo} alt={pi.data.name} loading="lazy" />
+        <div>
+          <span class="eyebrow">Principal investigator</span>
+          <h3>{pi.data.name}, {pi.data.degrees}</h3>
+          <p class="muted">{pi.data.role}<br />Director of Research, Division of Cardiovascular Medicine</p>
+          <p>Three decades of genetic studies of vascular disease — from multi-ethnic GWAS of coronary artery disease to
+            single-cell mechanisms in the vessel wall. Dr. Quertermous has trained {alumni.length}+ alumni now leading labs and programs
+            at Stanford, Columbia, Yale, UNC, UVA, Kobe, Kyoto and beyond.</p>
+          <a href="/people/">Meet the team →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ TEAM STRIP ============ -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow">People</span>
+          <h2>The team</h2>
+        </div>
+        <a class="btn btn--light" href="/people/">Everyone →</a>
+      </div>
+      <ul class="faces reveal">
+        {[pi, ...people.filter((p) => p.data.photo && p.data.group !== 'pi').sort(bySurname)].map((p) => (
+          <li><a href={`/people/#${p.id}`}><img src={p.data.photo} alt="" loading="lazy" /><span>{p.data.name}</span></a></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ CONSORTIA ============ -->
+  <section class="section section--tint">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow">Team science</span>
+          <h2>Consortia &amp; networks</h2>
+        </div>
+      </div>
+      <div class="consortia">
+        {consortia.map((c) => (
+          <a class="cons card reveal" href={c.url}>
+            <strong>{c.name}</strong>
+            <span class="muted">{c.full}</span>
+            <p>{c.desc}</p>
+            <span class="cons__go">Learn more →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ JOIN ============ -->
+  <section class="join">
+    <div class="container join__inner reveal">
+      <div>
+        <h2>Join us</h2>
+        <p>We welcome postdoctoral fellows, physician-scientists, graduate and undergraduate students who want to
+          combine experimental and computational genomics to understand vascular disease.</p>
+      </div>
+      <a class="btn btn--primary" href="/join/">Open positions &amp; contact</a>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { position: relative; min-height: 100vh; padding: 120px 0 90px; color: #f3e9ea; overflow: hidden;
+    background: var(--blood-deep); display: flex; align-items: center; }
+  .hero__bg { position: absolute; inset: 0;
+    background:
+      radial-gradient(900px 600px at 75% 45%, rgba(200,36,58,.32), transparent 60%),
+      radial-gradient(700px 500px at 10% 100%, rgba(42,74,134,.35), transparent 60%),
+      radial-gradient(600px 400px at 0% 0%, rgba(140,21,21,.35), transparent 60%); }
+  .hero__grid { position: relative; display: grid; grid-template-columns: 1.05fr 1fr; gap: 48px; align-items: center; }
+  .hero h1 { color: #fff; font-size: clamp(2.6rem, 5.2vw, 4.4rem); line-height: 1.04; margin-bottom: 24px; max-width: 12ch; }
+  .hero h1 em { white-space: nowrap; }
+  .hero h1 em { font-style: italic; color: var(--artery-bright); }
+  .hero .eyebrow { color: var(--artery-bright); }
+  .hero .lede { color: #dcc9cc; font-size: 1.18rem; }
+  .hero__cta { display: flex; gap: 12px; flex-wrap: wrap; margin: 30px 0 0; }
+  .hero__art { max-width: 560px; justify-self: center; width: 100%; }
+  .hero__hint { text-align: center; font-size: .75rem; color: #9f8a8f; margin-top: 8px; letter-spacing: .04em; }
+  @media (max-width: 960px) {
+    .hero { min-height: 0; padding-top: 110px; }
+    .hero__grid { grid-template-columns: 1fr; }
+    .hero__art { max-width: 460px; }
+  }
+
+  .flow { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(5, 1fr); gap: 0; counter-reset: s; }
+  .flow li { position: relative; padding: 26px 22px 24px; background: #fff; border: 1px solid var(--line); margin-left: -1px;
+    display: flex; flex-direction: column; gap: 6px; }
+  .flow li:first-child { border-radius: var(--radius) 0 0 var(--radius); margin-left: 0; }
+  .flow li:last-child { border-radius: 0 var(--radius) var(--radius) 0; }
+  .flow li::before { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 4px;
+    background: color-mix(in srgb, var(--artery) calc(40% + var(--i) * 15%), var(--vein)); }
+  .flow li:not(:last-child)::after { content: '→'; position: absolute; right: -12px; top: 50%; transform: translateY(-50%);
+    width: 24px; height: 24px; border-radius: 50%; background: var(--artery); color: #fff; font-size: .8rem;
+    display: grid; place-items: center; z-index: 2; }
+  .flow__k { font-size: .72rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--artery); }
+  .flow strong { font-family: var(--font-serif); font-size: 1.2rem; font-weight: 600; }
+  .flow__d { font-size: .88rem; color: var(--muted); line-height: 1.45; }
+  @media (max-width: 900px) {
+    .flow { grid-template-columns: 1fr; }
+    .flow li { margin: -1px 0 0; border-radius: 0 !important; }
+    .flow li:first-child { border-radius: var(--radius) var(--radius) 0 0 !important; }
+    .flow li:last-child { border-radius: 0 0 var(--radius) var(--radius) !important; }
+    .flow li:not(:last-child)::after { right: 50%; top: auto; bottom: -12px; transform: translateX(50%) rotate(90deg); }
+  }
+
+  .themes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+  .theme { text-decoration: none; color: inherit; display: flex; flex-direction: column;
+    border-top: 4px solid var(--c); transition: transform .35s var(--ease), box-shadow .35s; }
+  .theme:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); color: inherit; }
+  .theme__img { aspect-ratio: 8 / 5; overflow: hidden; background: #fff; border-bottom: 1px solid var(--line); }
+  .theme__img :global(svg) { width: 100%; height: 100%; transition: transform .6s var(--ease); }
+  .theme:hover .theme__img :global(svg) { transform: scale(1.03); }
+  .theme__body { padding: 22px 24px 26px; }
+  .theme__n { font-family: var(--font-mono); font-size: .8rem; color: var(--c); font-weight: 700; }
+  .theme h3 { margin: 6px 0 8px; }
+  .theme p { color: var(--ink-2); font-size: .95rem; margin: 0; }
+  @media (max-width: 900px) { .themes { grid-template-columns: 1fr; } }
+
+  .papers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  @media (max-width: 1000px) { .papers { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .papers { grid-template-columns: 1fr; } }
+
+  .split { display: grid; grid-template-columns: 1fr 1.1fr; gap: 64px; align-items: start; }
+  @media (max-width: 900px) { .split { grid-template-columns: 1fr; } }
+  .news { list-style: none; padding: 0; margin: 12px 0 28px; }
+  .news li { padding: 16px 0; border-bottom: 1px solid rgba(255,255,255,.1); display: grid; gap: 4px; }
+  .news time { font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--artery-bright); font-weight: 600; }
+  .news a { color: #fff; text-decoration: none; font-size: 1.05rem; line-height: 1.4; }
+  .news a:hover { color: var(--artery-bright); }
+  .pi { display: grid; grid-template-columns: 200px 1fr; gap: 28px; background: rgba(255,255,255,.04);
+    border: 1px solid rgba(255,255,255,.08); border-radius: var(--radius); padding: 28px; }
+  .pi img { width: 200px; height: 200px; object-fit: cover; border-radius: 12px; }
+  .pi h3 { font-size: 1.5rem; margin-bottom: 6px; }
+  .pi .muted { color: #bca6ab; font-size: .9rem; }
+  .pi p { color: #e0d0d3; font-size: .96rem; }
+  .pi a { color: var(--artery-bright); font-weight: 600; text-decoration: none; }
+  @media (max-width: 560px) { .pi { grid-template-columns: 1fr; } }
+
+  .faces { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 22px 18px; }
+  .faces a { display: grid; gap: 8px; text-decoration: none; color: var(--ink-2); font-size: .85rem; text-align: center; font-weight: 500; }
+  .faces img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%; border: 3px solid #fff;
+    box-shadow: 0 0 0 1px var(--line); transition: all .3s var(--ease); filter: saturate(.9); }
+  .faces a:hover img { box-shadow: 0 0 0 3px var(--artery); filter: none; transform: translateY(-3px); }
+  .faces a:hover { color: var(--artery); }
+
+  .consortia { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+  .cons { padding: 26px; text-decoration: none; color: inherit; display: flex; flex-direction: column; gap: 6px; transition: all .3s var(--ease); }
+  .cons:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); color: inherit; }
+  .cons strong { font-family: var(--font-serif); font-size: 1.35rem; font-weight: 600; }
+  .cons .muted { font-size: .82rem; }
+  .cons p { margin: 10px 0 12px; color: var(--ink-2); font-size: .95rem; }
+  .cons__go { margin-top: auto; color: var(--artery); font-weight: 600; font-size: .9rem; }
+  @media (max-width: 900px) { .consortia { grid-template-columns: 1fr; } }
+
+  .join { background: linear-gradient(110deg, var(--cardinal), var(--artery) 60%, #d94a3a); color: #fff; padding: 64px 0; }
+  .join__inner { display: flex; align-items: center; justify-content: space-between; gap: 32px; flex-wrap: wrap; }
+  .join h2 { color: #fff; margin-bottom: 8px; }
+  .join p { max-width: 62ch; margin: 0; color: #fde8ea; }
+  .join .btn--primary { background: #fff; color: var(--cardinal); }
+  .join .btn--primary:hover { background: var(--blood-deep); color: #fff; }
+</style>

@@ -1,0 +1,30 @@
+{
+  "title": "Molecular signatures determining coronary artery and saphenous vein smooth muscle cell phenotypes: distinct responses to stimuli",
+  "authors": [
+    "David Xing-Fei Deng",
+    "Joshua M Spin",
+    "Anya Tsalenko",
+    "Aditya Vailaya",
+    "Amir Ben-Dor",
+    "Zohar Yakhini",
+    "Phil Tsao",
+    "Laurakay Bruhn",
+    "Thomas Quertermous"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2006,
+  "date": "2006-02-02",
+  "doi": "10.1161/01.ATV.0000208185.16371.97",
+  "pmid": "16456091",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/01.ATV.0000208185.16371.97",
+  "abstract": "OBJECTIVE: Phenotypic differences between vascular smooth muscle cell (VSMC) subtypes lead to diverse pathological processes including atherosclerosis, postangioplasty restenosis and vein graft disease. To better understand the molecular mechanisms underlying functional differences among distinct SMC subtypes, we compared gene expression profiles and functional responses to oxidized low-density lipoprotein (OxLDL) and platelet-derived growth factor (PDGF) between cultured SMCs from human coronary artery (CASM) and saphenous vein (SVSM). METHODS AND RESULTS: OxLDL and PDGF elicited markedly different functional responses and expression profiles between the 2 SMC subtypes. In CASM, OxLDL inhibited cell proliferation and migration and modified gene expression of chemokines (CXCL10, CXCL11 and CXCL12), proinflammatory cytokines (IL-1, IL-6, and IL-18), insulin-like growth factor binding proteins (IGFBPs), and both endothelial and smooth muscle marker genes. In SVSM, OxLDL promoted proliferation partially via IGF1 signaling, activated NF-kappaB and phosphatidylinositol signaling pathways, and upregulated prostaglandin (PG) receptors and synthases. In untreated cells, alpha-chemokines, proinflammatory cytokines, and genes associated with apoptosis, inflammation, and lipid biosynthesis were higher in CASM, whereas some beta-chemokines, metalloproteinase inhibitors, and IGFBPs were higher in SVSM. Interestingly, the basal expression levels of these genes seemed closely related to their responses to OxLDL and PDGF. In summary, our results suggest dramatic differences in gene expression patterns and functional responses to OxLDL and PDGF between venous and arterial SMCs, with venous SMCs having stronger proliferative/migratory responses to stimuli but also higher expression of atheroprotective genes at baseline. CONCLUSIONS: These results reveal molecular signatures that define the distinct phenotypes characteristics of coronary artery and saphenous vein SMC subtypes.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

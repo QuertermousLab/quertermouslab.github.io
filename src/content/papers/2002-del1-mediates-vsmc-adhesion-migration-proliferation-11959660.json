@@ -1,0 +1,26 @@
+{
+  "title": "Del1 mediates VSMC adhesion, migration, and proliferation through interaction with integrin alpha(v)beta(3)",
+  "authors": [
+    "Mehrdad Rezaee",
+    "Kalyani Penta",
+    "Thomas Quertermous"
+  ],
+  "journal": "American journal of physiology. Heart and circulatory physiology",
+  "journalAbbrev": "Am J Physiol Heart Circ Physiol",
+  "year": 2002,
+  "date": "2002-05-01",
+  "doi": "10.1152/ajpheart.00921.2001",
+  "pmid": "11959660",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/ajpheart.00921.2001",
+  "abstract": "Del1 is a matrix protein transiently expressed by embryonic endothelial cells. It was recently demonstrated that vascular endothelial cells adhere and interact with Del1 through alpha(v)beta(3)- integrins, providing an autocrine angiogenic signaling pathway in this cell type. To determine whether Del1 might signal to other cell types in the vessel wall in a paracrine fashion, studies were conducted with vascular smooth muscle cells (VSMC). Del1 promoted adhesion and migration of VSMC in a dose-dependent fashion. These functions were mediated through alpha(v)beta(3)-integrins, as the vitronectin receptor inhibitory peptide containing penacillamine (PCN) arginine-glycine-aspartic acid (PCN-RGD) and an antibody specific for the alpha(v)beta(3)-integrin specifically blocked both adhesion and migration. Adhesion of VSMC to Del1 was associated with organization of actin filaments and formation of focal contacts enriched in vinculin and alpha(v)beta(3). Furthermore, Del1 supported VSMC proliferation at least in part by inhibiting these cells from undergoing apoptosis. These data, in conjunction with evidence that Del1 expression is reactivated in vascular injury, suggest that Del1 may have a paracrine role in vessel wall development and remodeling.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

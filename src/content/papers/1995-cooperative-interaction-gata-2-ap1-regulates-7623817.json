@@ -1,0 +1,27 @@
+{
+  "title": "Cooperative interaction of GATA-2 and AP1 regulates transcription of the endothelin-1 gene",
+  "authors": [
+    "M Kawana",
+    "M E Lee",
+    "E E Quertermous",
+    "T Quertermous"
+  ],
+  "journal": "Molecular and cellular biology",
+  "journalAbbrev": "Mol Cell Biol",
+  "year": 1995,
+  "date": "1995-08-01",
+  "doi": "10.1128/MCB.15.8.4225",
+  "pmid": "7623817",
+  "pmcid": "PMC230661",
+  "url": "https://doi.org/10.1128/MCB.15.8.4225",
+  "abstract": "Endothelin-1 (ET-1) is a 21-amino-acid vasoactive peptide initially characterized as a product of endothelial cells. Reporter gene transfection experiments have indicated that a GATA site and an AP1 site are essential for ET-1 promoter function in endothelial cells, and GATA-2 appears to be the active GATA factor which regulates ET-1 expression. To look for interactions between AP1 and GATA-2, transactivation experiments were performed with expression vectors encoding c-Jun, c-Fos, and GATA-2. Cooperativity between the AP1 complex and GATA-2 was observed as a synergistic increase in transcriptional activity of the ET-1 reporter plasmid. In addition, AP1 was able to potentiate the action of GATA-2 on reporter constructs lacking a functional AP1 site. In a similar fashion, GATA-2 was able to potentiate the action of AP1 despite deletion of the GATA site. Experiments with GATA-1 and GATA-3 expression vectors provided evidence that this capacity to interact with AP1 may be a characteristic of all GATA family members. Biochemical evidence for AP1-GATA interaction was provided by immunoprecipitation experiments. A GATA-2-specific antiserum was shown to immunoprecipitate in vitro-synthesized Jun and Fos protein from reticulocyte lysate. Also, antisera directed against Jun and Fos were able to immunoprecipitate from nuclear extracts a GATA-binding protein, indicating the association of AP1 and GATA proteins in vivo.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

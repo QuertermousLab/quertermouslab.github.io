@@ -1,0 +1,32 @@
+{
+  "title": "Targeted inactivation of endothelial lipase attenuates lung allergic inflammation through raising plasma HDL level and inhibiting eosinophil infiltration",
+  "authors": [
+    "Hiroshi Otera",
+    "Tatsuro Ishida",
+    "Teruaki Nishiuma",
+    "Kazuyuki Kobayashi",
+    "Yoshikazu Kotani",
+    "Tomoyuki Yasuda",
+    "Ramendra K Kundu",
+    "Thomas Quertermous",
+    "Ken-ichi Hirata",
+    "Yoshihiro Nishimura"
+  ],
+  "journal": "American journal of physiology. Lung cellular and molecular physiology",
+  "journalAbbrev": "Am J Physiol Lung Cell Mol Physiol",
+  "year": 2009,
+  "date": "2009-01-23",
+  "doi": "10.1152/ajplung.90530.2008",
+  "pmid": "19168574",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/ajplung.90530.2008",
+  "abstract": "Endothelial lipase (EL) is a novel phospholipase that determines plasma high-density lipoprotein cholesterol (HDL-C) levels. We have investigated the role of HDL-C in lung allergic inflammation by using EL knockout (EL-KO) mice that are high in HDL-C. EL-KO and wild-type control mice were sensitized and challenged with ovalbumin to evoke eosinophilic inflammation in the lung. EL was expressed in epithelial cells, alveolar type II cells, and endothelial cells in the lung, and its expression was upregulated during inflammation. Concomitant with attenuated hyperresponsiveness of the airway smooth muscles, the number of eosinophils in bronchoalveolar lavage and the expression of VCAM-1 were lower in EL-KO mice than in control mice. HDL reduced cytokine-induced VCAM-1 expression in cultured endothelial cells. When plasma HDL levels were decreased to similar levels in both mouse groups by adenovirus-mediated overexpression of EL, however, eosinophil infiltration was still lower in EL-KO mice. In vitro adhesion assays revealed that EL expression on the cell surface promoted the interaction of eosinophils through the ligand-binding function of EL. In summary, targeted inactivation of EL attenuated allergic inflammation in the lung, and the protective effects in EL-KO mice were associated with high plasma HDL levels, downregulation of VCAM-1, and loss of the direct ligand-binding function of EL. Thus EL is a novel modulator of the progression of allergic asthma.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

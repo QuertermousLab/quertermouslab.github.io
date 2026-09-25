@@ -1,0 +1,37 @@
+{
+  "title": "Functional Genomics Link REST to Endothelial Plasticity and Atherosclerosis",
+  "authors": [
+    "Maria Viskadourou",
+    "Sharjeel Chaudhry",
+    "Arianna Scalco",
+    "Paula Reventun",
+    "Pablo Toledano-Sanz",
+    "Roujin An",
+    "Nunzio Alcharani",
+    "Maria Delgado Marin",
+    "Abigail Fennell",
+    "Quanyi Zhao",
+    "William Osburn",
+    "Andrew S McCallion",
+    "Thomas Quertermous",
+    "Alexis Battle",
+    "Charles J Lowenstein",
+    "Marios Arvanitis"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2025,
+  "date": "2025-11-26",
+  "doi": "10.1161/CIRCRESAHA.125.326628",
+  "pmid": "41293823",
+  "pmcid": "PMC12908446",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.125.326628",
+  "abstract": "BACKGROUND: Genome-wide association studies have identified multiple novel loci that contribute to coronary artery disease pathogenesis, but the mechanisms of these associations remain largely unknown. METHODS: In this study, we used a multitrait colocalization approach to prioritize novel endothelial-specific loci for atherosclerosis. We combined computational methods with in vitro assays and mouse models to study one of those new loci targeting the gene REST (RE1-silencing transcription factor). RESULTS: A multitrait colocalization approach across expression quantitative trait loci in atherosclerosis-relevant cell types, followed by in vitro CRISPR interference, revealed that a conserved regulatory element in a chromosome 4 genetic locus increases the risk of coronary artery disease and decreases the expression of REST, a transcriptional repressor, in endothelial cells. Pcsk9-overexpressing mice with an endothelial-specific knockout of Rest exhibited increased atherosclerotic plaque formation in their aortas, with increased macrophage and lipid deposition within the plaque after 16 weeks of high-fat diet exposure compared with littermate controls. RNA-seq in human aortic endothelial cells after REST silencing, followed by assessment of protein expression, revealed that REST silencing triggers endothelial-to-mesenchymal transition. Consistently, REST silencing increased endothelial permeability and migration in vitro. Single-nucleus RNA sequencing in endothelial lineage traced atherosclerotic mice with Rest knock-out revealed evidence of endothelial TGFb signaling activation and of transition smooth muscle-like cells in atherosclerotic aortas on genetic knockout of Rest. Cleavage under targets and tagmentation (CUT&Tag) sequencing did not identify any known TGFb (transforming growth factor-beta) effector genes as direct REST transcriptional targets. Instead, joint analysis of CUT&Tag with RNA-seq highlighted L1CAM (L1 cell adhesion molecule), a known endothelial-to-mesenchymal transition activator, and its interactors as the most significant gene set directly affected by REST in the endothelium. Simultaneous silencing of L1CAM and REST in human aortic endothelial cells inhibited the upregulation of mesenchymal genes and the enhanced migration induced by REST silencing and diminished the upregulation of several TGFb effectors overexpressed on REST silencing. CONCLUSIONS: In summary, our data reveal the novel role of REST as a repressor in endothelial cells that functions to constitutively inhibit endothelial-to-mesenchymal transition and protect against atherosclerosis.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

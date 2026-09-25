@@ -1,0 +1,28 @@
+{
+  "title": "Distribution of the number of false discoveries in large-scale family-based association testing with application to the association between PTPN1 and hypertension and obesity",
+  "authors": [
+    "Wen-Chang Wang",
+    "Chao A Hsiung",
+    "Lan-Chao Wang",
+    "Lee-Ming Chuang",
+    "Thomas Quertermous",
+    "I-Shou Chang"
+  ],
+  "journal": "Human genetics",
+  "journalAbbrev": "Hum Genet",
+  "year": 2010,
+  "date": "2010-12-29",
+  "doi": "10.1007/s00439-010-0936-y",
+  "pmid": "21188419",
+  "pmcid": null,
+  "url": "https://doi.org/10.1007/s00439-010-0936-y",
+  "abstract": "We present a model-free approach to the study of the number of false discoveries for large-scale simultaneous family-based association tests (FBATs) in which the set of discoveries is decided by applying a threshold to the test statistics. When the association between a set of markers in a candidate gene and a group of phenotypes is studied by a class of FBATs, we indicate that a joint null hypothesis distribution for these statistics can be obtained by the fundamental statistical method of conditioning on sufficient statistics for the null hypothesis. Based on the joint null distribution of these statistics, we can obtain the distribution of the number of false discoveries for the set of discoveries defined by a threshold; the size of this set is referred to as its tail count. Simulation studies are presented to demonstrate that the conditional, not the unconditional, distribution of the tail count is appropriate for the study of false discoveries. The usefulness of this approach is illustrated by re-examining the association between PTPN1 and a group of blood-pressure-related phenotypes reported by Olivier et al. (Hum Mol Genet 13:1885-1892, 2004); our results refine and reinforce this association.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

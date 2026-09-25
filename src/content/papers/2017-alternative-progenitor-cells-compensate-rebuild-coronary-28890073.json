@@ -1,0 +1,30 @@
+{
+  "title": "Alternative Progenitor Cells Compensate to Rebuild the Coronary Vasculature in Elabela- and Apj-Deficient Hearts",
+  "authors": [
+    "Bikram Sharma",
+    "Lena Ho",
+    "Gretchen Hazel Ford",
+    "Heidi I Chen",
+    "Andrew B Goldstone",
+    "Y Joseph Woo",
+    "Thomas Quertermous",
+    "Bruno Reversade",
+    "Kristy Red-Horse"
+  ],
+  "journal": "Developmental cell",
+  "journalAbbrev": "Dev Cell",
+  "year": 2017,
+  "date": "2017-09-07",
+  "doi": "10.1016/j.devcel.2017.08.008",
+  "pmid": "28890073",
+  "pmcid": "PMC5895086",
+  "url": "https://doi.org/10.1016/j.devcel.2017.08.008",
+  "abstract": "Organogenesis during embryonic development occurs through the differentiation of progenitor cells. This process is extraordinarily accurate, but the mechanisms ensuring high fidelity are poorly understood. Coronary vessels of the mouse heart derive from at least two progenitor pools, the sinus venosus and endocardium. We find that the ELABELA (ELA)-APJ signaling axis is only required for sinus venosus-derived progenitors. Because they do not depend on ELA-APJ, endocardial progenitors are able to expand and compensate for faulty sinus venosus development in Apj mutants, leading to normal adult heart function. An upregulation of endocardial SOX17 accompanied compensation in Apj mutants, which was also seen in Ccbe1 knockouts, indicating that the endocardium is activated in multiple cases where sinus venosus angiogenesis is stunted. Our data demonstrate that by diversifying their responsivity to growth cues, distinct coronary progenitor pools are able to compensate for each other during coronary development, thereby providing robustness to organ development.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

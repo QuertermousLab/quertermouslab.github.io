@@ -1,0 +1,41 @@
+{
+  "title": "Vascular smooth muscle cell atherosclerosis trajectories characterized at single cell resolution identify causal transcriptomic and epigenomic mechanisms of disease risk",
+  "authors": [
+    "Daniel Yuhang Li",
+    "Soumya Kundu",
+    "Paul Cheng",
+    "Wenduo Gu",
+    "Will Jackson",
+    "Quanyi Zhao",
+    "Trieu Nguyen",
+    "Matthew Worssam",
+    "Joao Pinho Monteiro",
+    "Roxanne Diaz Caceres",
+    "Stanley Dale",
+    "Brian Palmisano",
+    "Chad S Weldy",
+    "Ramendra Kundu",
+    "Anshul Kundaje",
+    "Robert Wirka",
+    "Thomas Quertermous"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "journalAbbrev": "bioRxiv",
+  "year": 2025,
+  "date": "2025-06-06",
+  "doi": "10.1101/2025.06.04.655863",
+  "pmid": "40501802",
+  "pmcid": "PMC12157494",
+  "url": "https://doi.org/10.1101/2025.06.04.655863",
+  "abstract": "Vascular smooth muscle cells (SMC) contribute to heritable coronary artery disease (CAD) risk and undergo complex cell state transitions to multiple disease related phenotypes. To investigate the genetic basis of SMC state trajectories that underlie the SMC component of CAD causality we have developed a dense timecourse single cell transcriptomic and epigenetic map of atherosclerosis in a murine disease animal model. Cellular trajectories were derived from the temporal data and probabilistic fate modeling with Waddington-Optimal Transport (WOT). We created transcription factor (TF) centered regulons mapped across the developmental timeline and through network-based prioritization with WOT predicted TFs and in silico TF perturbation, identified key drivers of cell state changes associated with EMT, vascular development, and circadian clock functions. Integration of mouse disease data with human CAD genetic findings identified transition SMC phenotypes that mediate disease risk and point to causal disease mechanisms. Parallel studies using knockout of the validated CAD gene Tcf21 revealed its impact on SMC transition cellular phenotypes and disease risk genes, due in part to a role regulating the transition of SMC precursor cells in the secondary heart field. Together, these studies characterize atherosclerosis trajectories at single cell resolution and identify genetic causal transcriptomic and epigenomic mechanisms of CAD risk.",
+  "pubTypes": [
+    "Journal Article",
+    "Preprint"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": [],
+  "hidden": true,
+  "hiddenReason": "preprint of 41844614"
+}

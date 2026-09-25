@@ -1,0 +1,34 @@
+{
+  "title": "Discovery of Transacting Long Noncoding RNAs That Regulate Smooth Muscle Cell Phenotype",
+  "authors": [
+    "Huitong Shi",
+    "Trieu Nguyen",
+    "Quanyi Zhao",
+    "Paul Cheng",
+    "Disha Sharma",
+    "Hyun-Jung Kim",
+    "Juyong Brian Kim",
+    "Robert Wirka",
+    "Chad S Weldy",
+    "João P Monteiro",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2023,
+  "date": "2023-02-28",
+  "doi": "10.1161/CIRCRESAHA.122.321960",
+  "pmid": "36852690",
+  "pmcid": "PMC11056793",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.122.321960",
+  "abstract": "BACKGROUND: Smooth muscle cells (SMC), the major cell type in atherosclerotic plaques, are vital in coronary artery diseases (CADs). SMC phenotypic transition, which leads to the formation of various cell types in atherosclerotic plaques, is regulated by a network of genetic and epigenetic mechanisms and governs the risk of disease. The involvement of long noncoding RNAs (lncRNAs) has been increasingly identified in cardiovascular disease. However, SMC lncRNAs have not been comprehensively characterized, and their regulatory role in SMC state transition remains unknown. METHODS: A discovery pipeline was constructed and applied to deeply strand-specific RNA sequencing from perturbed human coronary artery SMC with different disease-related stimuli, to allow for the detection of novel lncRNAs. The functional relevance of a select few novel lncRNAs were verified in vitro. RESULTS: We identified 4579 known and 13 655 de novo lncRNAs in human coronary artery SMC. Consistent with previous long noncoding RNA studies, these lncRNAs overall have fewer exons, are shorter in length than protein-coding genes (pcGenes), and have relatively low expression level. Genomic location of these long noncoding RNA is disproportionately enriched near CAD-related TFs (transcription factors), genetic loci, and gene regulators of SMC identity, suggesting the importance of their function in disease. Two de novo lncRNAs, ZIPPOR (ZEB-interacting suppressor) and TNS1-AS2 (TNS1-antisense 2), were identified by our screen. Combining transcriptional data and in silico modeling along with in vitro validation, we identified CAD gene ZEB2 as a target through which these lncRNAs exert their function in SMC phenotypic transition. CONCLUSIONS: Expression of a large and diverse set of lncRNAs in human coronary artery SMC are highly dynamic in response to CAD-related stimuli. The dynamic changes in expression of these lncRNAs correspond to alterations in transcriptional programs that are relevant to CAD, suggesting a critical role for lncRNAs in SMC phenotypic transition and human atherosclerotic disease.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

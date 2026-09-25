@@ -1,0 +1,35 @@
+{
+  "title": "Genome-Wide Genetic Associations Prioritize Evaluation of Causal Mechanisms of Atherosclerotic Disease Risk",
+  "authors": [
+    "Thomas Quertermous",
+    "Daniel Yuhang Li",
+    "Chad S Weldy",
+    "Markus Ramste",
+    "Disha Sharma",
+    "João P Monteiro",
+    "Wenduo Gu",
+    "Matthew D Worssam",
+    "Brian T Palmisano",
+    "Chong Y Park",
+    "Paul Cheng"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2024,
+  "date": "2024-01-24",
+  "doi": "10.1161/ATVBAHA.123.319480",
+  "pmid": "38266112",
+  "pmcid": "PMC10857784",
+  "url": "https://doi.org/10.1161/ATVBAHA.123.319480",
+  "abstract": "OBJECTIVE: The goal of this review is to discuss the implementation of genome-wide association studies to identify causal mechanisms of vascular disease risk. APPROACH AND RESULTS: The history of genome-wide association studies is described, the use of imputation and the creation of consortia to conduct meta-analyses with sufficient power to arrive at consistent associated loci for vascular disease. Genomic methods are described that allow the identification of causal variants and causal genes and how they impact the disease process. The power of single-cell analyses to promote genome-wide association studies of causal gene function is described. CONCLUSIONS: Genome-wide association studies represent a paradigm shift in the study of cardiovascular disease, providing identification of genes, cellular phenotypes, and disease pathways that empower the future of targeted drug development.",
+  "pubTypes": [
+    "Review",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Molecular mechanisms of coronary artery disease risk at the PDGFD locus",
+  "authors": [
+    "Hyun-Jung Kim",
+    "Paul Cheng",
+    "Stanislao Travisano",
+    "Chad Weldy",
+    "João P Monteiro",
+    "Ramendra Kundu",
+    "Trieu Nguyen",
+    "Disha Sharma",
+    "Huitong Shi",
+    "Yi Lin",
+    "Boxiang Liu",
+    "Saptarsi Haldar",
+    "Simon Jackson",
+    "Thomas Quertermous"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "journalAbbrev": "bioRxiv",
+  "year": 2023,
+  "date": "2023-01-27",
+  "doi": "10.1101/2023.01.26.525789",
+  "pmid": "36747745",
+  "pmcid": "PMC9900883",
+  "url": "https://doi.org/10.1101/2023.01.26.525789",
+  "abstract": "Platelet derived growth factor (PDGF) signaling has been extensively studied in the context of vascular disease, but the genetics of this pathway remain to be established. Genome wide association studies (GWAS) for coronary artery disease (CAD) have identified a risk locus at 11q22.3, and we have verified with fine mapping approaches that the regulatory variant rs2019090 and PDGFD represent the functional variant and putative functional gene. Further, FOXC1/C2 transcription factor (TF) binding at rs2019090 was found to promote PDGFD transcription through the CAD promoting allele. Employing a constitutive Pdgfd knockout allele along with SMC lineage tracing in a male atherosclerosis mouse model we mapped single cell transcriptomic, cell state, and lesion anatomical changes associated with gene loss. These studies revealed that Pdgfd promotes expansion, migration, and transition of SMC lineage cells to the chondromyocyte phenotype and vascular calcification. This is in contrast to protective CAD genes TCF21, ZEB2, and SMAD3 which we have shown to promote the fibroblast-like cell transition or perturb the pattern or extent of transition to the chondromyocyte phenotype. Further, Pdgfd expressing fibroblasts and pericytes exhibited greater expression of chemokines and leukocyte adhesion molecules, consistent with observed increased macrophage recruitment to the plaque. Despite these changes there was no effect of Pdgfd deletion on SMC contribution to the fibrous cap or overall lesion burden. These findings suggest that PDGFD mediates CAD risk through promoting SMC expansion and migration, in conjunction with deleterious phenotypic changes, and through promoting an inflammatory response that is primarily focused in the adventitia where it contributes to leukocyte trafficking to the diseased vessel wall.",
+  "pubTypes": [
+    "Preprint",
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": [],
+  "hidden": true,
+  "hiddenReason": "preprint of 36792607"
+}

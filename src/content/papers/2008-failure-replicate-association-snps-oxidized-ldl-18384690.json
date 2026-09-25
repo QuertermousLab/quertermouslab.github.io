@@ -1,0 +1,38 @@
+{
+  "title": "Failure to replicate an association of SNPs in the oxidized LDL receptor gene (OLR1) with CAD",
+  "authors": [
+    "Joshua W Knowles",
+    "Themistocles L Assimes",
+    "Eric Boerwinkle",
+    "Stephen P Fortmann",
+    "Alan Go",
+    "Megan L Grove",
+    "Mark Hlatky",
+    "Carlos Iribarren",
+    "Jun Li",
+    "Richard Myers",
+    "Neil Risch",
+    "Stephen Sidney",
+    "Audrey Southwick",
+    "Kelly A Volcik",
+    "Thomas Quertermous"
+  ],
+  "journal": "BMC medical genetics",
+  "journalAbbrev": "BMC Med Genet",
+  "year": 2008,
+  "date": "2008-04-02",
+  "doi": "10.1186/1471-2350-9-23",
+  "pmid": "18384690",
+  "pmcid": "PMC2322963",
+  "url": "https://doi.org/10.1186/1471-2350-9-23",
+  "abstract": "BACKGROUND: The lectin-like oxidized LDL receptor LOX-1 (encoded by OLR1) is believed to play a key role in atherogenesis and some reports suggest an association of OLR1 polymorphisms with myocardial infarction (MI). We tested whether single nucleotide polymorphisms (SNPs) in OLR1 are associated with clinically significant CAD in the Atherosclerotic Disease, VAscular FuNction, & Geneti C Epidemiology (ADVANCE) study. METHODS: ADVANCE is a population-based case-control study of subjects receiving care within Kaiser Permanente of Northern California including a subset of participants of the Coronary Artery Risk Development in Young Adults (CARDIA) study. We first resequenced the promoter, exonic, and splice site regions of OLR1 and then genotyped four single nucleotide polymorphisms (SNPs), including a non-synonymous SNP (rs11053646, Lys167Asn) as well as an intronic SNP (rs3736232) previously associated with CAD. RESULTS: In 1,809 cases with clinical CAD and 1,734 controls, the minor allele of the coding SNP was nominally associated with a lower odds ratio (OR) of CAD across all ethnic groups studied (minimally adjusted OR 0.8, P = 0.007; fully adjusted OR 0.8, P = 0.01). The intronic SNP was nominally associated with an increased risk of CAD (minimally adjusted OR 1.12, p = 0.03; fully adjusted OR 1.13, P = 0.03). However, these associations were not replicated in over 13,200 individuals (including 1,470 cases) in the Atherosclerosis Risk in Communities (ARIC) study. CONCLUSION: Our results do not support the presence of an association between selected common SNPs in OLR1 and the risk of clinical CAD.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

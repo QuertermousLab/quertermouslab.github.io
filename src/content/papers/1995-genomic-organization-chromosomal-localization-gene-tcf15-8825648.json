@@ -1,0 +1,28 @@
+{
+  "title": "Genomic organization and chromosomal localization of the gene TCF15 encoding the early mesodermal basic helix-loop-helix factor bHLH-EC2",
+  "authors": [
+    "H Hidai",
+    "E E Quertermous",
+    "R Espinosa",
+    "M M LeBeau",
+    "T Quertermous"
+  ],
+  "journal": "Genomics",
+  "journalAbbrev": "Genomics",
+  "year": 1995,
+  "date": "1995-12-10",
+  "doi": "10.1006/geno.1995.1282",
+  "pmid": "8825648",
+  "pmcid": null,
+  "url": "https://doi.org/10.1006/geno.1995.1282",
+  "abstract": "bHLH-EC2 is a recently characterized member of a growing family of basic helix-loop-helix transcription factors. This family includes bHLH factors such as twist, which appear to be primarily involved in early mesodermal differentiation, and bHLH factors such as TAL-1, which have been characterized through their association with chromosomal breakpoints associated with T-cell leukemias. To provide for studies aimed at understanding the genetic regulation of bHLH-EC2, we have characterized the organization of this gene and conducted preliminary studies of the transcriptional activity of the upstream promoter region. The mouse bHLH-EC2 gene was found to consist of two exons separated by a 5-kb intron, an organization pattern similar to the mouse twist gene. The transcription initiation site was identified by RNase protection assay and primer extension analysis. Linked promoter-reporter gene transfection experiments in cultured cells indicated that while the identified upstream sequence can function to promote transcription, it does not function in a cell-specific fashion. To investigate the possible association of bHLH-EC2 with hematological malignancy, the chromosomal location of this gene in the human was mapped by fluorescence in situ hybridization and assigned to chromosome band 20p13.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

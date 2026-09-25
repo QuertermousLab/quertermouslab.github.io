@@ -1,0 +1,29 @@
+{
+  "title": "Molecular and physiological characterization of RV remodeling in a murine model of pulmonary stenosis",
+  "authors": [
+    "Takashi Urashima",
+    "Mingming Zhao",
+    "Roger Wagner",
+    "Giovanni Fajardo",
+    "Sara Farahani",
+    "Tom Quertermous",
+    "Daniel Bernstein"
+  ],
+  "journal": "American journal of physiology. Heart and circulatory physiology",
+  "journalAbbrev": "Am J Physiol Heart Circ Physiol",
+  "year": 2008,
+  "date": "2008-06-27",
+  "doi": "10.1152/ajpheart.91526.2007",
+  "pmid": "18586894",
+  "pmcid": "PMC2544484",
+  "url": "https://doi.org/10.1152/ajpheart.91526.2007",
+  "abstract": "Right ventricular (RV) dysfunction is a common long-term complication in patients after the repair of congenital heart disease. Previous investigators have examined the cellular and molecular mechanisms of left ventricular (LV) remodeling, but little is known about the stressed RV. Our purpose was to provide a detailed physiological characterization of a model of RV hypertrophy and failure, including RV-LV interaction, and to compare gene alterations between afterloaded RV versus LV. Pulmonary artery constriction was performed in 86 mice. Mice with mild and moderate pulmonary stenosis (PS) developed stable hypertrophy without decompensation. Mice with severe PS developed edema, decreased RV function, and high mortality. Tissue Doppler imaging demonstrated septal dyssynchrony and deleterious RV-LV interaction in the severe PS group. Microarray analysis showed 196 genes with increased expression and 1,114 with decreased expression. Several transcripts were differentially increased in the afterloaded RV but not in the afterloaded LV, including clusterin, neuroblastoma suppression of tumorigenicity 1, Dkk3, Sfrp2, formin binding protein, annexin A7, and lysyl oxidase. We have characterized a murine model of RV hypertrophy and failure, providing a platform for studying the physiological and molecular events of RV remodeling. Although the molecular responses of the RV and LV to afterload stress are mostly concordant, there are several key differences, which may represent targets for RV failure-specific therapy.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Dissecting the causal genetic mechanisms of coronary heart disease",
+  "authors": [
+    "Clint L Miller",
+    "Themistocles L Assimes",
+    "Stephen B Montgomery",
+    "Thomas Quertermous"
+  ],
+  "journal": "Current atherosclerosis reports",
+  "journalAbbrev": "Curr Atheroscler Rep",
+  "year": 2014,
+  "date": "2014-05-01",
+  "doi": "10.1007/s11883-014-0406-4",
+  "pmid": "24623178",
+  "pmcid": "PMC4015632",
+  "url": "https://doi.org/10.1007/s11883-014-0406-4",
+  "abstract": "Large-scale genome-wide association studies (GWAS) have identified 46 loci that are associated with coronary heart disease (CHD). Additionally, 104 independent candidate variants (false discovery rate of 5 %) have been identified (Schunkert H, Konig IR, Kathiresan S, Reilly MP, Assimes TL, Holm H et al. Nat Genet 43:333-8, 2011; Deloukas P, Kanoni S, Willenborg C, Farrall M, Assimes TL, Thompson JR et al. Nat Genet 45:25-33, 2012; C4D Genetics Consortium. Nat Genet 43:339-44, 2011). The majority of the causal genes in these loci function independently of conventional risk factors. It is postulated that a number of the CHD-associated genes regulate basic processes in the vascular cells involved in atherosclerosis, and that study of the signaling pathways that are modulated in this cell type by causal regulatory variation will provide critical new insights for targeting the initiation and progression of disease. In this review, we will discuss the types of experimental approaches and data that are critical to understanding the molecular processes that underlie the disease risk at 9p21.3, TCF21, SORT1, and other CHD-associated loci.",
+  "pubTypes": [
+    "Journal Article",
+    "Review"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,164 @@
+---
+import Base from '../layouts/Base.astro';
+import PaperCard from '../components/PaperCard.astro';
+import PaperRow from '../components/PaperRow.astro';
+import { getPapers, getLabKeys } from '../lib/papers';
+
+const papers = await getPapers();
+const keys = await getLabKeys();
+const selected = papers.filter((p) => p.data.highlight).sort((a, b) => (a.data.highlightOrder ?? 99) - (b.data.highlightOrder ?? 99));
+const years = [...new Set(papers.map((p) => p.data.year))].sort((a, b) => b - a);
+const byYear = years.map((y) => ({ y, list: papers.filter((p) => p.data.year === y) }));
+
+// papers-per-year chart (lab-led stacked on collaborative)
+const y0 = Math.min(...years), y1 = Math.max(...years);
+const span = Array.from({ length: y1 - y0 + 1 }, (_, i) => y0 + i);
+const counts = span.map((y) => {
+  const l = papers.filter((p) => p.data.year === y);
+  return { y, lab: l.filter((p) => p.data.labPaper).length, other: l.filter((p) => !p.data.labPaper).length };
+});
+const maxN = Math.max(...counts.map((c) => c.lab + c.other));
+const W = 1000, H = 150, bw = W / span.length;
+const sy = (n: number) => (n / maxN) * (H - 20);
+const nLab = papers.filter((p) => p.data.labPaper).length;
+---
+<Base title="Publications" description="Publications of the Quertermous Lab, updated from PubMed.">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Publications</span>
+      <h1>Publications</h1>
+      <p class="lede">{papers.length} papers from {y0} to {y1}, including {nLab} led by the lab. Lab members are shown in bold.
+        The list is generated from PubMed and refreshed with <code>npm run papers</code>.</p>
+      <figure class="chart" aria-label="Publications per year">
+        <svg viewBox={`0 0 ${W} ${H + 22}`} preserveAspectRatio="none">
+          {counts.map((c, i) => (
+            <g class="bar" data-year={c.y}>
+              <title>{c.y}: {c.lab + c.other} papers ({c.lab} lab-led)</title>
+              <rect x={i * bw + 1} y={0} width={bw - 2} height={H} fill="transparent" />
+              <rect x={i * bw + 1.5} y={H - sy(c.other + c.lab)} width={bw - 3} height={sy(c.other)} rx="1.5" class="bar__other" />
+              <rect x={i * bw + 1.5} y={H - sy(c.lab)} width={bw - 3} height={sy(c.lab)} rx="1.5" class="bar__lab" />
+              {c.y % 5 === 0 && <text x={i * bw + bw / 2} y={H + 16} text-anchor="middle">{c.y}</text>}
+            </g>
+          ))}
+        </svg>
+        <figcaption><i class="k k--lab"></i>Lab-led (first or senior author) <i class="k k--other"></i>Collaborative · click a bar to filter by year</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">Selected</span><h2>Selected publications</h2></div></div>
+      <div class="sel">
+        {selected.map((p) => <PaperCard paper={p} compact />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--tint" id="all">
+    <div class="container">
+      <div class="controls" data-controls>
+        <label class="search">
+          <span class="visually-hidden">Search publications</span>
+          <input type="search" placeholder="Search title, author, journal…" data-q />
+        </label>
+        <div class="seg" role="group" aria-label="Filter">
+          <button type="button" class="on" data-f="all">All</button>
+          <button type="button" data-f="lab">Lab-led</button>
+          <button type="button" data-f="pre">Preprints</button>
+        </div>
+        <select data-year aria-label="Year">
+          <option value="">All years</option>
+          {years.map((y) => <option value={y}>{y}</option>)}
+        </select>
+        <span class="count" data-count>{papers.length} papers</span>
+      </div>
+      {byYear.map(({ y, list }) => (
+        <div class="year" data-yeargroup={y}>
+          <h3 class="year__h">{y}</h3>
+          <ul class="plist">{list.map((p) => <PaperRow paper={p} keys={keys} />)}</ul>
+        </div>
+      ))}
+      <p class="empty" data-empty hidden>No papers match.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  code { font-family: var(--font-mono); font-size: .85em; background: rgba(255,255,255,.1); padding: 1px 6px; border-radius: 4px; }
+  .chart { margin: 40px 0 0; }
+  .chart svg { width: 100%; height: 170px; }
+  .bar { cursor: pointer; }
+  .bar__lab { fill: var(--artery-bright); }
+  .bar__other { fill: rgba(255,255,255,.28); }
+  .bar:hover .bar__other { fill: rgba(255,255,255,.5); }
+  .bar:hover .bar__lab { fill: #ff6d80; }
+  .bar text { fill: #bca6ab; font: 12px var(--font-sans); }
+  .chart figcaption { font-size: .8rem; color: #bca6ab; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 6px; }
+  .k { width: 10px; height: 10px; border-radius: 2px; display: inline-block; margin-left: 10px; }
+  .k--lab { background: var(--artery-bright); margin-left: 0; } .k--other { background: rgba(255,255,255,.35); }
+  .sel { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+  .sel :global(.pcard h3) { font-size: 1rem; }
+  @media (max-width: 1100px) { .sel { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 800px) { .sel { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 520px) { .sel { grid-template-columns: 1fr; } }
+
+  .controls { position: sticky; top: 84px; z-index: 5; display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+    background: var(--paper-2); padding: 14px 0; border-bottom: 1px solid var(--line); margin-bottom: 12px; }
+  .search { flex: 1 1 280px; }
+  .search input, .controls select { width: 100%; font: inherit; font-size: .95rem; padding: 10px 16px; border-radius: 999px;
+    border: 1px solid var(--line); background: #fff; color: var(--ink); }
+  .controls select { width: auto; }
+  .search input:focus, .controls select:focus { outline: 2px solid var(--artery); outline-offset: 1px; }
+  .seg { display: inline-flex; background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+  .seg button { font: 600 .88rem var(--font-sans); border: 0; background: none; padding: 7px 14px; border-radius: 999px; cursor: pointer; color: var(--ink-2); }
+  .seg button.on { background: var(--artery); color: #fff; }
+  .count { font-size: .85rem; color: var(--muted); margin-left: auto; }
+  .year__h { font-family: var(--font-mono); font-size: 1rem; color: var(--artery); margin: 36px 0 0; padding-bottom: 8px; border-bottom: 2px solid var(--artery); display: inline-block; }
+  .plist { list-style: none; padding: 0; margin: 0; }
+  .empty { padding: 40px 0; text-align: center; color: var(--muted); }
+</style>
+
+<script>
+  const q = document.querySelector<HTMLInputElement>('[data-q]')!;
+  const ysel = document.querySelector<HTMLSelectElement>('[data-year]')!;
+  const segs = document.querySelectorAll<HTMLButtonElement>('[data-f]');
+  const rows = [...document.querySelectorAll<HTMLElement>('.prow')].filter((r) => r.closest('[data-yeargroup]'));
+  const groups = document.querySelectorAll<HTMLElement>('[data-yeargroup]');
+  const count = document.querySelector('[data-count]')!;
+  const empty = document.querySelector<HTMLElement>('[data-empty]')!;
+  let mode = 'all';
+
+  const params = new URLSearchParams(location.search);
+  if (params.get('q')) q.value = params.get('q')!;
+  if (params.get('year')) ysel.value = params.get('year')!;
+  if (params.get('f')) mode = params.get('f')!;
+
+  function apply() {
+    const terms = q.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    const y = ysel.value;
+    let n = 0;
+    for (const r of rows) {
+      const ok = (!y || r.dataset.year === y) &&
+        (mode === 'all' || (mode === 'lab' && r.dataset.lab === '1') || (mode === 'pre' && r.dataset.pre === '1')) &&
+        terms.every((t) => r.dataset.q!.includes(t));
+      r.hidden = !ok; if (ok) n++;
+    }
+    groups.forEach((g) => (g.hidden = !g.querySelector('.prow:not([hidden])')));
+    segs.forEach((b) => b.classList.toggle('on', b.dataset.f === mode));
+    count.textContent = `${n} paper${n === 1 ? '' : 's'}`;
+    empty.hidden = n > 0;
+    const p = new URLSearchParams();
+    if (q.value) p.set('q', q.value); if (y) p.set('year', y); if (mode !== 'all') p.set('f', mode);
+    history.replaceState(null, '', `${location.pathname}${p.toString() ? '?' + p : ''}${location.hash}`);
+  }
+  q.addEventListener('input', apply);
+  ysel.addEventListener('change', apply);
+  segs.forEach((b) => b.addEventListener('click', () => { mode = b.dataset.f!; apply(); }));
+  document.querySelectorAll<SVGGElement>('.bar').forEach((b) => b.addEventListener('click', () => {
+    ysel.value = ysel.value === b.dataset.year ? '' : b.dataset.year!;
+    apply();
+    document.getElementById('all')?.scrollIntoView({ behavior: 'smooth' });
+  }));
+  apply();
+</script>

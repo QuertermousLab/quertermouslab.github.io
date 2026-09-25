@@ -1,0 +1,33 @@
+{
+  "title": "High-level expression of antibody-plasminogen activator fusion proteins in hybridoma cells",
+  "authors": [
+    "T W Love",
+    "T Quertermous",
+    "P J Zavodny",
+    "M S Runge",
+    "C C Chou",
+    "D Mullins",
+    "P L Huang",
+    "J M Schnee",
+    "A S Kestin",
+    "C E Savard"
+  ],
+  "journal": "Thrombosis research",
+  "journalAbbrev": "Thromb Res",
+  "year": 1993,
+  "date": "1993-01-15",
+  "doi": "10.1016/0049-3848(93)90047-r",
+  "pmid": "8446952",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/0049-3848(93)90047-r",
+  "abstract": "We show that the mouse gamma 2b heavy chain or human beta-globin 3' untranslated region can greatly enhance protein expression in myeloma cells transfected by genes coding for antibody-plasminogen activator fusion proteins. Expression plasmids were constructed containing a cloned genomic heavy chain variable region from fibrin-specific monoclonal antibody 59D8, a cloned genomic constant region of the mouse gamma 2b heavy chain, and DNA sequence coding for either tissue-type plasminogen activator (tPA) or a segment of urokinase (UK) and their respective 3' untranslated sequences. Cell lines transfected with these constructs, pSVtPA (tPA) and pSVUKG(UK), produced extremely low levels of mRNA and protein (0.008-0.06 micrograms/ml) in comparison with the parental 59D8 myeloma cell line (7.6-10 micrograms/ml). In vitro nuclear run-off analysis indicated that the low steady-state levels of mRNA encoded by pSVUKG(UK) did not result from a lower rate of transcription of the transfected gene (relative to the rate of transcription of the endogenous heavy chain gene in the 59D8 parent cells). In an attempt to increase protein secretion, we assembled the expression plasmids pSVtPA(Ig), pSVUKG(Ig), and pSVUKG(beta), in which the 3' untranslated region of the mouse gamma 2b heavy chain or human beta-globin gene was substituted for the 3' untranslated region of the plasminogen activator gene. Analysis of supernatant media from cell lines transfected with these constructs showed an increase in recombinant protein secretion of 68 to 100 fold in comparison with that from cell lines transfected with pSVtPA(tPA) or pSVUKG(UK).",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

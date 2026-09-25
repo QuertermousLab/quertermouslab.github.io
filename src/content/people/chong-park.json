@@ -1,0 +1,10 @@
+{
+  "name": "Chong Park",
+  "degrees": "PhD",
+  "role": "Senior Research Scientist",
+  "group": "staff",
+  "photo": "/people/chong-park.webp",
+  "order": 20,
+  "focus": "Genome-scale CRISPRi screens, Perturb-seq and ATAC-seq for CAD causal genes",
+  "bio": "Chong is a cell and molecular biologist with deep expertise in genome engineering and CRISPR-based high-throughput screening. Before joining Stanford in 2017 she managed the IGI CRISPR Screening Core, the ES Cell Targeting Core and the Keck miRNA Knockout Mouse Project at UCSF. She leads large-scale CRISPRi screening, Perturb-seq and ATAC-seq projects to identify causal variants, genes and pathways at CAD and cardiometabolic GWAS loci."
+}

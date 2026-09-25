@@ -1,0 +1,32 @@
+{
+  "title": "Absence of evidence for an association between resistin gene variants and insulin resistance in an Asian population with low and high blood pressure",
+  "authors": [
+    "Jennifer L Kimbell",
+    "Tanya A Koropatnick",
+    "John S Grove",
+    "Yung-Hsiang Huang",
+    "Fu-Tien Chiang",
+    "Thomas Quertermous",
+    "Randi Chen",
+    "Timothy A Donlon",
+    "Beatriz L Rodriguez",
+    "J David Curb"
+  ],
+  "journal": "Diabetes research and clinical practice",
+  "journalAbbrev": "Diabetes Res Clin Pract",
+  "year": 2008,
+  "date": "2008-05-22",
+  "doi": "10.1016/j.diabres.2008.04.001",
+  "pmid": "18501464",
+  "pmcid": "PMC4156032",
+  "url": "https://doi.org/10.1016/j.diabres.2008.04.001",
+  "abstract": "AIMS: Although the function of resistin in human biology is unclear, some evidence suggests resistin gene variants influence insulin resistance, and insulin resistance-related hypertension. We searched for associations between common resistin gene variants and factors related to insulin resistance in Asian individuals with high or low blood pressure (BP). METHODS: Non-diabetic Chinese or Japanese sibling pairs were included if one had extreme hypertension and the other was either hypertensive or hypotensive. Four common, non-coding single nucleotide polymorphisms (SNPs) were identified by sequencing the resistin gene in 24 hypertensive probands. Generalized estimating equations (GEEs)-based regressions were then performed to test for SNP associations using the entire study population (n=1556). RESULTS: Of 72 tests, only one was significant at the 0.05 level; 3.5 significant tests were expected by chance alone. High variability in insulin and triglyceride levels created wide confidence intervals, thus the negative results are not conclusive for these phenotypes. However, the large sample size resulted in narrow confidence intervals for BMI, fasting and 120min post-load glucose, and high and low density lipoprotein cholesterol (LDL-C). CONCLUSION: Several factors associated with insulin resistance are not likely influenced by the resistin gene in non-diabetic Asian individuals with high and low blood pressure.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

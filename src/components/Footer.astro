@@ -1,0 +1,61 @@
+---
+import LabMark from './LabMark.astro';
+import { lab } from '../data/site';
+const year = new Date().getFullYear();
+---
+<footer class="footer">
+  <div class="container footer__grid">
+    <div>
+      <a class="footer__brand" href="/"><LabMark size={72} /><span class="footer__word">lab</span></a>
+      <p class="footer__name">Quertermous Laboratory</p>
+      <p class="muted">{lab.tagline}</p>
+      <p class="footer__small">Division of Cardiovascular Medicine · Stanford Cardiovascular Institute · Stanford University School of Medicine</p>
+    </div>
+    <div>
+      <h4>Visit</h4>
+      <p>{lab.address.building}<br />{lab.address.street}<br />{lab.address.city}</p>
+    </div>
+    <div>
+      <h4>Explore</h4>
+      <ul>
+        <li><a href="/research/">Research</a></li>
+        <li><a href="/publications/">Publications</a></li>
+        <li><a href="/resources/">Data &amp; resources</a></li>
+        <li><a href="/athena/">ATHENA Co-Lab</a></li>
+        <li><a href="/join/">Join us</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Elsewhere</h4>
+      <ul>
+        <li><a href="https://med.stanford.edu/cvmedicine.html">Stanford CV Medicine</a></li>
+        <li><a href="https://med.stanford.edu/cvi.html">Stanford CVI</a></li>
+        <li><a href="https://profiles.stanford.edu/thomas-quertermous">Stanford Profile</a></li>
+        <li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Quertermous+T%5BAuthor%5D&sort=date">PubMed</a></li>
+        <li><a href="https://github.com/QuertermousLab">GitHub</a></li>
+        <li><a href="https://data.igvf.org/search/?type=MeasurementSet&lab.title=Thomas+Quertermous%2C+Stanford">IGVF Data Portal</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer__bottom">
+    <span>© {year} Quertermous Laboratory, Stanford University</span>
+    <span>Figures from published papers are reproduced under their open-access licenses, credited on each page.</span>
+  </div>
+</footer>
+
+<style>
+  .footer { position: relative; background: var(--blood-deep); color: #cdb9bd; padding: 72px 0 28px; margin-top: 0; overflow: hidden; }
+  .footer__grid { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr; gap: 40px; }
+  .footer__brand { display: inline-flex; align-items: center; color: #fff; text-decoration: none; margin-bottom: 6px; }
+  .footer__word { font-family: var(--font-serif); font-weight: 700; font-size: 3.1rem; letter-spacing: -.03em; line-height: 1; transform: translateY(3px); }
+  .footer__name { font-family: var(--font-serif); color: #fff; font-size: 1.15rem; margin-bottom: 8px; }
+  .footer h4 { color: #fff; font-family: var(--font-sans); font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; margin-bottom: 14px; }
+  .footer ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+  .footer a { color: #e7d6d9; text-decoration: none; }
+  .footer a:hover { color: var(--artery-bright); }
+  .footer .muted { color: #b8a3a8; }
+  .footer__small { font-size: .82rem; color: #9b868b; }
+  .footer__bottom { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-top: 48px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,.08); font-size: .8rem; color: #8f7b80; }
+  @media (max-width: 860px) { .footer__grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 520px) { .footer__grid { grid-template-columns: 1fr; } }
+</style>

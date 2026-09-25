@@ -1,0 +1,31 @@
+{
+  "title": "The combination of 9p21.3 genotype and biomarker profile improves a peripheral artery disease risk prediction model",
+  "authors": [
+    "Kelly P Downing",
+    "Kevin T Nead",
+    "Yoko Kojima",
+    "Themistocles Assimes",
+    "Lars Maegdefessel",
+    "Thomas Quertermous",
+    "John P Cooke",
+    "Nicholas J Leeper"
+  ],
+  "journal": "Vascular medicine (London, England)",
+  "journalAbbrev": "Vasc Med",
+  "year": 2013,
+  "date": "2013-12-09",
+  "doi": "10.1177/1358863X13514791",
+  "pmid": "24323119",
+  "pmcid": "PMC4156022",
+  "url": "https://doi.org/10.1177/1358863X13514791",
+  "abstract": "Peripheral artery disease (PAD) is a highly morbid condition affecting more than 8 million Americans. Frequently, PAD patients are unrecognized and therefore do not receive appropriate therapies. Therefore, new methods to identify PAD have been pursued, but have thus far had only modest success. Here we describe a new approach combining genomic and metabolic information to enhance the diagnosis of PAD. We measured the genotype of the chromosome 9p21 cardiovascular-risk polymorphism rs10757269 as well as the biomarkers C-reactive protein, cystatin C, β2-microglobulin, and plasma glucose in a study population of 393 patients undergoing coronary angiography. The rs10757269 allele was associated with PAD status (ankle-brachial index < 0.9) independent of biomarkers and traditional cardiovascular risk factors (odds ratio = 1.92; 95% confidence interval, 1.29-2.85). Importantly, compared to a previously validated risk factor-based PAD prediction model, the addition of biomarkers and rs10757269 significantly and incrementally improved PAD risk prediction as assessed by the net reclassification index (NRI = 33.5%; p = 0.001) and integrated discrimination improvement (IDI = 0.016; p = 0.017). In conclusion, a model including a panel of biomarkers, which includes both genomic information (which is reflective of heritable risk) and metabolic information (which integrates environmental exposures), predicts the presence or absence of PAD better than established risk models, suggesting clinical utility for the diagnosis of PAD.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

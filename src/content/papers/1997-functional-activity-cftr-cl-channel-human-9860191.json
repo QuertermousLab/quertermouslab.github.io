@@ -1,0 +1,31 @@
+{
+  "title": "Functional activity of the CFTR Cl- channel in human myocardium",
+  "authors": [
+    "T Yajima",
+    "H Nagashima",
+    "R Tsutsumi-Sakai",
+    "N Hagiwara",
+    "S Hosoda",
+    "T Quertermous",
+    "H Kasanuki",
+    "M Kawana"
+  ],
+  "journal": "Heart and vessels",
+  "journalAbbrev": "Heart Vessels",
+  "year": 1997,
+  "date": "1997-01-01",
+  "doi": "10.1007/BF02766800",
+  "pmid": "9860191",
+  "pmcid": null,
+  "url": "https://doi.org/10.1007/BF02766800",
+  "abstract": "The cyclic AMP (cAMP)-dependent chloride channel in the heart has been identified in various species as the cystic fibrosis transmembrane conductance regulator (CFTR). Although functional expression of the channel in the human atrium has been reported, we could not induce any cAMP-dependent chloride conductance in the atrial cells even with maximal cAMP stimulation, whereas the conductance could be induced in rabbit ventricular cells. To clarify the discrepancy between the results, we examined the level of CFTR mRNA expression in both conductance-positive (human colonic epithelium and rabbit ventricle) and -negative (human atrium) tissues. Total RNA samples prepared from these tissues were subjected to the reverse transcription-polymerase chain reaction (RT-PCR). While CFTR transcripts were amplified from the conductance-positive samples, no amplified products could be detected from the conductance-negative sample. A nested PCR performed on the RT-PCR products of the conductance-negative sample resulted in successful amplification of the transcripts, indicating that the level of the CFTR mRNA expression in human atrium is extremely low compared with that in colonic epithelium and rabbit ventricle. The same molecular results were observed in human ventricular tissues. A nucleotide sequencing of the amplified transcripts showed that exon 5 of the CFTR gene was not alternatively spliced in human atrium and ventricle, and both the exon 5 spliced and unspliced isoforms were expressed in rabbit ventricle, unlike the findings of previous reports. Our data suggest that the amount of CFTR expressed in human myocardium might be physiologically insufficient to activate detectable cAMP-dependent chloride conductance.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

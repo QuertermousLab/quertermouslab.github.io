@@ -1,0 +1,33 @@
+{
+  "title": "Bivariate genome-wide scan for metabolic phenotypes in non-diabetic Chinese individuals from the Stanford, Asia and Pacific Program of Hypertension and Insulin Resistance Family Study",
+  "authors": [
+    "Y-F Chiu",
+    "L-M Chuang",
+    "H-Y Kao",
+    "L-T Ho",
+    "C-T Ting",
+    "Y-J Hung",
+    "Y-D Chen",
+    "T Donlon",
+    "J D Curb",
+    "T Quertermous",
+    "C A Hsiung"
+  ],
+  "journal": "Diabetologia",
+  "journalAbbrev": "Diabetologia",
+  "year": 2007,
+  "date": "2007-06-20",
+  "doi": "10.1007/s00125-007-0720-2",
+  "pmid": "17579830",
+  "pmcid": null,
+  "url": "https://doi.org/10.1007/s00125-007-0720-2",
+  "abstract": "AIMS/HYPOTHESIS: Hypertension, obesity, impaired glucose tolerance and dyslipidaemia are metabolic abnormalities that often cluster together more often than expected by chance alone. Since these metabolic variables are highly heritable and are at least partially genetically determined, the clustering of defects in these traits implies that pleiotropic effects, where a common set of genes influences more than one trait simultaneously, are likely. METHODS: We conducted bivariate linkage analyses for highly correlated traits, aiming to dissect the genetic architecture affecting these traits, in 411 Chinese families participating in the Stanford Asia-Pacific Program of Hypertension and Insulin Resistance Study. RESULTS: We confirmed the pleiotropic effects of the locus at 37 cM on chromosome 20 on the following pairs: (1) fasting insulin and insulin AUC (empirical p = 0.0006); (2) fasting insulin and homeostasis model assessment of beta cell function (HOMA-beta) (empirical p = 0.0051); and (3) HOMA of insulin resistance (IR) and HOMA-beta (empirical p = 0.0044). In addition, the peak logarithm of the odds (LOD) scores of linkage between a chromosomal locus and a trait for the pair fasting insulin and HOMA-IR rose to 5.10 (equivalent LOD score in univariate analysis, LOD([1]) = 4.01, empirical p = 8.0 x 10(-5)) from 3.67 and 3.42 respectively for these two traits in univariate analysis. Additional significant linkage evidence, not shown in single-trait analysis, was identified at 45 cM on chromosome 16 for the pair 1 h insulin and the AUC for insulin, with a LOD score of 4.29 (or LOD([1]) = 3.27, empirical p = 2.0 x 10(-4)). This new locus is also likely to harbour the common genes regulating these two traits (p = 1.73 x 10(-6)). CONCLUSIONS/INTERPRETATION: These data help provide a better understanding of the genomic structure underlying the metabolic syndrome.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

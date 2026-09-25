@@ -1,0 +1,33 @@
+{
+  "title": "Association of polymorphisms in platelet and hemostasis system genes with acute myocardial infarction",
+  "authors": [
+    "Joshua W Knowles",
+    "Huijan Wang",
+    "Haruka Itakura",
+    "Audrey Southwick",
+    "Richard M Myers",
+    "Carlos Iribarren",
+    "Stephen P Fortmann",
+    "Alan S Go",
+    "Thomas Quertermous",
+    "Mark A Hlatky"
+  ],
+  "journal": "American heart journal",
+  "journalAbbrev": "Am Heart J",
+  "year": 2007,
+  "date": "2007-12-01",
+  "doi": "10.1016/j.ahj.2007.05.021",
+  "pmid": "18035074",
+  "pmcid": "PMC4031914",
+  "url": "https://doi.org/10.1016/j.ahj.2007.05.021",
+  "abstract": "BACKGROUND: Genetic polymorphisms may affect the balance between coagulation and fibrinolysis and thereby affect individual vulnerability to acute myocardial infarction (MI) among patients with underlying coronary atherosclerosis. METHODS: We enrolled 1375 patients with an initial clinical presentation of coronary disease. We genotyped 49 single nucleotide polymorphisms (SNPs) in 9 coagulation system genes and compared patients who had an initial acute MI with patients who presented with stable exertional angina. RESULTS: An SNP in CD36 (rs3211956) was significantly (P = .04) more common among patients who presented with acute MI (minor allele frequency 10.5%) than patients with stable exertional angina (minor allele frequency 8.0%). This association became marginally significant, however, after adjustment for conventional cardiac risk factors in an additive genetic model (odds ratio 1.34, CI 1.00-1.88, P = .053). An SNP in ITGB3 (Leu59Pro, rs5918) was slightly, but not significantly (P = .083), more common among patients with acute MI (minor allele frequency 14.5%) than among patients with stable exertional angina (minor allele frequency 12.0%). Two linked SNPs in THBD (Ala473Val, rs1042579; and rs3176123) were slightly, but not significantly (P = .079 and 0.052, respectively), less common among patients with acute MI (minor allele frequency 16.1%) than among patients with stable exertional angina (18.7% and 19.0%, respectively). CONCLUSIONS: Four SNPs in platelet glycoprotein and hemostatic genes were nominally associated with acute MI rather than stable exertional angina as the initial clinical presentation of coronary artery disease. These findings are suggestive but require independent confirmation in larger studies.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Tree-structured supervised learning and the genetics of hypertension",
+  "authors": [
+    "Jing Huang",
+    "Alfred Lin",
+    "Balasubramanian Narasimhan",
+    "Thomas Quertermous",
+    "C Agnes Hsiung",
+    "Low-Tone Ho",
+    "John S Grove",
+    "Michael Olivier",
+    "Koustubh Ranade",
+    "Neil J Risch",
+    "Richard A Olshen"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 2004,
+  "date": "2004-07-12",
+  "doi": "10.1073/pnas.0403794101",
+  "pmid": "15249660",
+  "pmcid": "PMC489971",
+  "url": "https://doi.org/10.1073/pnas.0403794101",
+  "abstract": "This paper is about an algorithm, FlexTree, for general supervised learning. It extends the binary tree-structured approach (Classification and Regression Trees, CART) although it differs greatly in its selection and combination of predictors. It is particularly applicable to assessing interactions: gene by gene and gene by environment as they bear on complex disease. One model for predisposition to complex disease involves many genes. Of them, most are pure noise; each of the values that is not the prevalent genotype for the minority of genes that contribute to the signal carries a \"score.\" Scores add. Individuals with scores above an unknown threshold are predisposed to the disease. For the additive score problem and simulated data, FlexTree has cross-validated risk better than many cutting-edge technologies to which it was compared when small fractions of candidate genes carry the signal. For the model where only a precise list of aberrant genotypes is predisposing, there is not a systematic pattern of absolute superiority; however, overall, FlexTree seems better than the other technologies. We tried the algorithm on data from 563 Chinese women, 206 hypotensive, 357 hypertensive, with information on ethnicity, menopausal status, insulin-resistant status, and 21 loci. FlexTree and Logic Regression appear better than the others in terms of Bayes risk. However, the differences are not significant in the usual statistical sense.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

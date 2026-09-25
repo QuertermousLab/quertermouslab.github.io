@@ -1,0 +1,37 @@
+{
+  "title": "Single-Cell Transcriptomic Profiling of Vascular Smooth Muscle Cell Phenotype Modulation in Marfan Syndrome Aortic Aneurysm",
+  "authors": [
+    "Albert J Pedroza",
+    "Yasushi Tashima",
+    "Rohan Shad",
+    "Paul Cheng",
+    "Robert Wirka",
+    "Samantha Churovich",
+    "Ken Nakamura",
+    "Nobu Yokoyama",
+    "Jason Z Cui",
+    "Cristiana Iosef",
+    "William Hiesinger",
+    "Thomas Quertermous",
+    "Michael P Fischbein"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2020,
+  "date": "2020-07-23",
+  "doi": "10.1161/ATVBAHA.120.314670",
+  "pmid": "32698686",
+  "pmcid": "PMC7484233",
+  "url": "https://doi.org/10.1161/ATVBAHA.120.314670",
+  "abstract": "OBJECTIVE: To delineate temporal and spatial dynamics of vascular smooth muscle cell (SMC) transcriptomic changes during aortic aneurysm development in Marfan syndrome (MFS). Approach and Results: We performed single-cell RNA sequencing to study aortic root/ascending aneurysm tissue from Fbn1C1041G/+ (MFS) mice and healthy controls, identifying all aortic cell types. A distinct cluster of transcriptomically modulated SMCs (modSMCs) was identified in adult Fbn1C1041G/+ mouse aortic aneurysm tissue only. Comparison with atherosclerotic aortic data (ApoE-/- mice) revealed similar patterns of SMC modulation but identified an MFS-specific gene signature, including plasminogen activator inhibitor-1 (Serpine1) and Kruppel-like factor 4 (Klf4). We identified 481 differentially expressed genes between modSMC and SMC subsets; functional annotation highlighted extracellular matrix modulation, collagen synthesis, adhesion, and proliferation. Pseudotime trajectory analysis of Fbn1C1041G/+ SMC/modSMC transcriptomes identified genes activated differentially throughout the course of phenotype modulation. While modSMCs were not present in young Fbn1C1041G/+ mouse aortas despite small aortic aneurysm, multiple early modSMCs marker genes were enriched, suggesting activation of phenotype modulation. modSMCs were not found in nondilated adult Fbn1C1041G/+ descending thoracic aortas. Single-cell RNA sequencing from human MFS aortic root aneurysm tissue confirmed analogous SMC modulation in clinical disease. Enhanced expression of TGF-β (transforming growth factor beta)-responsive genes correlated with SMC modulation in mouse and human data sets. CONCLUSIONS: Dynamic SMC phenotype modulation promotes extracellular matrix substrate modulation and aortic aneurysm progression in MFS. We characterize the disease-specific signature of modSMCs and provide temporal, transcriptomic context to the current understanding of the role TGF-β plays in MFS aortopathy. Collectively, single-cell RNA sequencing implicates TGF-β signaling and Klf4 overexpression as potential upstream drivers of SMC modulation.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

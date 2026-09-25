@@ -1,0 +1,34 @@
+{
+  "title": "Admixture mapping for hypertension loci with genome-scan markers",
+  "authors": [
+    "Xiaofeng Zhu",
+    "Amy Luke",
+    "Richard S Cooper",
+    "Tom Quertermous",
+    "Craig Hanis",
+    "Tom Mosley",
+    "C Charles Gu",
+    "Hua Tang",
+    "Dabeeru C Rao",
+    "Neil Risch",
+    "Alan Weder"
+  ],
+  "journal": "Nature genetics",
+  "journalAbbrev": "Nat Genet",
+  "year": 2005,
+  "date": "2005-01-23",
+  "doi": "10.1038/ng1510",
+  "pmid": "15665825",
+  "pmcid": null,
+  "url": "https://doi.org/10.1038/ng1510",
+  "abstract": "Identification of genetic variants that contribute to risk of hypertension is challenging. As a complement to linkage and candidate gene association studies, we carried out admixture mapping using genome-scan microsatellite markers among the African American participants in the US National Heart, Lung, and Blood Institute's Family Blood Pressure Program. This population was assumed to have experienced recent admixture from ancestral groups originating in Africa and Europe. We used a set of unrelated individuals from Nigeria to represent the African ancestral population and used the European Americans in the Family Blood Pressure Program to provide estimates of allele frequencies for the European ancestors. We genotyped a common set of 269 microsatellite markers in the three groups at the same laboratory. The distribution of marker location-specific African ancestry, based on multipoint analysis, was shifted upward in hypertensive cases versus normotensive controls, consistent with linkage to genes conferring susceptibility. This shift was largely due to a small number of loci, including five adjacent markers on chromosome 6q and two on chromosome 21q. These results suggest that chromosome 6q24 and 21q21 may contain genes influencing risk of hypertension in African Americans.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

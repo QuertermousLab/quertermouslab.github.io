@@ -1,0 +1,30 @@
+{
+  "title": "Heritability of left ventricular mass in Japanese families living in Hawaii: the SAPPHIRe Study",
+  "authors": [
+    "Themistocles L Assimes",
+    "Balasubramanian Narasimhan",
+    "Todd B Seto",
+    "Sangho Yoon",
+    "J David Curb",
+    "Richard A Olshen",
+    "Thomas Quertermous"
+  ],
+  "journal": "Journal of hypertension",
+  "journalAbbrev": "J Hypertens",
+  "year": 2007,
+  "date": "2007-05-01",
+  "doi": "10.1097/HJH.0b013e32809bd740",
+  "pmid": "17414662",
+  "pmcid": null,
+  "url": "https://doi.org/10.1097/HJH.0b013e32809bd740",
+  "abstract": "OBJECTIVE: Established determinants of left ventricular (LV) mass explain only a modest fraction of its variability. Family studies to date suggest that a proportion of the unexplained variability can be accounted for by additive polygenic effects. An estimate of this proportion has not been reported previously in an East Asian population. The objective of this study was to estimate the heritability of LV mass in Japanese families living in Hawaii. DESIGN AND METHODS: We analyzed data by components of variance in a sample of 169 hypertensive families (n = 476 subjects) and, separately, in a population-based sample of 256 families (n = 501 subjects) participating in the Honolulu Heart Program. RESULTS: In multivariate models, established predictors of LV mass explained about half the total variance of LV mass. Using SOLAR, our estimates of the narrow sense heritability of LV mass ranged from 42.5% (SE 9.8, P < 0.0001) in our sample of hypertensive families to 60.6% (SE 11.7, P < 0.0001) in our population-based sample of families. Parametric bootstrap analyses confirmed that the inference for each sample was appropriate. CONCLUSIONS: Assuming the absence of shared familial environmental effects, close to half of the unexplained variance of LV mass in Japanese subjects living in Hawaii is genetic in nature. This estimate was observed in two independent samples. Therefore, the pursuit of novel genetic determinants of LV mass through either whole genome or candidate gene association studies of this population may be worthwhile. Such studies are certainly feasible.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

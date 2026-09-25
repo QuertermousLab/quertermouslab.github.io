@@ -1,0 +1,32 @@
+{
+  "title": "Apelin prevents aortic aneurysm formation by inhibiting macrophage inflammation",
+  "authors": [
+    "Nicholas J Leeper",
+    "Maureen M Tedesco",
+    "Yoko Kojima",
+    "Geoffrey M Schultz",
+    "Ramendra K Kundu",
+    "Euan A Ashley",
+    "Phillip S Tsao",
+    "Ronald L Dalman",
+    "Thomas Quertermous"
+  ],
+  "journal": "American journal of physiology. Heart and circulatory physiology",
+  "journalAbbrev": "Am J Physiol Heart Circ Physiol",
+  "year": 2009,
+  "date": "2009-03-20",
+  "doi": "10.1152/ajpheart.01341.2008",
+  "pmid": "19304942",
+  "pmcid": "PMC2685356",
+  "url": "https://doi.org/10.1152/ajpheart.01341.2008",
+  "abstract": "Apelin is a potent inodilator with recently described antiatherogenic properties. We hypothesized that apelin might also attenuate abdominal aortic aneurysm (AAA) formation by limiting disease-related vascular wall inflammation. C57BL/6 mice implanted with osmotic pumps filled with apelin or saline were treated with pancreatic elastase to create infrarenal AAAs. Mice were euthanized for aortic PCR analysis or followed ultrasonographically and then euthanized for histological analysis. The cellular expression of inflammatory cytokines and chemokines in response to apelin was also assessed in cultured macrophages, smooth muscle cells, and fibroblasts. Apelin treatment resulted in diminished AAA formation, with a 47% reduction in maximal cross-sectional area (0.74 vs. 1.39 mm(2), P < 0.03) and a 57% reduction in macrophage infiltrate (113 vs. 261.3 cells/high-power field, P < 0.0001) relative to the saline-treated group. Apelin infusion was also associated with significantly reduced aortic macrophage colony-stimulating factor expression and decreased monocyte chemattractant protein (MCP)-1, macrophage inflammatory protein (MIP)-1alpha, interleukin (IL)-6, and tumor necrosis factor (TNF)-alpha mean mRNA levels. Apelin stimulation of cultured macrophages significantly reduced MCP-1 and TNF-alpha mRNA levels relative to baseline (2.03- and 1.89-fold reduction, P < 0.03, respectively) but did not affect intimal adhesion molecule expression or medial or adventitial cell cytokine production. Apelin significantly reduces aneurysm formation in the elastase model of human AAA disease. The mechanism appears to be decreased macrophage burden, perhaps related to an apelin-mediated decrease in proinflammatory cytokine and chemokine activation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Multi-omics analysis identifies CpGs near G6PC2 mediating the effects of genetic variants on fasting glucose",
+  "authors": [
+    "Ren-Hua Chung",
+    "Yen-Feng Chiu",
+    "Wen-Chang Wang",
+    "Chii-Min Hwu",
+    "Yi-Jen Hung",
+    "I-Te Lee",
+    "Lee-Ming Chuang",
+    "Thomas Quertermous",
+    "Jerome I Rotter",
+    "Yii-Der I Chen",
+    "I-Shou Chang",
+    "Chao A Hsiung"
+  ],
+  "journal": "Diabetologia",
+  "journalAbbrev": "Diabetologia",
+  "year": 2021,
+  "date": "2021-04-12",
+  "doi": "10.1007/s00125-021-05449-9",
+  "pmid": "33842983",
+  "pmcid": null,
+  "url": "https://doi.org/10.1007/s00125-021-05449-9",
+  "abstract": "AIMS/HYPOTHESIS: An elevated fasting glucose level in non-diabetic individuals is a key predictor of type 2 diabetes. Genome-wide association studies (GWAS) have identified hundreds of SNPs for fasting glucose but most of their functional roles in influencing the trait are unclear. This study aimed to identify the mediation effects of DNA methylation between SNPs identified as significant from GWAS and fasting glucose using Mendelian randomisation (MR) analyses. METHODS: We first performed GWAS analyses for three cohorts (Taiwan Biobank with 18,122 individuals, the Healthy Aging Longitudinal Study in Taiwan with 1989 individuals and the Stanford Asia-Pacific Program for Hypertension and Insulin Resistance with 416 individuals) with individuals of Han Chinese ancestry in Taiwan, followed by a meta-analysis for combining the three GWAS analysis results to identify significant and independent SNPs for fasting glucose. We determined whether these SNPs were methylation quantitative trait loci (meQTLs) by testing their associations with DNA methylation levels at nearby CpG sites using a subsample of 1775 individuals from the Taiwan Biobank. The MR analysis was performed to identify DNA methylation with causal effects on fasting glucose using meQTLs as instrumental variables based on the 1775 individuals. We also used a two-sample MR strategy to perform replication analysis for CpG sites with significant MR effects based on literature data. RESULTS: Our meta-analysis identified 18 significant (p < 5 × 10-8) and independent SNPs for fasting glucose. Interestingly, all 18 SNPs were meQTLs. The MR analysis identified seven CpGs near the G6PC2 gene that mediated the effects of a significant SNP (rs2232326) in the gene on fasting glucose. The MR effects for two CpGs were replicated using summary data based on the European population, using an exonic SNP rs2232328 in G6PC2 as the instrument. CONCLUSIONS/INTERPRETATION: Our analysis results suggest that rs2232326 and rs2232328 in G6PC2 may affect DNA methylation at CpGs near the gene and that the methylation may have downstream effects on fasting glucose. Therefore, SNPs in G6PC2 and CpGs near G6PC2 may reside along the pathway that influences fasting glucose levels. This is the first study to report CpGs near G6PC2, an important gene for regulating insulin secretion, mediating the effects of GWAS-significant SNPs on fasting glucose.",
+  "pubTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

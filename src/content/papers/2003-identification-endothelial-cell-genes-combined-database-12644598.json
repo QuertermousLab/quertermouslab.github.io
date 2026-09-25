@@ -1,0 +1,40 @@
+{
+  "title": "Identification of endothelial cell genes by combined database mining and microarray analysis",
+  "authors": [
+    "Michael Ho",
+    "Eugene Yang",
+    "George Matcuk",
+    "David Deng",
+    "Nick Sampas",
+    "Anya Tsalenko",
+    "Raymond Tabibiazar",
+    "Ying Zhang",
+    "Mary Chen",
+    "Said Talbi",
+    "Yen Dong Ho",
+    "James Wang",
+    "Philip S Tsao",
+    "Amir Ben-Dor",
+    "Zohar Yakhini",
+    "Laurakay Bruhn",
+    "Thomas Quertermous"
+  ],
+  "journal": "Physiological genomics",
+  "journalAbbrev": "Physiol Genomics",
+  "year": 2003,
+  "date": "2003-05-13",
+  "doi": "10.1152/physiolgenomics.00186.2002",
+  "pmid": "12644598",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/physiolgenomics.00186.2002",
+  "abstract": "Vascular endothelial cells maintain the interface between the systemic circulation and soft tissues and mediate critical processes such as inflammation in a vascular bed-selective fashion. To expand our understanding of the genetic pathways that underlie these specific functions, we have focused on the identification of novel genes that are differentially expressed in all endothelial cells, as well as restricted groups of this cell type. Virtual subtraction was conducted employing gene expression data deposited in public databases and 384 genes identified. These genes were spotted on custom microarrays, along with 288 genes identified through subtraction cloning from TGF-beta-stimulated endothelial cells. Arrays were evaluated with RNA samples representing endothelial cells cultured from four vascular sources and five non-endothelial cell types. These studies identified 64 pan-endothelial markers that were differentially expressed with at least a threefold difference (range 3- to 55-fold). In addition, differences in gene expression profiles among endothelial cells from different vascular beds were identified. Validation of these findings was performed by RNA blot expression studies, and a number of the novel genes were shown to be expressed under angiogenic conditions in the developing mouse embryo. The combined tools of database mining and transcriptional profiling thus provide expanded knowledge of endothelial cell gene expression and endothelial cell biology.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Opportunities and challenges for transcriptome-wide association studies",
+  "authors": [
+    "Michael Wainberg",
+    "Nasa Sinnott-Armstrong",
+    "Nicholas Mancuso",
+    "Alvaro N Barbeira",
+    "David A Knowles",
+    "David Golan",
+    "Raili Ermel",
+    "Arno Ruusalepp",
+    "Thomas Quertermous",
+    "Ke Hao",
+    "Johan L M Björkegren",
+    "Hae Kyung Im",
+    "Bogdan Pasaniuc",
+    "Manuel A Rivas",
+    "Anshul Kundaje"
+  ],
+  "journal": "Nature genetics",
+  "journalAbbrev": "Nat Genet",
+  "year": 2019,
+  "date": "2019-03-29",
+  "doi": "10.1038/s41588-019-0385-z",
+  "pmid": "30926968",
+  "pmcid": "PMC6777347",
+  "url": "https://doi.org/10.1038/s41588-019-0385-z",
+  "abstract": "Transcriptome-wide association studies (TWAS) integrate genome-wide association studies (GWAS) and gene expression datasets to identify gene-trait associations. In this Perspective, we explore properties of TWAS as a potential approach to prioritize causal genes at GWAS loci, by using simulations and case studies of literature-curated candidate causal genes for schizophrenia, low-density-lipoprotein cholesterol and Crohn's disease. We explore risk loci where TWAS accurately prioritizes the likely causal gene as well as loci where TWAS prioritizes multiple genes, some likely to be non-causal, owing to sharing of expression quantitative trait loci (eQTL). TWAS is especially prone to spurious prioritization with expression data from non-trait-related tissues or cell types, owing to substantial cross-cell-type variation in expression levels and eQTL strengths. Nonetheless, TWAS prioritizes candidate causal genes more accurately than simple baselines. We suggest best practices for causal-gene prioritization with TWAS and discuss future opportunities for improvement. Our results showcase the strengths and limitations of using eQTL datasets to determine causal genes at GWAS loci.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

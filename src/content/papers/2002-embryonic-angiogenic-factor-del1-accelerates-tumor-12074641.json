@@ -1,0 +1,31 @@
+{
+  "title": "The embryonic angiogenic factor Del1 accelerates tumor growth by enhancing vascular formation",
+  "authors": [
+    "Yoshikazu Aoka",
+    "Frances L Johnson",
+    "Kalyani Penta",
+    "Ken-ichi Hirata Ki",
+    "Chiaki Hidai",
+    "Randall Schatzman",
+    "Judith A Varner",
+    "Thomas Quertermous"
+  ],
+  "journal": "Microvascular research",
+  "journalAbbrev": "Microvasc Res",
+  "year": 2002,
+  "date": "2002-07-01",
+  "doi": "10.1006/mvre.2002.2414",
+  "pmid": "12074641",
+  "pmcid": null,
+  "url": "https://doi.org/10.1006/mvre.2002.2414",
+  "abstract": "Del1 is a unique alpha v beta 3 integrin ligand that is produced by endothelial cells, and thus provides an autocrine signaling pathway in this cell type. It is expressed transiently in the embryo and mediates cell attachment, migration, and activation of cytoplasmic signaling molecules in focal contacts. Del1 also activates angiogenesis in the chick chorioallantoic membrane assay. Reexpression of this embryonic signaling molecule has now been documented in naturally occurring human tumors, where it is expressed by both tumor cells and angiogenic endothelial cells, suggesting that Del1 is important in mediating angiogenesis under pathophysiological conditions in the adult. To investigate the role of Del1 in tumor growth and angiogenesis, human 143B osteosarcoma cells and murine Lewis lung carcinoma cells were engineered to express Del1 and compared to control transfectants for their ability to produce tumors in nude or syngeneic mice, respectively. Del1 expressing tumors showed a two- to fourfold increase in capillary density and an accelerated rate of growth. Expression of Del1 also correlated with a decrease in apoptosis in tumor cells in vivo. Taken together, these data suggest that Del1 acts as an angiogenic factor in the context of solid tumor formation and that this increase in vascularization accelerates tumor growth through decreased apoptosis.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

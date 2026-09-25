@@ -1,0 +1,25 @@
+{
+  "title": "Adenosine-to-Inosine (A-to-I) RNA Editing by ADAR1 to Control RNA Sensing in Cardiovascular Disease",
+  "authors": [
+    "Chad S Weldy",
+    "Jin Billy Li",
+    "Thomas Quertermous"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2026,
+  "date": "2026-02-26",
+  "doi": "10.1161/ATVBAHA.125.323847",
+  "pmid": "41744067",
+  "pmcid": "PMC12948147",
+  "url": "https://doi.org/10.1161/ATVBAHA.125.323847",
+  "abstract": "Across biology, organisms have retained a mechanism to diversify the RNA transcriptome through RNA editing. Mediated by ADAR (adenosine deaminase acting on RNA) enzymes, Adenosines in double-stranded RNA (dsRNA) structures can be edited to Inosines (adenosine-to-inosine edit). Although this can change the amino acid sequence if it occurs in a coding sequence of mRNA, the majority of RNA editing in mammalian cells is found in noncoding repetitive elements. These repetitive elements have a predisposition to form long dsRNA structures that can mimic a dsRNA virus. Since the initial discoveries of RNA editing over 30 years ago, investigators have now identified ADAR1 to play a crucial role in suppressing innate immune activation and type I interferon signaling. Through adenosine-to-inosine editing, these dsRNA change their conformational structures and evade activation of the innate immune dsRNA sensor, MDA5 (melanoma differentiation-associated gene 5; gene symbol IFIH1). In human disease, although rare loss-of-function variants of ADAR1 have been associated with severe autoimmune disease, there has also been a rapid advance in our understanding of this molecular pathway in common complex diseases. We now understand that common genetic variants can impact RNA editing frequencies, and variants that decrease RNA editing are associated with an increase in risk of numerous autoinflammatory disorders as well as coronary artery disease. This rapid advance in our understanding of the genetic determinants of RNA editing and coronary artery disease has been mirrored by new discoveries in molecular biology, where deficient RNA editing within the vascular wall and smooth muscle cell now highlights endogenous RNA sensing by MDA5 as a causal mechanism of coronary artery disease and other vascular disorders. Here, in this review, we provide a focused look at major advances in RNA editing and cardiovascular disease and put these discoveries into historical context with a goal to map the next steps to advance these molecular pathways to new therapeutic discovery.",
+  "pubTypes": [
+    "Journal Article",
+    "Review"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

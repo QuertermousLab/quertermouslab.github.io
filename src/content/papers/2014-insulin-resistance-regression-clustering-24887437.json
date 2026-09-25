@@ -1,0 +1,32 @@
+{
+  "title": "Insulin resistance: regression and clustering",
+  "authors": [
+    "Sangho Yoon",
+    "Themistocles L Assimes",
+    "Thomas Quertermous",
+    "Chin-Fu Hsiao",
+    "Lee-Ming Chuang",
+    "Chii-Min Hwu",
+    "Bala Rajaratnam",
+    "Richard A Olshen"
+  ],
+  "journal": "PloS one",
+  "journalAbbrev": "PLoS One",
+  "year": 2014,
+  "date": "2014-06-02",
+  "doi": "10.1371/journal.pone.0094129",
+  "pmid": "24887437",
+  "pmcid": "PMC4041565",
+  "url": "https://doi.org/10.1371/journal.pone.0094129",
+  "abstract": "In this paper we try to define insulin resistance (IR) precisely for a group of Chinese women. Our definition deliberately does not depend upon body mass index (BMI) or age, although in other studies, with particular random effects models quite different from models used here, BMI accounts for a large part of the variability in IR. We accomplish our goal through application of Gauss mixture vector quantization (GMVQ), a technique for clustering that was developed for application to lossy data compression. Defining data come from measurements that play major roles in medical practice. A precise statement of what the data are is in Section 1. Their family structures are described in detail. They concern levels of lipids and the results of an oral glucose tolerance test (OGTT). We apply GMVQ to residuals obtained from regressions of outcomes of an OGTT and lipids on functions of age and BMI that are inferred from the data. A bootstrap procedure developed for our family data supplemented by insights from other approaches leads us to believe that two clusters are appropriate for defining IR precisely. One cluster consists of women who are IR, and the other of women who seem not to be. Genes and other features are used to predict cluster membership. We argue that prediction with \"main effects\" is not satisfactory, but prediction that includes interactions may be.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

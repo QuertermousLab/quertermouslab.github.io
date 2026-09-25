@@ -1,0 +1,29 @@
+{
+  "title": "Human T-cell gamma genes contain N segments and have marked junctional variability",
+  "authors": [
+    "T Quertermous",
+    "W Strauss",
+    "C Murre",
+    "D P Dialynas",
+    "J L Strominger",
+    "J G Seidman"
+  ],
+  "journal": "Nature",
+  "journalAbbrev": "Nature",
+  "year": 1986,
+  "date": "1986-01-01",
+  "doi": "10.1038/322184a0",
+  "pmid": "3453106",
+  "pmcid": null,
+  "url": "https://doi.org/10.1038/322184a0",
+  "abstract": "The gamma-chain genes are encoded by immunoglobulin-like gene segments in germline DNA which rearrange during the somatic development of T cells to form an active gene. The protein produced by these genes has not been identified and the diversity of the proteins that the genes can express has not been determined. We expect that the diversity of expressed gamma-chains is produced by the same three mechanisms that produce diversity of other immunoglobulin-like genes: (1) germline variable (V) and joining (J) region repertoires; (2) somatic mutation; and (3) junctional diversity. To define the contribution of each of these mechanisms to the generation of gamma-chain diversity, several gamma-chain complementary clones and rearranged gamma-chain genes have been characterized. Most of these clones seem to encode a defective gamma-chain, the variable- and constant-region portions being joined such that they would not be translated in the same reading frame. Here we report that the germline J-region diversity of the human T-cell gamma-chain is very limited and that somatic mutation does not contribute to the diversity of the gamma-chains encoded by the cloned segments. However, the junctional diversity of these gamma-chain genes is extensive. We suggest that N sequences (template-independent sequences) have been inserted enzymatically into all of the gamma-chain genes characterized.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

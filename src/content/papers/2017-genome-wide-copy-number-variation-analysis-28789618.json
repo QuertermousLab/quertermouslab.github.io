@@ -1,0 +1,31 @@
+{
+  "title": "Genome-wide copy number variation analysis identified deletions in SFMBT1 associated with fasting plasma glucose in a Han Chinese population",
+  "authors": [
+    "Ren-Hua Chung",
+    "Yen-Feng Chiu",
+    "Yi-Jen Hung",
+    "Wen-Jane Lee",
+    "Kwan-Dun Wu",
+    "Hui-Ling Chen",
+    "Ming-Wei Lin",
+    "Yii-Der I Chen",
+    "Thomas Quertermous",
+    "Chao A Hsiung"
+  ],
+  "journal": "BMC genomics",
+  "journalAbbrev": "BMC Genomics",
+  "year": 2017,
+  "date": "2017-08-08",
+  "doi": "10.1186/s12864-017-3975-0",
+  "pmid": "28789618",
+  "pmcid": "PMC5549306",
+  "url": "https://doi.org/10.1186/s12864-017-3975-0",
+  "abstract": "BACKGROUND: Fasting glucose and fasting insulin are glycemic traits closely related to diabetes, and understanding the role of genetic factors in these traits can help reveal the etiology of type 2 diabetes. Although single nucleotide polymorphisms (SNPs) in several candidate genes have been found to be associated with fasting glucose and fasting insulin, copy number variations (CNVs), which have been reported to be associated with several complex traits, have not been reported for association with these two traits. We aimed to identify CNVs associated with fasting glucose and fasting insulin. RESULTS: We conducted a genome-wide CNV association analysis for fasting plasma glucose (FPG) and fasting plasma insulin (FPI) using a family-based genome-wide association study sample from a Han Chinese population in Taiwan. A family-based CNV association test was developed in this study to identify common CNVs (i.e., CNVs with frequencies ≥ 5%), and a generalized estimating equation approach was used to test the associations between the traits and counts of global rare CNVs (i.e., CNVs with frequencies <5%). We found a significant genome-wide association for common deletions with a frequency of 5.2% in the Scm-like with four mbt domains 1 (SFMBT1) gene with FPG (association p-value = 2×10-4 and an adjusted p-value = 0.0478 for multiple testing). No significant association was observed between global rare CNVs and FPG or FPI. The deletions in 20 individuals with DNA samples available were successfully validated using PCR-based amplification. The association of the deletions in SFMBT1 with FPG was further evaluated using an independent population-based replication sample obtained from the Taiwan Biobank. An association p-value of 0.065, which was close to the significance level of 0.05, for FPG was obtained by testing 9 individuals with CNVs in the SFMBT1 gene region and 11,692 individuals with normal copies in the replication cohort. CONCLUSIONS: Previous studies have found that SNPs in SFMBT1 are associated with blood pressure and serum urate concentration, suggesting that SFMBT1 may have functional implications in some metabolic-related traits.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Human T cell gamma-chain gene rearrangements in acute lymphoid and nonlymphoid leukemia: comparison with the T cell receptor beta-chain gene",
+  "authors": [
+    "J M Greenberg",
+    "T Quertermous",
+    "J G Seidman",
+    "J H Kersey"
+  ],
+  "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+  "journalAbbrev": "J Immunol",
+  "year": 1986,
+  "date": "1986-09-15",
+  "doi": null,
+  "pmid": "3489046",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/3489046/",
+  "abstract": "Rearrangement of germ-line genes coding for T and B cell antigen receptor molecules is an early event in lymphoid development which eventually leads to the generation of clonal diversity in receptor-positive lymphocytes. Three T cell-associated rearranging genes have been described. Two, T alpha and T beta, code for the two polypeptide chains that form the T cell receptor heterodimer. The function of the third gene, the gamma-gene (T gamma), is not known. To learn more about the behavior of T gamma during lymphoid ontogeny, we compared rearrangement of T gamma and T beta genes in leukemic cells arrested at varied stages of lymphoid and myeloid development. We analyzed 38 fresh cell lines and 15 established cell lines from a total of 53 leukemic patients. Cells were immunophenotyped with a panel of monoclonal antibodies recognizing T-, B-, or myeloid-associated surface markers. Sixteen T-lineage cases were studied; 15 displayed both T beta and T gamma rearrangements. The exception (germ-line for T beta and T gamma) was an immature CD2(T11)+, CD3(T3)-, CD7(3A1)+, CD1(T6)+, CD5(T101)+ phenotype. Fourteen non-T non-B leukemias were analyzed; eight were germ-line for both T beta and T gamma, four had rearrangements involving both T beta and T gamma, and two were germ-line for T beta and rearranged to T gamma. Four cases with acute biphenotypic leukemia were studied; two had rearrangements of T beta and T gamma, and two were germ-line for both genes. Cells from nonlymphocytic leukemias were studied in 19 cases. All were found to be germ-line for both T beta and T gamma. Fifty-one of 53 genomic DNA samples were concordant for T gamma and T beta rearrangement. These results indicate that rearrangement of T gamma can occur in leukemic cells of B cell as well as T cell precursor origin, as has been reported previously for T beta.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

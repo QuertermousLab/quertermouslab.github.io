@@ -1,0 +1,40 @@
+{
+  "title": "Susceptibility locus for clinical and subclinical coronary artery disease at chromosome 9p21 in the multi-ethnic ADVANCE study",
+  "authors": [
+    "Themistocles L Assimes",
+    "Joshua W Knowles",
+    "Analabha Basu",
+    "Carlos Iribarren",
+    "Audrey Southwick",
+    "Hua Tang",
+    "Devin Absher",
+    "Jun Li",
+    "Joan M Fair",
+    "Geoffrey D Rubin",
+    "Stephen Sidney",
+    "Stephen P Fortmann",
+    "Alan S Go",
+    "Mark A Hlatky",
+    "Richard M Myers",
+    "Neil Risch",
+    "Thomas Quertermous"
+  ],
+  "journal": "Human molecular genetics",
+  "journalAbbrev": "Hum Mol Genet",
+  "year": 2008,
+  "date": "2008-04-28",
+  "doi": "10.1093/hmg/ddn132",
+  "pmid": "18443000",
+  "pmcid": "PMC2733811",
+  "url": "https://doi.org/10.1093/hmg/ddn132",
+  "abstract": "A susceptibility locus for coronary artery disease (CAD) at chromosome 9p21 has recently been reported, which may influence the age of onset of CAD. We sought to replicate these findings among white subjects and to examine whether these results are consistent with other racial/ethnic groups by genotyping three single nucleotide polymorphisms (SNPs) in the risk interval in the Atherosclerotic Disease, Vascular Function, and Genetic Epidemiology (ADVANCE) study. One or more of these SNPs was associated with clinical CAD in whites, U.S. Hispanics and U.S. East Asians. None of the SNPs were associated with CAD in African Americans although the power to detect an odds ratio (OR) in this group equivalent to that seen in whites was only 24-30%. ORs were higher in Hispanics and East Asians and lower in African Americans, but in all groups the 95% confidence intervals overlapped with ORs observed in whites. High-risk alleles were also associated with increased coronary artery calcification in controls and the magnitude of these associations by racial/ethnic group closely mirrored the magnitude observed for clinical CAD. Unexpectedly, we noted significant genotype frequency differences between male and female cases (P = 0.003-0.05). Consequently, men tended towards a recessive and women tended towards a dominant mode of inheritance. Finally, an effect of genotype on the age of onset of CAD was detected but only in men carrying two versus one or no copy of the high-risk allele and presenting with CAD at age >50 years. Further investigations in other populations are needed to confirm or refute our findings.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

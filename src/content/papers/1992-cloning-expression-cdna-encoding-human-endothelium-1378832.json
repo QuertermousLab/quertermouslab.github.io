@@ -1,0 +1,28 @@
+{
+  "title": "Cloning and expression of a cDNA encoding human endothelium-derived relaxing factor/nitric oxide synthase",
+  "authors": [
+    "S P Janssens",
+    "A Shimouchi",
+    "T Quertermous",
+    "D B Bloch",
+    "K D Bloch"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1992,
+  "date": "1992-07-25",
+  "doi": null,
+  "pmid": "1378832",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/1378832/",
+  "abstract": "Nitric oxide, which accounts for the biological activity of endothelium-derived relaxing factor (EDRF), is synthesized in endothelial cells from L-arginine by nitric oxide synthase (NOS). We report here the cloning and functional expression of a cDNA encoding human endothelial NOS. Oligonucleotides corresponding to amino acid sequences shared by cytochrome P450 reductase and the recently identified brain NOS were synthesized to amplify a partial cDNA encoding a bovine endothelial cell NOS-related protein. This partial cDNA was used to isolate a cDNA encoding a human vascular endothelial NOS. The translated human protein is 1294 amino acids long and shares 52% of its amino acid sequence with brain NOS. Using RNA blot hybridization, abundant endothelial NOS mRNA was detected in unstimulated human umbilical vein endothelial cells. To determine the functional activity of the endothelial protein, we ligated the cDNA into an expression vector and transfected it into NIH3T3 cells. Cells expressing this cDNA contained abundant NADPH diaphorase activity, a histochemical marker for NOS. In co-culture assays, nitric oxide production by transfected cells increased guanylate cyclase activity in reporter rat fetal lung fibroblasts. In addition, NOS-catalyzed conversion of arginine to citrulline in transfected cells was significantly increased by A23187, a calcium ionophore. Isolation of a cDNA encoding a calcium-regulated, constitutively expressed human endothelial NOS, capable of producing EDRF in blood vessels, will accelerate the characterization of the role of this enzyme in normal and abnormal endothelial regulation of vascular tone.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Load-dependent effects of apelin on murine cardiomyocytes",
+  "authors": [
+    "Rémi Peyronnet",
+    "Christian Bollensdorff",
+    "Rebecca A Capel",
+    "Eva A Rog-Zielinska",
+    "Christopher E Woods",
+    "David N Charo",
+    "Oleg Lookin",
+    "Giovanni Fajardo",
+    "Michael Ho",
+    "Thomas Quertermous",
+    "Euan A Ashley",
+    "Peter Kohl"
+  ],
+  "journal": "Progress in biophysics and molecular biology",
+  "journalAbbrev": "Prog Biophys Mol Biol",
+  "year": 2017,
+  "date": "2017-09-18",
+  "doi": "10.1016/j.pbiomolbio.2017.09.013",
+  "pmid": "28935153",
+  "pmcid": "PMC5726609",
+  "url": "https://doi.org/10.1016/j.pbiomolbio.2017.09.013",
+  "abstract": "The apelin peptide is described as one of the most potent inotropic agents, produced endogenously in a wide range of cells, including cardiomyocytes. Despite positive effects on cardiac contractility in multicellular preparations, as well as indications of cardio-protective actions in several diseases, its effects and mechanisms of action at the cellular level are incompletely understood. Here, we report apelin effects on dynamic mechanical characteristics of single ventricular cardiomyocytes, isolated from mouse models (control, apelin-deficient [Apelin-KO], apelin-receptor KO mouse [APJ-KO]), and rat. Dynamic changes in maximal velocity of cell shortening and relaxation were monitored. In addition, more traditional indicators of inotropic effects, such as maximum shortening (in mechanically unloaded cells) or peak force development (in auxotonic contracting cells, preloaded using the carbon fibre technique) were studied. The key finding is that, using Apelin-KO cardiomyocytes exposed to different preloads with the 2-carbon fibre technique, we observe a lowering of the slope of the end-diastolic stress-length relation in response to 10 nM apelin, an effect that is preload-dependent. This suggests a positive lusitropic effect of apelin, which could explain earlier counter-intuitive findings on an apelin-induced increase in contractility occurring without matching rise in oxygen consumption.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

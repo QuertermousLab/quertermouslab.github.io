@@ -1,0 +1,28 @@
+{
+  "title": "Glia maturation factor-gamma is preferentially expressed in microvascular endothelial and inflammatory cells and modulates actin cytoskeleton reorganization",
+  "authors": [
+    "Koji Ikeda",
+    "Ramendra K Kundu",
+    "Shoko Ikeda",
+    "Miyuki Kobara",
+    "Hiroaki Matsubara",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2006,
+  "date": "2006-07-27",
+  "doi": "10.1161/01.RES.0000237662.23539.0b",
+  "pmid": "16873721",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/01.RES.0000237662.23539.0b",
+  "abstract": "Actin cytoskeleton reorganization is a fundamental process for actin-based cellular functions such as cytokinesis, phagocytosis, and chemotaxis. Regulating actin cytoskeleton reorganization is therefore an attractive approach to control endothelial and inflammatory cells function and to treat cardiovascular diseases. Here, we identified glia maturation factor-gamma (GMFG) as a novel factor in actin cytoskeleton reorganization and is expressed preferentially in microvascular endothelial and inflammatory cells. During mouse embryogenesis, GMFG was expressed predominantly in blood islands of the yolk sac, where endothelial and hematopoietic cells develop simultaneously. In endothelial cells, GMFG was colocalized with F-actin in membrane ruffles and was associated with F-actin assessed by actin co-sedimentation assay. Interestingly, GMFG was phosphorylated at N-terminal serine, and its phosphorylation was enhanced by coexpression of dominant active Rac1 and Cdc42. Furthermore, a pseudophosphorylated form of GMFG (GMFG-S2E) demonstrated higher association with F-actin. Stable expression of GMFG-S2E remarkably enhanced stimulus-responsive lamellipodia and subsequent membrane ruffle formation in HeLa cells presumably through its interaction with Arp2/3 complex. Expression of GMFG enhanced actin-based cellular functions such as migration and tube-formation in endothelial cells. Moreover, we found that GMFG expression was significantly increased in a cardiac ischemia/reperfusion model where inflammation and angiogenesis take place actively. Taken together, our findings define a novel pathway in the regulation of actin-based cellular functions. Regulating GMFG function may provide a novel approach to modulate the pathophysiology of cardiovascular diseases.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

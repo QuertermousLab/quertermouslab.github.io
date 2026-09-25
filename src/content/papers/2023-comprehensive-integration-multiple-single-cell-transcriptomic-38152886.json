@@ -1,0 +1,38 @@
+{
+  "title": "Comprehensive Integration of Multiple Single-Cell Transcriptomic Data Sets Defines Distinct Cell Populations and Their Phenotypic Changes in Murine Atherosclerosis",
+  "authors": [
+    "Disha Sharma",
+    "Matthew D Worssam",
+    "Albert J Pedroza",
+    "Alex R Dalal",
+    "Haizea Alemany",
+    "Hyun-Jung Kim",
+    "Ramendra Kundu",
+    "Michael P Fischbein",
+    "Paul Cheng",
+    "Robert Wirka",
+    "Thomas Quertermous"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2023,
+  "date": "2023-12-28",
+  "doi": "10.1161/ATVBAHA.123.320030",
+  "pmid": "38152886",
+  "pmcid": "PMC11285358",
+  "url": "https://doi.org/10.1161/ATVBAHA.123.320030",
+  "abstract": "BACKGROUND: The application of single-cell transcriptomic (single-cell RNA sequencing) analysis to the study of atherosclerosis has provided unique insights into the molecular and genetic mechanisms that mediate disease risk and pathophysiology. However, nonstandardized methodologies and relatively high costs associated with the technique have limited the size and replication of existing data sets and created disparate or contradictory findings that have fostered misunderstanding and controversy. METHODS: To address these uncertainties, we have performed a conservative integration of multiple published single-cell RNA sequencing data sets into a single meta-analysis, performed extended analysis of native resident vascular cells, and used in situ hybridization to map the disease anatomic location of the identified cluster cells. To investigate the transdifferentiation of smooth muscle cells to macrophage phenotype, we have developed a classifying algorithm based on the quantification of reporter transgene expression. RESULTS: The reporter gene expression tool indicates that within the experimental limits of the examined studies, transdifferentiation of smooth muscle cell to the macrophage lineage is extremely rare. Validated transition smooth muscle cell phenotypes were defined by clustering, and the location of these cells was mapped to lesion anatomy with in situ hybridization. We have also characterized 5 endothelial cell phenotypes and linked these cellular species to different vascular structures and functions. Finally, we have identified a transcriptomically unique cellular phenotype that constitutes the aortic valve. CONCLUSIONS: Taken together, these analyses resolve a number of outstanding issues related to differing results reported with vascular disease single-cell RNA sequencing studies, and significantly extend our understanding of the role of resident vascular cells in anatomy and disease.",
+  "pubTypes": [
+    "Meta-Analysis",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": true,
+  "tags": [],
+  "highlightOrder": 15,
+  "theme": "atlas",
+  "summary": "Integration of multiple single-cell datasets from human and mouse atherosclerosis defines a consensus map of vascular cell populations and their association with disease risk."
+}

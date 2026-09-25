@@ -1,0 +1,27 @@
+{
+  "title": "Identification of an octamer element required for in vivo expression of the TIE1 gene in endothelial cells",
+  "authors": [
+    "S C Boutet",
+    "T Quertermous",
+    "B M Fadel"
+  ],
+  "journal": "The Biochemical journal",
+  "journalAbbrev": "Biochem J",
+  "year": 2001,
+  "date": "2001-11-15",
+  "doi": "10.1042/0264-6021:3600023",
+  "pmid": "11695988",
+  "pmcid": "PMC1222198",
+  "url": "https://doi.org/10.1042/0264-6021:3600023",
+  "abstract": "TIE1, an endothelial-cell-specific tyrosine kinase receptor, is required for the survival and growth of microvascular endothelial cells during the capillary sprouting phase of vascular development. To investigate the molecular mechanisms that regulate the expression of TIE1 in the endothelium, we analysed transgenic mouse embryos carrying wild-type or mutant TIE1 promoter/LacZ constructs. Our data indicate that an upstream DNA octamer element (5'-ATGCAAAT-3') is required for the in vivo expression of TIE1 in embryonic endothelial cells. Transgenic embryos carrying the wild-type TIE1 promoter (-466 to +78 bp) fused to LacZ and spanning the octamer element demonstrate endothelial-cell-specific expression of the reporter transgene. Point mutations introduced within the octamer element result in a significant decrease of endothelial LacZ expression, suggesting that the octamer site functions as a positive regulator for TIE1 gene expression in endothelial cells. DNA-protein binding studies show that the octamer element exhibits an endothelial-cell-specific pattern of binding via interaction with endothelial-cell-restricted factor(s). Our findings suggest an important role for the octamer element in regulating the expression of the TIE1 receptor in the embryonic endothelium and suggest a common mechanism for the regulation of the angiogenic and cell-specific TIE1 and TIE2 genes during vascular development.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

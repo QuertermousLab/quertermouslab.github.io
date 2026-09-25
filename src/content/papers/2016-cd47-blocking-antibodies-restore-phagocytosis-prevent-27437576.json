@@ -1,0 +1,41 @@
+{
+  "title": "CD47-blocking antibodies restore phagocytosis and prevent atherosclerosis",
+  "authors": [
+    "Yoko Kojima",
+    "Jens-Peter Volkmer",
+    "Kelly McKenna",
+    "Mete Civelek",
+    "Aldons Jake Lusis",
+    "Clint L Miller",
+    "Daniel Direnzo",
+    "Vivek Nanda",
+    "Jianqin Ye",
+    "Andrew J Connolly",
+    "Eric E Schadt",
+    "Thomas Quertermous",
+    "Paola Betancur",
+    "Lars Maegdefessel",
+    "Ljubica Perisic Matic",
+    "Ulf Hedin",
+    "Irving L Weissman",
+    "Nicholas J Leeper"
+  ],
+  "journal": "Nature",
+  "journalAbbrev": "Nature",
+  "year": 2016,
+  "date": "2016-07-20",
+  "doi": "10.1038/nature18935",
+  "pmid": "27437576",
+  "pmcid": "PMC4980260",
+  "url": "https://doi.org/10.1038/nature18935",
+  "abstract": "Atherosclerosis is the disease process that underlies heart attack and stroke. Advanced lesions at risk of rupture are characterized by the pathological accumulation of diseased vascular cells and apoptotic cellular debris. Why these cells are not cleared remains unknown. Here we show that atherogenesis is associated with upregulation of CD47, a key anti-phagocytic molecule that is known to render malignant cells resistant to programmed cell removal, or 'efferocytosis'. We find that administration of CD47-blocking antibodies reverses this defect in efferocytosis, normalizes the clearance of diseased vascular tissue, and ameliorates atherosclerosis in multiple mouse models. Mechanistic studies implicate the pro-atherosclerotic factor TNF-α as a fundamental driver of impaired programmed cell removal, explaining why this process is compromised in vascular disease. Similar to recent observations in cancer, impaired efferocytosis appears to play a pathogenic role in cardiovascular disease, but is not a fixed defect and may represent a novel therapeutic target.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Cloning of a unique lipase from endothelial cells extends the lipase gene family",
+  "authors": [
+    "K Hirata",
+    "H L Dichek",
+    "J A Cioffi",
+    "S Y Choi",
+    "N J Leeper",
+    "L Quintana",
+    "G S Kronmal",
+    "A D Cooper",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1999,
+  "date": "1999-05-14",
+  "doi": "10.1074/jbc.274.20.14170",
+  "pmid": "10318835",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.274.20.14170",
+  "abstract": "A new lipoprotein lipase-like gene has been cloned from endothelial cells through a subtraction methodology aimed at characterizing genes that are expressed with in vitro differentiation of this cell type. The conceptual endothelial cell-derived lipase protein contains 500 amino acids, including an 18-amino acid hydrophobic signal sequence, and is 44% identical to lipoprotein lipase and 41% identical to hepatic lipase. Comparison of primary sequence to that of lipoprotein and hepatic lipase reveals conservation of the serine, aspartic acid, and histidine catalytic residues as well as the 10 cysteine residues involved in disulfide bond formation. Expression was identified in cultured human umbilical vein endothelial cells, human coronary artery endothelial cells, and murine endothelial-like yolk sac cells by Northern blot. In addition, Northern blot and in situ hybridization analysis revealed expression of the endothelial-derived lipase in placenta, liver, lung, ovary, thyroid gland, and testis. A c-Myc-tagged protein secreted from transfected COS7 cells had phospholipase A1 activity but no triglyceride lipase activity. Its tissue-restricted pattern of expression and its ability to be expressed by endothelial cells, suggests that endothelial cell-derived lipase may have unique functions in lipoprotein metabolism and in vascular disease.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

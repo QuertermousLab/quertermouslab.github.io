@@ -1,0 +1,34 @@
+{
+  "title": "Coronary Disease-Associated Gene TCF21 Inhibits Smooth Muscle Cell Differentiation by Blocking the Myocardin-Serum Response Factor Pathway",
+  "authors": [
+    "Manabu Nagao",
+    "Qing Lyu",
+    "Quanyi Zhao",
+    "Robert C Wirka",
+    "Joetsaroop Bagga",
+    "Trieu Nguyen",
+    "Paul Cheng",
+    "Juyong Brian Kim",
+    "Milos Pjanic",
+    "Joseph M Miano",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2019,
+  "date": "2019-12-09",
+  "doi": "10.1161/CIRCRESAHA.119.315968",
+  "pmid": "31815603",
+  "pmcid": "PMC7274203",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.119.315968",
+  "abstract": "RATIONALE: The gene encoding TCF21 (transcription factor 21) has been linked to coronary artery disease risk by human genome-wide association studies in multiple racial ethnic groups. In murine models, Tcf21 is required for phenotypic modulation of smooth muscle cells (SMCs) in atherosclerotic tissues and promotes a fibroblast phenotype in these cells. In humans, TCF21 expression inhibits risk for coronary artery disease. The molecular mechanism by which TCF21 regulates SMC phenotype is not known. OBJECTIVE: To better understand how TCF21 affects the SMC phenotype, we sought to investigate the possible mechanisms by which it regulates the lineage determining MYOCD (myocardin)-SRF (serum response factor) pathway. METHODS AND RESULTS: Modulation of TCF21 expression in human coronary artery SMC revealed that TCF21 suppresses a broad range of SMC markers, as well as key SMC transcription factors MYOCD and SRF, at the RNA and protein level. We conducted chromatin immunoprecipitation-sequencing to map SRF-binding sites in human coronary artery SMC, showing that binding is colocalized in the genome with TCF21, including at a novel enhancer in the SRF gene, and at the MYOCD gene promoter. In vitro genome editing indicated that the SRF enhancer CArG box regulates transcription of the SRF gene, and mutation of this conserved motif in the orthologous mouse SRF enhancer revealed decreased SRF expression in aorta and heart tissues. Direct TCF21 binding and transcriptional inhibition at colocalized sites were established by reporter gene transfection assays. Chromatin immunoprecipitation and protein coimmunoprecipitation studies provided evidence that TCF21 blocks MYOCD and SRF association by direct TCF21-MYOCD interaction. CONCLUSIONS: These data indicate that TCF21 antagonizes the MYOCD-SRF pathway through multiple mechanisms, further establishing a role for this coronary artery disease-associated gene in fundamental SMC processes and indicating the importance of smooth muscle response to vascular stress and phenotypic modulation of this cell type in coronary artery disease risk.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

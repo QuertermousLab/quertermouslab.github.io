@@ -1,0 +1,38 @@
+{
+  "title": "Molecular mechanisms of coronary disease revealed using quantitative trait loci for TCF21 binding, chromatin accessibility, and chromosomal looping",
+  "authors": [
+    "Quanyi Zhao",
+    "Michael Dacre",
+    "Trieu Nguyen",
+    "Milos Pjanic",
+    "Boxiang Liu",
+    "Dharini Iyer",
+    "Paul Cheng",
+    "Robert Wirka",
+    "Juyong Brian Kim",
+    "Hunter B Fraser",
+    "Thomas Quertermous"
+  ],
+  "journal": "Genome biology",
+  "journalAbbrev": "Genome Biol",
+  "year": 2020,
+  "date": "2020-06-08",
+  "doi": "10.1186/s13059-020-02049-5",
+  "pmid": "32513244",
+  "pmcid": "PMC7278146",
+  "url": "https://doi.org/10.1186/s13059-020-02049-5",
+  "abstract": "BACKGROUND: To investigate the epigenetic and transcriptional mechanisms of coronary artery disease (CAD) risk, as well as the functional regulation of chromatin structure and function, we create a catalog of genetic variants associated with three stages of transcriptional cis-regulation in primary human coronary artery vascular smooth muscle cells (HCASMCs). RESULTS: We use a pooling approach with HCASMC lines to map regulatory variants that mediate binding of the CAD-associated transcription factor TCF21 with ChIPseq studies (bQTLs), variants that regulate chromatin accessibility with ATACseq studies (caQTLs), and chromosomal looping with Hi-C methods (clQTLs). We examine the overlap of these QTLs and their relationship to smooth muscle-specific genes and transcription factors. Further, we use multiple analyses to show that these QTLs are highly associated with CAD GWAS loci and correlate to lead SNPs where they show allelic effects. By utilizing genome editing, we verify that identified functional variants can regulate both chromatin accessibility and chromosomal looping, providing new insights into functional mechanisms regulating chromatin state and chromosomal structure. Finally, we directly link the disease-associated TGFB1-SMAD3 pathway to the CAD-associated FN1 gene through a response QTL that modulates both chromatin accessibility and chromosomal looping. CONCLUSIONS: Together, these studies represent the most thorough mapping of multiple QTL types in a highly disease-relevant primary cultured cell type and provide novel insights into their functional overlap and mechanisms that underlie these genomic features and their relationship to disease risk.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": true,
+  "tags": [],
+  "highlightOrder": 11,
+  "theme": "gwas-mechanisms",
+  "summary": "Pooled QTL mapping of TCF21 binding, chromatin accessibility and chromosomal looping in coronary artery smooth muscle cells pinpoints causal regulatory variants at CAD loci.",
+  "geo": "GSE113348"
+}

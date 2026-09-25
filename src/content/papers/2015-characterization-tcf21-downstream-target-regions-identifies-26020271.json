@@ -1,0 +1,36 @@
+{
+  "title": "Characterization of TCF21 Downstream Target Regions Identifies a Transcriptional Network Linking Multiple Independent Coronary Artery Disease Loci",
+  "authors": [
+    "Olga Sazonova",
+    "Yuqi Zhao",
+    "Sylvia Nürnberg",
+    "Clint Miller",
+    "Milos Pjanic",
+    "Victor G Castano",
+    "Juyong B Kim",
+    "Elias L Salfati",
+    "Anshul B Kundaje",
+    "Gill Bejerano",
+    "Themistocles Assimes",
+    "Xia Yang",
+    "Thomas Quertermous"
+  ],
+  "journal": "PLoS genetics",
+  "journalAbbrev": "PLoS Genet",
+  "year": 2015,
+  "date": "2015-05-28",
+  "doi": "10.1371/journal.pgen.1005202",
+  "pmid": "26020271",
+  "pmcid": "PMC4447360",
+  "url": "https://doi.org/10.1371/journal.pgen.1005202",
+  "abstract": "To functionally link coronary artery disease (CAD) causal genes identified by genome wide association studies (GWAS), and to investigate the cellular and molecular mechanisms of atherosclerosis, we have used chromatin immunoprecipitation sequencing (ChIP-Seq) with the CAD associated transcription factor TCF21 in human coronary artery smooth muscle cells (HCASMC). Analysis of identified TCF21 target genes for enrichment of molecular and cellular annotation terms identified processes relevant to CAD pathophysiology, including \"growth factor binding,\" \"matrix interaction,\" and \"smooth muscle contraction.\" We characterized the canonical binding sequence for TCF21 as CAGCTG, identified AP-1 binding sites in TCF21 peaks, and by conducting ChIP-Seq for JUN and JUND in HCASMC confirmed that there is significant overlap between TCF21 and AP-1 binding loci in this cell type. Expression quantitative trait variation mapped to target genes of TCF21 was significantly enriched among variants with low P-values in the GWAS analyses, suggesting a possible functional interaction between TCF21 binding and causal variants in other CAD disease loci. Separate enrichment analyses found over-representation of TCF21 target genes among CAD associated genes, and linkage disequilibrium between TCF21 peak variation and that found in GWAS loci, consistent with the hypothesis that TCF21 may affect disease risk through interaction with other disease associated loci. Interestingly, enrichment for TCF21 target genes was also found among other genome wide association phenotypes, including height and inflammatory bowel disease, suggesting a functional profile important for basic cellular processes in non-vascular tissues. Thus, data and analyses presented here suggest that study of GWAS transcription factors may be a highly useful approach to identifying disease gene interactions and thus pathways that may be relevant to complex disease etiology.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

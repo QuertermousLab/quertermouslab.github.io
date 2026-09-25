@@ -1,0 +1,10 @@
+{
+  "name": "Matthew Worssam",
+  "degrees": "PhD",
+  "role": "Postdoctoral Fellow",
+  "group": "postdoc",
+  "photo": "/people/matthew-worssam.webp",
+  "order": 30,
+  "focus": "Chondromyocyte fate of smooth muscle cells in plaque",
+  "bio": "Matt earned his PhD with Helle Jørgensen at the University of Cambridge, studying the clonal contribution of vascular smooth muscle cells to cardiovascular disease. Supported by the Stanford CVI T32 program, he studies SMC-derived chondromyocytes — bone-like cells in plaque that selectively express many CAD risk genes — using histology, functional assays and single-cell genomics."
+}

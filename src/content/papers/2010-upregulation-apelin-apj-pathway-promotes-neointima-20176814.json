@@ -1,0 +1,32 @@
+{
+  "title": "Upregulation of the apelin-APJ pathway promotes neointima formation in the carotid ligation model in mouse",
+  "authors": [
+    "Yoko Kojima",
+    "Ramendra K Kundu",
+    "Christopher M Cox",
+    "Nicholas J Leeper",
+    "Joshua A Anderson",
+    "Hyung J Chun",
+    "Ziad A Ali",
+    "Euan A Ashley",
+    "Paul A Krieg",
+    "Thomas Quertermous"
+  ],
+  "journal": "Cardiovascular research",
+  "journalAbbrev": "Cardiovasc Res",
+  "year": 2010,
+  "date": "2010-02-22",
+  "doi": "10.1093/cvr/cvq052",
+  "pmid": "20176814",
+  "pmcid": "PMC2883899",
+  "url": "https://doi.org/10.1093/cvr/cvq052",
+  "abstract": "AIMS: To investigate apelin-APJ (angiotensin receptor-like 1) signalling in vascular remodelling, we have examined the pathophysiological response to carotid ligation in apelin knockout mice. METHODS AND RESULTS: Apelin null animals compared with wild-type mice had significantly decreased neointimal lesion area (1.17 +/- 0.17 vs. 3.33 +/- 1.04 x 10(4) microm(2), P < 0.05) and intima/media ratio (0.81 +/- 0.23 vs. 1.49 +/- 0.44, P < 0.05), averaged over four sites 0.5-2 mm from the ligation. Exogenous apelin infusion rescued the apelin-KO phenotype, promoting neointima formation in the null animals. Apelin null animals showed decreased smooth muscle positive area in the neointima (82.3 +/- 2.4 vs. 63.9 +/- 8.4, P < 0.05), and a smaller percentage BrdU positive cells in the neointima and media (11.06 +/- 1.00 vs. 6.53 +/- 0.86, P < 0.05). Apelin mRNA expression increased initially (5.2-fold, P < 0.01) followed by increased apelin receptor expression (10.1-fold, P < 0.05) in the ligated artery. Cytochemistry studies localized apelin expression to luminal endothelial cells and apelin receptor upregulation to smooth muscle cells (SMC) in the media and neointima. In vitro experiments with cultured rat aortic SMC revealed that apelin stimulation increased migration. In contrast to the increased expression of apelin and apelin receptor in carotid remodelling, expression was not upregulated in the apoE high fat model, and correlated with the known disease-inhibitory effect in this model. CONCLUSION: These data suggest that increased apelin receptor expression by SMC provides a paracrine pathway in injured vessels that allows endothelial-derived apelin to stimulate their division and migration into the neointima.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

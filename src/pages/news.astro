@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+import { fmtDate } from '../lib/papers';
+const items = (await getCollection('news')).sort((a, b) => +b.data.date - +a.data.date);
+const papers = await getCollection('papers');
+const byPmid = new Map(papers.map((p) => [p.data.pmid, p]));
+const rendered = await Promise.all(items.map(async (n) => ({ n, Content: (await render(n)).Content, paper: n.data.paper ? byPmid.get(n.data.paper) : undefined })));
+const label = { paper: 'Publication', people: 'People', award: 'Award', lab: 'Lab', event: 'Event' } as const;
+---
+<Base title="News" description="News from the Quertermous Lab.">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">News</span>
+      <h1>Lab news</h1>
+      <p class="lede">New papers, new faculty, and milestones from the lab and its alumni.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container timeline">
+      {rendered.map(({ n, Content, paper }) => (
+        <article id={n.id} class="item reveal">
+          <div class="item__date">
+            <time datetime={n.data.date.toISOString()}>{fmtDate(n.data.date, n.data.datePrecision)}</time>
+            <span class="chip">{label[n.data.category]}</span>
+          </div>
+          <div class="item__card card">
+            {n.data.image && <img src={n.data.image} alt="" loading="lazy" class:list={{ face: n.data.category === 'people' }} />}
+            <div>
+              <h2>{n.data.title}</h2>
+              <p class="sum">{n.data.summary}</p>
+              <div class="body"><Content /></div>
+              <p class="links">
+                {paper && <a href={paper.data.url}>Read the paper →</a>}
+                {n.data.link && <a href={n.data.link}>More →</a>}
+              </p>
+            </div>
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+</Base>
+<style>
+  .timeline { max-width: 960px; position: relative; }
+  .timeline::before { content: ''; position: absolute; left: 150px; top: 0; bottom: 0; width: 2px; background: linear-gradient(var(--artery), var(--vein)); opacity: .3; }
+  .item { display: grid; grid-template-columns: 150px 1fr; gap: 32px; margin-bottom: 28px; scroll-margin-top: 96px; }
+  .item__date { text-align: right; padding-top: 22px; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; position: relative; }
+  .item__date::after { content: ''; position: absolute; right: -39px; top: 27px; width: 12px; height: 12px; border-radius: 50%; background: var(--artery); box-shadow: 0 0 0 4px var(--paper); }
+  .item__date time { font-weight: 700; font-size: .9rem; color: var(--ink); }
+  .item__card { padding: 24px 26px; display: grid; grid-template-columns: auto 1fr; gap: 22px; align-items: start; }
+  .item__card:not(:has(img)) { grid-template-columns: 1fr; }
+  .item__card img { width: 150px; height: 150px; object-fit: cover; object-position: top; border-radius: 10px; border: 1px solid var(--line); }
+  .item__card img.face { border-radius: 50%; }
+  .item h2 { font-size: 1.3rem; margin-bottom: 8px; }
+  .sum { color: var(--ink-2); }
+  .body :global(p) { color: var(--ink-2); font-size: .95rem; }
+  .links { display: flex; gap: 18px; font-weight: 600; margin: 0; }
+  .links a { text-decoration: none; }
+  :target .item__card { box-shadow: 0 0 0 3px var(--artery), var(--shadow-lg); }
+  @media (max-width: 720px) {
+    .timeline::before { display: none; }
+    .item { grid-template-columns: 1fr; gap: 8px; }
+    .item__date { flex-direction: row; text-align: left; align-items: center; padding: 0; }
+    .item__date::after { display: none; }
+    .item__card { grid-template-columns: 1fr; }
+  }
+</style>

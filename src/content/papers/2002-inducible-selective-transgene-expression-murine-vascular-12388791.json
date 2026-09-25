@@ -1,0 +1,29 @@
+{
+  "title": "Inducible and selective transgene expression in murine vascular endothelium",
+  "authors": [
+    "Peter I Teng",
+    "Maria R Dichiara",
+    "László G Kömüves",
+    "Keith Abe",
+    "Thomas Quertermous",
+    "James N Topper"
+  ],
+  "journal": "Physiological genomics",
+  "journalAbbrev": "Physiol Genomics",
+  "year": 2002,
+  "date": "2002-10-29",
+  "doi": "10.1152/physiolgenomics.00059.2002",
+  "pmid": "12388791",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/physiolgenomics.00059.2002",
+  "abstract": "We have developed a system utilizing the murine Tie2 promoter/enhancer coupled with the \"tetracycline-on\" regulatory elements to create a model that allows regulated and selective expression of a beta-galactosidase (betaGal) reporter transgene in the adult murine vascular endothelium. Two independent lines of viable and fertile mice were characterized, and they exhibit minimal betaGal expression under basal conditions. In response to exogenous doxycycline (Dox), selective expression of betaGal was demonstrated in the vascular endothelium of all tissues examined. En face analyses of the aorta and its principle branches indicate that the vast majority of lumenal endothelial cells express the transgene. Inducible betaGal expression also extends to the endocardium and the microvasculature of all organs. There is no evidence of specific transgene expression in nonendothelial cell types. Induction of the betaGal was effectively achieved after 3 days of oral Dox treatment and persisted for over 3 mo with continuous administration. This model can now be widely applied to study the role of specific genes in the phenotype of adult murine vasculature.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

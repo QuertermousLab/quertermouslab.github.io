@@ -1,0 +1,31 @@
+{
+  "title": "Stimulation of endothelin-1 gene expression by insulin in endothelial cells",
+  "authors": [
+    "F J Oliver",
+    "G de la Rubia",
+    "E P Feener",
+    "M E Lee",
+    "M R Loeken",
+    "T Shiba",
+    "T Quertermous",
+    "G L King"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1991,
+  "date": "1991-12-05",
+  "doi": null,
+  "pmid": "1744120",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/1744120/",
+  "abstract": "The present study characterized the regulation of the genetic expression of the vasoactive peptide endothelin-1 (ET-1) by insulin in bovine aortic endothelial cells. By RNA blot analysis, insulin (1.67 x 10(-8) M) increased ET-1 mRNA levels by 2.3-fold over the basal within 10 min and attained a maximum (5.3-fold increase) in 2 h. Dose-response studies showed that a maximum effect of insulin was reached at 1.67 x 10(-8) M although a significant increase can be observed at 1.66 x 10(-9) M. Radioligand receptor studies indicated that the affinity constant for insulin receptors on endothelial cells correlated closely with the dose response observed for ET-1 mRNA. The ET-1 mRNA half-life was estimated with actinomycin D studies to be 20 min in control cells and was not affected by insulin treatment. Moreover, the effects of phorbol 12-myristate 13-acetate (PMA) and insulin were additive in the induction of ET-1 gene expression. When protein kinase C in the bovine aortic endothelial cells was down-regulated by preincubation with 8 x 10(-7) M PMA for 24 or 48 h, insulin was still able to increase ET-1 mRNA levels whereas PMA was ineffective. Using a chloramphenicol acetyltransferase (CAT) fusion plasmid containing the CAT gene and the 5'-flanking region of the ET-1 gene (Lee, M. E., Bloch, K. D., Clifford, J. A., and Quertermous, T. (1990) J. Biol. Chem. 265, 10446-10450), we observed that 1.67 x 10(-8) M insulin increased CAT enzyme activity and mRNA levels. The insulin dose-response curve observed for CAT activity correlated with that observed for ET-1 mRNA levels. These results suggest that insulin stimulates expression of the ET-1 gene at the transcriptional level via its own receptors. This effect is mediated mostly through a protein kinase C-independent pathway, suggesting the existence of an insulin-responsive element in the ET-1 gene 5'-flanking sequence.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

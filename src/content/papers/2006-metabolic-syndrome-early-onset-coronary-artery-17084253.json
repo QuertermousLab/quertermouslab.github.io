@@ -1,0 +1,32 @@
+{
+  "title": "Metabolic syndrome and early-onset coronary artery disease: is the whole greater than its parts?",
+  "authors": [
+    "Carlos Iribarren",
+    "Alan S Go",
+    "Gail Husson",
+    "Stephen Sidney",
+    "Joan M Fair",
+    "Thomas Quertermous",
+    "Mark A Hlatky",
+    "Stephen P Fortmann"
+  ],
+  "journal": "Journal of the American College of Cardiology",
+  "journalAbbrev": "J Am Coll Cardiol",
+  "year": 2006,
+  "date": "2006-10-17",
+  "doi": "10.1016/j.jacc.2006.03.070",
+  "pmid": "17084253",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.jacc.2006.03.070",
+  "abstract": "OBJECTIVES: We sought to examine the association between the metabolic syndrome (MetS) (defined both by the 2001 National Cholesterol Educational Program Adult Treatment Panel III [ATP-III] definition and the American Heart Association/National Heart, Lung and Blood Institute [AHA/NHLBI] revision incorporating the lower threshold for impaired fasting glucose [IFG]) and early-onset coronary artery disease (CAD). BACKGROUND: The impact of MetS on premature CAD has not been studied extensively. Lowering the threshold to define the IFG component (from 110 to 100 mg/dl) and the value of the syndrome as a whole versus its individual components are subjects of intense debate. METHODS: We performed a case-control study with 393 early-onset CAD subjects (acute myocardial infarction, angina with > or =50% stenosis, or coronary revascularization) in men under age 46 years or women under age 56 years and 393 control subjects individually matched for gender, age, and race/ethnicity. RESULTS: By conditional logistic regression, presence of ATP-III MetS without diabetes (adjusted odds ratio [adj-OR] 4.9; 95% confidence interval [CI] 3.4 to 8.0) and with diabetes (adj-OR 8.0, 95% CI 4.39 to 14.6) was a strong independent determinant of early-onset CAD. Using the AHA/NHLBI revision, these ORs became slightly stronger. However, neither definition of MetS remained significantly associated with early-onset CAD in multivariate models adjusting for individual components. CONCLUSIONS: The presence of MetS imparts a high risk of early-onset clinical CAD, but the prognostic information associated with the syndrome is not greater than the sum of its parts.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

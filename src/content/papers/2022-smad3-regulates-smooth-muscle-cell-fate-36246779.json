@@ -1,0 +1,37 @@
+{
+  "title": "Smad3 regulates smooth muscle cell fate and mediates adverse remodeling and calcification of the atherosclerotic plaque",
+  "authors": [
+    "Paul Cheng",
+    "Robert C Wirka",
+    "Juyong Brian Kim",
+    "Hyun-Jung Kim",
+    "Trieu Nguyen",
+    "Ramendra Kundu",
+    "Quanyi Zhao",
+    "Disha Sharma",
+    "Albert Pedroza",
+    "Manabu Nagao",
+    "Dharini Iyer",
+    "Michael P Fischbein",
+    "Thomas Quertermous"
+  ],
+  "journal": "Nature cardiovascular research",
+  "journalAbbrev": "Nat Cardiovasc Res",
+  "year": 2022,
+  "date": "2022-04-13",
+  "doi": "10.1038/s44161-022-00042-8",
+  "pmid": "36246779",
+  "pmcid": "PMC9560061",
+  "url": "https://doi.org/10.1038/s44161-022-00042-8",
+  "abstract": "Atherosclerotic plaques consist mostly of smooth muscle cells (SMC), and genes that influence SMC phenotype can modulate coronary artery disease (CAD) risk. Allelic variation at 15q22.33 has been identified by genome-wide association studies to modify the risk of CAD and is associated with the expression of SMAD3 in SMC. However, the mechanism by which this gene modifies CAD risk remains poorly understood. Here we show that SMC-specific deletion of Smad3 in a murine atherosclerosis model resulted in greater plaque burden, more outward remodelling and increased vascular calcification. Single-cell transcriptomic analyses revealed that loss of Smad3 altered SMC transition cell state toward two fates: a SMC phenotype that governs both vascular remodelling and recruitment of inflammatory cells, as well as a chondromyocyte fate. Together, the findings reveal that Smad3 expression in SMC inhibits the emergence of specific SMC phenotypic transition cells that mediate adverse plaque features, including outward remodelling, monocyte recruitment, and vascular calcification.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": true,
+  "tags": [],
+  "highlightOrder": 9,
+  "theme": "smc-states",
+  "summary": "The CAD gene SMAD3 governs smooth muscle cell fate in atherosclerosis, restraining chondromyocyte transition and adverse plaque remodeling and calcification."
+}

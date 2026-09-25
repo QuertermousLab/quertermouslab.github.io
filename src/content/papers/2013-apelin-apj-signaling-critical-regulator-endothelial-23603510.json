@@ -1,0 +1,36 @@
+{
+  "title": "Apelin-APJ signaling is a critical regulator of endothelial MEF2 activation in cardiovascular development",
+  "authors": [
+    "Yujung Kang",
+    "Jongmin Kim",
+    "Joshua P Anderson",
+    "Jingxia Wu",
+    "Scott R Gleim",
+    "Ramendra K Kundu",
+    "Danielle L McLean",
+    "Jun-dae Kim",
+    "Hyekyung Park",
+    "Suk-won Jin",
+    "John Hwa",
+    "Thomas Quertermous",
+    "Hyung J Chun"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2013,
+  "date": "2013-04-19",
+  "doi": "10.1161/CIRCRESAHA.113.301324",
+  "pmid": "23603510",
+  "pmcid": "PMC3739451",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.113.301324",
+  "abstract": "RATIONALE: The peptide ligand apelin and its receptor APJ constitute a signaling pathway with numerous effects on the cardiovascular system, including cardiovascular development in model organisms such as xenopus and zebrafish. OBJECTIVE: This study aimed to characterize the embryonic lethal phenotype of the Apj-/- mice and to define the involved downstream signaling targets. METHODS AND RESULTS: We report the first characterization of the embryonic lethality of the Apj-/- mice. More than half of the expected Apj-/- embryos died in utero because of cardiovascular developmental defects. Those succumbing to early embryonic death had markedly deformed vasculature of the yolk sac and the embryo, as well as poorly looped hearts with aberrantly formed right ventricles and defective atrioventricular cushion formation. Apj-/- embryos surviving to later stages demonstrated incomplete vascular maturation because of a deficiency of vascular smooth muscle cells and impaired myocardial trabeculation and ventricular wall development. The molecular mechanism implicates a novel, noncanonical signaling pathway downstream of apelin-APJ involving Gα13, which induces histone deacetylase (HDAC) 4 and HDAC5 phosphorylation and cytoplasmic translocation, resulting in activation of myocyte enhancer factor 2. Apj-/- mice have greater endocardial Hdac4 and Hdac5 nuclear localization and reduced expression of the myocyte enhancer factor 2 (MEF2) transcriptional target Krüppel-like factor 2. We identify a number of commonly shared transcriptional targets among apelin-APJ, Gα13, and MEF2 in endothelial cells, which are significantly decreased in the Apj-/- embryos and endothelial cells. CONCLUSIONS: Our results demonstrate a novel role for apelin-APJ signaling as a potent regulator of endothelial MEF2 function in the developing cardiovascular system.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

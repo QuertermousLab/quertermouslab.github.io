@@ -1,0 +1,27 @@
+{
+  "title": "Endothelial cell-specific regulation of the murine endothelin-1 gene",
+  "authors": [
+    "B M Fadel",
+    "S C Boutet",
+    "T Quertermous"
+  ],
+  "journal": "Journal of cardiovascular pharmacology",
+  "journalAbbrev": "J Cardiovasc Pharmacol",
+  "year": 2000,
+  "date": "2000-01-01",
+  "doi": "10.1097/00005344-200000002-00003",
+  "pmid": "10976773",
+  "pmcid": null,
+  "url": "https://doi.org/10.1097/00005344-200000002-00003",
+  "abstract": "Endothelin-1 (ET-1) plays an important role in the development, physiology and pathophysiology of the cardiovascular system in mammals. ET-1 is mainly expressed in endothelial cells thus making it an attractive model for the study of transcriptional regulation in this cell type. We have previously reported that expression of the human ET-1 gene is positively regulated by a cooperative interaction between GATA-2 and AP-1 transcription factors in cultured endothelial cells, however these factors are not sufficient to mediate cell type-specific expression. In vivo transcription studies of the murine ET-1 gene have demonstrated the presence of important cell-specific DNA elements in the 5.9 kb region upstream of the transcription initiation site. Using reporter gene transfection, site-directed mutagenesis and DNA-protein binding studies of the 5.9 kb region, we have identified a tripartite DNA element that positively regulates the expression of ET-1 specifically in cultured endothelial cells. This complex enhancer element demonstrates an endothelial cell-specific pattern of binding, suggesting that it interacts with cell-restricted regulatory factors. These findings provide important insights into the mechanisms that mediate the expression of ET-1 in the endothelium and a basis for future transgenic and cloning studies aimed at identifying the endothelial cell-specific binding site and transcription factor(s).",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

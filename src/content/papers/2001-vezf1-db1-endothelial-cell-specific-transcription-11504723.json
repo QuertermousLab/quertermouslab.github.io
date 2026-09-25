@@ -1,0 +1,28 @@
+{
+  "title": "Vezf1/DB1 is an endothelial cell-specific transcription factor that regulates expression of the endothelin-1 promoter",
+  "authors": [
+    "J Aitsebaomo",
+    "M L Kingsley-Kallesen",
+    "Y Wu",
+    "T Quertermous",
+    "C Patterson"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 2001,
+  "date": "2001-08-14",
+  "doi": "10.1074/jbc.M105166200",
+  "pmid": "11504723",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.M105166200",
+  "abstract": "Coordinated gene regulation within the vascular endothelium is required for normal cardiovascular patterning during development and for vascular homeostasis during adulthood, yet little is known about the mechanisms that regulate endothelial transcriptional events. Vascular endothelial zinc finger 1 (Vezf1)/DB1 is a recently identified zinc finger-containing protein that is expressed specifically within endothelial cells during development. In this report, we demonstrate that Vezf1/DB1 is a nuclear localizing protein that potently and specifically activates transcription mediated by the human endothelin-1 promoter, in a Tax-independent manner, in transient transfection assays. Using a combination of deletion mutagenesis and electrophoretic mobility shift assays, a novel Vezf1/DB1-responsive element was localized to a 6-base pair (bp) motif, ACCCCC, located 47 bp upstream of the endothelin-1 transcription start site. Recombinant Vezf1/DB1 also bound to this sequence, and a 2-bp mutation in this element abolished Vezf1/DB1 responsiveness by the endothelin-1 promoter. Vezf1/DB1 could be identified with a specific antibody in nuclear complexes from endothelial cells that bound to this element. Regulation of endothelin-1 promoter activity by Vezf1/DB1 provides a mechanism for endothelin-1 expression in the vascular endothelium during development and to maintain vascular tone; Vezf1/DB1 itself is a candidate transcription factor for modifying endothelial cell phenotypes in order to appropriately assemble and maintain the cardiovascular system.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

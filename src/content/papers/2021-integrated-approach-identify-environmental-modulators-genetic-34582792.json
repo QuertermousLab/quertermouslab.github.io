@@ -1,0 +1,36 @@
+{
+  "title": "An integrated approach to identify environmental modulators of genetic risk factors for complex traits",
+  "authors": [
+    "Brunilda Balliu",
+    "Ivan Carcamo-Orive",
+    "Michael J Gloudemans",
+    "Daniel C Nachun",
+    "Matthew G Durrant",
+    "Steven Gazal",
+    "Chong Y Park",
+    "David A Knowles",
+    "Martin Wabitsch",
+    "Thomas Quertermous",
+    "Joshua W Knowles",
+    "Stephen B Montgomery"
+  ],
+  "journal": "American journal of human genetics",
+  "journalAbbrev": "Am J Hum Genet",
+  "year": 2021,
+  "date": "2021-09-27",
+  "doi": "10.1016/j.ajhg.2021.08.014",
+  "pmid": "34582792",
+  "pmcid": "PMC8546041",
+  "url": "https://doi.org/10.1016/j.ajhg.2021.08.014",
+  "abstract": "Complex traits and diseases can be influenced by both genetics and environment. However, given the large number of environmental stimuli and power challenges for gene-by-environment testing, it remains a critical challenge to identify and prioritize specific disease-relevant environmental exposures. We propose a framework for leveraging signals from transcriptional responses to environmental perturbations to identify disease-relevant perturbations that can modulate genetic risk for complex traits and inform the functions of genetic variants associated with complex traits. We perturbed human skeletal-muscle-, fat-, and liver-relevant cell lines with 21 perturbations affecting insulin resistance, glucose homeostasis, and metabolic regulation in humans and identified thousands of environmentally responsive genes. By combining these data with GWASs from 31 distinct polygenic traits, we show that the heritability of multiple traits is enriched in regions surrounding genes responsive to specific perturbations and, further, that environmentally responsive genes are enriched for associations with specific diseases and phenotypes from the GWAS Catalog. Overall, we demonstrate the advantages of large-scale characterization of transcriptional changes in diversely stimulated and pathologically relevant cells to identify disease-relevant perturbations.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

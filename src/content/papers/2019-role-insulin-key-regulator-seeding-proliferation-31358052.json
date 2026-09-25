@@ -1,0 +1,31 @@
+{
+  "title": "The role of insulin as a key regulator of seeding, proliferation, and mRNA transcription of human pluripotent stem cells",
+  "authors": [
+    "Mohammad Shahbazi",
+    "Paige Cundiff",
+    "Wenyu Zhou",
+    "Philip Lee",
+    "Achchhe Patel",
+    "Sunita L D'Souza",
+    "Fahim Abbasi",
+    "Thomas Quertermous",
+    "Joshua W Knowles"
+  ],
+  "journal": "Stem cell research & therapy",
+  "journalAbbrev": "Stem Cell Res Ther",
+  "year": 2019,
+  "date": "2019-07-29",
+  "doi": "10.1186/s13287-019-1319-5",
+  "pmid": "31358052",
+  "pmcid": "PMC6664730",
+  "url": "https://doi.org/10.1186/s13287-019-1319-5",
+  "abstract": "BACKGROUND: Human-induced pluripotent stem cells (hiPSCs) show a great promise as a renewable source of cells with broad biomedical applications. Since insulin has been used in the maintenance of hiPSCs, in this study we explored the role of insulin in culture of these cells. METHODS: We report conditions for insulin starvation and stimulation of hiPSCs. Crystal violet staining was used to study the adhesion and proliferation of hiPSCs. Apoptosis and cell cycle assays were performed through flow cytometry. Protein arrays were used to confirm phosphorylation targets, and mRNA sequencing was used to evaluate the effect of transcriptome. RESULTS: Insulin improved the seeding and proliferation of hiPSCs. We also observed an altered cell cycle profile and increase in apoptosis in hiPSCs in the absence of insulin. Furthermore, we confirmed phosphorylation of key components of insulin signaling pathway in the presence of insulin and demonstrated the significant effect of insulin on regulation of the mRNA transcriptome of hiPSCs. CONCLUSION: Insulin is a major regulator of seeding, proliferation, phosphorylation and mRNA transcriptome in hiPSCs. Collectively, our work furthers our understanding of human pluripotency and paves the way for future studies that use hiPSCs for modeling genetic ailments affecting insulin signaling pathways.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

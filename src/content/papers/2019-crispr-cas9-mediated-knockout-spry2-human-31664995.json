@@ -1,0 +1,30 @@
+{
+  "title": "CRISPR-Cas9-mediated knockout of SPRY2 in human hepatocytes leads to increased glucose uptake and lipid droplet accumulation",
+  "authors": [
+    "Naomi L Cook",
+    "Milos Pjanic",
+    "Andrew G Emmerich",
+    "Abhiram S Rao",
+    "Susanne Hetty",
+    "Joshua W Knowles",
+    "Thomas Quertermous",
+    "Casimiro Castillejo-López",
+    "Erik Ingelsson"
+  ],
+  "journal": "BMC endocrine disorders",
+  "journalAbbrev": "BMC Endocr Disord",
+  "year": 2019,
+  "date": "2019-10-29",
+  "doi": "10.1186/s12902-019-0442-8",
+  "pmid": "31664995",
+  "pmcid": "PMC6820957",
+  "url": "https://doi.org/10.1186/s12902-019-0442-8",
+  "abstract": "BACKGROUND: The prevalence of obesity and its comorbidities, including type 2 diabetes mellitus (T2DM), is dramatically increasing throughout the world; however, the underlying aetiology is incompletely understood. Genome-wide association studies (GWAS) have identified hundreds of genec susceptibility loci for obesity and T2DM, although the causal genes and mechanisms are largely unknown. SPRY2 is a candidate gene identified in GWAS of body fat percentage and T2DM, and has recently been linked to insulin production in pancreatic β-cells. In the present study, we aimed to further understand SPRY2 via functional characterisation in HepG2 cells, an in vitro model of human hepatocytes widely used to investigate T2DM and insulin resistance. METHODS: CRISPR-Cas9 genome editing was used to target SPRY2 in HepG2 cells, and the functional consequences of SPRY2 knockout (KO) and overexpression subsequently assessed using glucose uptake and lipid droplet assays, measurement of protein kinase phosphorylation and RNA sequencing. RESULTS: The major functional consequence of SPRY2 KO was a significant increase in glucose uptake, along with elevated lipid droplet accumulation. These changes were attenuated, but not reversed, in cells overexpressing SPRY2. Phosphorylation of protein kinases across key signalling pathways (including Akt and mitogen activated protein kinases) was not altered after SPRY2 KO. Transcriptome profiling in SPRY2 KO and mock (control) cells revealed a number of differentially expressed genes related to cholesterol biosynthesis, cell cycle regulation and cellular signalling pathways. Phospholipase A2 group IIA (PLA2G2A) mRNA level was subsequently validated as significantly upregulated following SPRY2 KO, highlighting this as a potential mediator downstream of SPRY2. CONCLUSION: These findings suggest a role for SPRY2 in glucose and lipid metabolism in hepatocytes and contribute to clarifying the function of this gene in the context of metabolic diseases.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

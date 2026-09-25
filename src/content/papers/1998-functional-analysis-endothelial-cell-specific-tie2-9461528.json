@@ -1,0 +1,27 @@
+{
+  "title": "Functional analysis of the endothelial cell-specific Tie2/Tek promoter identifies unique protein-binding elements",
+  "authors": [
+    "B M Fadel",
+    "S C Boutet",
+    "T Quertermous"
+  ],
+  "journal": "The Biochemical journal",
+  "journalAbbrev": "Biochem J",
+  "year": 1998,
+  "date": "1998-02-15",
+  "doi": "10.1042/bj3300335",
+  "pmid": "9461528",
+  "pmcid": "PMC1219145",
+  "url": "https://doi.org/10.1042/bj3300335",
+  "abstract": "To investigate the molecular basis of endothelial cell-specific gene expression, we have examined the DNA sequences and the cognate DNA-binding proteins that mediate transcription of the murine tie2/tek gene. Reporter transfection experiments conformed with earlier findings in transgenic mice, indicating that the upstream promoter of Tie2/Tek is capable of activating transcription in an endothelial cell-specific fashion. These experiments have also allowed the identification of a single upstream inhibitory region (region I) and two positive regulatory regions (regions U and A) in the proximal promoter. Electrophoretic mobility-shift assays have allowed further characterization of three novel DNA-binding sequences associated with these regions and have provided preliminary characterization of the protein factors binding to these elements. Two of the elements (U and A) confer increased transcription on a heterologous promoter, with element U functioning in an endothelial-cell-selective manner. By employing embryonic endothelial-like yolk sac cells in parallel with adult-derived endothelial cells, we have identified differences in functional activity and protein binding that may reflect mechanisms for specifying developmental regulation of tie2/tek expression. Further study of the DNA and protein elements characterized in these experiments is likely to provide new insight into the molecular basis of developmental- and cell-specific gene expression in the endothelium.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Provocative pattern of rearrangements of the genes for the gamma and beta chains of the T-cell receptor in human leukemias",
+  "authors": [
+    "R Goorha",
+    "N Bunin",
+    "J Mirro",
+    "S B Murphy",
+    "A H Cross",
+    "F G Behm",
+    "T Quertermous",
+    "J Seidman",
+    "G R Kitchingman"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 1987,
+  "date": "1987-07-01",
+  "doi": "10.1073/pnas.84.13.4547",
+  "pmid": "2955409",
+  "pmcid": "PMC305127",
+  "url": "https://doi.org/10.1073/pnas.84.13.4547",
+  "abstract": "To examine the distribution of rearrangements of the gamma- and beta-chain T-cell receptor (TCR) genes in T- and non-T acute lymphoblastic leukemias (ALLs), and potentially to determine which genes rearrange first in ontogeny, we analyzed high molecular weight DNA from 102 patients with acute leukemia. Rearranged gamma- and beta-chain genes were found in all T-cell ALLs (22/22) examined. Overall, 27% (18/66) of B-lineage ALLs had beta-chain gene rearrangements, and 41% (24/58) had gamma-chain gene rearrangements, but the distribution of rearranged genes varied according to the stage of B-cell differentiation. The gamma-chain genes were rearranged in 11% (1/9) of the B-lineage patients negative for the common acute lymphoblastic leukemia antigen (cALLA) and 50% (23/46) of cALLA+ ALL patients, while the beta-chain genes were not rearranged in any of the 7 cALLA- ALL patients examined but were rearranged in 32% (18/56) of the cALLA+ patients. Neither TCR gene was found to be rearranged in acute nonlymphoid leukemia patients (0/12) or in patients with B-cell (surface immunoglobulin-positive) leukemia (0/3). Of the 44 cALLA+ patients in which a direct comparison of gamma- and beta-chain gene rearrangements could be made, 34% had both genes rearranged, 16% had only gamma-chain gene rearrangements, and the remaining 50% had both genes in the germ-line configuration. beta-Chain rearrangements have not been found in the absence of gamma-chain rearrangements, thus supporting a proposed hierarchy of TCR gene rearrangements. A provocative finding was that only a small percentage (11%) of the patients with cALLA- B precursor cell ALLs had rearranged TCR genes, while 50% of the cALLA+ leukemia patients had at least gamma-chain rearrangement, raising a question as to whether indeed cALLA- cells are precursors to cALLA+ cells. Interestingly, 18% (2/11) of the cytoplasmic immunoglobulin (cIg)-positive cALLA+ (pre-B) ALLs involved TCR gene rearrangements, compared to 60% (21/35) of the cIg-negative cases, suggesting the possibility that the majority of functional B cells are derived from the cALLA+ pool that contains immunoglobulin but not TCR gene rearrangements.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

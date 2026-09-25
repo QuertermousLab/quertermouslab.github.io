@@ -1,0 +1,10 @@
+{
+  "name": "Daniel Y. Li",
+  "degrees": "MD",
+  "role": "Instructor, Cardiovascular Medicine",
+  "group": "faculty",
+  "photo": "/people/daniel-li.webp",
+  "order": 10,
+  "focus": "Single-cell CRISPR perturbation and in vivo models of SMC cell-state regulation",
+  "bio": "Daniel trained at UC San Diego, the NIH and the Cleveland Clinic Lerner College of Medicine, where he studied diet, microbiome and cardiovascular disease as a Sarnoff Fellow. After internal medicine residency and cardiology fellowship at Stanford, he completed his postdoctoral work in the Quertermous Lab. He combines single-cell CRISPR perturbation in vitro with transgenic mouse models to identify smooth muscle cell regulators of coronary artery disease."
+}

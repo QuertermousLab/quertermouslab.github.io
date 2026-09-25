@@ -1,0 +1,32 @@
+{
+  "title": "Apelin is necessary for the maintenance of insulin sensitivity",
+  "authors": [
+    "Patrick Yue",
+    "Hong Jin",
+    "Marissa Aillaud",
+    "Alicia C Deng",
+    "Junya Azuma",
+    "Tomoko Asagami",
+    "Ramendra K Kundu",
+    "Gerald M Reaven",
+    "Thomas Quertermous",
+    "Philip S Tsao"
+  ],
+  "journal": "American journal of physiology. Endocrinology and metabolism",
+  "journalAbbrev": "Am J Physiol Endocrinol Metab",
+  "year": 2009,
+  "date": "2009-10-27",
+  "doi": "10.1152/ajpendo.00385.2009",
+  "pmid": "19861585",
+  "pmcid": "PMC2806109",
+  "url": "https://doi.org/10.1152/ajpendo.00385.2009",
+  "abstract": "The recently discovered peptide apelin is known to be involved in the maintenance of insulin sensitivity. However, questions persist regarding its precise role in the chronic setting. Fasting glucose, insulin, and adiponectin levels were determined on mice with generalized deficiency of apelin (APKO). Additionally, insulin (ITT) and glucose tolerance tests (GTT) were performed. To assess the impact of exogenously delivered apelin on insulin sensitivity, osmotic pumps containing pyroglutamated apelin-13 or saline were implanted in APKO mice for 4 wk. Following the infusion, ITT/GTTs were repeated and the animals euthanized. Soleus muscles were harvested and homogenized in lysis buffer, and insulin-induced Akt phosphorylation was determined by Western blotting. Apelin-13 infusion and ITTs/GTTs were also performed in obese diabetic db/db mice. To probe the underlying mechanism for apelin's effects, apelin-13 was also delivered to cultured C2C12 myotubes. 2-[3H]deoxyglucose uptake and Akt phosphorylation were assessed in the presence of various inhibitors. APKO mice had diminished insulin sensitivity, were hyperinsulinemic, and had decreased adiponectin levels. Soleus lysates had decreased insulin-induced Akt phosphorylation. Administration of apelin to APKO and db/db mice resulted in improved insulin sensitivity. In C2C12 myotubes, apelin increased glucose uptake and Akt phosphorylation. These events were fully abrogated by pertussis toxin, compound C, and siRNA knockdown of AMPKalpha1 but only partially diminished by LY-294002 and not at all by L-NAME. We conclude that apelin is necessary for the maintenance of insulin sensitivity in vivo. Apelin's effects on glucose uptake and Akt phosphorylation are in part mediated by a G(i) and AMPK-dependent pathway.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

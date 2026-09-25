@@ -1,0 +1,27 @@
+{
+  "title": "cDNA cloning and chromosomal assignment of the gene encoding endothelin 3",
+  "authors": [
+    "K D Bloch",
+    "R L Eddy",
+    "T B Shows",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1989,
+  "date": "1989-10-25",
+  "doi": null,
+  "pmid": "2509452",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2509452/",
+  "abstract": "The vasoactive peptide endothelin 1 (ET1) is encoded by a well characterized gene located on human chromosome 6. Recently, two human genomic fragments were isolated which potentially encode related vasoconstrictor peptides, endothelin 2 (ET2) and endothelin 3 (ET3) (Inoue, A., Yanagisawa, M., Kimura, S., Kasuya, Y., Miyauchi, T., Goto, K., and Masaki, T. (1989) Proc. Natl. Acad. Sci. U.S.A. 86, 2863-2867). Inoue et al. were unable to detect transcripts of the ET2 and ET3 genes and observed ET1 gene expression exclusively in endothelial cells. In this study, we document transcription of the ET3 gene by isolating from a hypothalamic cDNA library DNA clones complementary to human ET3 mRNA. ET3 mRNA encodes a 238-amino acid precursor that includes ET3 and a 15-amino acid homologous segment, the ET3-like sequence. On the basis of DNA isolated from human-mouse somatic hybrid cell lines, we assigned the ET3 gene to human chromosome 20. The ET3 and ET1 genes are, therefore, not genetically linked. RNA blot hybridization with restriction fragments derived from cDNAs revealed that the ET3 and ET1 genes are both expressed in lung, pancreas, and spleen. Cultured endothelial cells and cardiac tissues express the ET1 but not the ET3 gene. Observations that genes encoding endothelin-related peptides are expressed in a variety of human tissues suggest that these peptides may participate in complex vasoregulatory mechanisms.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

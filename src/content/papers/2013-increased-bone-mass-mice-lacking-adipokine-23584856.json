@@ -1,0 +1,31 @@
+{
+  "title": "Increased bone mass in mice lacking the adipokine apelin",
+  "authors": [
+    "Lalita Wattanachanya",
+    "Wei-Dar Lu",
+    "Ramendra K Kundu",
+    "Liping Wang",
+    "Marcia J Abbott",
+    "Dylan O'Carroll",
+    "Thomas Quertermous",
+    "Robert A Nissenson"
+  ],
+  "journal": "Endocrinology",
+  "journalAbbrev": "Endocrinology",
+  "year": 2013,
+  "date": "2013-04-12",
+  "doi": "10.1210/en.2012-2034",
+  "pmid": "23584856",
+  "pmcid": "PMC3740482",
+  "url": "https://doi.org/10.1210/en.2012-2034",
+  "abstract": "Adipose tissue plays an important role in skeletal homeostasis, and there is interest in identifying adipokines that influence bone mass. One such adipokine may be apelin, a ligand for the Gi-G protein-coupled receptor APJ, which has been reported to enhance mitogenesis and suppress apoptosis in MC3T3-E1 cells and primary human osteoblasts (OBs). However, it is unclear whether apelin plays a physiological role in regulating skeletal homeostasis in vivo. In this study, we compared the skeletal phenotypes of apelin knockout (APKO) and wild-type mice and investigated the direct effects of apelin on bone cells in vitro. The increased fractional cancellous bone volume at the distal femur was observed in APKO mice of both genders at 12 weeks of age and persisted until the age of 20. Cortical bone perimeter at the femoral midshaft was significantly increased in males and females at both time points. Dynamic histomorphometry revealed that APKO mice had increased rates of bone formation and mineral apposition, with evidences of accelerated OB proliferation and differentiation, without significant alteration in osteoclast activity. An in vitro study showed that apelin increased proliferation of primary mouse OBs as well as suppressed apoptosis in a dose-dependent manner with the maximum effect at 5nM. However, it had no effect on the formation of mineralized nodules. We did not observed significantly altered in osteoclast parameters in vitro. Taken together, the increased bone mass in mice lacking apelin suggested complex direct and paracrine/endocrine effects of apelin on bone, possibly via modulating insulin sensitivity. These results indicate that apelin functions as a physiologically significant antianabolic factor in bone in vivo.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

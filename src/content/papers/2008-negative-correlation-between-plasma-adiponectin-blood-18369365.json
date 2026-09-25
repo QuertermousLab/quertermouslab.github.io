@@ -1,0 +1,33 @@
+{
+  "title": "The negative correlation between plasma adiponectin and blood pressure depends on obesity: a family-based association study in SAPPHIRe",
+  "authors": [
+    "Hung-Yuan Li",
+    "Yen-Feng Chiu",
+    "Chii-Min Hwu",
+    "Wayne Huey-Herng Sheu",
+    "Yi-Jen Hung",
+    "Wilfred Fujimoto",
+    "Thomas Quertermous",
+    "J David Curb",
+    "Tong-Yuan Tai",
+    "Lee-Ming Chuang"
+  ],
+  "journal": "American journal of hypertension",
+  "journalAbbrev": "Am J Hypertens",
+  "year": 2008,
+  "date": "2008-02-07",
+  "doi": "10.1038/ajh.2008.5",
+  "pmid": "18369365",
+  "pmcid": null,
+  "url": "https://doi.org/10.1038/ajh.2008.5",
+  "abstract": "BACKGROUND: The association between plasma adiponectin level and blood pressure remains inconclusive. Because obese subjects may have different mechanisms to regulate blood pressure, we hypothesized that obesity may be an important modifier. In order to minimize confounding effects from unidentified factors, a family-based design was employed to explore the relationship. METHODS: A total of 1,048 subjects from 478 Chinese or Japanese families with a mean age of 50.4 +/- 9.0 years were included (the SAPPHIRe (Stanford-Asian Pacific Program in Hypertension and Insulin Resistance) cohort). Blood pressure was recorded automatically and the average of the last two out of three consecutive readings was used in the analysis. A subject with \"hypertension\" was defined as one with a systolic blood pressure (SBP) > or =140 mm Hg, or a diastolic blood pressure (DBP) > or =90 mm Hg, or who was already on medication for hypertension. Obesity was defined as having a body mass index (BMI) > or =25 kg/m(2). The updated homeostasis model assessment was used for calculating the indices of insulin sensitivity (HOMA2 %S). Fasting plasma adiponectin was determined using radioimmunoassay. RESULTS: Subjects with hypertension had significantly lower plasma adiponectin levels than those without hypertension (5.99 +/- 3.64 microg/ml vs. 6.65 +/- 3.86 microg/ml, P < 0.01). Plasma adiponectin level correlated negatively with hypertension after adjusting for age, sex, and HOMA2%S (odds ratio (OR) 0.94, 95% confidence interval (CI) 0.90-0.98). In subjects without hypertension (n = 349), the plasma adiponectin level correlated negatively with SBP in those who were obese, after adjustment for age, sex, BMI, and HOMA2 %S (beta = -0.58, P = 0.03). The association was not significant in those without obesity. CONCLUSIONS: Plasma adiponectin level correlates negatively with hypertension. In subjects without hypertension, the relationship between plasma adiponectin level and SBP depends on the presence of obesity.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Endothelial lipase is a major determinant of HDL level",
+  "authors": [
+    "Tatsuro Ishida",
+    "Sungshin Choi",
+    "Ramendra K Kundu",
+    "Ken-Ichi Hirata",
+    "Edward M Rubin",
+    "Allen D Cooper",
+    "Thomas Quertermous"
+  ],
+  "journal": "The Journal of clinical investigation",
+  "journalAbbrev": "J Clin Invest",
+  "year": 2003,
+  "date": "2003-02-01",
+  "doi": "10.1172/JCI16306",
+  "pmid": "12569160",
+  "pmcid": "PMC151857",
+  "url": "https://doi.org/10.1172/JCI16306",
+  "abstract": "A new member of the lipase gene family, initially termed endothelial lipase (gene nomenclature, LIPG; protein, EL), is expressed in a variety of different tissues, suggesting a general role in lipid metabolism. To assess the hypothesis that EL plays a physiological role in lipoprotein metabolism in vivo, we have used gene targeting of the native murine locus and transgenic introduction of the human LIPG locus in mice to modulate the level of EL expression. Evaluation of these alleles in a C57Bl/6 background revealed an inverse relationship between HDL cholesterol level and EL expression. Fasting plasma HDL cholesterol was increased by 57% in LIPG(-/-) mice and 25% in LIPG(+/-) mice and was decreased by 19% in LIPG transgenic mice as compared with syngeneic controls. Detailed analysis of lipoprotein particle composition indicated that this increase was due primarily to an increased number of HDL particles. Phospholipase assays indicated that EL is a primary contributor to phospholipase activity in mouse. These data indicate that expression levels of this novel lipase have a significant effect on lipoprotein metabolism.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

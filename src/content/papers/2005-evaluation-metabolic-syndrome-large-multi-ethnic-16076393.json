@@ -1,0 +1,31 @@
+{
+  "title": "An evaluation of the metabolic syndrome in a large multi-ethnic study: the Family Blood Pressure Program",
+  "authors": [
+    "Aldi T Kraja",
+    "D C Rao",
+    "Alan B Weder",
+    "Thomas H Mosley",
+    "Stephen T Turner",
+    "Chao Agnes Hsiung",
+    "Thomas Quertermous",
+    "Richard Cooper",
+    "J David Curb",
+    "Michael A Province"
+  ],
+  "journal": "Nutrition & metabolism",
+  "journalAbbrev": "Nutr Metab (Lond)",
+  "year": 2005,
+  "date": "2005-08-02",
+  "doi": "10.1186/1743-7075-2-17",
+  "pmid": "16076393",
+  "pmcid": "PMC1201342",
+  "url": "https://doi.org/10.1186/1743-7075-2-17",
+  "abstract": "BACKGROUND: The Family Blood Pressure Program is an ongoing, NHLBI-sponsored, multi-center program to study the genetic determinants of high blood pressure. The goal of this particular study was to study patterns of metabolic syndrome (MetS) in four ethnic groups: African Americans, Caucasians, Hispanics, and Asians. METHODS: A major part of participants in three networks GENOA, HyperGEN and SAPPHIRe were recruited mainly through hypertensive probands. MetS was defined as a categorical trait following the National Cholesterol Education Program definition (c-MetS). MetS was also characterized quantitatively through multivariate factor analyses (FA) of 10 risk variables (q-MetS). Logistic regression and frequency tables were used for studying associations among traits. RESULTS: Using the NCEP definition, the Hispanic sample, which by design was enriched for type 2 diabetes (T2D), had a very high prevalence of MetS (73%). In contrast, its prevalence in Chinese was the lowest (17%). In African Americans and Hispanics, c-MetS was more prevalent in women than in men. Association of c-MetS with type 2 diabetes (T2D) was prominent in the Hispanics and African Americans, less pronounced in the Whites and Japanese, (although still significant), and weakest in the Chinese sample. Using FA without rotation, we found that the main factor loaded obesity (OBS) and blood pressure (BP) in African Americans; OBS and insulin (INS) in Hispanics, in Japanese, and in Whites; and OBS alone in Chinese. In Hispanics, Whites, and Japanese, BP loaded as a separate factor. Lipids in combination with INS also loaded in a separate factor. Using FA with Varimax rotation, 4 independent factors were identified: \"Obesity-INS,\" \"Blood pressure,\" \"Lipids-INS,\" and \"Central obesity.\" They explained about 60% of the variance present in the original risk variables. CONCLUSION: MetS ethnic differences were identified. Ascertaining for hypertension or T2D increased the MetS prevalence in networks compared with the one in the US general population. Obesity was the most prominent risk factor contributing to both c-MetS and q-MetS. INS contributed in two important factors (obesity and lipids). The information imbedded into c-MetS trait /q-MetS factors scores can contribute in future research of the MetS, especially its utilization in the genetic analysis.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

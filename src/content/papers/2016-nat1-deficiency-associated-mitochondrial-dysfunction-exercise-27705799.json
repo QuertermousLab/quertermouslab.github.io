@@ -1,0 +1,36 @@
+{
+  "title": "Nat1 Deficiency Is Associated with Mitochondrial Dysfunction and Exercise Intolerance in Mice",
+  "authors": [
+    "Indumathi Chennamsetty",
+    "Michael Coronado",
+    "Kévin Contrepois",
+    "Mark P Keller",
+    "Ivan Carcamo-Orive",
+    "John Sandin",
+    "Giovanni Fajardo",
+    "Andrew J Whittle",
+    "Mohsen Fathzadeh",
+    "Michael Snyder",
+    "Gerald Reaven",
+    "Alan D Attie",
+    "Daniel Bernstein",
+    "Thomas Quertermous",
+    "Joshua W Knowles"
+  ],
+  "journal": "Cell reports",
+  "journalAbbrev": "Cell Rep",
+  "year": 2016,
+  "date": "2016-10-04",
+  "doi": "10.1016/j.celrep.2016.09.005",
+  "pmid": "27705799",
+  "pmcid": "PMC5097870",
+  "url": "https://doi.org/10.1016/j.celrep.2016.09.005",
+  "abstract": "We recently identified human N-acetyltransferase 2 (NAT2) as an insulin resistance (IR) gene. Here, we examine the cellular mechanism linking NAT2 to IR and find that Nat1 (mouse ortholog of NAT2) is co-regulated with key mitochondrial genes. RNAi-mediated silencing of Nat1 led to mitochondrial dysfunction characterized by increased intracellular reactive oxygen species and mitochondrial fragmentation as well as decreased mitochondrial membrane potential, biogenesis, mass, cellular respiration, and ATP generation. These effects were consistent in 3T3-L1 adipocytes, C2C12 myoblasts, and in tissues from Nat1-deficient mice, including white adipose tissue, heart, and skeletal muscle. Nat1-deficient mice had changes in plasma metabolites and lipids consistent with a decreased ability to utilize fats for energy and a decrease in basal metabolic rate and exercise capacity without altered thermogenesis. Collectively, our results suggest that Nat1 deficiency results in mitochondrial dysfunction, which may constitute a mechanistic link between this gene and IR.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

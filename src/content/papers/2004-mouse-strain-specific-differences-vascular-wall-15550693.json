@@ -1,0 +1,33 @@
+{
+  "title": "Mouse strain-specific differences in vascular wall gene expression and their relationship to vascular disease",
+  "authors": [
+    "Raymond Tabibiazar",
+    "Roger A Wagner",
+    "Joshua M Spin",
+    "Euan A Ashley",
+    "Balasubramanian Narasimhan",
+    "Edward M Rubin",
+    "Bradley Efron",
+    "Phil S Tsao",
+    "Robert Tibshirani",
+    "Thomas Quertermous"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2004,
+  "date": "2004-11-18",
+  "doi": "10.1161/01.ATV.0000151372.86863.a5",
+  "pmid": "15550693",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/01.ATV.0000151372.86863.a5",
+  "abstract": "OBJECTIVE: Different strains of inbred mice exhibit different susceptibility to the development of atherosclerosis. The C3H/HeJ and C57Bl/6 mice have been used in several studies aimed at understanding the genetic basis of atherosclerosis. Under controlled environmental conditions, variations in susceptibility to atherosclerosis reflect differences in genetic makeup, and these differences must be reflected in gene expression patterns that are temporally related to the development of disease. In this study, we sought to identify the genetic pathways that are differentially activated in the aortas of these mice. METHODS AND RESULTS: We performed genome-wide transcriptional profiling of aortas from C3H/HeJ and C57Bl/6 mice. Differences in gene expression were identified at baseline as well as during normal aging and longitudinal exposure to high-fat diet. The significance of these genes to the development of atherosclerosis was evaluated by observing their temporal pattern of expression in the well-studied apolipoprotein E model of atherosclerosis. CONCLUSIONS: Gene expression differences between the 2 strains suggest that aortas of C57Bl/6 mice have a higher genetic propensity to develop inflammation in response to appropriate atherogenic stimuli. This study expands the repertoire of factors in known disease-related signaling pathways and identifies novel candidate genes for future study. To gain insights into the molecular pathways that are differentially activated in strains of mice with varied susceptibility to atherosclerosis, we performed comprehensive transcriptional profiling of their vascular wall. Genes identified through these studies expand the repertoire of factors in disease-related signaling pathways and identify novel candidate genes in atherosclerosis.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

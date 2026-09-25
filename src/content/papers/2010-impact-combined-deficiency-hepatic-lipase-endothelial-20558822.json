@@ -1,0 +1,30 @@
+{
+  "title": "Impact of combined deficiency of hepatic lipase and endothelial lipase on the metabolism of both high-density lipoproteins and apolipoprotein B-containing lipoproteins",
+  "authors": [
+    "Robert J Brown",
+    "William R Lagor",
+    "Sandhya Sankaranaravanan",
+    "Tomoyuki Yasuda",
+    "Thomas Quertermous",
+    "George H Rothblat",
+    "Daniel J Rader"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2010,
+  "date": "2010-06-17",
+  "doi": "10.1161/CIRCRESAHA.110.219188",
+  "pmid": "20558822",
+  "pmcid": "PMC2948973",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.110.219188",
+  "abstract": "RATIONALE: Hepatic lipase (HL) and endothelial lipase (EL) are extracellular lipases that both hydrolyze triglycerides and phospholipids and display potentially overlapping or complementary roles in lipoprotein metabolism. OBJECTIVE: We sought to dissect the overlapping roles of HL and EL by generating mice deficient in both HL and EL (HL/EL-dko) for comparison with single HL-knockout (ko) and EL-ko mice, as well as wild-type mice. METHODS AND RESULTS: Reproduction and viability of the HL/EL-dko mice were impaired compared with the single-knockout mice. The plasma levels of total cholesterol, high-density lipoprotein (HDL) cholesterol, non-HDL cholesterol, and phospholipids in the HL/EL-dko mice were markedly higher than those in the single-knockout mice. Most notably, the HL/EL-dko mice exhibited an unexpected substantial increase in small low-density lipoproteins. Kinetic studies with [(3)H]cholesteryl ether-labeled very-low-density lipoproteins demonstrated that the HL/EL-dko mice accumulated counts in the smallest low-density lipoprotein-sized fractions, as assessed by size exclusion chromatography, suggesting that it arises from lipolysis of very-low-density lipoproteins. HDL from all 3 lipase knockout models had an increased cholesterol efflux capacity but reduced clearance of HDL cholesteryl esters versus control mice. Despite their higher HDL cholesterol levels, neither HL-ko, EL-ko, nor HL/EL-dko mice demonstrated an increased rate of macrophage reverse cholesterol transport in vivo. CONCLUSIONS: These studies reveal an additive effect of HL and EL on HDL metabolism but not macrophage reverse cholesterol transport in mice and an unexpected redundant role of HL and EL in apolipoprotein B lipoprotein metabolism.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

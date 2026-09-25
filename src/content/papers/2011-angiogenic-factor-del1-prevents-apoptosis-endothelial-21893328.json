@@ -1,0 +1,26 @@
+{
+  "title": "The angiogenic factor Del1 prevents apoptosis of endothelial cells through integrin binding",
+  "authors": [
+    "Zhen Wang",
+    "Ramendra K Kundu",
+    "Michael T Longaker",
+    "Thomas Quertermous",
+    "George P Yang"
+  ],
+  "journal": "Surgery",
+  "journalAbbrev": "Surgery",
+  "year": 2011,
+  "date": "2011-09-03",
+  "doi": "10.1016/j.surg.2011.07.013",
+  "pmid": "21893328",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.surg.2011.07.013",
+  "abstract": "BACKGROUND: Del1 is a secreted protein that is expressed in the endothelium during development and can stimulate angiogenesis through integrin binding and signaling. We were interested in the specific effects of del1 on endothelial cell biology to gain insight into its biologic role during angiogenesis. METHODS: Primary endothelial cells were treated with a variety of inducers of apoptosis and anoikis followed by assays for numbers of apoptotic cells, and harvest of total protein for immunoblot analysis. RESULTS: Del1 prevented endothelial cell apoptosis in response to TNFα/IFNγ, etoposide, and anoikis, but had no effect on proliferation. The anti-apoptotic effect was mediated specifically through binding of integrin αvβ3 by the RGD motif. FAK/ERK and Akt signaling were both necessary to mediate the anti-apoptotic effect of Del1 with the exception of anoikis, which required only Akt activation. CONCLUSION: Del1 has been previously shown to promote vascular smooth muscle cell adhesion, migration, and proliferation. We demonstrate here that Del1 prevented apoptosis of endothelial cells in cell culture through integrin binding without any effect on proliferation.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Identification of an endothelial cell-specific regulatory region in the murine endothelin-1 gene",
+  "authors": [
+    "X Bu",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1997,
+  "date": "1997-12-19",
+  "doi": "10.1074/jbc.272.51.32613",
+  "pmid": "9405477",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.272.51.32613",
+  "abstract": "Endothelin-1 is a 21-amino acid peptide first characterized as a potent vasoactive compound synthesized by endothelial cells. Because of its high level cell-restricted pattern of expression, we have employed this gene as a model for investigating the DNA and protein elements that mediate endothelial cell-specific gene expression. In this study we have identified a complex positive regulatory region located at base pairs -364 to -320 in the murine endothelin-1 gene. This region consists of three functionally dependent elements, ETE-C, ETE-D, and ETE-E, which are all required for full activity. When a 43-base pair fragment containing these three elements was employed in heterologous promoter experiments, this sequence was capable of increasing transcriptional activity in an endothelial cell-specific fashion. None of the elements contains a recognized consensus sequence known to bind transcriptional regulatory proteins in higher eukaryotes; however, each element does appear to mediate protein binding. The combination of all three elements promotes binding of a protein complex that is endothelial cell-specific. This is the first evidence for an endothelial cell-specific DNA regulatory element and cognate binding proteins.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

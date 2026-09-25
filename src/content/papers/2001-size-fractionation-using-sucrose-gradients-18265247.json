@@ -1,0 +1,23 @@
+{
+  "title": "Size fractionation using sucrose gradients",
+  "authors": [
+    "J H Weis",
+    "T Quertermous"
+  ],
+  "journal": "Current protocols in molecular biology",
+  "journalAbbrev": "Curr Protoc Mol Biol",
+  "year": 2001,
+  "date": "2001-05-01",
+  "doi": "10.1002/0471142727.mb0503s00",
+  "pmid": "18265247",
+  "pmcid": null,
+  "url": "https://doi.org/10.1002/0471142727.mb0503s00",
+  "abstract": "DNA fragments migrate through a linear sucrose gradient at a rate that is dependent on their size. This procedure described in this unit provides good resolution for DNA fragments 5 to 60 kb in size, and sucrose gradients are also useful for purification of bacteriophage l vector arms. Partially digested genomic DNA can be fractionated for the production of cosmid or bacteriophage libraries and completely digested DNA can be fractionated for subgenomic DNA libraries. Protocols are provided in this unit for both partial and complete enzyme digestion of genomic DNA.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

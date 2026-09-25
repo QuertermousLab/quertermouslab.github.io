@@ -1,0 +1,32 @@
+{
+  "title": "A novel platform device for rodent echocardiography",
+  "authors": [
+    "Ingo Kutschka",
+    "Ahmad Y Sheikh",
+    "Ramachandra Sista",
+    "Stephen L Hendry",
+    "Hyung J Chun",
+    "Grant Hoyt",
+    "Werner Kutschka",
+    "Marc P Pelletier",
+    "Tom Quertermous",
+    "Joseph C Wu",
+    "Robert C Robbins"
+  ],
+  "journal": "ILAR journal",
+  "journalAbbrev": "ILAR J",
+  "year": 2007,
+  "date": "2007-06-06",
+  "doi": "10.1093/ilar.49.2.e1",
+  "pmid": "18506056",
+  "pmcid": null,
+  "url": "https://doi.org/10.1093/ilar.49.2.e1",
+  "abstract": "Acquisition of echocardiographic data from rodents is subject to wide variability due to variations in technique. We hypothesize that a dedicated imaging platform can aid in standardization of technique and improve the quality of images obtained. We constructed a device consisting of a boom-mounted steel platform frame (25 x 35 x 3 cm) on which a transparent polyethylene membrane is mounted. The animal is placed onto the membrane and receives continual inhaled anesthesia via an integrated port. The membrane allows for probe positioning from beneath the animal to obtain standard echo-views in left lateral decubitus or prone positions. The frame can be set at any desired angle ranging from 0 to 360 degrees along either the long or short axis. Adult male Sprague-Dawley rats (n = 5) underwent echocardiography (General Electric, Vivid 7, 14 MHz) using the platform. The device allowed for optimal positioning of animals for a variety of standard echocardiographic measurements. Evaluations among all animals showed minimal variability between two different operators and time points. We tested the feasibility of the device for supporting the assessment of cardiac function in a disease model by evaluating a separate cohort of adult male spontaneously hypertensive rats (n = 5) that underwent left anterior descending coronary artery ligation. Serial echocardiography demonstrated statistically significant decreases of fractional shortening and ejection fraction (p < 0.01) 240 days after surgery. Our novel imaging platform allowed for consistent collection of high-quality echocardiographic data from rats. Future studies will focus on improving this technology to allow for standardized high-throughput echocardiographic analysis in small animal models of disease.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

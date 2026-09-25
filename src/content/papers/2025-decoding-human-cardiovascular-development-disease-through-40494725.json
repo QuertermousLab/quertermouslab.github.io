@@ -1,0 +1,26 @@
+{
+  "title": "Decoding human cardiovascular development and disease through single-cell transcriptomic and epigenomic profiling",
+  "authors": [
+    "Logan Dunkenberger",
+    "Daniel Y Li",
+    "Ioannis Karakikes",
+    "Thomas Quertermous"
+  ],
+  "journal": "Trends in cell biology",
+  "journalAbbrev": "Trends Cell Biol",
+  "year": 2025,
+  "date": "2025-06-09",
+  "doi": "10.1016/j.tcb.2025.05.001",
+  "pmid": "40494725",
+  "pmcid": "PMC12752483",
+  "url": "https://doi.org/10.1016/j.tcb.2025.05.001",
+  "abstract": "Concomitant progress in the fields of microfluidics, microscale molecular biology, next-generation sequencing, and analytical methods for whole transcriptomic datasets has transformed our ability to understand complex cellular state changes at the single-cell level. New cell types have been discovered and cell transition states and intermediate phenotypes have been characterized across diverse developmental and disease contexts. More recently, integrating transcriptomic and epigenomic data has dramatically extended our understanding of transcriptional regulons and gene regulatory networks (GRNs) that determine gene expression and individual cellular phenotypes. Applied to cardiac biology, combined transcriptomic and epigenomic profiling has allowed the characterization of the developmental trajectories and molecular mechanisms that give rise to the diverse cell lineages of the adult heart and contribute to the pathogenesis of genetic diseases. In this review, we present the latest methodological innovations, discuss the computational strategies for multiomic data integration, and highlight how these advances are reshaping our undestanding of heart development and disease mechanisms.",
+  "pubTypes": [
+    "Journal Article",
+    "Review"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Transcriptomic profiling of experimental arterial injury reveals new mechanisms and temporal dynamics in vascular healing response",
+  "authors": [
+    "Samuel Röhl",
+    "Urszula Rykaczewska",
+    "Till Seime",
+    "Bianca E Suur",
+    "Maria Gonzalez Diez",
+    "Jesper R Gådin",
+    "Anastasiia Gainullina",
+    "Alexey A Sergushichev",
+    "Robert Wirka",
+    "Mariette Lengquist",
+    "Malin Kronqvist",
+    "Otto Bergman",
+    "Jacob Odeberg",
+    "Jan H N Lindeman",
+    "Thomas Quertermous",
+    "Anders Hamsten",
+    "Per Eriksson",
+    "Ulf Hedin",
+    "Anton Razuvaev",
+    "Ljubica Perisic Matic"
+  ],
+  "journal": "JVS-vascular science",
+  "journalAbbrev": "JVS Vasc Sci",
+  "year": 2020,
+  "date": "2020-02-07",
+  "doi": "10.1016/j.jvssci.2020.01.001",
+  "pmid": "34617037",
+  "pmcid": "PMC8489224",
+  "url": "https://doi.org/10.1016/j.jvssci.2020.01.001",
+  "abstract": "OBJECTIVE: Endovascular interventions cause arterial injury and induce a healing response to restore vessel wall homeostasis. Complications of defective or excessive healing are common and result in increased morbidity and repeated interventions. Experimental models of intimal hyperplasia are vital for understanding the vascular healing mechanisms and resolving the clinical problems of restenosis, vein graft stenosis, and dialysis access failure. Our aim was to systematically investigate the transcriptional, histologic, and systemic reaction to vascular injury during a prolonged time. METHODS: Balloon injury of the left common carotid artery was performed in male rats. Animals (n = 69) were euthanized before or after injury, either directly or after 2 hours, 20 hours, 2 days, 5 days, 2 weeks, 6 weeks, and 12 weeks. Both injured and contralateral arteries were subjected to microarray profiling, followed by bioinformatic exploration, histologic characterization of the biopsy specimens, and plasma lipid analyses. RESULTS: Immune activation and coagulation were key mechanisms in the early response, followed by cytokine release, tissue remodeling, and smooth muscle cell modulation several days after injury, with reacquisition of contractile features in later phases. Novel pathways related to clonal expansion, inflammatory transformation, and chondro-osteogenic differentiation were identified and immunolocalized to neointimal smooth muscle cells. Analysis of uninjured arteries revealed a systemic component of the reaction after local injury, underlined by altered endothelial signaling, changes in overall tissue bioenergy metabolism, and plasma high-density lipoprotein levels. CONCLUSIONS: We demonstrate that vascular injury induces dynamic transcriptional landscape and metabolic changes identifiable as early, intermediate, and late response phases, reaching homeostasis after several weeks. This study provides a temporal \"roadmap\" of vascular healing as a publicly available resource for the research community.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

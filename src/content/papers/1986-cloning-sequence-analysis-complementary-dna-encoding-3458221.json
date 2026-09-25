@@ -1,0 +1,30 @@
+{
+  "title": "Cloning and sequence analysis of complementary DNA encoding an aberrantly rearranged human T-cell gamma chain",
+  "authors": [
+    "D P Dialynas",
+    "C Murre",
+    "T Quertermous",
+    "J M Boss",
+    "J M Leiden",
+    "J G Seidman",
+    "J L Strominger"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 1986,
+  "date": "1986-04-01",
+  "doi": "10.1073/pnas.83.8.2619",
+  "pmid": "3458221",
+  "pmcid": "PMC323350",
+  "url": "https://doi.org/10.1073/pnas.83.8.2619",
+  "abstract": "Complementary DNA (cDNA) encoding a human T-cell gamma chain has been cloned and sequenced. At the junction of the variable and joining regions, there is an apparent deletion of two nucleotides in the human cDNA sequence relative to the murine gamma-chain cDNA sequence, resulting simultaneously in the generation of an in-frame stop codon and in a translational frameshift. For this reason, the sequence presented here encodes an aberrantly rearranged human T-cell gamma chain. There are several surprising differences between the deduced human and murine gamma-chain amino acid sequences. These include poor homology in the variable region, poor homology in a discrete segment of the constant region precisely bounded by the expected junctions of exon CII, and the presence in the human sequence of five potential sites for N-linked glycosylation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

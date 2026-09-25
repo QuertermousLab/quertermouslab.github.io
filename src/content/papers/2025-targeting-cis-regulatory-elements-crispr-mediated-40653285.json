@@ -1,0 +1,31 @@
+{
+  "title": "Targeting Cis-regulatory elements for CRISPR-mediated transcriptional activation of the human MIR503HG locus",
+  "authors": [
+    "João P Monteiro",
+    "Francesca Vacante",
+    "Azzurra L De Pace",
+    "Matthew Bennett",
+    "Julie Rodor",
+    "Dónal O'Carroll",
+    "Joseph C Wu",
+    "Thomas Quertermous",
+    "Andrew H Baker"
+  ],
+  "journal": "Vascular pharmacology",
+  "journalAbbrev": "Vascul Pharmacol",
+  "year": 2025,
+  "date": "2025-07-11",
+  "doi": "10.1016/j.vph.2025.107521",
+  "pmid": "40653285",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.vph.2025.107521",
+  "abstract": "Advances in genome annotation have revealed a striking increase in the number and complexity of non-coding RNA (ncRNA) genes, particularly multi-transcript loci that harbor long non-coding RNAs (lncRNAs) and microRNAs (miRNAs) within the same genomic region. These loci can often function as coordinated regulatory units, with their transcription modulated by shared cis-acting regulatory elements (CREs). Traditional gene manipulation approaches, which typically target individual transcripts, are insufficient to capture the full regulatory and therapeutic potential of these complex loci. Here, we present \"cis-ON\" a single-vector lentiviral delivery system based on CRISPR activation (CRISPRa), designed to simultaneously upregulate multiple noncoding RNA transcripts by targeting a single CRE. We focused on the evolutionarily conserved MIR503HG locus, which encodes seven lncRNA isoforms and hosts the miR-424/503 cluster, both implicated in various cellular processes, including proliferation, angiogenesis, and endothelial-to-mesenchymal transition. Using integrative analysis of histone marks (H3K27Ac, H3K4Me3), DNase hypersensitivity, and CAGE-seq data, we identified the primary promoter of the MIR503HG locus. A dual fluorescent reporter screen selected optimal single guide RNAs (sgRNAs) for targeting this region. We then engineered cis-ON, a novel lentiviral system combining dCas9-VPR and sgRNA to enable a streamlined single-vector delivery approach. Transduction of primary human endothelial cells with this system robustly activated the entire locus including the MIR503HG isoforms and co-embedded miRNAs miR-424 and miR-503, demonstrating coordinated transcriptional regulation. Additionally, the neighboring LINC00629 lncRNA locus remained unaffected, highlighting regulatory specificity. This approach demonstrates the feasibility of modulating complex ncRNA loci across a ∼ 10 kb genomic region by targeting a single CRE, bypassing limitations of transcriptspecific strategies. By enabling simultaneous upregulation of lncRNAs and miRNAs, the cis-ON platform provides a streamlined strategy for restoring regulatory networks disrupted in disease.",
+  "pubTypes": [
+    "Letter"
+  ],
+  "tqPosition": "middle",
+  "labPaper": true,
+  "highlight": false,
+  "tags": [],
+  "labPaperOverride": true
+}

@@ -1,0 +1,45 @@
+---
+// Compact citation row used on Research and Publications.
+import type { Paper } from '../lib/papers';
+import { formatAuthors, isPreprint, journalName } from '../lib/papers';
+interface Props { paper: Paper; keys: Set<string>; showThumb?: boolean }
+const { paper, keys, showThumb = true } = Astro.props;
+const d = paper.data;
+const search = `${d.title} ${d.authors.join(' ')} ${d.journal} ${d.journalAbbrev} ${d.year}`.toLowerCase();
+---
+<li class="prow" data-year={d.year} data-lab={d.labPaper ? '1' : '0'} data-pre={isPreprint(paper) ? '1' : '0'} data-q={search}>
+  {showThumb && (
+    <a class="prow__thumb" href={d.url} tabindex="-1" aria-hidden="true">
+      {d.image ? <img src={d.image} alt="" loading="lazy" /> : <span>{d.journalAbbrev.split(' ').map((w) => w[0]).join('').slice(0, 3)}</span>}
+    </a>
+  )}
+  <div>
+    <a class="prow__title" href={d.url}>{d.title}</a>
+    <p class="prow__authors" set:html={formatAuthors(d.authors, keys)} />
+    <p class="prow__meta">
+      <em>{journalName(d.journal)}</em> · {d.year}
+      {isPreprint(paper) && <span class="chip">Preprint</span>}
+      {d.labPaper && <span class="chip chip--red">Lab</span>}
+      <a href={`https://pubmed.ncbi.nlm.nih.gov/${d.pmid}/`}>PubMed</a>
+      {d.pmcid && <a href={`https://pmc.ncbi.nlm.nih.gov/articles/${d.pmcid}/`}>Free full text</a>}
+      {d.dataUrl && <a href={d.dataUrl}>Data</a>}
+      {d.geo && <a href={`https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=${d.geo}`}>{d.geo}</a>}
+      {d.codeUrl && <a href={d.codeUrl}>Code</a>}
+    </p>
+  </div>
+</li>
+
+<style>
+  .prow { display: grid; grid-template-columns: 64px 1fr; gap: 18px; padding: 18px 0; border-bottom: 1px solid var(--line); }
+  .prow:not(:has(.prow__thumb)) { grid-template-columns: 1fr; }
+  .prow__thumb { width: 64px; height: 64px; border-radius: 10px; overflow: hidden; background: var(--paper-2);
+    border: 1px solid var(--line); display: grid; place-items: center; text-decoration: none; }
+  .prow__thumb img { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+  .prow__thumb span { font-family: var(--font-serif); font-style: italic; color: var(--artery); font-size: 1rem; }
+  .prow__title { font-family: var(--font-serif); font-size: 1.08rem; font-weight: 600; color: var(--ink); text-decoration: none; line-height: 1.35; }
+  .prow__title:hover { color: var(--artery); }
+  .prow__authors { font-size: .84rem; color: var(--muted); margin: 5px 0 5px; line-height: 1.45; }
+  .prow__authors :global(b) { color: var(--ink-2); font-weight: 600; }
+  .prow__meta { font-size: .84rem; color: var(--ink-2); margin: 0; display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; }
+  .prow__meta a { font-weight: 600; text-decoration: none; }
+</style>

@@ -1,0 +1,26 @@
+{
+  "title": "Measuring the human T cell receptor gamma-chain locus",
+  "authors": [
+    "W M Strauss",
+    "T Quertermous",
+    "J G Seidman"
+  ],
+  "journal": "Science (New York, N.Y.)",
+  "journalAbbrev": "Science",
+  "year": 1987,
+  "date": "1987-09-04",
+  "doi": "10.1126/science.3498213",
+  "pmid": "3498213",
+  "pmcid": null,
+  "url": "https://doi.org/10.1126/science.3498213",
+  "abstract": "The human T cell receptor gamma locus, including eleven variable-region, five joining-region, and two constant-region segments, is contained in 160 kilobases. During T cell somatic development these genes undergo rearrangement by deletion of the sequences separating the variable and joining regions. The molecular map of this locus was completely defined by deletion mapping and restriction mapping. Restriction fragments were resolved by standard agarose electrophoresis and field inversion electrophoresis. These studies demonstrate that the deletions in this locus, which occur during the formation of a functional T cell receptor gamma-chain gene, range from 50 to 145 kilobases in length. These studies also provide a structural basis for understanding the development of the gamma-chain peptide repertoire, and extends the potential of the emerging pulsed-field electrophoretic technology.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

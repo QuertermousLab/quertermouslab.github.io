@@ -1,0 +1,36 @@
+{
+  "title": "Environment-Sensing Aryl Hydrocarbon Receptor Inhibits the Chondrogenic Fate of Modulated Smooth Muscle Cells in Atherosclerotic Lesions",
+  "authors": [
+    "Juyong Brian Kim",
+    "Quanyi Zhao",
+    "Trieu Nguyen",
+    "Milos Pjanic",
+    "Paul Cheng",
+    "Robert Wirka",
+    "Stanislao Travisano",
+    "Manabu Nagao",
+    "Ramendra Kundu",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation",
+  "journalAbbrev": "Circulation",
+  "year": 2020,
+  "date": "2020-05-22",
+  "doi": "10.1161/CIRCULATIONAHA.120.045981",
+  "pmid": "32441123",
+  "pmcid": "PMC8066499",
+  "url": "https://doi.org/10.1161/CIRCULATIONAHA.120.045981",
+  "abstract": "BACKGROUND: Smooth muscle cells (SMC) play a critical role in atherosclerosis. The Aryl hydrocarbon receptor (AHR) is an environment-sensing transcription factor that contributes to vascular development, and has been implicated in coronary artery disease risk. We hypothesized that AHR can affect atherosclerosis by regulating phenotypic modulation of SMC. METHODS: We combined RNA-sequencing, chromatin immunoprecipitation followed by sequencing, assay for transposase-accessible chromatin using sequencing, and in vitro assays in human coronary artery SMCs, with single-cell RNA-sequencing, histology, and RNAscope in an SMC-specific lineage-tracing Ahr knockout mouse model of atherosclerosis to better understand the role of AHR in vascular disease. RESULTS: Genomic studies coupled with functional assays in cultured human coronary artery SMCs revealed that AHR modulates the human coronary artery SMC phenotype and suppresses ossification in these cells. Lineage-tracing and activity-tracing studies in the mouse aortic sinus showed that the Ahr pathway is active in modulated SMCs in the atherosclerotic lesion cap. Furthermore, single-cell RNA-sequencing studies of the SMC-specific Ahr knockout mice showed a significant increase in the proportion of modulated SMCs expressing chondrocyte markers such as Col2a1 and Alpl, which localized to the lesion neointima. These cells, which we term \"chondromyocytes,\" were also identified in the neointima of human coronary arteries. In histological analyses, these changes manifested as larger lesion size, increased lineage-traced SMC participation in the lesion, decreased lineage-traced SMCs in the lesion cap, and increased alkaline phosphatase activity in lesions in the Ahr knockout in comparison with wild-type mice. We propose that AHR is likely protective based on these data and inference from human genetic analyses. CONCLUSIONS: Overall, we conclude that AHR promotes the maintenance of lesion cap integrity and diminishes the disease-related SMC-to-chondromyocyte transition in atherosclerotic tissues.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": true,
+  "tags": [],
+  "highlightOrder": 12,
+  "theme": "smc-states",
+  "summary": "The environment-sensing aryl hydrocarbon receptor inhibits the chondrogenic fate of modulated smooth muscle cells in atherosclerosis."
+}

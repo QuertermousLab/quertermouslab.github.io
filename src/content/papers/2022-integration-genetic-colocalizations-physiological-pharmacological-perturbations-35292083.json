@@ -1,0 +1,34 @@
+{
+  "title": "Integration of genetic colocalizations with physiological and pharmacological perturbations identifies cardiometabolic disease genes",
+  "authors": [
+    "Michael J Gloudemans",
+    "Brunilda Balliu",
+    "Daniel Nachun",
+    "Theresia M Schnurr",
+    "Matthew G Durrant",
+    "Erik Ingelsson",
+    "Martin Wabitsch",
+    "Thomas Quertermous",
+    "Stephen B Montgomery",
+    "Joshua W Knowles",
+    "Ivan Carcamo-Orive"
+  ],
+  "journal": "Genome medicine",
+  "journalAbbrev": "Genome Med",
+  "year": 2022,
+  "date": "2022-03-15",
+  "doi": "10.1186/s13073-022-01036-8",
+  "pmid": "35292083",
+  "pmcid": "PMC8925074",
+  "url": "https://doi.org/10.1186/s13073-022-01036-8",
+  "abstract": "BACKGROUND: Identification of causal genes for polygenic human diseases has been extremely challenging, and our understanding of how physiological and pharmacological stimuli modulate genetic risk at disease-associated loci is limited. Specifically, insulin resistance (IR), a common feature of cardiometabolic disease, including type 2 diabetes, obesity, and dyslipidemia, lacks well-powered genome-wide association studies (GWAS), and therefore, few associated loci and causal genes have been identified. METHODS: Here, we perform and integrate linkage disequilibrium (LD)-adjusted colocalization analyses across nine cardiometabolic traits (fasting insulin, fasting glucose, insulin sensitivity, insulin sensitivity index, type 2 diabetes, triglycerides, high-density lipoprotein, body mass index, and waist-hip ratio) combined with expression and splicing quantitative trait loci (eQTLs and sQTLs) from five metabolically relevant human tissues (subcutaneous and visceral adipose, skeletal muscle, liver, and pancreas). To elucidate the upstream regulators and functional mechanisms for these genes, we integrate their transcriptional responses to 21 relevant physiological and pharmacological perturbations in human adipocytes, hepatocytes, and skeletal muscle cells and map their protein-protein interactions. RESULTS: We identify 470 colocalized loci and prioritize 207 loci with a single colocalized gene. Patterns of shared colocalizations across traits and tissues highlight different potential roles for colocalized genes in cardiometabolic disease and distinguish several genes involved in pancreatic β-cell function from others with a more direct role in skeletal muscle, liver, and adipose tissues. At the loci with a single colocalized gene, 42 of these genes were regulated by insulin and 35 by glucose in perturbation experiments, including 17 regulated by both. Other metabolic perturbations regulated the expression of 30 more genes not regulated by glucose or insulin, pointing to other potential upstream regulators of candidate causal genes. CONCLUSIONS: Our use of transcriptional responses under metabolic perturbations to contextualize genetic associations from our custom colocalization approach provides a list of likely causal genes and their upstream regulators in the context of IR-associated cardiometabolic risk.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

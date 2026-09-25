@@ -1,0 +1,32 @@
+{
+  "title": "Disruption of the apelin-APJ system worsens hypoxia-induced pulmonary hypertension",
+  "authors": [
+    "Suparna M Chandra",
+    "Hedi Razavi",
+    "Jongmin Kim",
+    "Rani Agrawal",
+    "Ramendra K Kundu",
+    "Vinicio de Jesus Perez",
+    "Roham T Zamanian",
+    "Thomas Quertermous",
+    "Hyung J Chun"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2011,
+  "date": "2011-01-13",
+  "doi": "10.1161/ATVBAHA.110.219980",
+  "pmid": "21233449",
+  "pmcid": "PMC3113525",
+  "url": "https://doi.org/10.1161/ATVBAHA.110.219980",
+  "abstract": "OBJECTIVE: The G-protein-coupled receptor APJ and its ligand apelin are highly expressed in the pulmonary vasculature, but their function in this vascular bed is unclear. We hypothesized that disruption of apelin signaling would lead to worsening of the vascular remodeling associated with pulmonary hypertension (PH). METHODS AND RESULTS: We found that apelin-null mice developed more severe PH compared with wild-type mice when exposed to chronic hypoxia. Micro-computed tomography of the pulmonary arteries demonstrated significant pruning of the microvasculature in the apelin-null mice. Apelin-null mice had a significant reduction of serum nitrate levels. This was secondary to downregulation of endothelial nitric oxide synthase (eNOS), which was associated with reduced expression of Kruppel-like factor 2 (KLF2), a known regulator of eNOS expression. In vitro knockdown studies targeting apelin in human pulmonary artery endothelial cells demonstrated decreased eNOS and KLF2 expression, as well as impaired phosphorylation of AMP-activated kinase and eNOS. Moreover, serum apelin levels of patients with PH were significantly lower than those of controls. CONCLUSIONS: These data demonstrate that disruption of apelin signaling can exacerbate PH mediated by decreased activation of AMP-activated kinase and eNOS, and they identify this pathway as a potentially important therapeutic target for treatment of this refractory human disease.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

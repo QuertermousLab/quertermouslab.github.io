@@ -1,0 +1,36 @@
+{
+  "title": "A single-cell CRISPRi platform for characterizing candidate genes relevant to metabolic disorders in human adipocytes",
+  "authors": [
+    "Ewa Bielczyk-Maczynska",
+    "Disha Sharma",
+    "Montgomery Blencowe",
+    "Peter Saliba Gustafsson",
+    "Michael J Gloudemans",
+    "Xia Yang",
+    "Ivan Carcamo-Orive",
+    "Martin Wabitsch",
+    "Katrin J Svensson",
+    "Chong Y Park",
+    "Thomas Quertermous",
+    "Joshua W Knowles",
+    "Jiehan Li"
+  ],
+  "journal": "American journal of physiology. Cell physiology",
+  "journalAbbrev": "Am J Physiol Cell Physiol",
+  "year": 2023,
+  "date": "2023-07-24",
+  "doi": "10.1152/ajpcell.00148.2023",
+  "pmid": "37486064",
+  "pmcid": "PMC10635647",
+  "url": "https://doi.org/10.1152/ajpcell.00148.2023",
+  "abstract": "CROP-Seq combines gene silencing using CRISPR interference with single-cell RNA sequencing. Here, we applied CROP-Seq to study adipogenesis and adipocyte biology. Human preadipocyte SGBS cell line expressing KRAB-dCas9 was transduced with a sgRNA library. Following selection, individual cells were captured using microfluidics at different timepoints during adipogenesis. Bioinformatic analysis of transcriptomic data was used to determine the knockdown effects, the dysregulated pathways, and to predict cellular phenotypes. Single-cell transcriptomes recapitulated adipogenesis states. For all targets, over 400 differentially expressed genes were identified at least at one timepoint. As a validation of our approach, the knockdown of PPARG and CEBPB (which encode key proadipogenic transcription factors) resulted in the inhibition of adipogenesis. Gene set enrichment analysis generated hypotheses regarding the molecular function of novel genes. MAFF knockdown led to downregulation of transcriptional response to proinflammatory cytokine TNF-α in preadipocytes and to decreased CXCL-16 and IL-6 secretion. TIPARP knockdown resulted in increased expression of adipogenesis markers. In summary, this powerful, hypothesis-free tool can identify novel regulators of adipogenesis, preadipocyte, and adipocyte function associated with metabolic disease.NEW & NOTEWORTHY Genomics efforts led to the identification of many genomic loci that are associated with metabolic traits, many of which are tied to adipose tissue function. However, determination of the causal genes, and their mechanism of action in metabolism, is a time-consuming process. Here, we use an approach to determine the transcriptional outcome of candidate gene knockdown for multiple genes at the same time in a human cell model of adipogenesis.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

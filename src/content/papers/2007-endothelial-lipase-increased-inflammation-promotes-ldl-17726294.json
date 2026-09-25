@@ -1,0 +1,29 @@
+{
+  "title": "Endothelial lipase is increased by inflammation and promotes LDL uptake in macrophages",
+  "authors": [
+    "Tomoyuki Yasuda",
+    "Ken-Ichi Hirata",
+    "Tatsuro Ishida",
+    "Yoko Kojima",
+    "Hanayo Tanaka",
+    "Takeaki Okada",
+    "Thomas Quertermous",
+    "Mitsuhiro Yokoyama"
+  ],
+  "journal": "Journal of atherosclerosis and thrombosis",
+  "journalAbbrev": "J Atheroscler Thromb",
+  "year": 2007,
+  "date": "2007-08-29",
+  "doi": "10.5551/jat.e502",
+  "pmid": "17726294",
+  "pmcid": null,
+  "url": "https://doi.org/10.5551/jat.e502",
+  "abstract": "AIM: Endothelial lipase (EL) is a member of the lipoprotein lipase family that regulates HDL metabolism. EL is known to act as a bridging molecule for monocytes or lipoproteins in vascular endothelial cells. We investigated the role and regulatory mechanisms of EL expression in macrophages. METHODS: Macrophages originating from wild-type (EL+/+) and EL-deficient (EL-/-) mice were stimulated with lipopolysaccharide (LPS). The expression of EL mRNA was evaluated by northern blotting. DiI-LDL was used to measure the uptake of native low-density lipoprotein (nLDL). RESULTS: LPS increased EL mRNA levels by increasing intracellular oxidative stress in the macrophages. LPS did not affect EL expression in macrophages derived from Toll-like receptor 4 (TLR4) gene mutant mice, C3H/HeJ. The uptake of nLDL after LPS-treatment was significantly lower in macrophages from EL-/- mice than those from EL+/+ mice. Simvastatin suppressed the LPS-induced upregulation of EL expression and uptake of nLDL. CONCLUSIONS: EL expression is upregulated by LPS via TLR4 and promotes the uptake of nLDL by macrophages. Simvastatin inhibits the LPS-induced up-regulation and uptake in macrophages. Thus, our findings provide a novel role for EL in lipoprotein metabolism and would expand the range of anti-atherogenic effects of statins.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Endogenous regulation of cardiovascular function by apelin-APJ",
+  "authors": [
+    "David N Charo",
+    "Michael Ho",
+    "Giovanni Fajardo",
+    "Masataka Kawana",
+    "Ramendra K Kundu",
+    "Ahmad Y Sheikh",
+    "Thomas P Finsterbach",
+    "Nicholas J Leeper",
+    "Kavita V Ernst",
+    "Mary M Chen",
+    "Yen Dong Ho",
+    "Hyung J Chun",
+    "Daniel Bernstein",
+    "Euan A Ashley",
+    "Thomas Quertermous"
+  ],
+  "journal": "American journal of physiology. Heart and circulatory physiology",
+  "journalAbbrev": "Am J Physiol Heart Circ Physiol",
+  "year": 2009,
+  "date": "2009-09-18",
+  "doi": "10.1152/ajpheart.00686.2009",
+  "pmid": "19767528",
+  "pmcid": "PMC2781363",
+  "url": "https://doi.org/10.1152/ajpheart.00686.2009",
+  "abstract": "Studies have shown significant cardiovascular effects of exogenous apelin administration, including the potent activation of cardiac contraction. However, the role of the endogenous apelin-APJ pathway is less clear. To study the loss of endogenous apelin-APJ signaling, we generated mice lacking either the ligand (apelin) or the receptor (APJ). Apelin-deficient mice were viable, fertile, and showed normal development. In contrast, APJ-deficient mice were not born in the expected Mendelian ratio, and many showed cardiovascular developmental defects. Under basal conditions, both apelin and APJ null mice that survived to adulthood manifested modest decrements in contractile function. However, with exercise stress both mutant lines demonstrated consistent and striking decreases in exercise capacity. To explain these findings, we explored the role of autocrine signaling in vitro using field stimulation of isolated left ventricular cardiomyocytes lacking either apelin or APJ. Both groups manifested less sarcomeric shortening and impaired velocity of contraction and relaxation with no difference in calcium transient. Taken together, these results demonstrate that endogenous apelin-APJ signaling plays a modest role in maintaining basal cardiac function in adult mice with a more substantive role during conditions of stress. In addition, an autocrine pathway seems to exist in myocardial cells, the ablation of which reduces cellular contraction without change in calcium transient. Finally, differences in the developmental phenotype between apelin and APJ null mice suggest the possibility of undiscovered APJ ligands or ligand-independent effects of APJ.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

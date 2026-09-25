@@ -1,0 +1,27 @@
+{
+  "title": "Induced Pluripotent Stem Cell-Derived Endothelial Cells in Insulin Resistance and Metabolic Syndrome",
+  "authors": [
+    "Ivan Carcamo-Orive",
+    "Ngan F Huang",
+    "Thomas Quertermous",
+    "Joshua W Knowles"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2017,
+  "date": "2017-07-20",
+  "doi": "10.1161/ATVBAHA.117.309291",
+  "pmid": "28729365",
+  "pmcid": "PMC5669062",
+  "url": "https://doi.org/10.1161/ATVBAHA.117.309291",
+  "abstract": "Insulin resistance leads to a number of metabolic and cellular abnormalities including endothelial dysfunction that increase the risk of vascular disease. Although it has been particularly challenging to study the genetic determinants that predispose to abnormal function of the endothelium in insulin-resistant states, the possibility of deriving endothelial cells from induced pluripotent stem cells generated from individuals with detailed clinical phenotyping, including accurate measurements of insulin resistance accompanied by multilevel omic data (eg, genetic and genomic characterization), has opened new avenues to study this relationship. Unfortunately, several technical barriers have hampered these efforts. In the present review, we summarize the current status of induced pluripotent stem cell-derived endothelial cells for modeling endothelial dysfunction associated with insulin resistance and discuss the challenges to overcoming these limitations.",
+  "pubTypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

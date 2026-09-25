@@ -1,0 +1,30 @@
+{
+  "title": "Hepatic proprotein convertases modulate HDL metabolism",
+  "authors": [
+    "Weijun Jin",
+    "Xun Wang",
+    "John S Millar",
+    "Thomas Quertermous",
+    "George H Rothblat",
+    "Jane M Glick",
+    "Daniel J Rader"
+  ],
+  "journal": "Cell metabolism",
+  "journalAbbrev": "Cell Metab",
+  "year": 2007,
+  "date": "2007-08-01",
+  "doi": "10.1016/j.cmet.2007.07.009",
+  "pmid": "17681148",
+  "pmcid": "PMC2565575",
+  "url": "https://doi.org/10.1016/j.cmet.2007.07.009",
+  "abstract": "The risk of atherosclerosis is inversely associated with plasma levels of high-density lipoprotein cholesterol (HDL-C). However, HDL metabolism is incompletely understood, and there are few effective approaches to modulate HDL-C levels. Here we show that inhibition in the liver of the classical proprotein convertases (PCs), but not the atypical PCs S1P and PCSK9, decreases plasma HDL-C levels. This metabolic effect of hepatic PCs is critically dependent on expression of endothelial lipase (EL), an enzyme that directly hydrolyzes HDL phospholipids and promotes its catabolism. Hepatic PCs reduce EL function through direct inactivating cleavage of EL as well as through activating cleavage of angiopoietin-like protein 3 (ANGPTL3), an endogenous inhibitor of EL. Thus, inhibition of hepatic PCs results in increased EL activity, leading to reduced HDL-C as well as impaired reverse cholesterol transport. The hepatic PC-ANGPTL3-EL-HDL pathway is therefore a novel mechanism controlling HDL metabolism and cholesterol homeostasis.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

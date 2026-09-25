@@ -1,0 +1,28 @@
+---
+// Lab mark: the "Q" of Qlab drawn as an artery cross-section — adventitia,
+// smooth-muscle media, endothelium and a lumen with red cells. The Q's tail is
+// an eccentric plaque at the lower right: it bulges into the lumen and tapers
+// into the media, stopping short of the adventitia.
+interface Props { size?: number; class?: string }
+const { size = 48, class: cls = '' } = Astro.props;
+---
+<svg class={cls} width={size} height={size} viewBox="0 0 60 60" aria-hidden="true">
+  <!-- adventitia -->
+  <circle cx="30" cy="30" r="27" fill="none" stroke="#7f9be0" stroke-width="2.2" stroke-dasharray="1.2 2.6" stroke-linecap="round" />
+  <!-- media with SMC striations -->
+  <circle cx="30" cy="30" r="20.5" fill="none" stroke="#c8243a" stroke-width="9" />
+  <circle cx="30" cy="30" r="20.5" fill="none" stroke="#ef4056" stroke-width="7" stroke-dasharray=".9 2.8" opacity=".75" />
+  <!-- endothelium + lumen -->
+  <circle cx="30" cy="30" r="15.3" fill="#1d0b12" stroke="#3fb6a8" stroke-width="1.6" />
+  <ellipse cx="25" cy="26" rx="3" ry="2.4" fill="#c8243a" />
+  <ellipse cx="22" cy="33.5" rx="2.3" ry="1.9" fill="#a81c30" />
+  <ellipse cx="31.5" cy="21" rx="2.2" ry="1.8" fill="#a81c30" />
+  <!-- plaque = the tail of the Q (tip ends inside the media, r ≈ 23) -->
+  <g transform="rotate(45 30 30)">
+    <path d="M35 30 C 36.8 23.2, 42.8 21.2, 47 24.4 C 49.6 26.4, 51.6 28.6, 52.6 30 C 51.6 31.4, 49.6 33.6, 47 35.6 C 42.8 38.8, 36.8 36.8, 35 30 Z"
+          fill="#e7a93b" stroke="#8c1515" stroke-width="1.8" stroke-linejoin="round" />
+    <ellipse cx="43" cy="30" rx="5" ry="3.3" fill="#f6c65b" />
+    <circle cx="40.6" cy="31.2" r="1" fill="#fff6ea" />
+    <circle cx="45.6" cy="28.8" r=".85" fill="#fff6ea" />
+  </g>
+</svg>

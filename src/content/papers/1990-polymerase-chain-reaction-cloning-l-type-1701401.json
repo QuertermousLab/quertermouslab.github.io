@@ -1,0 +1,26 @@
+{
+  "title": "Polymerase chain reaction cloning of L-type calcium channel sequences from the heart and the brain",
+  "authors": [
+    "P Huang",
+    "D Temizer",
+    "T Quertermous"
+  ],
+  "journal": "FEBS letters",
+  "journalAbbrev": "FEBS Lett",
+  "year": 1990,
+  "date": "1990-11-12",
+  "doi": "10.1016/0014-5793(90)81365-u",
+  "pmid": "1701401",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/0014-5793(90)81365-u",
+  "abstract": "The sequences of the highly conserved S4 regions of voltage-sensitive ion channels were used to design oligonucleotide primers for the polymerase chain reaction. Specific fragments of the cDNA encoding L-type calcium channels from the heart, brain, and skeletal muscle were amplified and cloned. The nucleotide sequences of the cardiac and brain calcium channels obtained are identical over this region, and share 78% homology with the skeletal muscle calcium channel. Comparison of the predicted amino acid sequences of our clones with those of other calcium channels reveals unexpected patterns of conservation which suggest alternative exon use.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

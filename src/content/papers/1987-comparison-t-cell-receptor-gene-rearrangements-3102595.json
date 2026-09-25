@@ -1,0 +1,29 @@
+{
+  "title": "Comparison of T cell receptor gene rearrangements in patients with large granular T cell leukemia and Felty's syndrome",
+  "authors": [
+    "B Freimark",
+    "L Lanier",
+    "J Phillips",
+    "T Quertermous",
+    "R Fox"
+  ],
+  "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+  "journalAbbrev": "J Immunol",
+  "year": 1987,
+  "date": "1987-03-15",
+  "doi": null,
+  "pmid": "3102595",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/3102595/",
+  "abstract": "Felty's syndrome (FS) refers to the occurrence of rheumatoid arthritis, splenomegaly, and neutropenia. A subset of these patients has recently been described with a chronic T cell leukemia of large granular lymphocytes (LGCL). To examine the spectrum of lymphocyte abnormalities in FS and LGCL, we examined phenotypic and genotypic properties of lymphocytes from eight FS patients. In two of these FS patients, we observed an elevated proportion of T cells with an unusual phenotype (CD3+/Leu-7+/Leu-8-/CR3+) (46 +/- 5% of mononuclear cells). The FS lymphocytes had large granular morphology on Wright-Giemsa stain and were active in antibody-dependent cellular cytotoxic activity. This phenotype, morphology, and activity was similar to LGCL patients except that the latter T cells additionally expressed the Fc-IgG receptor recognized by monoclonal antibody Leu-11 (CD 15). In the remaining six FS patients, the proportion of CD3+/Leu-7+/CR 3+ T cells was only 10 +/- 8%, which was not significantly different from age-matched normal subjects (6.6 +/- 2.2%). To determine the clonality of T lymphocytes in FS and LGCL, we examined DNA for rearrangements of the T cell antigen receptor beta-chain (Ti beta) and gamma-chain (Ti gamma) genes by using Southern blotting techniques. We found a clonal rearrangement of the Ti beta 1 and Ti gamma genes in both LGCL patients. In contrast, no clonal rearrangements of Ti beta or Ti gamma genes were detected in lymphocytes from the FS patients. These results indicate that FS patients are heterogeneous in their phenotype and that one subset exhibits polyclonal expansion of an unusual lymphocyte subset.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

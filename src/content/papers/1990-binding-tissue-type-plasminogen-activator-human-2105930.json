@@ -1,0 +1,28 @@
+{
+  "title": "Binding of tissue-type plasminogen activator with human endothelial cell monolayers. Characterization of the high affinity interaction with plasminogen activator inhibitor-1",
+  "authors": [
+    "M E Russell",
+    "T Quertermous",
+    "P J Declerck",
+    "D Collen",
+    "E Haber",
+    "C J Homcy"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1990,
+  "date": "1990-02-15",
+  "doi": null,
+  "pmid": "2105930",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2105930/",
+  "abstract": "The formation and release of covalent complexes between tissue-type plasminogen activator (t-PA) and plasminogen activator inhibitor-1 (PAI-1) limits the application of equilibrium radioligand binding analysis to characterize the interaction between t-PA and human umbilical vein endothelial cell (HUVEC) monolayers. To avoid this difficulty, we used a recombinant mutant of t-PA, S478A rt-PA, in which alanine has been substituted for the active-site serine. Although the mutant is incapable of covalently reacting with PAI-1, 125I-labeled S478A rt-PA binding to HUVEC monolayers is specific and reversible and is characterized by a high affinity (Kd of 1.5 nM) and a large number of sites (1.5 x 10(6)/cell). This binding was shown to occur through noncovalent interaction with PAI-1 in the HUVEC monolayer by the fact that a monoclonal anti-PAI-1 antibody (MA-7D4) completely blocked S478A rt-PA binding. Two solution-phase assays with recombinant PAI-1 (rPAI-1) confirmed this noncovalent interaction: complexes between 125I-S478A rt-PA and rPAI-1 could be isolated by immunoprecipitation with anti-PAI-1 antibodies, and S478A rt-PA competed with rt-PA for inactivation by rPAI-1. In contrast diisopropylphosphate rt-PA (in which the active site serine is chemically modified) showed minimal binding to HUVEC monolayers, as a result of impaired interaction with PAI-1, in the two assays. Thus, both wild-type rt-PA and S478A rt-PA interact with the HUVEC monolayer through PAI-1. With rt-PA this results in the formation of covalent rt-PA.PAI-1 complexes that are released from the monolayer into the supernatant. With S478A rt-PA this results in the formation of noncovalent complexes that remain associated with the HUVEC monolayer, thereby identifying a large pool of reactive PAI-1 molecules in the monolayer.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "title": "TCF21 and AP-1 interact through epigenetic modifications to regulate coronary artery disease gene expression",
+  "authors": [
+    "Quanyi Zhao",
+    "Robert Wirka",
+    "Trieu Nguyen",
+    "Manabu Nagao",
+    "Paul Cheng",
+    "Clint L Miller",
+    "Juyong Brian Kim",
+    "Milos Pjanic",
+    "Thomas Quertermous"
+  ],
+  "journal": "Genome medicine",
+  "journalAbbrev": "Genome Med",
+  "year": 2019,
+  "date": "2019-05-02",
+  "doi": "10.1186/s13073-019-0635-9",
+  "pmid": "31014396",
+  "pmcid": "PMC6480881",
+  "url": "https://doi.org/10.1186/s13073-019-0635-9",
+  "abstract": "BACKGROUND: Genome-wide association studies have identified over 160 loci that are associated with coronary artery disease. As with other complex human diseases, risk in coronary disease loci is determined primarily by altered expression of the causal gene, due to variation in binding of transcription factors and chromatin-modifying proteins that directly regulate the transcriptional apparatus. We have previously identified a coronary disease network downstream of the disease-associated transcription factor TCF21, and in work reported here extends these studies to investigate the mechanisms by which it interacts with the AP-1 transcription complex to regulate local epigenetic effects in these downstream coronary disease loci. METHODS: Genomic studies, including chromatin immunoprecipitation sequencing, RNA sequencing, and protein-protein interaction studies, were performed in human coronary artery smooth muscle cells. RESULTS: We show here that TCF21 and JUN regulate expression of two presumptive causal coronary disease genes, SMAD3 and CDKN2B-AS1, in part by interactions with histone deacetylases and acetyltransferases. Genome-wide TCF21 and JUN binding is jointly localized and particularly enriched in coronary disease loci where they broadly modulate H3K27Ac and chromatin state changes linked to disease-related processes in vascular cells. Heterozygosity at coronary disease causal variation, or genome editing of these variants, is associated with decreased binding of both JUN and TCF21 and loss of expression in cis, supporting a transcriptional mechanism for disease risk. CONCLUSIONS: These data show that the known chromatin remodeling and pioneer functions of AP-1 are a pervasive aspect of epigenetic control of transcription, and thus, the risk in coronary disease-associated loci, and that interaction of AP-1 with TCF21 to control epigenetic features, contributes to the genetic risk in loci where they co-localize.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

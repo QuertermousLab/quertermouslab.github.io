@@ -1,0 +1,22 @@
+{
+  "title": "Production of a genomic DNA library",
+  "authors": [
+    "T Quertermous"
+  ],
+  "journal": "Current protocols in molecular biology",
+  "journalAbbrev": "Curr Protoc Mol Biol",
+  "year": 2001,
+  "date": "2001-05-01",
+  "doi": "10.1002/0471142727.mb0507s13",
+  "pmid": "18265251",
+  "pmcid": null,
+  "url": "https://doi.org/10.1002/0471142727.mb0507s13",
+  "abstract": "The Basic Protocol describes the strategy of producing a genomic DNA library. A number of small-scale ligations are performed using a set amount of vector and varying amounts of insert. Test ligations are transformed into bacteria (plasmid vectors) or packaged and plated on host bacteria (lambda and cosmid vectors). The number of clones in the different ligations is compared, and the optimum ratio of vector to insert is indicated by the ligation with the most recombinant clones. A large-scale ligation is then set up using this optimum ratio. This protocol employs a bacteriophage vector; however, cosmid or plasmid vectors can be used with minor modifications.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

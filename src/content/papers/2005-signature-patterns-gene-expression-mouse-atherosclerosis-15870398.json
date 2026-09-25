@@ -1,0 +1,34 @@
+{
+  "title": "Signature patterns of gene expression in mouse atherosclerosis and their correlation to human coronary disease",
+  "authors": [
+    "Raymond Tabibiazar",
+    "Roger A Wagner",
+    "Euan A Ashley",
+    "Jennifer Y King",
+    "Rossella Ferrara",
+    "Joshua M Spin",
+    "David A Sanan",
+    "Balasubramanian Narasimhan",
+    "Robert Tibshirani",
+    "Philip S Tsao",
+    "Bradley Efron",
+    "Thomas Quertermous"
+  ],
+  "journal": "Physiological genomics",
+  "journalAbbrev": "Physiol Genomics",
+  "year": 2005,
+  "date": "2005-05-03",
+  "doi": "10.1152/physiolgenomics.00001.2005",
+  "pmid": "15870398",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/physiolgenomics.00001.2005",
+  "abstract": "The propensity for developing atherosclerosis is dependent on underlying genetic risk and varies as a function of age and exposure to environmental risk factors. Employing three mouse models with different disease susceptibility, two diets, and a longitudinal experimental design, it was possible to manipulate each of these factors to focus analysis on genes most likely to have a specific disease-related function. To identify differences in longitudinal gene expression patterns of atherosclerosis, we have developed and employed a statistical algorithm that relies on generalized regression and permutation analysis. Comprehensive annotation of the array with ontology and pathway terms has allowed rigorous identification of molecular and biological processes that underlie disease pathophysiology. The repertoire of atherosclerosis-related immunomodulatory genes has been extended, and additional fundamental pathways have been identified. This highly disease-specific group of mouse genes was combined with an extensive human coronary artery data set to identify a shared group of genes differentially regulated among atherosclerotic tissues from different species and different vascular beds. A small core subset of these differentially regulated genes was sufficient to accurately classify various stages of the disease in mouse. The same gene subset was also found to accurately classify human coronary lesion severity. In addition, this classifier gene set was able to distinguish with high accuracy atherectomy specimens from native coronary artery disease vs. those collected from in-stent restenosis lesions, thus identifying molecular differences between these two processes. These studies significantly focus efforts aimed at identifying central gene regulatory pathways that mediate atherosclerotic disease, and the identification of classification gene sets offers unique insights into potential diagnostic and therapeutic strategies in atherosclerotic disease.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

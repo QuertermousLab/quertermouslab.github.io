@@ -1,0 +1,39 @@
+{
+  "title": "Atheroma transcriptomics identifies ARNTL as a smooth muscle cell regulator and with clinical and genetic data improves risk stratification",
+  "authors": [
+    "Sampath Narayanan",
+    "Sofija Vuckovic",
+    "Otto Bergman",
+    "Robert Wirka",
+    "Jose Verdezoto Mosquera",
+    "Qiao Sen Chen",
+    "Damiano Baldassarre",
+    "Elena Tremoli",
+    "Fabrizio Veglia",
+    "Mariette Lengquist",
+    "Redouane Aherahrrou",
+    "Anton Razuvaev",
+    "Bruna Gigante",
+    "Hanna M Björck",
+    "Clint L Miller",
+    "Thomas Quertermous",
+    "Ulf Hedin",
+    "Ljubica Matic"
+  ],
+  "journal": "European heart journal",
+  "journalAbbrev": "Eur Heart J",
+  "year": 2025,
+  "date": "2025-01-16",
+  "doi": "10.1093/eurheartj/ehae768",
+  "pmid": "39552248",
+  "pmcid": "PMC11735083",
+  "url": "https://doi.org/10.1093/eurheartj/ehae768",
+  "abstract": "BACKGROUND AND AIMS: The role of vascular smooth muscle cells (SMCs) in atherosclerosis has evolved to indicate causal genetic links with the disease. Single cell RNA sequencing (scRNAseq) studies have identified multiple cell populations of mesenchymal origin within atherosclerotic lesions, including various SMC sub-phenotypes, but it is unknown how they relate to patient clinical parameters and genetics. Here, mesenchymal cell populations in atherosclerotic plaques were correlated with major coronary artery disease (CAD) genetic variants and functional analyses performed to identify SMC markers involved in the disease. METHODS: Bioinformatic deconvolution was done on bulk microarrays from carotid plaques in the Biobank of Karolinska Endarterectomies (BiKE, n = 125) using public plaque scRNAseq data and associated with patient clinical data and follow-up information. BiKE patients were clustered based on the deconvoluted cell fractions. Quantitative trait loci (QTLs) analyses were performed to predict the effect of CAD associated genetic variants on mesenchymal cell fractions (cfQTLs) and gene expression (eQTLs) in plaques. RESULTS: Lesions from symptomatic patients had higher fractions of Type 1 macrophages and pericytes, but lower fractions of classical and modulated SMCs compared with asymptomatic ones, particularly females. Presence of diabetes or statin treatment did not affect the cell fraction distribution. Clustering based on plaque cell fractions, revealed three patient groups, with relative differences in their stability profiles and associations to stroke, even during long-term follow-up. Several single nucleotide polymorphisms associated with plaque mesenchymal cell fractions, upstream of the circadian rhythm gene ARNTL were identified. In vitro silencing of ARNTL in human carotid SMCs increased the expression of contractile markers and attenuated cell proliferation. CONCLUSIONS: This study shows the potential of combining scRNAseq data with vertically integrated clinical, genetic, and transcriptomic data from a large biobank of human plaques, for refinement of patient vulnerability and risk prediction stratification. The study revealed novel CAD-associated variants that may be functionally linked to SMCs in atherosclerotic plaques. Specifically, variants in the ARNTL gene may influence SMC ratios and function, and its role as a regulator of SMC proliferation should be further investigated.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

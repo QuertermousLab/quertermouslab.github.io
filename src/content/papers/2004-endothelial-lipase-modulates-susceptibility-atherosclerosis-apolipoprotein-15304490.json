@@ -1,0 +1,33 @@
+{
+  "title": "Endothelial lipase modulates susceptibility to atherosclerosis in apolipoprotein-E-deficient mice",
+  "authors": [
+    "Tatsuro Ishida",
+    "Sungshin Y Choi",
+    "Ramendra K Kundu",
+    "Josh Spin",
+    "Tomoya Yamashita",
+    "Ken-ichi Hirata",
+    "Yoko Kojima",
+    "Mitsuhiro Yokoyama",
+    "Allen D Cooper",
+    "Thomas Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 2004,
+  "date": "2004-08-09",
+  "doi": "10.1074/jbc.M406360200",
+  "pmid": "15304490",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.M406360200",
+  "abstract": "Endothelial lipase (EL) expression correlates inversely with circulating high density lipoprotein (HDL) cholesterol levels in genetic mouse models, and human genetic variation in this locus has been linked to differences in HDL cholesterol levels. These data suggest a role for EL in the development of atherosclerotic vascular disease. To investigate this possibility, LIPG-null alleles were bred onto the apoE knockout background, and the homozygous double knockout animals were characterized. Both apoE knockout and double knockout mice had low HDL cholesterol levels when compared with wild-type mice, but the HDL cholesterol levels of the double knockout mice were higher than those of apoE knockout mice. Atherogenic very low density lipoprotein and intermediate density lipoprotein/low density lipoprotein cholesterol levels of the double knockout mice were also greater than those of the apoE knockout animals. Despite this lipid profile, there was a significant approximately 70% decrease in atherosclerotic disease area in double knockout mice on a regular diet. Immunohistochemistry and protein blot studies revealed increased EL expression in the atherosclerotic aortas of the apoE knockout animals. An observed decrease in macrophage content in vessels lacking EL correlated with ex vivo vascular monocyte adhesion assays, suggesting that this protein can modulate monocyte adhesion and infiltration into diseased tissues. These data suggest that EL may have indirect atherogenic actions in vivo through its effect on circulating HDL cholesterol and direct atherogenic actions through vascular wall processes such as monocyte recruitment and cholesterol uptake.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

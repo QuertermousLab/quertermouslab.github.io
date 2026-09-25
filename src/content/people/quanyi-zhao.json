@@ -1,0 +1,13 @@
+{
+  "name": "Quanyi Zhao",
+  "degrees": "PhD",
+  "role": "Senior Research Scientist",
+  "group": "staff",
+  "photo": "/people/quanyi-zhao.webp",
+  "order": 21,
+  "focus": "Computational genomics, single-cell & spatial atlases of human arteries",
+  "bio": "Quanyi is a genomic and genetic scientist who received his BS in Biology and PhD in Biochemistry and Molecular Biology from Wuhan University. He completed postdoctoral training at the UCSF Cardiovascular Research Institute and in the Quertermous Lab. His work spans TCF21 molecular QTLs, the human arterial cell atlas and integrative analysis of CAD genetics with single-cell data.",
+  "links": {
+    "github": "https://github.com/zhaoshuoxp"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Genetic Variation in the Human SORBS1 Gene is Associated With Blood Pressure Regulation and Age at Onset of Hypertension: A SAPPHIRe Cohort Study",
+  "authors": [
+    "Tien-Jyun Chang",
+    "Wen-Chang Wang",
+    "Chao A Hsiung",
+    "Chih-Tsueng He",
+    "Ming-Wei Lin",
+    "Wayne Huey-Herng Sheu",
+    "Yi-Cheng Chang",
+    "Tom Quertermous",
+    "Ida Chen",
+    "Jerome Rotter",
+    "Lee-Ming Chuang",
+    "and the SAPPHIRe Study Group"
+  ],
+  "journal": "Medicine",
+  "journalAbbrev": "Medicine (Baltimore)",
+  "year": 2016,
+  "date": "2016-03-01",
+  "doi": "10.1097/MD.0000000000002970",
+  "pmid": "26962801",
+  "pmcid": "PMC4998882",
+  "url": "https://doi.org/10.1097/MD.0000000000002970",
+  "abstract": "Essential hypertension is a complex disease involving multiple genetic and environmental factors. A human gene containing a sorbin homology domain and 3 SH3 domains in the C-terminal region, termed SORBS1, plays a significant role in insulin signaling. We previously found a significant association between the T228A polymorphism and insulin resistance, obesity, and type 2 diabetes. It has been hypothesized that a set of genes responsible for insulin resistance may be closely linked with genes susceptible to the development of hypertension. Identification of insulin resistance-related genetic factors may, therefore, enhance our understanding of essential hypertension. This study aimed to examine whether common SORBS1 genetic variations are associated with blood pressure and age at onset of hypertension in an ethnic Chinese cohort.We genotyped 9 common tagged single nucleotide polymorphisms of the SORBS1 gene in 1136 subjects of Chinese origin from the Stanford Asia-Pacific Program for Hypertension and Insulin Resistance family study. Blood pressure was measured upon enrolment. The associations of the SORBS1 single nucleotide polymorphisms with blood pressure and the presence of hypertension were analyzed with a generalized estimating equation model. We used the false-discovery rate measure Q value with a cutoff <0.1 to adjust for multiple comparisons. In the Cox regression analysis for hypertension-free survival, a robust sandwich variance estimator was used to deal with the within-family correlations with age at onset of hypertension. Gender, body mass index, and antihypertension medication were adjustment covariates in the Cox regression analysis.In this study, genetic variants of rs2281939 and rs2274490 were significantly associated with both systolic and diastolic blood pressure. A genetic variant of rs2274490 was also significantly associated with the presence of hypertension. Furthermore, genetic variants of rs2281939 and rs2274490 were associated with age at onset of hypertension after adjustment for gender, body mass index, and antihypertension medication.In conclusion, we provide evidence for an association between common SORBS1 genetic variations and blood pressure, presence of hypertension, and age at onset of hypertension. The biological mechanism of genetic variation associated with blood pressure regulation needs further investigation.",
+  "pubTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Characterizing the admixed African ancestry of African Americans",
+  "authors": [
+    "Fouad Zakharia",
+    "Analabha Basu",
+    "Devin Absher",
+    "Themistocles L Assimes",
+    "Alan S Go",
+    "Mark A Hlatky",
+    "Carlos Iribarren",
+    "Joshua W Knowles",
+    "Jun Li",
+    "Balasubramanian Narasimhan",
+    "Steven Sidney",
+    "Audrey Southwick",
+    "Richard M Myers",
+    "Thomas Quertermous",
+    "Neil Risch",
+    "Hua Tang"
+  ],
+  "journal": "Genome biology",
+  "journalAbbrev": "Genome Biol",
+  "year": 2009,
+  "date": "2009-12-22",
+  "doi": "10.1186/gb-2009-10-12-r141",
+  "pmid": "20025784",
+  "pmcid": "PMC2812948",
+  "url": "https://doi.org/10.1186/gb-2009-10-12-r141",
+  "abstract": "BACKGROUND: Accurate, high-throughput genotyping allows the fine characterization of genetic ancestry. Here we applied recently developed statistical and computational techniques to the question of African ancestry in African Americans by using data on more than 450,000 single-nucleotide polymorphisms (SNPs) genotyped in 94 Africans of diverse geographic origins included in the HGDP, as well as 136 African Americans and 38 European Americans participating in the Atherosclerotic Disease Vascular Function and Genetic Epidemiology (ADVANCE) study. To focus on African ancestry, we reduced the data to include only those genotypes in each African American determined statistically to be African in origin. RESULTS: From cluster analysis, we found that all the African Americans are admixed in their African components of ancestry, with the majority contributions being from West and West-Central Africa, and only modest variation in these African-ancestry proportions among individuals. Furthermore, by principal components analysis, we found little evidence of genetic structure within the African component of ancestry in African Americans. CONCLUSIONS: These results are consistent with historic mating patterns among African Americans that are largely uncorrelated to African ancestral origins, and they cast doubt on the general utility of mtDNA or Y-chromosome markers alone to delineate the full African ancestry of African Americans. Our results also indicate that the genetic architecture of African Americans is distinct from that of Africans, and that the greatest source of potential genetic stratification bias in case-control studies of African Americans derives from the proportion of European ancestry.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

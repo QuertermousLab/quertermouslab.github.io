@@ -1,0 +1,31 @@
+{
+  "title": "Role of endothelin in a rabbit model of acute myocardial infarction: effects of receptor antagonists",
+  "authors": [
+    "J V Vitola",
+    "M B Forman",
+    "J P Holsinger",
+    "M Kawana",
+    "J B Atkinson",
+    "T Quertermous",
+    "E K Jackson",
+    "J J Murray"
+  ],
+  "journal": "Journal of cardiovascular pharmacology",
+  "journalAbbrev": "J Cardiovasc Pharmacol",
+  "year": 1996,
+  "date": "1996-12-01",
+  "doi": "10.1097/00005344-199612000-00007",
+  "pmid": "8961075",
+  "pmcid": null,
+  "url": "https://doi.org/10.1097/00005344-199612000-00007",
+  "abstract": "The role of endothelin (ET) in acute myocardial infarction and proarrhythmic potential was investigated in a rabbit model. One group of rabbits underwent 30 min of circumflex occlusion and 3 h of reperfusion with measurements of myocardial blood flow and myocardial levels of ET-1 messenger RNA (mRNA). In a second group, the systemic and coronary effects of exogenous ET were studied in animals pretreated with either saline, FR139317, an ETA-receptor antagonist, or PD145065, an ETA-and ETB-receptor antagonist. In a third study, animals undergoing 30 min of circumflex occlusion followed by 48 h of reperfusion were treated with exogenous ET-1, FR139317, PD145065, or saline. Arrhythmias were recorded and infarct size measured at 48 h. These studies revealed that ischemia and reperfusion was followed by a progressive microcirculatory failure (\"no-reflow phenomenon\") in rabbits. This was associated with a 2.6-fold elevation in levels of myocardial ET-1 mRNA in the ischemic zone in comparison to the nonischemic zone (p = 0.04). Exogenous ET-1 caused elevation in coronary and systemic vascular resistance that was significantly blocked by antagonism of the ETA receptor. In rabbits subjected to myocardial ischemia and reperfusion, ET-1 infusion led to a higher incidence of ventricular arrhythmias, whereas ET-receptor antagonism with PD145065 significantly reduced ventricular arrhythmias. Exogenous ET-1 and FR139317 failed to alter infarct size (AN) of the area at risk (AR) compared with control [AN/AR(%) was 46 +/- 8, 55 +/- 9, and 47 +/- 7, respectively]. However, PD145065 significantly decreased AN/AR (22 +/- 7; p < or = 0.02). The increased production of ET-1, resulting from increased levels of mRNA after reperfusion, may contribute to the no-reflow phenomenon. Although the vasoconstrictor effects of ET-1 can be blocked by ETA-receptor antagonism alone, only blockade of both the ETA and ETB receptors significantly reduced infarct size. These data suggest that production of ET increases in the heart during ischemia and is deleterious to the reperfused myocardium.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

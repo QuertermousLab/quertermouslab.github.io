@@ -1,0 +1,29 @@
+{
+  "title": "Cloning of an immunoglobulin family adhesion molecule selectively expressed by endothelial cells",
+  "authors": [
+    "Hirata Ki",
+    "T Ishida",
+    "K Penta",
+    "M Rezaee",
+    "E Yang",
+    "J Wohlgemuth",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 2001,
+  "date": "2001-02-13",
+  "doi": "10.1074/jbc.M100630200",
+  "pmid": "11279107",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.M100630200",
+  "abstract": "To gain fundamental information regarding the molecular basis of endothelial cell adhesive interactions during vascular formation, we have cloned and characterized a unique cell adhesion molecule. This molecule, named endothelial cell-selective adhesion molecule (ESAM), is a new member of the immunoglobulin superfamily. The conceptual protein encoded by cDNA clones consists of V-type and C2-type immunoglobulin domains as well as a hydrophobic signal sequence, a single transmembrane region, and a cytoplasmic domain. Northern blot analysis showed ESAM to be selectively expressed in cultured human and murine vascular endothelial cells and revealed high level expression in lung and heart and low level expression in kidney and skin. In situ hybridization analysis indicated that ESAM is primarily expressed in the developing vasculature of the embryo in an endothelial cell-restricted pattern. Epitope-tagged ESAM was shown to co-localize with cadherins and catenins in cell-cell junctions. In aggregation assays employing ESAM-expressing Chinese hamster ovary cells, this novel molecule was shown to mediate cell-cell adhesion through homophilic interactions. The endothelial cell-selective expression of this immunoglobulin-like adhesion molecule coupled with its in vitro functional profile strongly suggests a role in cell-cell interactions that is critical for vascular development or function.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

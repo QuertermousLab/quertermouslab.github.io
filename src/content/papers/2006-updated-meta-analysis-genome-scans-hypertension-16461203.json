@@ -1,0 +1,33 @@
+{
+  "title": "An updated meta-analysis of genome scans for hypertension and blood pressure in the NHLBI Family Blood Pressure Program (FBPP)",
+  "authors": [
+    "Xiaodong Wu",
+    "Donghui Kan",
+    "Michael Province",
+    "Tom Quertermous",
+    "D C Rao",
+    "Christy Chang",
+    "Thomas H Mosley",
+    "David Curb",
+    "Eric Boerwinkle",
+    "Richard S Cooper"
+  ],
+  "journal": "American journal of hypertension",
+  "journalAbbrev": "Am J Hypertens",
+  "year": 2006,
+  "date": "2006-01-01",
+  "doi": "10.1016/j.amjhyper.2005.07.010",
+  "pmid": "16461203",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.amjhyper.2005.07.010",
+  "abstract": "A meta-analysis of the results from a multicenter genome-wide linkage study for hypertension and blood pressure (BP) based on an initial sample of 6,245 individuals was published in 2003. We report here a combined linkage analysis of hypertension and BP using the complete Family Blood Pressure Program (FBPP) dataset, which includes a total of 12,028 genotyped individuals. Genome-wide linkage analyses for hypertension and BP were first performed in each of the studied ethnic group within each network and the results were combined with a meta-analysis using a modified Fisher's method of combining P values. Our meta-analysis of genome scans for the latest FBPP dataset reveals suggestive linkage for hypertension and BP at several regions on the human genome. Strong evidence for linkage at two of these regions, 2p14 and 3p14.1, have also been published in previous meta-analyses, making them good candidate locations for susceptibility variants.",
+  "pubTypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Multicenter Study"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

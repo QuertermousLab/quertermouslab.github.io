@@ -1,0 +1,28 @@
+{
+  "title": "Proteomic profiles of serum inflammatory markers accurately predict atherosclerosis in mice",
+  "authors": [
+    "Raymond Tabibiazar",
+    "Roger A Wagner",
+    "Alicia Deng",
+    "Philip S Tsao",
+    "Thomas Quertermous"
+  ],
+  "journal": "Physiological genomics",
+  "journalAbbrev": "Physiol Genomics",
+  "year": 2006,
+  "date": "2006-01-17",
+  "doi": "10.1152/physiolgenomics.00240.2005",
+  "pmid": "16418319",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/physiolgenomics.00240.2005",
+  "abstract": "At a population level, inflammatory markers have been shown to predict outcome and response to therapy in patients with atherosclerotic cardiovascular disease. However, current markers are not sufficiently sensitive or specific to provide clinical utility for managing individual patients. We hypothesize that measurement of multiple circulating disease-related inflammatory factors will be more informative, allowing the early identification of vascular wall disease activity. We have investigated whether protein microarray-based abundance measurements of circulating proteins can predict the severity of atherosclerotic disease. Using a longitudinal experimental design with apolipoprotein E-deficient mice and control C57Bl/6J and C3H/HeJ wild-type mice, we measured the time-related serum protein expression of 30 inflammatory markers using a protein microarray. We were able to identify a subset of proteins that classify and predict the severity of atherosclerotic disease with a high level of accuracy. The time-specific vascular expression of these markers was verified by showing that their gene expression in the mouse aorta correlated closely to the temporal pattern of serum protein levels. In conclusion, these data suggest that quantification of multiple disease-related inflammatory proteins can provide a more sensitive and specific methodology for assessing atherosclerotic disease activity in humans, and identify candidate biomarkers for such studies.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

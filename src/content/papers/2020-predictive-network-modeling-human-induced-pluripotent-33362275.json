@@ -1,0 +1,37 @@
+{
+  "title": "Predictive network modeling in human induced pluripotent stem cells identifies key driver genes for insulin responsiveness",
+  "authors": [
+    "Ivan Carcamo-Orive",
+    "Marc Y R Henrion",
+    "Kuixi Zhu",
+    "Noam D Beckmann",
+    "Paige Cundiff",
+    "Sara Moein",
+    "Zenan Zhang",
+    "Melissa Alamprese",
+    "Sunita L D'Souza",
+    "Martin Wabitsch",
+    "Eric E Schadt",
+    "Thomas Quertermous",
+    "Joshua W Knowles",
+    "Rui Chang"
+  ],
+  "journal": "PLoS computational biology",
+  "journalAbbrev": "PLoS Comput Biol",
+  "year": 2020,
+  "date": "2020-12-23",
+  "doi": "10.1371/journal.pcbi.1008491",
+  "pmid": "33362275",
+  "pmcid": "PMC7790417",
+  "url": "https://doi.org/10.1371/journal.pcbi.1008491",
+  "abstract": "Insulin resistance (IR) precedes the development of type 2 diabetes (T2D) and increases cardiovascular disease risk. Although genome wide association studies (GWAS) have uncovered new loci associated with T2D, their contribution to explain the mechanisms leading to decreased insulin sensitivity has been very limited. Thus, new approaches are necessary to explore the genetic architecture of insulin resistance. To that end, we generated an iPSC library across the spectrum of insulin sensitivity in humans. RNA-seq based analysis of 310 induced pluripotent stem cell (iPSC) clones derived from 100 individuals allowed us to identify differentially expressed genes between insulin resistant and sensitive iPSC lines. Analysis of the co-expression architecture uncovered several insulin sensitivity-relevant gene sub-networks, and predictive network modeling identified a set of key driver genes that regulate these co-expression modules. Functional validation in human adipocytes and skeletal muscle cells (SKMCs) confirmed the relevance of the key driver candidate genes for insulin responsiveness.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

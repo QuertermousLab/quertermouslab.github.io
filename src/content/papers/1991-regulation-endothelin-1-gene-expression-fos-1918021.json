@@ -1,0 +1,28 @@
+{
+  "title": "Regulation of endothelin-1 gene expression by Fos and Jun",
+  "authors": [
+    "M E Lee",
+    "M S Dhadly",
+    "D H Temizer",
+    "J A Clifford",
+    "M Yoshizumi",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1991,
+  "date": "1991-10-05",
+  "doi": null,
+  "pmid": "1918021",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/1918021/",
+  "abstract": "The endothelin peptides constitute a family of potent vasoconstrictor molecules. Endothelin-1 (ET1) is secreted by vascular endothelial cells and may have a role in the regulation of vascular tone. To better understand the function of ET1, we have investigated the transcriptional regulation of the ET1 gene. Utilizing reporter gene transfection experiments, we have previously identified two promoter regions, located at base pairs -148 to -117 (Region A) and -117 to -98 (Region B) of the ET1 gene. Both regions are necessary for high level ET1 transcription in endothelial cells. A nuclear protein binding to the GATA motif in Region A has been identified and proven to be necessary for expression of the ET1 gene. However, the cis-acting sequences and their cognate binding proteins for Region B have not been investigated. To identify protein binding motifs in Region B we performed DNase I footprinting and gel mobility shift assays using a DNA fragment encoding base pairs -204 to -94 of the ET1 gene. Results from these studies indicated that the AP1 consensus sequence (GTGACTAA) in Region B as the only protein-binding motif. Site-directed mutagenesis of the ET1 AP1 site resulted in a 30-fold reduction in promoter activity, establishing the functional significance of this sequence. Additional experiments investigated the role of Jun and Fos in ET1 transcription. By employing antisera to Jun and Fos in gel mobility shift assays, both of these proteins were identified as endothelial cell nuclear proteins binding to the ET1 AP1 sequence. In trans-activation experiments, we showed that cotransfection of c-fos and c-jun expression plasmids markedly increased the transcription rate of chloramphenicol acetyltransferase reporter plasmids containing three synthetic ET1 AP1 sites. Taken together, these data indicate the importance of the AP1 recognition sequence, and the role of Fos and Jun proteins in the regulation of ET1 gene transcription.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

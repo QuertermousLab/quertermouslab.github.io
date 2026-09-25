@@ -1,0 +1,33 @@
+{
+  "title": "Circulating chemokines accurately identify individuals with clinically significant atherosclerotic heart disease",
+  "authors": [
+    "Diego Ardigo",
+    "Themistocles L Assimes",
+    "Stephen P Fortmann",
+    "Alan S Go",
+    "Mark Hlatky",
+    "Evangelos Hytopoulos",
+    "Carlos Iribarren",
+    "Philip S Tsao",
+    "Raymond Tabibiazar",
+    "Thomas Quertermous",
+    "ADVANCE Investigators"
+  ],
+  "journal": "Physiological genomics",
+  "journalAbbrev": "Physiol Genomics",
+  "year": 2007,
+  "date": "2007-08-14",
+  "doi": "10.1152/physiolgenomics.00104.2007",
+  "pmid": "17698927",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/physiolgenomics.00104.2007",
+  "abstract": "Serum inflammatory markers correlate with outcome and response to therapy in subjects with cardiovascular disease. However, current individual markers lack specificity for the diagnosis of coronary artery disease (CAD). We hypothesize that a multimarker proteomic approach measuring serum levels of vascular derived inflammatory biomarkers could reveal a \"signature of disease\" that can serve as a highly accurate method to assess for the presence of coronary atherosclerosis. We simultaneously measured serum levels of seven chemokines [CXCL10 (IP-10), CCL11 (eotaxin), CCL3 (MIP1 alpha), CCL2 (MCP1), CCL8 (MCP2), CCL7 (MCP3), and CCL13 (MCP4)] in 48 subjects with clinically significant CAD (\"cases\") and 44 controls from the ADVANCE Study. We applied three classification algorithms to identify the combination of variables that would best predict case-control status and assessed the diagnostic performance of these models with receiver operating characteristic (ROC) curves. The serum levels of six chemokines were significantly higher in cases compared with controls (P < 0.05). All three classification algorithms entered three chemokines in their final model, and only logistic regression selected clinical variables. Logistic regression produced the highest ROC of the three algorithms (AUC = 0.95; SE = 0.03), which was markedly better than the AUC for the logistic regression model of traditional risk factors of CAD without (AUC = 0.67; SE = 0.06) or with CRP (AUC = 0.68; SE = 0.06). A combination of serum levels of multiple chemokines identifies subjects with clinically significant atherosclerotic heart disease with a very high degree of accuracy. These results need to be replicated in larger cross-sectional studies and their prognostic value explored.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,32 @@
+{
+  "title": "IGF1 Gene Is Associated With Triglyceride Levels In Subjects With Family History Of Hypertension From The SAPPHIRe And TWB Projects",
+  "authors": [
+    "Wen-Chang Wang",
+    "Yen-Feng Chiu",
+    "Ren-Hua Chung",
+    "Chii-Min Hwu",
+    "I-Te Lee",
+    "Chien-Hsing Lee",
+    "Yi-Cheng Chang",
+    "Kuan-Yi Hung",
+    "Thomas Quertermous",
+    "Yii-Der I Chen",
+    "Chao A Hsiung"
+  ],
+  "journal": "International journal of medical sciences",
+  "journalAbbrev": "Int J Med Sci",
+  "year": 2018,
+  "date": "2018-06-14",
+  "doi": "10.7150/ijms.25742",
+  "pmid": "30013445",
+  "pmcid": "PMC6036157",
+  "url": "https://doi.org/10.7150/ijms.25742",
+  "abstract": "Chromosome 12q23-q24 has been linked to triglyceride (TG) levels by previous linkage studies, and it contains the Insulin-like growth factor 1 (IGF1) gene. We investigated the association between IGF1 and TG levels using two independent samples collected in Taiwan. First, based on 954 siblings in 397 families from the Stanford Asian Pacific Program in Hypertension and Insulin Resistance (SAPPHIRe), we found that rs978458 was associated with TG levels (β = -0.049, p = 0.0043) under a recessive genetic model. Specifically, subjects carrying the homozygous genotype of the minor allele had lower TG levels, compared with other subjects. Then, a series of stratification analyses in a large sample of 13,193 unrelated subjects from the Taiwan biobank (TWB) project showed that this association appeared in subjects with a family history (FH) of hypertension (β = -0.045, p = 0.0000034), but not in subjects without such an FH. A re-examination of the SAPPHIRe sample confirmed that this association appeared in subjects with an FH of hypertension (β = -0.068, p = 0.0025), but not in subjects without an FH. The successful replication in two independent samples indicated that IGF1 is associated with TG levels in subjects with an FH of hypertension in Taiwan.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

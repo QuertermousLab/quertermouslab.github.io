@@ -1,0 +1,35 @@
+{
+  "title": "Apelin increases atrial conduction velocity, refractoriness, and prevents inducibility of atrial fibrillation",
+  "authors": [
+    "Young M Kim",
+    "Robert Lakin",
+    "Hao Zhang",
+    "Jack Liu",
+    "Ayaaz Sachedina",
+    "Maneesh Singh",
+    "Emily Wilson",
+    "Marco Perez",
+    "Subodh Verma",
+    "Thomas Quertermous",
+    "Jeffrey Olgin",
+    "Peter H Backx",
+    "Euan A Ashley"
+  ],
+  "journal": "JCI insight",
+  "journalAbbrev": "JCI Insight",
+  "year": 2020,
+  "date": "2020-09-03",
+  "doi": "10.1172/jci.insight.126525",
+  "pmid": "32879139",
+  "pmcid": "PMC7526452",
+  "url": "https://doi.org/10.1172/jci.insight.126525",
+  "abstract": "Previous studies have shown an association between elevated atrial NADPH-dependent oxidative stress and decreased plasma apelin in patients with atrial fibrillation (AF), though the basis for this relationship is unclear. In the current study, RT-PCR and immunofluorescence studies of human right atrial appendages (RAAs) showed expression of the apelin receptor, APJ, and reduced apelin content in the atria, but not in plasma, of patients with AF versus normal sinus rhythm. Disruption of the apelin gene in mice increased (2.4-fold) NADPH-stimulated superoxide levels and slowed atrial conduction velocities in optical mapping of a Langendorff-perfused isolated heart model, suggesting that apelin levels may influence AF vulnerability. Indeed, in mice with increased AF vulnerability (induced by chronic intense exercise), apelin administration reduced the incidence and duration of induced atrial arrhythmias in association with prolonged atrial refractory periods. Moreover, apelin decreased AF induction in isolated atria from exercised mice while accelerating conduction velocity and increasing action potential durations. At the cellular level, these changes were associated with increased atrial cardiomyocyte sodium currents. These findings support the conclusion that reduced atrial apelin is maladaptive in fibrillating human atrial myocardium and that increasing apelin bioavailability may be a worthwhile therapeutic strategy for treating and preventing AF.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Admixture mapping of quantitative trait loci for blood lipids in African-Americans",
+  "authors": [
+    "Analabha Basu",
+    "Hua Tang",
+    "Cora E Lewis",
+    "Kari North",
+    "J David Curb",
+    "Thomas Quertermous",
+    "Thomas H Mosley",
+    "Eric Boerwinkle",
+    "Xiaofeng Zhu",
+    "Neil J Risch"
+  ],
+  "journal": "Human molecular genetics",
+  "journalAbbrev": "Hum Mol Genet",
+  "year": 2009,
+  "date": "2009-03-20",
+  "doi": "10.1093/hmg/ddp122",
+  "pmid": "19304782",
+  "pmcid": "PMC2722229",
+  "url": "https://doi.org/10.1093/hmg/ddp122",
+  "abstract": "Blood lipid levels, including low-density lipoprotein cholesterol (LDL-C), high-density lipoprotein cholesterol (HDL-C) and triglycerides (TG), are highly heritable traits and major risk factors for atherosclerotic cardiovascular disease (CVD). Using individual ancestry estimates at marker locations across the genome, we present a novel quantitative admixture mapping analysis of all three lipid traits in a large sample of African-Americans from the Family Blood Pressure Program. Regression analysis was performed with both total and marker-location-specific European ancestry as explanatory variables, along with demographic covariates. Robust permutation analysis was used to assess statistical significance. Overall European ancestry was significantly correlated with HDL-C (negatively) and TG (positively), but not with LDL-C. We found strong evidence for a novel locus underlying HDL-C on chromosome 8q, which correlated negatively with European ancestry (P = .0014); the same location also showed positive correlation of European ancestry with TG levels. A region on chromosome 14q also showed significant negative correlation between HDL-C levels and European ancestry. On chromosome 15q, a suggestive negative correlation of European ancestry with TG and positive correlation with HDL-C was observed. Results with LDL-C were less significant overall. We also found significant evidence for genome-wide ancestry effects underlying the joint distribution of HDL-C and TG, not fully explained by the locus on chromosome 8. Our results are consistent with a genetic contribution to and may explain the healthier HDL-C and TG profiles found in Blacks versus Whites. The identified regions provide locations for follow-up studies of genetic variants underlying lipid variation in African-Americans and possibly other populations.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

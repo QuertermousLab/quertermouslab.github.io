@@ -1,0 +1,34 @@
+{
+  "title": "Differences in vascular bed disease susceptibility reflect differences in gene expression response to atherogenic stimuli",
+  "authors": [
+    "David Xing-Fei Deng",
+    "Anya Tsalenko",
+    "Aditya Vailaya",
+    "Amir Ben-Dor",
+    "Ramendra Kundu",
+    "Ivette Estay",
+    "Raymond Tabibiazar",
+    "Robert Kincaid",
+    "Zohar Yakhini",
+    "Laurakay Bruhn",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2005,
+  "date": "2005-12-22",
+  "doi": "10.1161/01.RES.0000200738.50997.f2",
+  "pmid": "16373601",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/01.RES.0000200738.50997.f2",
+  "abstract": "Atherosclerosis occurs predominantly in arteries and only rarely in veins. The goal of this study was to test whether differences in the molecular responses of venous and arterial endothelial cells (ECs) to atherosclerotic stimuli might contribute to vascular bed differences in susceptibility to atherosclerosis. We compared gene expression profiles of primary cultured ECs from human saphenous vein (SVEC) and coronary artery (CAEC) exposed to atherogenic stimuli. In addition to identifying differentially expressed genes, we applied statistical analysis of gene ontology and pathway annotation terms to identify signaling differences related to cell type and stimulus. Differential gene expression of untreated venous and arterial endothelial cells yielded 285 genes more highly expressed in untreated SVEC (P<0.005 and fold change >1.5). These genes represented various atherosclerosis-related pathways including responses to proliferation, oxidoreductase activity, antiinflammatory responses, cell growth, and hemostasis functions. Moreover, stimulation with oxidized LDL induced dramatically greater gene expression responses in CAEC compared with SVEC, relating to adhesion, proliferation, and apoptosis pathways. In contrast, interleukin 1beta and tumor necrosis factor alpha activated similar gene expression responses in both CAEC and SVEC. The differences in functional response and gene expression were further validated by an in vitro proliferation assay and in vivo immunostaining of alphabeta-crystallin protein. Our results strongly suggest that different inherent gene expression programs in arterial versus venous endothelial cells contribute to differences in atherosclerotic disease susceptibility.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

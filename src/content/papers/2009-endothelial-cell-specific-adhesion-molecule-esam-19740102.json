@@ -1,0 +1,35 @@
+{
+  "title": "Endothelial cell specific adhesion molecule (ESAM) localizes to platelet-platelet contacts and regulates thrombus formation in vivo",
+  "authors": [
+    "T J Stalker",
+    "J Wu",
+    "A Morgans",
+    "E A Traxler",
+    "L Wang",
+    "M S Chatterjee",
+    "D Lee",
+    "T Quertermous",
+    "R A Hall",
+    "D A Hammer",
+    "S L Diamond",
+    "L F Brass"
+  ],
+  "journal": "Journal of thrombosis and haemostasis : JTH",
+  "journalAbbrev": "J Thromb Haemost",
+  "year": 2009,
+  "date": "2009-09-09",
+  "doi": "10.1111/j.1538-7836.2009.03606.x",
+  "pmid": "19740102",
+  "pmcid": "PMC4441405",
+  "url": "https://doi.org/10.1111/j.1538-7836.2009.03606.x",
+  "abstract": "BACKGROUND: In resting platelets, endothelial cell specific adhesion molecule (ESAM) is located in alpha granules, increasing its cell surface expression following platelet activation. However, the function of ESAM on platelets is unknown. OBJECTIVE: To determine whether ESAM has a role in thrombus formation. METHODS AND RESULTS: We found that following platelet activation ESAM localizes to the junctions between adjacent platelets, suggesting a role for this protein in contact-dependent events that regulate thrombus formation. To test this hypothesis we examined the effect of ESAM deletion on platelet function. In vivo, ESAM(-/-) mice achieved more stable hemostasis than wild-type mice following tail transection, and developed larger thrombi following laser injury of cremaster muscle arterioles. In vitro, ESAM(-/-) platelets aggregated at lower concentrations of G protein-dependent agonists than wild-type platelets, and were more resistant to disaggregation. In contrast, agonist-induced calcium mobilization, alpha(IIb)beta(3) activation, alpha-granule secretion and platelet spreading, were normal in ESAM-deficient platelets. To understand the molecular mechanism by which ESAM regulates platelet activity, we utilized a PDZ domain array to identify the scaffold protein NHERF-1 as an ESAM binding protein, and further demonstrated that it associates with ESAM in both resting and activated platelets. CONCLUSIONS: These findings support a model in which ESAM localizes to platelet contacts following platelet activation in order to limit thrombus growth and stability so that the optimal hemostatic response occurs following vascular injury.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,28 @@
+{
+  "title": "cDNA cloning and chromosomal assignment of the endothelin 2 gene: vasoactive intestinal contractor peptide is rat endothelin 2",
+  "authors": [
+    "K D Bloch",
+    "C C Hong",
+    "R L Eddy",
+    "T B Shows",
+    "T Quertermous"
+  ],
+  "journal": "Genomics",
+  "journalAbbrev": "Genomics",
+  "year": 1991,
+  "date": "1991-05-01",
+  "doi": "10.1016/0888-7543(91)90505-9",
+  "pmid": "1840558",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/0888-7543(91)90505-9",
+  "abstract": "Four members of the endothelin family of vasoactive and mitogenic peptides have been identified: human endothelins 1, 2, and 3 (ET1, ET2, and ET3, respectively) and mouse vasoactive intestinal contractor (VIC). To characterize the mRNA encoding ET2, a 192-bp fragment of the ET2 gene, amplified by the polymerase chain reaction from human genomic DNA, was used to screen cell lines and tissues for ET2 gene expression. ET2 mRNA was detected in a cell line (HTB119) derived from a human lung small cell carcinoma, and an ET2 cDNA was cloned from a cDNA library prepared from HTB119 mRNA. DNA prepared from human-mouse somatic hybrid cell lines was used to assign the gene encoding ET2 (EDN2) to the 1p21----1pter region of chromosome 1, demonstrating that EDN2 is not linked to genes encoding ET1 (EDN1; chromosome 6) and ET3 (EDN3; chromosome 20). Southern blot hybridization revealed a single gene in human and rat genomes that hybridized with the ET2 gene fragment, and the rat gene was cloned. The endothelin peptide encoded by the rat gene differed from ET2 at 1 of 21 residues and was identical to mouse VIC. We conclude that VIC is the mouse and rat analogue of the human ET2 gene.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

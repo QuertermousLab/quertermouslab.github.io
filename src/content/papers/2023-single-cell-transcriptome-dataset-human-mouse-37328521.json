@@ -1,0 +1,31 @@
+{
+  "title": "Single-cell transcriptome dataset of human and mouse in vitro adipogenesis models",
+  "authors": [
+    "Jiehan Li",
+    "Christopher Jin",
+    "Stefan Gustafsson",
+    "Abhiram Rao",
+    "Martin Wabitsch",
+    "Chong Y Park",
+    "Thomas Quertermous",
+    "Joshua W Knowles",
+    "Ewa Bielczyk-Maczynska"
+  ],
+  "journal": "Scientific data",
+  "journalAbbrev": "Sci Data",
+  "year": 2023,
+  "date": "2023-06-16",
+  "doi": "10.1038/s41597-023-02293-x",
+  "pmid": "37328521",
+  "pmcid": "PMC10275883",
+  "url": "https://doi.org/10.1038/s41597-023-02293-x",
+  "abstract": "Adipogenesis is a process in which fat-specific progenitor cells (preadipocytes) differentiate into adipocytes that carry out the key metabolic functions of the adipose tissue, including glucose uptake, energy storage, and adipokine secretion. Several cell lines are routinely used to study the molecular regulation of adipogenesis, in particular the immortalized mouse 3T3-L1 line and the primary human Simpson-Golabi-Behmel syndrome (SGBS) line. However, the cell-to-cell variability of transcriptional changes prior to and during adipogenesis in these models is not well understood. Here, we present a single-cell RNA-Sequencing (scRNA-Seq) dataset collected before and during adipogenic differentiation of 3T3-L1 and SGBS cells. To minimize the effects of experimental variation, we mixed 3T3-L1 and SGBS cells and used computational analysis to demultiplex transcriptomes of mouse and human cells. In both models, adipogenesis results in the appearance of three cell clusters, corresponding to preadipocytes, early and mature adipocytes. These data provide a groundwork for comparative studies on these widely used in vitro models of human and mouse adipogenesis, and on cell-to-cell variability during this process.",
+  "pubTypes": [
+    "Dataset",
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,30 @@
+{
+  "title": "In vivo bioluminescence imaging of inducible nitric oxide synthase gene expression in vascular inflammation",
+  "authors": [
+    "Masahiro Terashima",
+    "Shoichi Ehara",
+    "Eugene Yang",
+    "Hisanori Kosuge",
+    "Philip S Tsao",
+    "Thomas Quertermous",
+    "Christopher H Contag",
+    "Michael V McConnell"
+  ],
+  "journal": "Molecular imaging and biology",
+  "journalAbbrev": "Mol Imaging Biol",
+  "year": 2011,
+  "date": "2011-12-01",
+  "doi": "10.1007/s11307-010-0451-5",
+  "pmid": "21057879",
+  "pmcid": "PMC3102789",
+  "url": "https://doi.org/10.1007/s11307-010-0451-5",
+  "abstract": "PURPOSE: Inflammation plays a critical role in atherosclerosis and is associated with upregulation of inducible nitric oxide synthase (iNOS). We studied bioluminescence imaging (BLI) to track iNOS gene expression in a murine model of vascular inflammation. PROCEDURES: Macrophage-rich vascular lesions were induced by carotid ligation plus high-fat diet and streptozotocin-induced diabetes in 18 iNOS-luc reporter mice. In vivo iNOS expression was imaged serially by BLI over 14 days, followed by in situ BLI and histology. RESULTS: BLI signal from ligated carotids increased over 14 days (9.7 ± 4.4 × 10(3 ) vs. 4.4 ± 1.7 × 10(3) photons/s/cm(2)/sr at baseline, p < 0.001 vs. baseline, p < 0.05 vs. sham controls). Histology confirmed substantial macrophage infiltration, with iNOS and luciferase expression, only in ligated left carotid arteries and not controls. CONCLUSIONS: BLI allows in vivo detection of iNOS expression in murine carotid lesions and may provide a valuable approach for monitoring vascular gene expression and inflammation in small animal models.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

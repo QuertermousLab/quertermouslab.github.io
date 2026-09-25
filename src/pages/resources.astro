@@ -1,0 +1,79 @@
+---
+import Base from '../layouts/Base.astro';
+import { dataResources, github, igvf } from '../data/site';
+---
+<Base title="Resources" description="Open data, code and tools from the Quertermous Lab.">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Resources</span>
+      <h1>Data, code &amp; tools</h1>
+      <p class="lede">We release our single-cell, epigenomic and CRISPR screening data openly. Browse interactive atlases,
+        download raw data from GEO, or reuse our analysis code.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal"><div><span class="eyebrow">Open data</span><h2>Datasets &amp; portals</h2></div></div>
+      <div class="res">
+        <article class="card rcard rcard--igvf reveal">
+          <span class="rcard__kind">IGVF Data Portal · CRISPRi Perturb-seq &amp; TAP-seq</span>
+          <h3><a href={igvf.portal}>IGVF CAD perturbation screens</a></h3>
+          <p>Parse Perturb-seq and TAP-seq CRISPRi screens of CAD genes and enhancers in human coronary artery SMCs, and in vivo
+            AAV Perturb-seq in mouse aortic SMCs. Some datasets are still being processed and are not yet public.</p>
+          <div class="rcard__links"><a href={igvf.portal}>Open →</a><a href="/research/#functional-genomics">About the screens</a></div>
+        </article>
+        {dataResources.map((r) => (
+          <article class="card rcard reveal">
+            <span class="rcard__kind">{r.kind}</span>
+            <h3><a href={r.url}>{r.title}</a></h3>
+            <p>{r.desc}</p>
+            <div class="rcard__links">
+              <a href={r.url}>Open →</a>
+              {r.code && <a href={r.code}>Code</a>}
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="container athena">
+      <div class="reveal">
+        <span class="eyebrow">Collaborate</span>
+        <h2>ATHENA Network Collaborative Laboratory</h2>
+        <p class="lede">A shared platform to identify, prioritize and validate causal atherosclerosis genes — submit candidate loci
+          for functional assays and CRISPR screens, or access screening data, spatial transcriptomics and protocols.</p>
+        <a class="btn btn--primary" href="/athena/">ATHENA Co-Lab portal</a>
+      </div>
+      <img class="reveal" src="/figures/athena.webp" alt="ATHENA workflow: human genetics, functional genomics and in vivo mechanisms" loading="lazy" />
+    </div>
+  </section>
+
+  <section class="section" id="code">
+    <div class="container">
+      <div class="section-head reveal">
+        <div><span class="eyebrow">Open source</span><h2>Code on GitHub</h2>
+          <p class="lede">Pipelines and analysis code for our single-cell, epigenomic, Perturb-seq and GWAS integration work are shared on GitHub.</p></div>
+        <a class="btn btn--light" href={github.org}>github.com/QuertermousLab →</a>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .res { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
+  .rcard { padding: 24px; display: flex; flex-direction: column; border-top: 3px solid var(--artery); }
+  .rcard__kind { font-size: .74rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--vein); }
+  .rcard h3 { margin: 8px 0; font-size: 1.2rem; }
+  .rcard h3 a { color: var(--ink); text-decoration: none; }
+  .rcard h3 a:hover { color: var(--artery); }
+  .rcard p { color: var(--ink-2); font-size: .93rem; }
+  .rcard__links { margin-top: auto; display: flex; gap: 16px; font-weight: 600; font-size: .9rem; }
+  .rcard__links a { text-decoration: none; }
+  .athena { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+  .athena img { border-radius: var(--radius); background: #fff; padding: 10px; }
+  @media (max-width: 900px) { .athena { grid-template-columns: 1fr; } }
+  .rcard--igvf { border-top-color: var(--endo); background: linear-gradient(160deg, #f0faf8, #fff 60%); }
+</style>

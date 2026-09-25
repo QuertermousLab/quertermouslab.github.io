@@ -1,0 +1,36 @@
+{
+  "title": "Susceptibility Loci for Clinical Coronary Artery Disease and Subclinical Coronary Atherosclerosis Throughout the Life-Course",
+  "authors": [
+    "Elias Salfati",
+    "Shuktika Nandkeolyar",
+    "Stephen P Fortmann",
+    "Stephen Sidney",
+    "Mark A Hlatky",
+    "Thomas Quertermous",
+    "Alan S Go",
+    "Carlos Iribarren",
+    "David M Herrington",
+    "Benjamin A Goldstein",
+    "Themistocles L Assimes"
+  ],
+  "journal": "Circulation. Cardiovascular genetics",
+  "journalAbbrev": "Circ Cardiovasc Genet",
+  "year": 2015,
+  "date": "2015-09-28",
+  "doi": "10.1161/CIRCGENETICS.114.001071",
+  "pmid": "26417035",
+  "pmcid": "PMC4824193",
+  "url": "https://doi.org/10.1161/CIRCGENETICS.114.001071",
+  "abstract": "BACKGROUND: Recent genome-wide association studies have identified 49 single nucleotide polymorphisms associated with clinical coronary artery disease. The mechanism by which these loci influence risk remains largely unclear. METHODS AND RESULTS: We examined the association between a genetic risk score composed of high-risk alleles at the 49 single nucleotide polymorphisms and the degree of subclinical coronary atherosclerosis in 7798 participants from 6 studies stratified into 4 age groups at the time of assessment (15-34, 35-54, 55-74, and >75 years). Atherosclerosis was quantified by staining and direct visual inspection of the right coronary artery in the youngest group and by scanning for coronary artery calcification in the remaining groups. We defined cases as subjects within the top quartile of degree of atherosclerosis in 3 groups and as subjects with a coronary artery calcium score >0 in the fourth (35-54 years) where less than one quarter had any coronary artery calcium. In our meta-analysis of all strata, we found 1-SD increase in the genetic risk score increased the risk of advanced subclinical coronary atherosclerosis by 36% (P=8.3×10(-25)). This increase in risk was significant in all 4 age groups including the youngest group where atherosclerosis consisted primarily of raised lesions without macroscopic evidence of plaque rupture or thrombosis. Results were similar when we restricted the genetic risk score to 32 single nucleotide polymorphisms not associated with traditional risk factors or when we adjusted for traditional risk factors. CONCLUSIONS: A genetic risk score for clinical coronary artery disease is associated with advanced subclinical coronary atherosclerosis throughout the life-course. This association is apparent even at the earliest, uncomplicated stages of atherosclerosis.",
+  "pubTypes": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

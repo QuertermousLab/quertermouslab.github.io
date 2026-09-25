@@ -1,0 +1,33 @@
+{
+  "title": "Immunoglobulin and T-cell receptor gene rearrangement and expression in human lymphoid leukemia cells at different stages of maturation",
+  "authors": [
+    "M P Davey",
+    "K F Bongiovanni",
+    "W Kaulfersch",
+    "T Quertermous",
+    "J G Seidman",
+    "M S Hershfield",
+    "J Kurtzberg",
+    "B F Haynes",
+    "M M Davis",
+    "T A Waldmann"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 1986,
+  "date": "1986-11-01",
+  "doi": "10.1073/pnas.83.22.8759",
+  "pmid": "3464980",
+  "pmcid": "PMC387011",
+  "url": "https://doi.org/10.1073/pnas.83.22.8759",
+  "abstract": "The use of probes to genes (IG and TCRB) encoding immunoglobulins (IG) and the beta chain of the T-cell antigen receptor (TCRB), respectively, have become a sensitive means to assess clonality and lineage in lymphoid malignancies. It has become apparent that some individual cases show rearrangements of both IG and TCRB genes. In an attempt to more accurately define cell lineage we have analyzed cells from patients with B- or T-cell leukemia (n = 26) at various stages of maturation with probes to two additional TCR genes, TCRG and TCRA (encoding the TCR gamma and alpha chains, respectively), as well as the IG heavy chain joining region (IGHJ) and TCRB genes. On Southern blot analysis, the mature T-cell leukemia cells studied had rearranged TCRG and TCRB while IGHJ remained as in the germ line. The mature B-cell leukemia cells studied had rearranged IGHJ with germ-line TCRG and TCRB. These data suggest that, in the majority of more mature leukemias, cells have rearranged IG or TCR genes but not both. In contrast, cells from five of nine precursor B-cell leukemia patients and cell lines from one of four precursor T-cell leukemia patients had rearranged both IGHJ and TCR genes. TCRG and TCRB mRNAs were expressed in the cells of precursor T- but not B-cell leukemia patients studied. The spectrum of leukemia cells studied within the T-cell series permitted an assessment of the order of TCR gene rearrangements. Two of 13 patients had cells with germ-line TCRG and TCRB, 2 patients had cells with rearranged TCRG alone, and the remainder had cells with rearranged TCRG and TCRB. TCRG and TCRB mRNAs were expressed in precursor T-cell leukemia cells, whereas TCRB and TCRA were expressed in mature T-cell leukemia cells. These results parallel observations from mouse studies on gene expression and support the view of a hierarchy of TCR gene rearrangements in T-lymphocyte ontogeny. TCRG genes are rearranged first, subsequently TCRB genes are rearranged, followed by TCRA gene activation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

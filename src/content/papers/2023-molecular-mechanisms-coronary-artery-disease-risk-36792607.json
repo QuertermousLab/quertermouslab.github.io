@@ -1,0 +1,42 @@
+{
+  "title": "Molecular mechanisms of coronary artery disease risk at the PDGFD locus",
+  "authors": [
+    "Hyun-Jung Kim",
+    "Paul Cheng",
+    "Stanislao Travisano",
+    "Chad Weldy",
+    "João P Monteiro",
+    "Ramendra Kundu",
+    "Trieu Nguyen",
+    "Disha Sharma",
+    "Huitong Shi",
+    "Yi Lin",
+    "Boxiang Liu",
+    "Saptarsi Haldar",
+    "Simon Jackson",
+    "Thomas Quertermous"
+  ],
+  "journal": "Nature communications",
+  "journalAbbrev": "Nat Commun",
+  "year": 2023,
+  "date": "2023-02-15",
+  "doi": "10.1038/s41467-023-36518-9",
+  "pmid": "36792607",
+  "pmcid": "PMC9932166",
+  "url": "https://doi.org/10.1038/s41467-023-36518-9",
+  "abstract": "Genome wide association studies for coronary artery disease (CAD) have identified a risk locus at 11q22.3. Here, we verify with mechanistic studies that rs2019090 and PDGFD represent the functional variant and gene at this locus. Further, FOXC1/C2 transcription factor binding at rs2019090 is shown to promote PDGFD transcription through the CAD promoting allele. With single cell transcriptomic and histology studies with Pdgfd knockdown in an SMC lineage tracing male atherosclerosis mouse model we find that Pdgfd promotes expansion, migration, and transition of SMC lineage cells to the chondromyocyte phenotype. Pdgfd also increases adventitial fibroblast and pericyte expression of chemokines and leukocyte adhesion molecules, which is linked to plaque macrophage recruitment. Despite these changes there is no effect of Pdgfd deletion on overall plaque burden. These findings suggest that PDGFD mediates CAD risk by promoting deleterious phenotypic changes in SMC, along with an inflammatory response that is primarily focused in the adventitia.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": true,
+  "tags": [],
+  "highlightOrder": 8,
+  "image": "/figures/pdgfd-fig1.webp",
+  "theme": "gwas-mechanisms",
+  "summary": "At the 11q22.3 CAD locus, a FOXC1-regulated variant controls PDGFD expression; PDGFD promotes SMC chondrogenic transition and inflammatory signaling in plaque, and its inhibition blunts these disease-associated cell states.",
+  "geo": "GSE214423"
+}

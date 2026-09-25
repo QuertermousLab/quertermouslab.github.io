@@ -1,0 +1,35 @@
+{
+  "title": "Apelin enhances directed cardiac differentiation of mouse and human embryonic stem cells",
+  "authors": [
+    "I-Ning E Wang",
+    "Xiang Wang",
+    "Xiaohu Ge",
+    "Joshua Anderson",
+    "Michael Ho",
+    "Euan Ashley",
+    "Jianwei Liu",
+    "Manish J Butte",
+    "Masayuki Yazawa",
+    "Ricardo E Dolmetsch",
+    "Thomas Quertermous",
+    "Phillip C Yang"
+  ],
+  "journal": "PloS one",
+  "journalAbbrev": "PLoS One",
+  "year": 2012,
+  "date": "2012-06-01",
+  "doi": "10.1371/journal.pone.0038328",
+  "pmid": "22675543",
+  "pmcid": "PMC3365885",
+  "url": "https://doi.org/10.1371/journal.pone.0038328",
+  "abstract": "Apelin is a peptide ligand for an orphan G-protein coupled receptor (APJ receptor) and serves as a critical gradient for migration of mesodermal cells fated to contribute to the myocardial lineage. The present study was designed to establish a robust cardiac differentiation protocol, specifically, to evaluate the effect of apelin on directed differentiation of mouse and human embryonic stem cells (mESCs and hESCs) into cardiac lineage. Different concentrations of apelin (50, 100, 500 nM) were evaluated to determine its differentiation potential. The optimized dose of apelin was then combined with mesodermal differentiation factors, including BMP-4, activin-A, and bFGF, in a developmentally specific temporal sequence to examine the synergistic effects on cardiac differentiation. Cellular, molecular, and physiologic characteristics of the apelin-induced contractile embryoid bodies (EBs) were analyzed. It was found that 100 nM apelin resulted in highest percentage of contractile EB for mESCs while 500 nM had the highest effects on hESCs. Functionally, the contractile frequency of mESCs-derived EBs (mEBs) responded appropriately to increasing concentration of isoprenaline and diltiazem. Positive phenotype of cardiac specific markers was confirmed in the apelin-treated groups. The protocol, consisting of apelin and mesodermal differentiation factors, induced contractility in significantly higher percentage of hESC-derived EBs (hEBs), up-regulated cardiac-specific genes and cell surface markers, and increased the contractile force. In conclusion, we have demonstrated that the treatment of apelin enhanced cardiac differentiation of mouse and human ESCs and exhibited synergistic effects with mesodermal differentiation factors.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

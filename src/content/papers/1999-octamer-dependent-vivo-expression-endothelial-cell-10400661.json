@@ -1,0 +1,26 @@
+{
+  "title": "Octamer-dependent in vivo expression of the endothelial cell-specific TIE2 gene",
+  "authors": [
+    "B M Fadel",
+    "S C Boutet",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1999,
+  "date": "1999-07-16",
+  "doi": "10.1074/jbc.274.29.20376",
+  "pmid": "10400661",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.274.29.20376",
+  "abstract": "The TIE2 gene, also known as TEK, encodes a tyrosine kinase receptor that is required for the normal development of the vascular system during embryogenesis. TIE2 is specifically expressed in endothelial cells; however, the transcriptional mechanisms that regulate this highly restricted pattern of expression remain unknown. Here we demonstrate that a consensus octamer element located in the 5'-flanking region of TIE2 is required for normal expression in embryonic endothelial cells. Transgenic embryos carrying a TIE2/LacZ construct spanning 2.1 kilobases of upstream regulatory sequences exhibit expression of the reporter transgene specifically in endothelial cells. Site-directed mutagenesis of a consensus octamer element located in this region results in the loss of enhancer activity and significantly impairs the endothelial expression of the reporter transgene. Consistent with the in vivo data, in vitro DNA-protein binding studies show that the consensus octamer element displays an endothelial cell-specific pattern of binding, suggesting an interaction with a protein complex consisting of Oct1 and an endothelial cell-restricted cofactor. These data identify a novel role for the octamer element as an essential regulator of TIE2 expression, define the first known transcriptional pathway that mediates the expression of a developmental endothelial cell gene, and provide insights into the transcriptional mechanisms that regulate development of the vasculature during embryogenesis.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

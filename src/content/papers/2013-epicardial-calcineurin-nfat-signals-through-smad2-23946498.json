@@ -1,0 +1,34 @@
+{
+  "title": "Epicardial calcineurin-NFAT signals through Smad2 to direct coronary smooth muscle cell and arterial wall development",
+  "authors": [
+    "Jin Yang",
+    "Miriam Zeini",
+    "Chieh-Yu Lin",
+    "Chien-Jung Lin",
+    "Yiqin Xiong",
+    "Ching Shang",
+    "Pei Han",
+    "Wei Li",
+    "Thomas Quertermous",
+    "Bin Zhou",
+    "Ching-Pin Chang"
+  ],
+  "journal": "Cardiovascular research",
+  "journalAbbrev": "Cardiovasc Res",
+  "year": 2013,
+  "date": "2013-08-14",
+  "doi": "10.1093/cvr/cvt197",
+  "pmid": "23946498",
+  "pmcid": "PMC3868347",
+  "url": "https://doi.org/10.1093/cvr/cvt197",
+  "abstract": "AIMS: Congenital coronary artery anomalies produce serious events that include syncope, arrhythmias, myocardial infarction, or sudden death. Studying the mechanism of coronary development will contribute to the understanding of the disease and help design new diagnostic or therapeutic strategies. Here, we characterized a new calcineurin-NFAT signalling which specifically functions in the epicardium to regulate the development of smooth muscle wall of the coronary arteries. METHODS AND RESULTS: Using tissue-specific gene deletion, we found that calcineurin-NFAT signals in the embryonic epicardium to direct coronary smooth muscle cell development. The smooth muscle wall of coronary arteries fails to mature in mice with epicardial deletion of calcineurin B1 (Cnb1), and accordingly these mutant mice develop cardiac dysfunction with reduced exercise capacity. Inhibition of calcineurin at various developmental windows shows that calcineurin-NFAT signals within a narrow time window at embryonic Day 12.5-13.5 to regulate coronary smooth muscle cell development. Within the epicardium, NFAT transcriptionally activates the expression of Smad2, whose gene product is critical for transducing transforming growth factor β (TGFβ)-Alk5 signalling to control coronary development. CONCLUSION: Our findings demonstrate new spatiotemporal and molecular actions of calcineurin-NFAT that dictate coronary arterial wall development and a new mechanism by which calcineurin-NFAT integrates with TGFβ signalling during embryonic development.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

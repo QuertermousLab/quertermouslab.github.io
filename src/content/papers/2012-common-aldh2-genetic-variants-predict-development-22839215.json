@@ -1,0 +1,36 @@
+{
+  "title": "Common ALDH2 genetic variants predict development of hypertension in the SAPPHIRe prospective cohort: gene-environmental interaction with alcohol consumption",
+  "authors": [
+    "Yi-Cheng Chang",
+    "Yen-Feng Chiu",
+    "I-Te Lee",
+    "Low-Tone Ho",
+    "Yi-Jen Hung",
+    "Chao A Hsiung",
+    "Thomas Quertermous",
+    "Timothy Donlon",
+    "Wei-Jei Lee",
+    "Po-Chu Lee",
+    "Che-Hong Chen",
+    "Daria Mochly-Rosen",
+    "Lee-Ming Chuang"
+  ],
+  "journal": "BMC cardiovascular disorders",
+  "journalAbbrev": "BMC Cardiovasc Disord",
+  "year": 2012,
+  "date": "2012-07-29",
+  "doi": "10.1186/1471-2261-12-58",
+  "pmid": "22839215",
+  "pmcid": "PMC3476438",
+  "url": "https://doi.org/10.1186/1471-2261-12-58",
+  "abstract": "BACKGROUND: Genetic variants near/within the ALDH2 gene encoding the mitochondrial aldehyde dehydrogenase 2 have been associated with blood pressure and hypertension in several case-control association studies in East Asian populations. METHODS: Three common tag single nucleotide polymorphisms (tagSNP) in the ALDH2 gene were genotyped in 1,134 subjects of Chinese origin from the Stanford Asia-Pacific Program for Hypertension and Insulin Resistance (SAPPHIRe) family cohort. We examined whether the ALDH2 SNP genotypes predicted the development of hypertension in the prospective SAPPHIRe cohort. RESULTS: Over an average follow-up period of 5.7  years, carriers homozygous for the rs2238152 T allele in the ALDH2 gene were more likely to progress to hypertension than were non-carriers (hazard ratio [HR], 2.88, 95% confidence interval [CI], 1.06-7.84, P = 0.03), corresponding to a population attributable risk of ~7.1%. The risk associated with the rs2238152 T allele were strongest in heavy/moderate alcohol drinkers and was reduced in non-drinkers, indicating an interaction between ALDH2 genetic variants and alcohol intake on the risk of hypertension (P for interaction = 0.04). The risk allele was associated with significantly lower ALDH2 gene expression levels in human adipose tissue. CONCLUSION: ALDH2 genetic variants were associated with progression to hypertension in a prospective Chinese cohort. The association was modified by alcohol consumption.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

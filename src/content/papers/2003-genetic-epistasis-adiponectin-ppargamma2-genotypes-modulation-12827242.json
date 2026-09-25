@@ -1,0 +1,37 @@
+{
+  "title": "Genetic epistasis of adiponectin and PPARgamma2 genotypes in modulation of insulin sensitivity: a family-based association study",
+  "authors": [
+    "W-S Yang",
+    "C A Hsiung",
+    "L-T Ho",
+    "Y-T Chen",
+    "C-T He",
+    "J D Curb",
+    "J Grove",
+    "T Quertermous",
+    "Y-D I Chen",
+    "S-S Kuo",
+    "L-M Chuang",
+    "Sapphire Study Group"
+  ],
+  "journal": "Diabetologia",
+  "journalAbbrev": "Diabetologia",
+  "year": 2003,
+  "date": "2003-06-21",
+  "doi": "10.1007/s00125-003-1136-2",
+  "pmid": "12827242",
+  "pmcid": null,
+  "url": "https://doi.org/10.1007/s00125-003-1136-2",
+  "abstract": "AIMS/HYPOTHESIS: Genetic interactions in modulating the phenotypes of a complex trait, such as insulin sensitivity, were usually taken for granted. However, this has not been commonly shown. Previous studies have suggested that both PPARgamma2 and adiponectin genes could influence insulin sensitivity. Therefore it is likely that they could modulate insulin sensitivity through gene to gene interactions. METHODS: We genotyped 1793 subjects of Chinese and Japanese descendents from 601 hypertensive families recruited in Sapphire study for a T94G in the adiponectin gene exon 2 and the PPARgamma2 Pro12Ala polymorphisms. Serum insulin concentrations and insulin resistance index (HOMA(IR)) were used as the markers of insulin sensitivity. RESULTS: We found that the T allele of adiponectin gene was associated with a higher Ins60 and higher area under curve of insulin (AUCi) in OGTT utilizing all subjects in a mixed model that corrected for family effects. Important interactions between adiponectin and PPARgamma2 genotypes were found in fasting insulin concentrations (Ins0), insulin concentrations at 2-h (Ins120) in OGTT and insulin resistance index (HOMA(IR)). The main effects of the PPARgamma2 genotypes were in the plasma glucose concentrations in OGTT. In contrast, the main effects of adiponectin genotypes were in every insulin variable, including Ins0, Ins60, Ins120, AUCi and HOMA(IR). The subjects carrying the adiponectin G allele and the PPARgamma2 Ala12 allele seemed to be more insulin sensitive. CONCLUSION/INTERPRETATION: These results showed that adiponectin is a genetic factor associated with insulin sensitivity. Interactions with PPARgamma2 genotypes modified this association.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Developmental endothelial locus-1 (Del-1), a novel angiogenic protein: its role in ischemia",
+  "authors": [
+    "Hoai-Ky V Ho",
+    "James J Jang",
+    "Shuichiro Kaji",
+    "Gary Spektor",
+    "Annie Fong",
+    "Phillip Yang",
+    "Bob S Hu",
+    "Randy Schatzman",
+    "Thomas Quertermous",
+    "John P Cooke"
+  ],
+  "journal": "Circulation",
+  "journalAbbrev": "Circulation",
+  "year": 2004,
+  "date": "2004-02-23",
+  "doi": "10.1161/01.CIR.0000118465.36018.2D",
+  "pmid": "14981004",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/01.CIR.0000118465.36018.2D",
+  "abstract": "BACKGROUND: Developmentally regulated endothelial locus-1 (Del-1) is an extracellular matrix protein that is expressed by endothelial cells during embryological vascular development. We speculated that Del-1 may be reexpressed in ischemia and may be involved in endogenous angiogenesis. METHODS AND RESULTS: Del-1 protein was detected by immunohistochemistry in murine ischemic hindlimb after femoral artery excision. To determine whether exogenous Del-1 would augment angiogenesis in vivo, Del-1 or vehicle was administered for 3 weeks by intramuscular injection of murine ischemic hindlimbs. Angiogenesis was quantified by gadolinium-MRI perfusion and capillary densitometry. We used a disc angiogenesis system (DAS) to characterize the angiogenic response to vehicle (PBS), Del-1, Del-1 mutant (altered RGD domain), Del-1 minor (truncated discoidin-I-like domain), or basic fibroblast growth factor. After 14 days, the discs were extracted and sectioned to quantify vascular growth by morphometry. Endogenous Del-1 protein expression was increased in ischemic hindlimbs. Administration of Del-1 increased hindlimb vascular flow index and capillary density. In the DAS, Del-1 doubled fibrovascular growth, as did basic fibroblast growth factor. However, angiogenesis was not enhanced by the Del-1 mutant or Del-1 minor proteins. CONCLUSIONS: Del-1 is expressed in ischemic tissue. Del-1 stimulates angiogenesis, an effect that is dependent on the RGD motif and a second signaling sequence in the discoidin-I-like domain. Exogenous intramuscular administration of Del-1 significantly enhances angiogenesis in the murine ischemic hindlimb. Del-1 may prove to be a novel therapeutic agent for patients with ischemia.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Coronary Artery Disease Associated Transcription Factor TCF21 Regulates Smooth Muscle Precursor Cells that Contribute to the Fibrous Cap",
+  "authors": [
+    "S T Nurnberg",
+    "K Cheng",
+    "A Raiesdana",
+    "R Kundu",
+    "C L Miller",
+    "J B Kim",
+    "K Arora",
+    "I Carcamo-Oribe",
+    "Y Xiong",
+    "N Tellakula",
+    "V Nanda",
+    "N Murthy",
+    "W A Boisvert",
+    "U Hedin",
+    "L Perisic",
+    "S Aldi",
+    "L Maegdefessel",
+    "M Pjanic",
+    "G K Owens",
+    "M D Tallquist",
+    "T Quertermous"
+  ],
+  "journal": "Genomics data",
+  "journalAbbrev": "Genom Data",
+  "year": 2015,
+  "date": "2015-09-01",
+  "doi": "10.1016/j.gdata.2015.05.007",
+  "pmid": "26090325",
+  "pmcid": "PMC4467834",
+  "url": "https://doi.org/10.1016/j.gdata.2015.05.007",
+  "abstract": "TCF21 is a basic helix-loop-helix transcription factor that has recently been implicated as contributing to susceptibility to coronary heart disease based on genome wide association studies. In order to identify transcriptionally regulated target genes in a major disease relevant cell type, we performed siRNA knockdown of TCF21 in in vitro cultured human coronary artery smooth muscle cells and compared the transcriptome of siTCF21 versus siCONTROL treated cells. The raw (FASTQ) as well as processed (BED) data from 3 technical replicates per treatment has been deposited with Gene Expression Omnibus (GSE44461).",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Embryologic Origin Influences Smooth Muscle Cell Phenotypic Modulation Signatures in Murine Marfan Syndrome Aortic Aneurysm",
+  "authors": [
+    "Albert J Pedroza",
+    "Alex R Dalal",
+    "Rohan Shad",
+    "Nobu Yokoyama",
+    "Ken Nakamura",
+    "Paul Cheng",
+    "Robert C Wirka",
+    "Olivia Mitchel",
+    "Michael Baiocchi",
+    "William Hiesinger",
+    "Thomas Quertermous",
+    "Michael P Fischbein"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2022,
+  "date": "2022-07-07",
+  "doi": "10.1161/ATVBAHA.122.317381",
+  "pmid": "35861960",
+  "pmcid": "PMC9420801",
+  "url": "https://doi.org/10.1161/ATVBAHA.122.317381",
+  "abstract": "BACKGROUND: Aortic root smooth muscle cells (SMC) develop from both the second heart field (SHF) and neural crest. Disparate responses to disease-causing Fbn1 variants by these lineages are proposed to promote focal aortic root aneurysm formation in Marfan syndrome (MFS), but lineage-stratified SMC analysis in vivo is lacking. METHODS: We generated SHF lineage-traced MFS mice and performed integrated multiomic (single-cell RNA and assay for transposase-accessible chromatin sequencing) analysis stratified by embryological origin. SMC subtypes were spatially identified via RNA in situ hybridization. Response to TWIST1 overexpression was determined via lentiviral transduction in human aortic SMCs. RESULTS: Lineage stratification enabled nuanced characterization of aortic root cells. We identified heightened SHF-derived SMC heterogeneity including a subset of Tnnt2 (cardiac troponin T)-expressing cells distinguished by altered proteoglycan expression. MFS aneurysm-associated SMC phenotypic modulation was identified in both SHF-traced and nontraced (neural crest-derived) SMCs; however, transcriptomic responses were distinct between lineages. SHF-derived modulated SMCs overexpressed collagen synthetic genes and small leucine-rich proteoglycans while nontraced SMCs activated chondrogenic genes. These modulated SMCs clustered focally in the aneurysmal aortic root at the region of SHF/neural crest lineage overlap. Integrated RNA-assay for transposase-accessible chromatin analysis identified enriched Twist1 and Smad2/3/4 complex binding motifs in SHF-derived modulated SMCs. TWIST1 overexpression promoted collagen and SLRP gene expression in vitro, suggesting TWIST1 may drive SHF-enriched collagen synthesis in MFS aneurysm. CONCLUSIONS: SMCs derived from both SHF and neural crest lineages undergo phenotypic modulation in MFS aneurysm but are defined by subtly distinct transcriptional responses. Enhanced TWIST1 transcription factor activity may contribute to enriched collagen synthetic pathways SHF-derived SMCs in MFS.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Transcriptomic, Specific Marker, and Pathway Analysis of Smooth Muscle Cell Foam Cells Relative to Macrophage Foam Cells in Human Atherosclerosis",
+  "authors": [
+    "Sima Allahverdian",
+    "Yuancheng Mao",
+    "Pinhao Xiang",
+    "Valentin Blanchard",
+    "Aydin Bölük",
+    "Patrick A Hart",
+    "Paul Cheng",
+    "Daniel Y Li",
+    "Matthew D Worssam",
+    "Uma Thanigai Arasu",
+    "Mari Taipale",
+    "Miika Kiema",
+    "Johanna P Laakkonen",
+    "Tiit Örd",
+    "Minna U Kaikkonen",
+    "Clint L Miller",
+    "Thomas Quertermous",
+    "Teddy Chan",
+    "Gordon A Francis"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "journalAbbrev": "bioRxiv",
+  "year": 2026,
+  "date": "2026-08-01",
+  "doi": "10.64898/2026.05.27.728334",
+  "pmid": "42282821",
+  "pmcid": "PMC13252066",
+  "url": "https://doi.org/10.64898/2026.05.27.728334",
+  "abstract": "BACKGROUND: Smooth muscle cells (SMCs) are reported to contribute the majority of cholesterol-overloaded foam cells in human and mouse atheromas. However, the transcriptome, specific markers, and biologic itinerary of SMC foam cells relative to macrophage foam cells have not been determined. METHODS: Transcriptomic analysis by single cell RNA sequencing (scRNA-seq) was performed on fresh coronary segments from heart transplant recipients with early to intermediate stage atherosclerosis. The gene expression pattern of a putative cluster of SMC foam cells was compared to those of cultured SMCs loaded with either aggregated low density lipoprotein (agLDL) or cholesterol bound to methyl-β-cyclodextrin (Chol-MβCD). Candidate markers of SMC foam cells not expressed by macrophage foam cells were validated in ours and publicly available datasets, by spatial transcriptomics and by immunofluorescence microscopy of human atheromas. Pathway analysis was performed using Gene Set Enrichment Analysis Hallmark gene sets. RESULTS: SMC foam cells derived from fibromyocytes were tentatively identified using a panel of markers upregulated with in vitro cholesterol loading of SMCs. agLDL loading reproduced the same transcriptional profile, whereas Chol- MβCD did not reproduce any in vivo SMC state. Top genes highly represented in SMC foam cells included SERPINE1, encoding plasminogen activator inhibitor 1 (PAI-1) and CFH, complement factor H, which were validated in further human coronary scRNA-seq datasets, by Xenium spatial transcriptomics, and by immunofluorescence microscopy. Relative to macrophage foam cells, SMC foam cells exhibit a distinct biologic itinerary, including activation of extracellular matrix, coagulation and angiogenesis pathways. CONCLUSIONS: SMC foam cells, which are derived from fibromyocytes (\"lipomyocytes\"), exhibit unique markers and biologic programs that differ markedly from macrophage foam cells in atherosclerotic plaque development. Further understanding of the role of lipomyocytes and their expression of CFH and PAI-1 expression in plaque biology may offer novel therapeutic options to reduce ischemic cardiovascular disease.",
+  "pubTypes": [
+    "Journal Article",
+    "Preprint"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

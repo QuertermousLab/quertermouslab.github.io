@@ -1,0 +1,29 @@
+{
+  "title": "High-sensitivity cardiac troponin I and incident coronary heart disease among asymptomatic older adults",
+  "authors": [
+    "Carlos Iribarren",
+    "Malini Chandra",
+    "Jamal S Rana",
+    "Mark A Hlatky",
+    "Stephen P Fortmann",
+    "Thomas Quertermous",
+    "Alan S Go"
+  ],
+  "journal": "Heart (British Cardiac Society)",
+  "journalAbbrev": "Heart",
+  "year": 2016,
+  "date": "2016-03-30",
+  "doi": "10.1136/heartjnl-2015-309136",
+  "pmid": "27030599",
+  "pmcid": null,
+  "url": "https://doi.org/10.1136/heartjnl-2015-309136",
+  "abstract": "OBJECTIVE: High-sensitivity cardiac troponin I (hs-cTnI) is a novel biomarker of myocardial injury and ischaemia. Our objective was to ascertain correlates of hs-cTnI and its incremental prognostic utility for incident coronary heart disease (CHD) among older asymptomatic subjects. METHODS: We performed a cohort study among 1135 asymptomatic control participants in the ADVANCE (Atherosclerotic Disease, VAscular FunctioN and GenetiC Epidemiology) study at Kaiser Permanente Northern California and Stanford University, with follow-up through 31 December 2014. Hs-cTnI was measured in stored baseline (2002-2004) serum samples. RESULTS: After a median follow-up of 11.3 years, 164 CHD events were documented. The most significant correlates of hs-cTnI were black race, body mass index, hypertension, LDL cholesterol and estimated glomerular filtration rate (eGFR) (R(2)=0.16) After adjustment for race/ethnicity, education level, diabetes status, ATP-III Framingham risk score (FRS), C reactive protein and eGFR, each 1 SD increment of log-transformed Hs-cTnI was associated with 1.11 (95% CI 1.01 to 1.23, p=0.04) increased hazard of CHD. The c-statistic increased to 0.70 from 0.68 (p=0.16) and the category-based net reclassification index was 18% (95% CI 8% to 30%) after adding hs-cTnI to the model containing the ATP-III FRS. CONCLUSIONS: Hs-cTnI conveys incremental prognostic information for incident CHD among asymptomatic older adults.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

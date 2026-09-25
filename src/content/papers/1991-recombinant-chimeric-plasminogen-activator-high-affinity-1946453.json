@@ -1,0 +1,33 @@
+{
+  "title": "A recombinant chimeric plasminogen activator with high affinity for fibrin has increased thrombolytic potency in vitro and in vivo",
+  "authors": [
+    "M S Runge",
+    "T Quertermous",
+    "P J Zavodny",
+    "T W Love",
+    "C Bode",
+    "M Freitag",
+    "S Y Shaw",
+    "P L Huang",
+    "C C Chou",
+    "D Mullins"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 1991,
+  "date": "1991-11-15",
+  "doi": "10.1073/pnas.88.22.10337",
+  "pmid": "1946453",
+  "pmcid": "PMC52923",
+  "url": "https://doi.org/10.1073/pnas.88.22.10337",
+  "abstract": "A recombinant plasminogen activator with high fibrin affinity and specificity was expressed by transfecting hybridoma cells with a plasmid that combines sequence coding for low molecular mass (32 kDa) single-chain urokinase-type plasminogen activator [scuPA(32kDa)] and anti-fibrin monoclonal antibody 59D8. The expression of the recombinant molecule [r-scuPA(32kDa)-59D8] was optimized by replacing the 3' untranslated region (initially that of high molecular mass scuPA) in the plasmid with the 3' untranslated region of either beta-globin or mouse immunoglobulin. This modification resulted in a greater than 100-fold improvement in the level of protein expression. The 103-kDa r-scuPA(32kDa)-59D8 protein displayed catalytic activity indistinguishable from that of high molecular mass scuPA and fibrin binding comparable to that of native antibody 59D8. r-scuPA(32kDa)-59D8 was 6 times more potent than high molecular mass scuPA in lysing a human plasma clot in vitro and was 20 times more potent than high molecular mass scuPA in the rabbit jugular vein model of thrombolysis. Molecules of this type may serve as prototypes for highly specific, antibody-targeted enzymes suitable for human use.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

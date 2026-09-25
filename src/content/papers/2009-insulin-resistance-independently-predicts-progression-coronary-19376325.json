@@ -1,0 +1,31 @@
+{
+  "title": "Insulin resistance independently predicts the progression of coronary artery calcification",
+  "authors": [
+    "Keane K Lee",
+    "Stephen P Fortmann",
+    "Joan M Fair",
+    "Carlos Iribarren",
+    "Geoffrey D Rubin",
+    "Ann Varady",
+    "Alan S Go",
+    "Thomas Quertermous",
+    "Mark A Hlatky"
+  ],
+  "journal": "American heart journal",
+  "journalAbbrev": "Am Heart J",
+  "year": 2009,
+  "date": "2009-05-01",
+  "doi": "10.1016/j.ahj.2009.02.006",
+  "pmid": "19376325",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.ahj.2009.02.006",
+  "abstract": "BACKGROUND: Change in coronary artery calcification is a surrogate marker of subclinical coronary artery disease (CAD). In the only large prospective study, CAD risk factors predicted progression of coronary artery calcium (CAC). METHODS: We measured CAC at enrollment and after 24 months in a community-based sample of 869 healthy adults aged 60 to 72 years who were free of clinical CAD. We assessed predictors of the progression of CAC using univariate and multivariate models after square root transformation of the Agatston scores. Predictors tested included age, sex, race/ethnicity, smoking status, body mass index, family history of CAD, C-reactive protein and several measures of diabetes, insulin levels, blood pressure, and lipids. RESULTS: The mean age of the cohort was 66 years, and 62% were male. The median CAC at entry was 38.6 Agatston units and increased to 53.3 Agatston units over 24 months (P < .01). The CAC progression was associated with white race, diabetes, dyslipidemia, hypertension, lower diastolic blood pressure, and higher pulse pressure. After controlling for these variables, higher fasting insulin levels independently predicted CAC progression. CONCLUSIONS: Insulin resistance, in addition to the traditional cardiac risk factors, independently predicts progression of CAC in a community-based population without clinical CAD.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

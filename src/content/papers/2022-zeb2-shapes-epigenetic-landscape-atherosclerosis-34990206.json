@@ -1,0 +1,40 @@
+{
+  "title": "ZEB2 Shapes the Epigenetic Landscape of Atherosclerosis",
+  "authors": [
+    "Paul Cheng",
+    "Robert C Wirka",
+    "Lee Shoa Clarke",
+    "Quanyi Zhao",
+    "Ramendra Kundu",
+    "Trieu Nguyen",
+    "Surag Nair",
+    "Disha Sharma",
+    "Hyun-Jung Kim",
+    "Huitong Shi",
+    "Themistocles Assimes",
+    "Juyong Brian Kim",
+    "Anshul Kundaje",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation",
+  "journalAbbrev": "Circulation",
+  "year": 2022,
+  "date": "2022-01-06",
+  "doi": "10.1161/CIRCULATIONAHA.121.057789",
+  "pmid": "34990206",
+  "pmcid": "PMC8896308",
+  "url": "https://doi.org/10.1161/CIRCULATIONAHA.121.057789",
+  "abstract": "BACKGROUND: Smooth muscle cells (SMCs) transition into a number of different phenotypes during atherosclerosis, including those that resemble fibroblasts and chondrocytes, and make up the majority of cells in the atherosclerotic plaque. To better understand the epigenetic and transcriptional mechanisms that mediate these cell state changes, and how they relate to risk for coronary artery disease (CAD), we have investigated the causality and function of transcription factors at genome-wide associated loci. METHODS: We used CRISPR-Cas 9 genome and epigenome editing to identify the causal gene and cells for a complex CAD genome-wide association study signal at 2q22.3. Single-cell epigenetic and transcriptomic profiling in murine models and human coronary artery smooth muscle cells were used to understand the cellular and molecular mechanism by which this CAD risk gene exerts its function. RESULTS: CRISPR-Cas 9 genome and epigenome editing showed that the complex CAD genetic signals within a genomic region at 2q22.3 lie within smooth muscle long-distance enhancers for ZEB2, a transcription factor extensively studied in the context of epithelial mesenchymal transition in development of cancer. Zeb2 regulates SMC phenotypic transition through chromatin remodeling that obviates accessibility and disrupts both Notch and transforming growth factor β signaling, thus altering the epigenetic trajectory of SMC transitions. SMC-specific loss of Zeb2 resulted in an inability of transitioning SMCs to turn off contractile programing and take on a fibroblast-like phenotype, but accelerated the formation of chondromyocytes, mirroring features of high-risk atherosclerotic plaques in human coronary arteries. CONCLUSIONS: These studies identify ZEB2 as a new CAD genome-wide association study gene that affects features of plaque vulnerability through direct effects on the epigenome, providing a new therapeutic approach to target vascular disease.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": true,
+  "tags": [],
+  "highlightOrder": 10,
+  "theme": "gwas-mechanisms",
+  "summary": "The CAD-associated transcription factor ZEB2 shapes the chromatin landscape of modulating smooth muscle cells in atherosclerosis."
+}

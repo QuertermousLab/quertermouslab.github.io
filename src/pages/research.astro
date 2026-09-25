@@ -1,0 +1,133 @@
+---
+import Base from '../layouts/Base.astro';
+import PaperRow from '../components/PaperRow.astro';
+import ThemeArt from '../components/ThemeArt.astro';
+import { themes, consortia, igvf } from '../data/site';
+import { getByPmid, getLabKeys } from '../lib/papers';
+const keys = await getLabKeys();
+const sections = await Promise.all(themes.map(async (t) => ({ ...t, list: await getByPmid(t.papers) })));
+
+// live counts of released IGVF datasets (falls back to the last known numbers)
+let igvfCounts: Record<string, number> = igvf.fallback;
+try {
+  const r = await fetch(igvf.api, { headers: { Accept: 'application/json' }, signal: AbortSignal.timeout(8000) });
+  const j = await r.json();
+  const c: Record<string, number> = {};
+  for (const m of j['@graph'] ?? []) for (const a of m.preferred_assay_titles ?? []) c[a] = (c[a] ?? 0) + 1;
+  if (Object.keys(c).length) igvfCounts = c;
+} catch {}
+const igvfTotal = Object.values(igvfCounts).reduce((a, b) => a + b, 0);
+---
+<Base title="Research" description="Research themes of the Quertermous Lab: CAD genetics, smooth muscle cell fate, arterial cell atlases, RNA editing and functional genomics.">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Research</span>
+      <h1>Why do arteries fail?</h1>
+      <p class="lede">
+        Coronary artery disease is highly heritable, and genome-wide association studies have mapped hundreds of risk loci —
+        yet for most, the causal gene, cell type and mechanism remain unknown. Our goal is to characterize the epigenetic and
+        transcriptional mechanisms by which disease-associated variation changes causal gene expression, and to link those
+        genes to the cell states and lesion anatomy that determine clinical disease.
+      </p>
+      <nav class="toc" aria-label="Research themes">
+        {themes.map((t, i) => <a href={`#${t.id}`} style={`--c:${t.color}`}><b>{String(i + 1).padStart(2, '0')}</b>{t.title}</a>)}
+      </nav>
+    </div>
+  </section>
+
+  {sections.map((t, i) => (
+    <section id={t.id} class:list={['section theme', { 'section--tint': i % 2 === 1 }]} style={`--c:${t.color}`}>
+      <div class:list={['container theme__grid', { 'theme__grid--flip': i % 2 === 1 }]}>
+        <div class="reveal">
+          <span class="theme__n">{String(i + 1).padStart(2, '0')}</span>
+          <h2>{t.title}</h2>
+          {t.body.map((p) => <p class="theme__p">{p}</p>)}
+          <div class="theme__methods">
+            {t.methods.map((m) => <span class="chip">{m}</span>)}
+          </div>
+        </div>
+        <figure class="theme__fig reveal">
+          <ThemeArt kind={t.illustration} />
+        </figure>
+      </div>
+      {t.id === 'functional-genomics' && (
+        <div class="container">
+          <div class="igvf reveal">
+            <div class="igvf__head">
+              <span class="eyebrow">IGVF Data Portal</span>
+              <h3>{igvfTotal} released CRISPRi single-cell datasets</h3>
+              <p class="muted">Additional datasets are in processing and will be released through the portal.</p>
+              <a class="btn btn--light" href={igvf.portal}>Browse on data.igvf.org →</a>
+            </div>
+            <ul class="igvf__list">
+              {Object.entries(igvfCounts).map(([a, n]) => (
+                <li><b>{n}</b><div><strong>{a}</strong><span>{igvf.assays[a] ?? ''}</span></div></li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      )}
+      {t.list.length > 0 && (
+        <div class="container">
+          <h3 class="theme__kp">Key papers</h3>
+          <ul class="theme__papers">
+            {t.list.map((p) => <PaperRow paper={p} keys={keys} />)}
+          </ul>
+        </div>
+      )}
+    </section>
+  ))}
+
+  <section class="section section--dark">
+    <div class="container">
+      <span class="eyebrow">How we work</span>
+      <h2>Wet lab and dry lab, together</h2>
+      <div class="how">
+        <p class="lede">Research in the lab is carried out with both bioinformatic and experimental approaches. Some trainees focus on one
+          discipline, but we encourage everyone to gain expertise in both generating and analyzing the high-dimensional datasets that
+          reflect the transcriptional and epigenetic mechanisms of complex human traits.</p>
+        <ul>
+          {consortia.map((c) => <li><a href={c.url}>{c.name}</a> — {c.desc}</li>)}
+        </ul>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .toc { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 10px; margin-top: 36px; }
+  .toc a { display: flex; gap: 10px; align-items: baseline; padding: 14px 16px; border-radius: 12px; color: #f3e9ea; text-decoration: none;
+    background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); border-top: 3px solid var(--c); font-size: .92rem; line-height: 1.35; transition: all .2s; }
+  .toc a:hover { background: rgba(255,255,255,.1); color: #fff; }
+  .toc b { font-family: var(--font-mono); color: var(--c); font-size: .8rem; }
+  .theme { scroll-margin-top: 84px; }
+  .theme__grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 56px; align-items: start; }
+  .theme__grid--flip > :first-child { order: 2; }
+  .theme__n { font-family: var(--font-mono); color: var(--c); font-weight: 700; font-size: .95rem; display: block; margin-bottom: 8px; }
+  .theme h2 { border-left: 4px solid var(--c); padding-left: 16px; margin-left: -20px; }
+  .theme__p { color: var(--ink-2); font-size: 1.04rem; }
+  .theme__methods { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+  .theme__fig { margin: 0; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; box-shadow: var(--shadow); position: sticky; top: 108px; }
+  .theme__fig :global(svg) { width: 100%; height: auto; border-radius: 8px; }
+  .igvf { margin-top: 48px; display: grid; grid-template-columns: .9fr 1.1fr; gap: 32px; background: #fff; border: 1px solid var(--line);
+    border-radius: var(--radius); padding: 30px; box-shadow: var(--shadow); border-top: 4px solid var(--endo); }
+  .igvf h3 { font-size: 1.5rem; }
+  .igvf__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+  .igvf__list li { display: grid; grid-template-columns: 64px 1fr; gap: 14px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--line); }
+  .igvf__list b { font-family: var(--font-serif); font-size: 2rem; color: var(--artery); text-align: right; }
+  .igvf__list strong { display: block; }
+  .igvf__list span { font-size: .9rem; color: var(--ink-2); }
+  @media (max-width: 900px) { .igvf { grid-template-columns: 1fr; } }
+  .theme__kp { margin-top: 48px; font-family: var(--font-sans); font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+  .theme__papers { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--line); }
+  @media (max-width: 900px) {
+    .theme__grid { grid-template-columns: 1fr; gap: 28px; }
+    .theme__grid--flip > :first-child { order: 0; }
+    .theme__fig { position: static; }
+    .theme h2 { margin-left: 0; }
+  }
+  .how { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; }
+  .how ul { margin: 0; padding-left: 18px; display: grid; gap: 14px; color: #dccbce; }
+  .how a { color: var(--artery-bright); font-weight: 600; }
+  @media (max-width: 900px) { .how { grid-template-columns: 1fr; } }
+</style>

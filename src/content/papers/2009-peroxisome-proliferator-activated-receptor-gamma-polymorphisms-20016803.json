@@ -1,0 +1,35 @@
+{
+  "title": "Peroxisome proliferator-activated receptor gamma polymorphisms and coronary heart disease",
+  "authors": [
+    "Jean Dallongeville",
+    "Carlos Iribarren",
+    "Jean Ferrières",
+    "Liisa Lyon",
+    "Alun Evans",
+    "Alan S Go",
+    "Dominique Arveiler",
+    "Stephen P Fortmann",
+    "Pierre Ducimetière",
+    "Mark A Hlatky",
+    "Philippe Amouyel",
+    "Audrey Southwick",
+    "Thomas Quertermous",
+    "Aline Meirhaeghe"
+  ],
+  "journal": "PPAR research",
+  "journalAbbrev": "PPAR Res",
+  "year": 2009,
+  "date": "2009-12-01",
+  "doi": "10.1155/2009/543746",
+  "pmid": "20016803",
+  "pmcid": "PMC2792957",
+  "url": "https://doi.org/10.1155/2009/543746",
+  "abstract": "Single nucleotide polymorphisms (SNPs) in the peroxisome proliferator-activated receptor gamma (PPARG) gene have been associated with cardiovascular risk factors, particularly obesity and diabetes. We assessed the relationship between 4 PPARG SNPs (C-681G, C-689T, Pro12Ala, and C1431T) and coronary heart disease (CHD) in the PRIME (249 cases/494 controls, only men) and ADVANCE (1,076 cases/805 controls, men or women) studies. In PRIME, homozygote individuals for the minor allele of the PPARG C-689T, Pro12Ala, and C1431T SNPs tended to have a higher risk of CHD than homozygote individuals for the frequent allele (adjusted OR [95% CI] = 3.43 [0.96-12.27], P = .058, 3.41 [0.95-12.22], P = .060 and 5.10 [0.99-26.37], P = .050, resp.). No such association could be detected in ADVANCE. Haplotype distributions were similar in cases and control in both studies. A meta-analysis on the Pro12Ala SNP, based on our data and 11 other published association studies (6,898 CHD cases/11,287 controls), revealed that there was no evidence for a significant association under the dominant model (OR = 0.99 [0.92-1.07], P = .82). However, there was a borderline association under the recessive model (OR = 1.29 [0.99-1.67], P = .06) that became significant when considering men only (OR = 1.73 [1.20-2.48], P = .003). In conclusion, the PPARG Ala12Ala genotype might be associated with a higher CHD risk in men but further confirmation studies are needed.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

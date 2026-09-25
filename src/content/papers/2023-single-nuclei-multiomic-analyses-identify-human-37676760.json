@@ -1,0 +1,27 @@
+{
+  "title": "Single-nuclei multiomic analyses identify human cardiac lymphatic endothelial cells associated with coronary arteries in the epicardium",
+  "authors": [
+    "Stanislao Igor Travisano",
+    "Michael R M Harrison",
+    "Matthew E Thornton",
+    "Brendan H Grubbs",
+    "Thomas Quertermous",
+    "Ching-Ling Lien"
+  ],
+  "journal": "Cell reports",
+  "journalAbbrev": "Cell Rep",
+  "year": 2023,
+  "date": "2023-09-06",
+  "doi": "10.1016/j.celrep.2023.113106",
+  "pmid": "37676760",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.celrep.2023.113106",
+  "abstract": "Cardiac lymphatic vessels play important roles in fluid homeostasis, inflammation, disease, and regeneration of the heart. The developing cardiac lymphatics in human fetal hearts are closely associated with coronary arteries, similar to those in zebrafish hearts. We identify a population of cardiac lymphatic endothelial cells (LECs) that reside in the epicardium. Single-nuclei multiomic analysis of the human fetal heart reveals the plasticity and heterogeneity of the cardiac endothelium. Furthermore, we find that VEGFC is highly expressed in arterial endothelial cells and epicardium-derived cells, providing a molecular basis for the arterial association of cardiac lymphatic development. Using a cell-type-specific integrative analysis, we identify a population of cardiac lymphatic endothelial cells marked by the PROX1 and the lymphangiocrine RELN and enriched in binding motifs of erythroblast transformation specific (ETS) variant (ETV) transcription factors. We report the in vivo molecular characterization of human cardiac lymphatics and provide a valuable resource to understand fetal heart development.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

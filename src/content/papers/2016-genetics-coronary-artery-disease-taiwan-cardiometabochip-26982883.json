@@ -1,0 +1,40 @@
+{
+  "title": "Genetics of Coronary Artery Disease in Taiwan: A Cardiometabochip Study by the Taichi Consortium",
+  "authors": [
+    "Themistocles L Assimes",
+    "I-T Lee",
+    "Jyh-Ming Juang",
+    "Xiuqing Guo",
+    "Tzung-Dau Wang",
+    "Eric T Kim",
+    "Wen-Jane Lee",
+    "Devin Absher",
+    "Yen-Feng Chiu",
+    "Chih-Cheng Hsu",
+    "Lee-Ming Chuang",
+    "Thomas Quertermous",
+    "Chao A Hsiung",
+    "Jerome I Rotter",
+    "Wayne H-H Sheu",
+    "Yii-Der Ida Chen",
+    "Kent D Taylor"
+  ],
+  "journal": "PloS one",
+  "journalAbbrev": "PLoS One",
+  "year": 2016,
+  "date": "2016-03-16",
+  "doi": "10.1371/journal.pone.0138014",
+  "pmid": "26982883",
+  "pmcid": "PMC4794124",
+  "url": "https://doi.org/10.1371/journal.pone.0138014",
+  "abstract": "By means of a combination of genome-wide and follow-up studies, recent large-scale association studies of populations of European descent have now identified over 46 loci associated with coronary artery disease (CAD). As part of the TAICHI Consortium, we have collected and genotyped 8556 subjects from Taiwan, comprising 5423 controls and 3133 cases with coronary artery disease, for 9087 CAD SNPs using the CardioMetaboChip. We applied penalized logistic regression to ascertain the top SNPs that contribute together to CAD susceptibility in Taiwan. We observed that the 9p21 locus contributes to CAD at the level of genome-wide significance (rs1537372, with the presence of C, the major allele, the effect estimate is -0.216, standard error 0.033, p value 5.8x10-10). In contrast to a previous report, we propose that the 9p21 locus is a single genetic contribution to CAD in Taiwan because: 1) the penalized logistic regression and the follow-up conditional analysis suggested that rs1537372 accounts for all of the CAD association in 9p21, and 2) the high linkage disequilibrium observed for all associated SNPs in 9p21. We also observed evidence for the following loci at a false discovery rate >5%: SH2B3, ADAMTS7, PHACTR1, GGCX, HTRA1, COL4A1, and LARP6-LRRC49. We also took advantage of the fact that penalized methods are an efficient approach to search for gene-by-gene interactions, and observed that two-way interactions between the PHACTR1 and ADAMTS7 loci and between the SH2B3 and COL4A1 loci contribute to CAD risk. Both the similarities and differences between the significance of these loci when compared with significance of loci in studies of populations of European descent underscore the fact that further genetic association of studies in additional populations will provide clues to identify the genetic architecture of CAD across all populations worldwide.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

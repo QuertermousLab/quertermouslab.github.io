@@ -1,0 +1,33 @@
+{
+  "title": "Pathological Ace2-to-Ace enzyme switch in the stressed heart is transcriptionally controlled by the endothelial Brg1-FoxM1 complex",
+  "authors": [
+    "Jin Yang",
+    "Xuhui Feng",
+    "Qiong Zhou",
+    "Wei Cheng",
+    "Ching Shang",
+    "Pei Han",
+    "Chiou-Hong Lin",
+    "Huei-Sheng Vincent Chen",
+    "Thomas Quertermous",
+    "Ching-Pin Chang"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 2016,
+  "date": "2016-09-06",
+  "doi": "10.1073/pnas.1525078113",
+  "pmid": "27601681",
+  "pmcid": "PMC5035905",
+  "url": "https://doi.org/10.1073/pnas.1525078113",
+  "abstract": "Genes encoding angiotensin-converting enzymes (Ace and Ace2) are essential for heart function regulation. Cardiac stress enhances Ace, but suppresses Ace2, expression in the heart, leading to a net production of angiotensin II that promotes cardiac hypertrophy and fibrosis. The regulatory mechanism that underlies the Ace2-to-Ace pathological switch, however, is unknown. Here we report that the Brahma-related gene-1 (Brg1) chromatin remodeler and forkhead box M1 (FoxM1) transcription factor cooperate within cardiac (coronary) endothelial cells of pathologically stressed hearts to trigger the Ace2-to-Ace enzyme switch, angiotensin I-to-II conversion, and cardiac hypertrophy. In mice, cardiac stress activates the expression of Brg1 and FoxM1 in endothelial cells. Once activated, Brg1 and FoxM1 form a protein complex on Ace and Ace2 promoters to concurrently activate Ace and repress Ace2, tipping the balance to Ace2 expression with enhanced angiotensin II production, leading to cardiac hypertrophy and fibrosis. Disruption of endothelial Brg1 or FoxM1 or chemical inhibition of FoxM1 abolishes the stress-induced Ace2-to-Ace switch and protects the heart from pathological hypertrophy. In human hypertrophic hearts, BRG1 and FOXM1 expression is also activated in endothelial cells; their expression levels correlate strongly with the ACE/ACE2 ratio, suggesting a conserved mechanism. Our studies demonstrate a molecular interaction of Brg1 and FoxM1 and an endothelial mechanism of modulating Ace/Ace2 ratio for heart failure therapy.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

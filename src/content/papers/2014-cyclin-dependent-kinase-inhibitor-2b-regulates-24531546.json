@@ -1,0 +1,36 @@
+{
+  "title": "Cyclin-dependent kinase inhibitor 2B regulates efferocytosis and atherosclerosis",
+  "authors": [
+    "Yoko Kojima",
+    "Kelly Downing",
+    "Ramendra Kundu",
+    "Clint Miller",
+    "Frederick Dewey",
+    "Hope Lancero",
+    "Uwe Raaz",
+    "Ljubica Perisic",
+    "Ulf Hedin",
+    "Eric Schadt",
+    "Lars Maegdefessel",
+    "Tom Quertermous",
+    "Nicholas J Leeper"
+  ],
+  "journal": "The Journal of clinical investigation",
+  "journalAbbrev": "J Clin Invest",
+  "year": 2014,
+  "date": "2014-02-17",
+  "doi": "10.1172/JCI70391",
+  "pmid": "24531546",
+  "pmcid": "PMC3938254",
+  "url": "https://doi.org/10.1172/JCI70391",
+  "abstract": "Genetic variation at the chromosome 9p21 risk locus promotes cardiovascular disease; however, it is unclear how or which proteins encoded at this locus contribute to disease. We have previously demonstrated that loss of one candidate gene at this locus, cyclin-dependent kinase inhibitor 2B (Cdkn2b), in mice promotes vascular SMC apoptosis and aneurysm progression. Here, we investigated the role of Cdnk2b in atherogenesis and found that in a mouse model of atherosclerosis, deletion of Cdnk2b promoted advanced development of atherosclerotic plaques composed of large necrotic cores. Furthermore, human carriers of the 9p21 risk allele had reduced expression of CDKN2B in atherosclerotic plaques, which was associated with impaired expression of calreticulin, a ligand required for activation of engulfment receptors on phagocytic cells. As a result of decreased calreticulin, CDKN2B-deficient apoptotic bodies were resistant to efferocytosis and not efficiently cleared by neighboring macrophages. These uncleared SMCs elicited a series of proatherogenic juxtacrine responses associated with increased foam cell formation and inflammatory cytokine elaboration. The addition of exogenous calreticulin reversed defects associated with loss of Cdkn2b and normalized engulfment of Cdkn2b-deficient cells. Together, these data suggest that loss of CDKN2B promotes atherosclerosis by increasing the size and complexity of the lipid-laden necrotic core through impaired efferocytosis.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

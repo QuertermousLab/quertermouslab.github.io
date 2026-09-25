@@ -1,0 +1,37 @@
+{
+  "title": "Coronary risk assessment among intermediate risk patients using a clinical and biomarker based algorithm developed and validated in two population cohorts",
+  "authors": [
+    "D S Cross",
+    "C A McCarty",
+    "E Hytopoulos",
+    "M Beggs",
+    "N Nolan",
+    "D S Harrington",
+    "T Hastie",
+    "R Tibshirani",
+    "R P Tracy",
+    "B M Psaty",
+    "R McClelland",
+    "P S Tsao",
+    "T Quertermous"
+  ],
+  "journal": "Current medical research and opinion",
+  "journalAbbrev": "Curr Med Res Opin",
+  "year": 2012,
+  "date": "2012-11-01",
+  "doi": "10.1185/03007995.2012.742878",
+  "pmid": "23092312",
+  "pmcid": "PMC3666558",
+  "url": "https://doi.org/10.1185/03007995.2012.742878",
+  "abstract": "BACKGROUND: Many coronary heart disease (CHD) events occur in individuals classified as intermediate risk by commonly used assessment tools. Over half the individuals presenting with a severe cardiac event, such as myocardial infarction (MI), have at most one risk factor as included in the widely used Framingham risk assessment. Individuals classified as intermediate risk, who are actually at high risk, may not receive guideline recommended treatments. A clinically useful method for accurately predicting 5-year CHD risk among intermediate risk patients remains an unmet medical need. OBJECTIVE: This study sought to develop a CHD Risk Assessment (CHDRA) model that improves 5-year risk stratification among intermediate risk individuals. METHODS: Assay panels for biomarkers associated with atherosclerosis biology (inflammation, angiogenesis, apoptosis, chemotaxis, etc.) were optimized for measuring baseline serum samples from 1084 initially CHD-free Marshfield Clinic Personalized Medicine Research Project (PMRP) individuals. A multivariable Cox regression model was fit using the most powerful risk predictors within the clinical and protein variables identified by repeated cross-validation. The resulting CHDRA algorithm was validated in a Multiple-Ethnic Study of Atherosclerosis (MESA) case-cohort sample. RESULTS: A CHDRA algorithm of age, sex, diabetes, and family history of MI, combined with serum levels of seven biomarkers (CTACK, Eotaxin, Fas Ligand, HGF, IL-16, MCP-3, and sFas) yielded a clinical net reclassification index of 42.7% (p < 0.001) for MESA patients with a recalibrated Framingham 5-year intermediate risk level. Across all patients, the model predicted acute coronary events (hazard ratio = 2.17, p < 0.001), and remained an independent predictor after Framingham risk factor adjustments. LIMITATIONS: These include the slightly different event definition with the MESA samples and inability to include PMRP fatal CHD events. CONCLUSIONS: A novel risk score of serum protein levels plus clinical risk factors, developed and validated in independent cohorts, demonstrated clinical utility for assessing the true risk of CHD events in intermediate risk patients. Improved accuracy in cardiovascular risk classification could lead to improved preventive care and fewer deaths.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

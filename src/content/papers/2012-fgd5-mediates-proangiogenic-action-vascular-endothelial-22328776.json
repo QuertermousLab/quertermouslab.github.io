@@ -1,0 +1,32 @@
+{
+  "title": "FGD5 mediates proangiogenic action of vascular endothelial growth factor in human vascular endothelial cells",
+  "authors": [
+    "Yusuke Kurogane",
+    "Muneaki Miyata",
+    "Yoshiki Kubo",
+    "Yuichi Nagamatsu",
+    "Ramendra K Kundu",
+    "Akiyoshi Uemura",
+    "Tatsuro Ishida",
+    "Thomas Quertermous",
+    "Ken-ichi Hirata",
+    "Yoshiyuki Rikitake"
+  ],
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "journalAbbrev": "Arterioscler Thromb Vasc Biol",
+  "year": 2012,
+  "date": "2012-02-09",
+  "doi": "10.1161/ATVBAHA.111.244004",
+  "pmid": "22328776",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/ATVBAHA.111.244004",
+  "abstract": "OBJECTIVE: Vascular endothelial growth factor (VEGF) exerts proangiogenic action and induces activation of a variety of proangiogenic signaling pathways, including the Rho family small G proteins. However, regulators of the Rho family small G proteins in vascular endothelial cells (ECs) are poorly understood. Here we attempted to clarify the expression, subcellular localization, downstream effectors, and proangiogenic role of FGD5, a member of the FGD family of guanine nucleotide exchange factors. METHODS AND RESULTS: FGD5 was shown to be selectively expressed in cultured human vascular ECs. Immunofluorescence microscopy showed that the signal for FGD5 was observed at peripheral membrane ruffles and perinuclear regions in human umbilical vein ECs. Overexpression of FGD5 increased Cdc42 activity, whereas knockdown of FGD5 by small interfering RNAs inhibited the VEGF-induced activation of Cdc42 and extracellular signal-regulated kinase. VEGF-promoted capillary-like network formation, permeability, directional movement, and proliferation of human umbilical vein ECs and the reorientation of the Golgi complex during directional cell movement were attenuated by knockdown of FGD5. CONCLUSIONS: This study provides the first demonstration of expression, subcellular localization, and function of FGD5 in vascular ECs. The results suggest that FGD5 regulates proangiogenic action of VEGF in vascular ECs, including network formation, permeability, directional movement, and proliferation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

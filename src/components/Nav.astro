@@ -1,0 +1,79 @@
+---
+import LabMark from './LabMark.astro';
+const links = [
+  { href: '/research/', label: 'Research' },
+  { href: '/people/', label: 'People' },
+  { href: '/publications/', label: 'Publications' },
+  { href: '/resources/', label: 'Resources' },
+  { href: '/news/', label: 'News' },
+  { href: '/join/', label: 'Join & Contact' },
+];
+const path = Astro.url.pathname;
+const { overlay = false } = Astro.props;
+---
+<header class:list={['nav', { 'nav--overlay': overlay }]} data-nav>
+  <div class="container nav__inner">
+    <a class="brand" href="/" aria-label="Quertermous Lab home">
+      <LabMark size={54} class="brand__mark" />
+      <span class="brand__word">lab</span>
+      <span class="brand__text">
+        <strong>Quertermous Laboratory</strong>
+        <small>Stanford Cardiovascular Medicine</small>
+      </span>
+    </a>
+    <button class="nav__toggle" aria-label="Menu" aria-expanded="false" data-nav-toggle>
+      <span></span><span></span>
+    </button>
+    <nav class="nav__links" aria-label="Main">
+      {links.map((l) => (
+        <a href={l.href} class:list={{ active: path.startsWith(l.href) }}>{l.label}</a>
+      ))}
+    </nav>
+  </div>
+</header>
+
+<style>
+  .nav { position: sticky; top: 0; z-index: 50; background: rgba(251,248,246,.86);
+    backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px);
+    border-bottom: 1px solid var(--line); transition: background .3s, border-color .3s; }
+  .nav--overlay { position: fixed; inset: 0 0 auto 0; background: transparent; border-color: transparent; color: #fff; }
+  .nav--overlay.is-scrolled, .nav.is-open { background: rgba(20,7,11,.9); border-color: rgba(255,255,255,.08); color: #fff; }
+  .nav__inner { display: flex; align-items: center; justify-content: space-between; height: 84px; gap: 24px; }
+  .brand { display: flex; align-items: center; gap: 0; text-decoration: none; color: inherit; }
+  .brand__mark { flex: none; transition: transform .4s var(--ease); }
+  .brand:hover .brand__mark { transform: rotate(-8deg); }
+  .brand__word { font-family: var(--font-serif); font-weight: 700; font-size: 2.35rem; line-height: 1; letter-spacing: -.03em;
+    margin: 0 0 0 1px; transform: translateY(2px); }
+  .brand__text { display: flex; flex-direction: column; line-height: 1.1; margin-left: 16px; padding-left: 16px; border-left: 1px solid currentColor; border-color: rgba(128,128,128,.35); }
+  .brand__text strong { font-family: var(--font-serif); font-size: 1.02rem; font-weight: 600; letter-spacing: -.01em; }
+  .brand__text small { font-size: .7rem; letter-spacing: .12em; text-transform: uppercase; opacity: .7; margin-top: 3px; }
+  .nav__links { display: flex; gap: 4px; }
+  .nav__links a { color: inherit; text-decoration: none; font-weight: 500; font-size: .95rem; padding: 8px 14px; border-radius: 999px; opacity: .85; transition: all .2s; }
+  .nav__links a:hover { opacity: 1; background: rgba(200,36,58,.1); }
+  .nav__links a.active { opacity: 1; color: var(--artery); }
+  .nav--overlay .nav__links a.active, .nav.is-open .nav__links a.active { color: var(--artery-bright); }
+  .nav__toggle { display: none; background: none; border: 0; width: 40px; height: 40px; cursor: pointer; color: inherit; }
+  .nav__toggle span { display: block; width: 22px; height: 2px; background: currentColor; margin: 6px auto; transition: transform .3s; }
+  @media (max-width: 1080px) { .brand__text { display: none; } }
+  @media (max-width: 920px) {
+    .nav__toggle { display: block; }
+    .nav__links { position: absolute; top: 84px; left: 0; right: 0; flex-direction: column; padding: 12px 24px 24px;
+      background: rgba(20,7,11,.96); display: none; }
+    .nav.is-open .nav__links { display: flex; }
+    .nav__links a { color: #fff; padding: 12px 8px; font-size: 1.1rem; }
+    .nav.is-open .nav__toggle span:first-child { transform: translateY(4px) rotate(45deg); }
+    .nav.is-open .nav__toggle span:last-child { transform: translateY(-4px) rotate(-45deg); }
+  }
+</style>
+
+<script>
+  const nav = document.querySelector('[data-nav]');
+  const btn = document.querySelector('[data-nav-toggle]');
+  btn?.addEventListener('click', () => {
+    const open = nav?.classList.toggle('is-open');
+    btn.setAttribute('aria-expanded', String(!!open));
+  });
+  const onScroll = () => nav?.classList.toggle('is-scrolled', window.scrollY > 40);
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+</script>

@@ -1,0 +1,15 @@
+{
+  "name": "Thomas Quertermous",
+  "degrees": "MD",
+  "role": "William G. Irwin Professor of Cardiovascular Medicine",
+  "group": "pi",
+  "photo": "/people/thomas-quertermous.webp",
+  "order": 0,
+  "email": "tomq1@stanford.edu",
+  "bio": "Thomas Quertermous is the William G. Irwin Professor of Cardiovascular Medicine and Director of Research in the Division of Cardiovascular Medicine at Stanford University. He completed clinical training in cardiology at Massachusetts General Hospital and research training in molecular genetics in the Department of Genetics at Harvard Medical School, and established his first independent laboratory in the MGH Cardiac Unit in 1987. In 1991 he was recruited to Vanderbilt University as Chief of Cardiology and Professor of Medicine and Molecular Physiology and Biophysics, and in 1997 he moved to Stanford to lead the Division of Cardiovascular Medicine. His laboratory has used genetic approaches to study vascular disease for more than three decades — from large multi-ethnic genome-wide association studies of coronary artery disease to single-cell, epigenomic and in vivo studies that explain how risk variants act in the cells of the artery wall.",
+  "links": {
+    "profile": "https://profiles.stanford.edu/thomas-quertermous",
+    "orcid": "https://orcid.org/0000-0002-7645-9067",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Quertermous+T%5BAuthor%5D&sort=date"
+  }
+}

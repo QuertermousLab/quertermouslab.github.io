@@ -1,0 +1,43 @@
+{
+  "title": "Genetic targeting of sprouting angiogenesis using Apln-CreER",
+  "authors": [
+    "Qiaozhen Liu",
+    "Tianyuan Hu",
+    "Lingjuan He",
+    "Xiuzhen Huang",
+    "Xueying Tian",
+    "Hui Zhang",
+    "Liang He",
+    "Wenjuan Pu",
+    "Libo Zhang",
+    "Heng Sun",
+    "Jing Fang",
+    "Ying Yu",
+    "Shengzhong Duan",
+    "Chaobo Hu",
+    "Lijian Hui",
+    "Haibin Zhang",
+    "Thomas Quertermous",
+    "Qingbo Xu",
+    "Kristy Red-Horse",
+    "Joshua D Wythe",
+    "Bin Zhou"
+  ],
+  "journal": "Nature communications",
+  "journalAbbrev": "Nat Commun",
+  "year": 2015,
+  "date": "2015-01-19",
+  "doi": "10.1038/ncomms7020",
+  "pmid": "25597280",
+  "pmcid": "PMC4309445",
+  "url": "https://doi.org/10.1038/ncomms7020",
+  "abstract": "Under pathophysiological conditions in adults, endothelial cells (ECs) sprout from pre-existing blood vessels to form new ones by a process termed angiogenesis. During embryonic development, Apelin (APLN) is robustly expressed in vascular ECs. In adult mice, however, APLN expression in the vasculature is significantly reduced. Here we show that APLN expression is reactivated in adult ECs after ischaemia insults. In models of both injury ischaemia and tumor angiogenesis, we find that Apln-CreER genetically labels sprouting but not quiescent vasculature. By leveraging this specific activity, we demonstrate that abolishment of the VEGF-VEGFR2 signalling pathway as well as ablation of sprouting ECs diminished tumour vascularization and growth without compromising vascular homeostasis in other organs. Collectively, we show that Apln-CreER distinguishes sprouting vessels from stabilized vessels in multiple pathological settings. The Apln-CreER line described here will greatly aid future mechanistic studies in both vascular developmental biology and adult vascular diseases.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

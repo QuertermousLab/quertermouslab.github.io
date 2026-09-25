@@ -1,0 +1,24 @@
+{
+  "title": "Modulation of mRNA levels for urinary- and tissue-type plasminogen activator and plasminogen activator inhibitors 1 and 2 in human fibroblasts by interleukin 1",
+  "authors": [
+    "J B Michel",
+    "T Quertermous"
+  ],
+  "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+  "journalAbbrev": "J Immunol",
+  "year": 1989,
+  "date": "1989-08-01",
+  "doi": null,
+  "pmid": "2501387",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2501387/",
+  "abstract": "Plasminogen activators and their inhibitors are thought to play an important role in the regulation of a variety of pathologic processes including inflammation and wound healing. IL-1 is one inflammatory mediator which has been shown to increase release of plasminogen activator (PA) Ag and activity by mesenchymal cells such as chondrocytes and synoviocytes. We have found that rIL-1 beta induces a rapid and significant accumulation of both tissue-and urinary-type plasminogen activator (t-PA and u-PA) mRNA and type 1 and 2 plasminogen activator inhibitor (PAI-1 and PAI-2) mRNA in MRC-5 fetal lung fibroblasts. An SV40 transformed fibroblast cell line, XP12RO, showed an identical response of PAI-1 and t-PA message levels but revealed no change in PAI-2 or u-PA mRNA levels with rIL-1 beta stimulation. Treatment with the transcriptional inhibitor actinomycin D blocked accumulation of t-PA, u-PA, PAI-1, and PAI-2 mRNA, suggesting that RNA synthesis is required for accumulation of all four transcripts. Cycloheximide (CHX) treatment altered the rate of PAI-1 and t-PA mRNA accumulation, but both were able to increase in the absence of protein synthesis. CHX blocked the rIL-1 beta-induced increase in PAI-2 mRNA levels normally observed at 8 h, indicating that protein synthesis is required for this response to IL-1. The increase in u-PA message level was augmented in a synergistic fashion by CHX. These data for PAI-2 and u-PA provide evidence for short-lived proteins which act either to modulate transcription of these genes or regulate mRNA stability. Thus plasminogen activators and their inhibitors are regulated in a positive and complex fashion in the fibroblast by IL-1, suggesting an important role for these molecules and this cell type in the response to inflammation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

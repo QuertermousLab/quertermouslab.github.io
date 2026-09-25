@@ -1,0 +1,40 @@
+{
+  "title": "Sequence to Medical Phenotypes: A Framework for Interpretation of Human Whole Genome DNA Sequence Data",
+  "authors": [
+    "Frederick E Dewey",
+    "Megan E Grove",
+    "James R Priest",
+    "Daryl Waggott",
+    "Prag Batra",
+    "Clint L Miller",
+    "Matthew Wheeler",
+    "Amin Zia",
+    "Cuiping Pan",
+    "Konrad J Karzcewski",
+    "Christina Miyake",
+    "Michelle Whirl-Carrillo",
+    "Teri E Klein",
+    "Somalee Datta",
+    "Russ B Altman",
+    "Michael Snyder",
+    "Thomas Quertermous",
+    "Euan A Ashley"
+  ],
+  "journal": "PLoS genetics",
+  "journalAbbrev": "PLoS Genet",
+  "year": 2015,
+  "date": "2015-10-08",
+  "doi": "10.1371/journal.pgen.1005496",
+  "pmid": "26448358",
+  "pmcid": "PMC4598191",
+  "url": "https://doi.org/10.1371/journal.pgen.1005496",
+  "abstract": "High throughput sequencing has facilitated a precipitous drop in the cost of genomic sequencing, prompting predictions of a revolution in medicine via genetic personalization of diagnostic and therapeutic strategies. There are significant barriers to realizing this goal that are related to the difficult task of interpreting personal genetic variation. A comprehensive, widely accessible application for interpretation of whole genome sequence data is needed. Here, we present a series of methods for identification of genetic variants and genotypes with clinical associations, phasing genetic data and using Mendelian inheritance for quality control, and providing predictive genetic information about risk for rare disease phenotypes and response to pharmacological therapy in single individuals and father-mother-child trios. We demonstrate application of these methods for disease and drug response prognostication in whole genome sequence data from twelve unrelated adults, and for disease gene discovery in one father-mother-child trio with apparently simplex congenital ventricular arrhythmia. In doing so we identify clinically actionable inherited disease risk and drug response genotypes in pre-symptomatic individuals. We also nominate a new candidate gene in congenital arrhythmia, ATP2B4, and provide experimental evidence of a regulatory role for variants discovered using this framework.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

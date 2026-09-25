@@ -1,0 +1,30 @@
+{
+  "title": "Detailed Functional Characterization of a Waist-Hip Ratio Locus in 7p15.2 Defines an Enhancer Controlling Adipocyte Differentiation",
+  "authors": [
+    "Casimiro Castillejo-Lopez",
+    "Milos Pjanic",
+    "Anna Chiara Pirona",
+    "Susanne Hetty",
+    "Martin Wabitsch",
+    "Claes Wadelius",
+    "Thomas Quertermous",
+    "Erik Arner",
+    "Erik Ingelsson"
+  ],
+  "journal": "iScience",
+  "journalAbbrev": "iScience",
+  "year": 2019,
+  "date": "2019-09-10",
+  "doi": "10.1016/j.isci.2019.09.006",
+  "pmid": "31557715",
+  "pmcid": "PMC6817687",
+  "url": "https://doi.org/10.1016/j.isci.2019.09.006",
+  "abstract": "We combined CAGE sequencing in human adipocytes during differentiation with data from genome-wide association studies to identify an enhancer in the SNX10 locus on chromosome 7, presumably involved in body fat distribution. Using reporter assays and CRISPR-Cas9 gene editing in human cell lines, we characterized the role of the enhancer in adipogenesis. The enhancer was active during adipogenesis and responded strongly to insulin and isoprenaline. The allele associated with increased waist-hip ratio in human genetic studies was associated with higher enhancer activity. Mutations of the enhancer resulted in less adipocyte differentiation. RNA sequencing of cells with disrupted enhancer showed reduced expression of established adipocyte markers, such as ADIPOQ and LPL, and identified CHI3L1 on chromosome 1 as a potential gene involved in adipocyte differentiation. In conclusion, we identified and characterized an enhancer in the SNX10 locus and outlined its plausible mechanisms of action and downstream targets.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

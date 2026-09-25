@@ -1,0 +1,34 @@
+{
+  "title": "Sagittal abdominal diameter is associated with insulin sensitivity in Chinese hypertensive patients and their siblings",
+  "authors": [
+    "C-M Hwu",
+    "C-F Hsiao",
+    "W H H Sheu",
+    "D Pei",
+    "T-Y Tai",
+    "T Quertermous",
+    "B Rodriguez",
+    "R Pratt",
+    "Y-D I Chen",
+    "L-T Ho"
+  ],
+  "journal": "Journal of human hypertension",
+  "journalAbbrev": "J Hum Hypertens",
+  "year": 2003,
+  "date": "2003-03-01",
+  "doi": "10.1038/sj.jhh.1001532",
+  "pmid": "12624610",
+  "pmcid": null,
+  "url": "https://doi.org/10.1038/sj.jhh.1001532",
+  "abstract": "The purpose of the study is to observe the relation between anthropometric measurements, focusing on sagittal abdominal diameter (SAD), and insulin sensitivity indices in Chinese hypertensive patients and their siblings. In total, 907 participants, 537 hypertensive and 370 nonhypertensive, from 311 Taiwanese families were drawn from the Stanford Asia and Pacific Program for Hypertension and Insulin Resistance for the study. The participants received anthropometric measurements and 75-g oral glucose tolerance tests after an overnight fast. Fasting insulin, homeostasis model assessment for insulin resistance (HOMA-IR), and the insulin sensitivity index ISI(0,120) were chosen as surrogate measures of insulin sensitivity. In addition to Pearson and partial correlations, we used generalized estimating equations (GEEs) to examine the association between anthropometric measurements and insulin sensitivity indices. A small deviance in the GEEs indicates the goodness of model fit, irrespective of the independence among variables. The hypertensive patients were older in age, wider in waist circumference (WC), larger in body mass index (BMI) and SAD, and more insulin resistant than the nonhypertensive counterparts. The logarithmic transformation of fasting insulin, HOMA-IR, and ISI(0,120) significantly correlated with SAD, WC, and BMI before and after adjustments for age and sex. The deviances of SAD in the GEEs were similar to those of WC in all subjects, while BMI had smaller deviances than SAD and WC in the hypertensive patients. Our results suggest that the performance of SAD in predicting insulin sensitivity is comparable with WC in Chinese hypertensive patients and their siblings. BMI, however, seems to have better association with insulin sensitivity than SAD and WC in the patients with hypertension.",
+  "pubTypes": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

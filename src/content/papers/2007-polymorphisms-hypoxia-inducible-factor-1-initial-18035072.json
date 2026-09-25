@@ -1,0 +1,34 @@
+{
+  "title": "Polymorphisms in hypoxia inducible factor 1 and the initial clinical presentation of coronary disease",
+  "authors": [
+    "Mark A Hlatky",
+    "Thomas Quertermous",
+    "Derek B Boothroyd",
+    "James R Priest",
+    "Alec J Glassford",
+    "Richard M Myers",
+    "Stephen P Fortmann",
+    "Carlos Iribarren",
+    "Holly K Tabor",
+    "Themistocles L Assimes",
+    "Robert J Tibshirani",
+    "Alan S Go"
+  ],
+  "journal": "American heart journal",
+  "journalAbbrev": "Am Heart J",
+  "year": 2007,
+  "date": "2007-09-18",
+  "doi": "10.1016/j.ahj.2007.07.042",
+  "pmid": "18035072",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.ahj.2007.07.042",
+  "abstract": "BACKGROUND: Only some patients with coronary artery disease (CAD) develop acute myocardial infarction (MI), and emerging evidence suggests vulnerability to MI varies systematically among patients and may have a genetic component. The goal of this study was to assess whether polymorphisms in genes encoding elements of pathways mediating the response to ischemia affect vulnerability to MI among patients with underlying CAD. METHODS: We prospectively identified patients at the time of their initial clinical presentation of CAD who had either an acute MI or stable exertional angina. We collected clinical data and genotyped 34 polymorphisms in 6 genes (ANGPT1, HIF1A, THBS1, VEGFA, VEGFC, VEGFR2). RESULTS: The 909 patients with acute MI were significantly more likely than the 466 patients with stable angina to be male, current smokers, and hypertensive, and less likely to be taking beta-blockers or statins. Three polymorphisms in HIF1A (Pro582Ser, rs11549465; rs1087314; and Thr418Ile, rs41508050) were significantly more common in patients who presented with stable exertional angina rather than acute MI, even after statistical adjustment for cardiac risk factors and medications. The HIF-mediated transcriptional activity was significantly lower when HIF1A null fibroblasts were transfected with variant HIF1A alleles than with wild-type HIF1A alleles. CONCLUSIONS: Polymorphisms in HIF1A were associated with development of stable exertional angina rather than acute MI as the initial clinical presentation of CAD.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The impact of data quality on the identification of complex disease genes: experience from the Family Blood Pressure Program",
+  "authors": [
+    "Yen-Pei Christy Chang",
+    "James Dae-Ok Kim",
+    "Karen Schwander",
+    "Dabeeru C Rao",
+    "Mike B Miller",
+    "Alan B Weder",
+    "Richard S Cooper",
+    "Nicholas J Schork",
+    "Michael A Province",
+    "Alanna C Morrison",
+    "Sharon L R Kardia",
+    "Thomas Quertermous",
+    "Aravinda Chakravarti"
+  ],
+  "journal": "European journal of human genetics : EJHG",
+  "journalAbbrev": "Eur J Hum Genet",
+  "year": 2006,
+  "date": "2006-04-01",
+  "doi": "10.1038/sj.ejhg.5201582",
+  "pmid": "16493446",
+  "pmcid": null,
+  "url": "https://doi.org/10.1038/sj.ejhg.5201582",
+  "abstract": "The application of genome-wide linkage scans to uncover susceptibility loci for complex diseases offers great promise for the risk assessment, treatment, and understanding of these diseases. However, for most published studies, linkage signals are typically modest and vary considerably from one study to another. The multicenter Family Blood Pressure Program has analyzed genome-wide linkage scans of over 12 000 individuals. Based on this experience, we developed a protocol for large linkage studies that reduces two sources of data error: pedigree structure and marker genotyping errors. We then used the linkage signals, before and after data cleaning, to illustrate the impact of missing and erroneous data. A comprehensive error-checking protocol is an important part of complex disease linkage studies and enhances gene mapping. The lack of significant and reproducible linkage findings across studies is, in part, due to data quality.",
+  "pubTypes": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

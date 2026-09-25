@@ -1,0 +1,28 @@
+{
+  "title": "Genome-wide expression dynamics during mouse embryonic development reveal similarities to Drosophila development",
+  "authors": [
+    "Roger A Wagner",
+    "Raymond Tabibiazar",
+    "Arnold Liao",
+    "Thomas Quertermous"
+  ],
+  "journal": "Developmental biology",
+  "journalAbbrev": "Dev Biol",
+  "year": 2005,
+  "date": "2005-11-28",
+  "doi": "10.1016/j.ydbio.2005.09.036",
+  "pmid": "16310180",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.ydbio.2005.09.036",
+  "abstract": "Gene transcription mediates many vital aspects of mammalian embryonic development. A comprehensive characterization and analysis of the dynamics of gene transcription in the embryo is therefore likely to provide significant insights into the basic mechanisms of this process. We used microarrays to map transcription in the mouse embryo in the important period from embryonic day 8 (e8.0) to postnatal day 1 (p1) during which the bulk of the differentiation and development of organ systems takes place. Analysis of these expression profiles revealed distinct patterns of gene expression which correlate with the differentiation of organs including the nervous system, liver, skin, lungs, and digestive system, among others. Statistical analysis of the data based on Gene Ontology (GO) group annotation showed that specific temporal sequence patterns in gene class utilization across development are very similar to patterns seen during the embryonic development of Drosophila, suggesting conservation of the temporal progression of these processes across 550 million years of evolution. The temporal profiles of gene expression and activation of processes revealed here provide intriguing insights into the mechanisms of mammalian development, embryogenesis, and organogenesis, as well as into the evolution of developmental processes.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

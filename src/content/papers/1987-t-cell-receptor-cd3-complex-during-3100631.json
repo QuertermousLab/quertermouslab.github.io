@@ -1,0 +1,32 @@
+{
+  "title": "T cell receptor-CD3 complex during early T cell differentiation. Analysis of immature T cell acute lymphoblastic leukemias (T-ALL) at DNA, RNA, and cell membrane level",
+  "authors": [
+    "J J van Dongen",
+    "T Quertermous",
+    "C R Bartram",
+    "D P Gold",
+    "I L Wolvers-Tettero",
+    "W M Comans-Bitter",
+    "H Hooijkaas",
+    "H J Adriaansen",
+    "A de Klein",
+    "A Raghavachar"
+  ],
+  "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+  "journalAbbrev": "J Immunol",
+  "year": 1987,
+  "date": "1987-02-15",
+  "doi": null,
+  "pmid": "3100631",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/3100631/",
+  "abstract": "T cell acute lymphoblastic leukemias (T-ALL) can be regarded as the malignant counterparts of cells in various T cell differentiation stages. To study the expression of the human T cell receptor (TcR)-CD3 complex during the early stages of T cell differentiation, we have analyzed 22 T-ALL at the cell membrane level and the DNA level and 12 of them at the RNA level. According to their immunologic phenotype, the T-ALL could be divided into three main groups: 10 immature T-ALL (CD1-/CD3-), seven common thymocytic T-ALL (CD1+/CD3-or+), and five mature T-ALL (CD1-/CD3+). Among the 10 immature T-ALL three appeared to express the immunologic phenotype of the putative prothymocyte (TdT+/HLA-DR+/CD7+/CD2+/CD5-/CD1-/CD3-), whereas the other seven T-ALL appeared to be immature thymocytic (TdT+/HLA-DR-/CD7+/CD2+/CD5+/CD1-/CD3-). Transcripts of the CD3-delta and CD3-epsilon genes were present in all CD3- and CD3+ T-ALL tested, including prothymocytic T-ALL. However, prothymocytic T-ALL had germline TcR-beta genes and were not rearranged to the characterized TcR-gamma joining regions. The presence of CD3 transcripts and absence of TcR gene rearrangements in prothymocytic T-ALL supports their immature T cell character. Two immature thymocytic T-ALL also had germline TcR-gamma genes and one of them had germline TcR-beta genes. In all other T-ALL the TcR-gamma and TcR-beta genes were rearranged. The presumptive functional 1.3-kilobase TcR-beta transcripts were detected in the majority of T-ALL with rearranged TcR-beta genes. Distinct levels of TcR-gamma transcripts appeared to be present only in some thymocytic T-ALL, i.e., some immature thymocytic T-ALL and common thymocytic T-ALL. TcR-alpha mRNA could only be detected in CD3+ mature T-ALL, but was absent in all CD3+ common thymocytic T-ALL tested. Our data indicate that CD3 gene transcription is one of the earliest events during T cell differentiation and already occurs in prothymocytes. The TcR-gamma and TcR-beta genes rearrange early during thymocytic differentiation and can subsequently be transcribed. High levels of TcR-gamma gene transcription may only occur in a part of the T cells during thymic differentiation, while TcR-beta gene transcription continues during further differentiation. TcR-alpha gene transcription may be the final step in the production of the complete set of TcR and CD3 proteins, resulting in the expression of the TcR alpha beta-CD3 complex at the cell surface of mature T cells.(ABSTRACT TRUNCATED AT 400 WORDS)",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

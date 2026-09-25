@@ -1,0 +1,34 @@
+{
+  "title": "TCF21 and the environmental sensor aryl-hydrocarbon receptor cooperate to activate a pro-inflammatory gene expression program in coronary artery smooth muscle cells",
+  "authors": [
+    "Juyong Brian Kim",
+    "Milos Pjanic",
+    "Trieu Nguyen",
+    "Clint L Miller",
+    "Dharini Iyer",
+    "Boxiang Liu",
+    "Ting Wang",
+    "Olga Sazonova",
+    "Ivan Carcamo-Orive",
+    "Ljubica Perisic Matic",
+    "Lars Maegdefessel",
+    "Ulf Hedin",
+    "Thomas Quertermous"
+  ],
+  "journal": "PLoS genetics",
+  "journalAbbrev": "PLoS Genet",
+  "year": 2017,
+  "date": "2017-05-08",
+  "doi": "10.1371/journal.pgen.1006750",
+  "pmid": "28481916",
+  "pmcid": "PMC5439967",
+  "url": "https://doi.org/10.1371/journal.pgen.1006750",
+  "abstract": "Both environmental factors and genetic loci have been associated with coronary artery disease (CAD), however gene-gene and gene-environment interactions that might identify molecular mechanisms of risk are not easily studied by human genetic approaches. We have previously identified the transcription factor TCF21 as the causal CAD gene at 6q23.2 and characterized its downstream transcriptional network that is enriched for CAD GWAS genes. Here we investigate the hypothesis that TCF21 interacts with a downstream target gene, the aryl hydrocarbon receptor (AHR), a ligand-activated transcription factor that mediates the cellular response to environmental contaminants, including dioxin and polycyclic aromatic hydrocarbons (e.g., tobacco smoke). Perturbation of TCF21 expression in human coronary artery smooth muscle cells (HCASMC) revealed that TCF21 promotes expression of AHR, its heterodimerization partner ARNT, and cooperates with these factors to upregulate a number of inflammatory downstream disease related genes including IL1A, MMP1, and CYP1A1. TCF21 was shown to bind in AHR, ARNT and downstream target gene loci, and co-localization was noted for AHR-ARNT and TCF21 binding sites genome-wide in regions of HCASMC open chromatin. These regions of co-localization were found to be enriched for GWAS signals associated with cardio-metabolic as well as chronic inflammatory disease phenotypes. Finally, we show that similar to TCF21, AHR gene expression is increased in atherosclerotic lesions in mice in vivo using laser capture microdissection, and AHR protein is localized in human carotid atherosclerotic lesions where it is associated with protein kinases with a critical role in innate immune response. These data suggest that TCF21 can cooperate with AHR to activate an inflammatory gene expression program that is exacerbated by environmental stimuli, and may contribute to the overall risk for CAD.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

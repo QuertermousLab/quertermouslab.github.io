@@ -1,0 +1,30 @@
+{
+  "title": "Racial variation in lipoprotein-associated phospholipase A₂ in older adults",
+  "authors": [
+    "Keane K Lee",
+    "Stephen P Fortmann",
+    "Ann Varady",
+    "Joan M Fair",
+    "Alan S Go",
+    "Thomas Quertermous",
+    "Mark A Hlatky",
+    "Carlos Iribarren"
+  ],
+  "journal": "BMC cardiovascular disorders",
+  "journalAbbrev": "BMC Cardiovasc Disord",
+  "year": 2011,
+  "date": "2011-06-29",
+  "doi": "10.1186/1471-2261-11-38",
+  "pmid": "21714927",
+  "pmcid": "PMC3146402",
+  "url": "https://doi.org/10.1186/1471-2261-11-38",
+  "abstract": "BACKGROUND: Lipoprotein-associated phospholipase A₂ (Lp-PLA₂) is a predictor of cardiovascular events that has been shown to vary with race. The objective of this study was to examine factors associated with this racial variation. METHODS: We measured Lp-PLA₂ mass and activity in 714 healthy older adults with no clinical coronary heart disease and not taking dyslipidemia medication. We evaluated the association between race and Lp-PLA₂ mass and activity levels after adjustment for various covariates using multivariable linear regression. These covariates included age, sex, diabetes, hypertension, body mass index, lipid measurements, C-reactive protein, smoking status, physical activity, diet, income, and education level. We further examined genetic covariates that included three single nucleotide polymorphisms shown to be associated with Lp-PLA₂ activity levels. RESULTS: The mean age was 66 years. Whites had the highest Lp-PLA₂ mass and activity levels, followed by Hispanics and Asians, and then African-Americans; in age and sex adjusted analyses, these differences were significant for each non-White race as compared to Whites (p < 0.0001). For example, African-Americans were predicted to have a 55.0 ng/ml lower Lp-PLA₂ mass and 24.7 nmol/ml-min lower activity, compared with Whites, independent of age and sex (p < 0.0001). After adjustment for all covariates, race remained significantly correlated with Lp-PLA₂ mass and activity levels (p < 0.001) with African-Americans having 44.8 ng/ml lower Lp-PLA₂ mass and 17.3 nmol/ml-min lower activity compared with Whites (p < 0.0001). CONCLUSION: Biological, lifestyle, demographic, and select genetic factors do not appear to explain variations in Lp-PLA₂ mass and activity levels between Whites and non-Whites, suggesting that Lp-PLA₂ mass and activity levels may need to be interpreted differently for various races.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

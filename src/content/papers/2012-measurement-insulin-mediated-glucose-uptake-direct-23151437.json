@@ -1,0 +1,32 @@
+{
+  "title": "Measurement of insulin-mediated glucose uptake: direct comparison of the modified insulin suppression test and the euglycemic, hyperinsulinemic clamp",
+  "authors": [
+    "Joshua W Knowles",
+    "Themistocles L Assimes",
+    "Philip S Tsao",
+    "Andrea Natali",
+    "Andrea Mari",
+    "Thomas Quertermous",
+    "Gerald M Reaven",
+    "Fahim Abbasi"
+  ],
+  "journal": "Metabolism: clinical and experimental",
+  "journalAbbrev": "Metabolism",
+  "year": 2012,
+  "date": "2012-11-12",
+  "doi": "10.1016/j.metabol.2012.10.002",
+  "pmid": "23151437",
+  "pmcid": "PMC3925367",
+  "url": "https://doi.org/10.1016/j.metabol.2012.10.002",
+  "abstract": "BACKGROUND: Two direct measurements of peripheral insulin sensitivity are the M value derived from the euglycemic, hyperinsulinemic clamp (EC) and the steady-state plasma glucose (SSPG) concentration derived from the insulin suppression test (IST). Prior work suggests that these measures are highly correlated, but the agreement between them is unknown. To determine the agreement between SSPG and M and to develop transformation equations to convert SSPG to M and vice versa, we directly compared these two measurements in the same individuals. METHODS: A total of 15 nondiabetic subjects (9 women and 6 men) underwent both an EC and a modified version of the IST within a median interval of 5days. We performed standard correlation metrics of the two measures and developed transformation regression equations for the two measures. RESULTS: The mean±SD age of the subjects was 57±7years and body mass index, 27.7±3.9kg/m(2). The median (interquartile range) SSPG concentration was 6.7 (5.1, 9.8) mmol/L and M value, 49.6 (28.9, 64.2) μmol/min/kg-LBM. There was a highly significant correlation between SSPG and M (r=-0.87, P <0.001). The relationship was best fit by regression models with exponential/logarithmic functions (R(2)=0.85). Bland-Altman plots demonstrated an excellent agreement between these measures of insulin action. CONCLUSION: The SSPG and M are highly related measures of insulin sensitivity and the results provide the means to directly compare the two measurements.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

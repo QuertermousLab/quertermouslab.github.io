@@ -1,0 +1,37 @@
+{
+  "title": "Large-Scale Single-Cell RNA-Seq Reveals Molecular Signatures of Heterogeneous Populations of Human Induced Pluripotent Stem Cell-Derived Endothelial Cells",
+  "authors": [
+    "David T Paik",
+    "Lei Tian",
+    "Jaecheol Lee",
+    "Nazish Sayed",
+    "Ian Y Chen",
+    "Siyeon Rhee",
+    "June-Wha Rhee",
+    "Youngkyun Kim",
+    "Robert C Wirka",
+    "Jan W Buikema",
+    "Sean M Wu",
+    "Kristy Red-Horse",
+    "Thomas Quertermous",
+    "Joseph C Wu"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2018,
+  "date": "2018-08-03",
+  "doi": "10.1161/CIRCRESAHA.118.312913",
+  "pmid": "29986945",
+  "pmcid": "PMC6202208",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.118.312913",
+  "abstract": "RATIONALE: Human-induced pluripotent stem cell-derived endothelial cells (iPSC-ECs) have risen as a useful tool in cardiovascular research, offering a wide gamut of translational and clinical applications. However, inefficiency of the currently available iPSC-EC differentiation protocol and underlying heterogeneity of derived iPSC-ECs remain as major limitations of iPSC-EC technology. OBJECTIVE: Here, we performed droplet-based single-cell RNA sequencing (scRNA-seq) of the human iPSCs after iPSC-EC differentiation. Droplet-based scRNA-seq enables analysis of thousands of cells in parallel, allowing comprehensive analysis of transcriptional heterogeneity. METHODS AND RESULTS: Bona fide iPSC-EC cluster was identified by scRNA-seq, which expressed high levels of endothelial-specific genes. iPSC-ECs, sorted by CD144 antibody-conjugated magnetic sorting, exhibited standard endothelial morphology and function including tube formation, response to inflammatory signals, and production of NO. Nonendothelial cell populations resulting from the differentiation protocol were identified, which included immature cardiomyocytes, hepatic-like cells, and vascular smooth muscle cells. Furthermore, scRNA-seq analysis of purified iPSC-ECs revealed transcriptional heterogeneity with 4 major subpopulations, marked by robust enrichment of CLDN5, APLNR, GJA5, and ESM1 genes, respectively. CONCLUSIONS: Massively parallel, droplet-based scRNA-seq allowed meticulous analysis of thousands of human iPSCs subjected to iPSC-EC differentiation. Results showed inefficiency of the differentiation technique, which can be improved with further studies based on identification of molecular signatures that inhibit expansion of nonendothelial cell types. Subtypes of bona fide human iPSC-ECs were also identified, allowing us to sort for iPSC-ECs with specific biological function and identity.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

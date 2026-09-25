@@ -1,0 +1,42 @@
+{
+  "title": "Epigenetic response to environmental stress: Assembly of BRG1-G9a/GLP-DNMT3 repressive chromatin complex on Myh6 promoter in pathologically stressed hearts",
+  "authors": [
+    "Pei Han",
+    "Wei Li",
+    "Jin Yang",
+    "Ching Shang",
+    "Chiou-Hong Lin",
+    "Wei Cheng",
+    "Calvin T Hang",
+    "Hsiu-Ling Cheng",
+    "Chen-Hao Chen",
+    "Johnson Wong",
+    "Yiqin Xiong",
+    "Mingming Zhao",
+    "Stavros G Drakos",
+    "Andrea Ghetti",
+    "Dean Y Li",
+    "Daniel Bernstein",
+    "Huei-Sheng Vincent Chen",
+    "Thomas Quertermous",
+    "Ching-Pin Chang"
+  ],
+  "journal": "Biochimica et biophysica acta",
+  "journalAbbrev": "Biochim Biophys Acta",
+  "year": 2016,
+  "date": "2016-03-04",
+  "doi": "10.1016/j.bbamcr.2016.03.002",
+  "pmid": "26952936",
+  "pmcid": "PMC7397641",
+  "url": "https://doi.org/10.1016/j.bbamcr.2016.03.002",
+  "abstract": "Chromatin structure is determined by nucleosome positioning, histone modifications, and DNA methylation. How chromatin modifications are coordinately altered under pathological conditions remains elusive. Here we describe a stress-activated mechanism of concerted chromatin modification in the heart. In mice, pathological stress activates cardiomyocytes to express Brg1 (nucleosome-remodeling factor), G9a/Glp (histone methyltransferase), and Dnmt3 (DNA methyltransferase). Once activated, Brg1 recruits G9a and then Dnmt3 to sequentially assemble repressive chromatin-marked by H3K9 and CpG methylation-on a key molecular motor gene (Myh6), thereby silencing Myh6 and impairing cardiac contraction. Disruption of Brg1, G9a or Dnmt3 erases repressive chromatin marks and de-represses Myh6, reducing stress-induced cardiac dysfunction. In human hypertrophic hearts, BRG1-G9a/GLP-DNMT3 complex is also activated; its level correlates with H3K9/CpG methylation, Myh6 repression, and cardiomyopathy. Our studies demonstrate a new mechanism of chromatin assembly in stressed hearts and novel therapeutic targets for restoring Myh6 and ventricular function. The stress-induced Brg1-G9a-Dnmt3 interactions and sequence of repressive chromatin assembly on Myh6 illustrates a molecular mechanism by which the heart epigenetically responds to environmental signals. This article is part of a Special Issue entitled: Cardiomyocyte Biology: Integration of Developmental and Environmental Cues in the Heart edited by Marcus Schaub and Hughes Abriel.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

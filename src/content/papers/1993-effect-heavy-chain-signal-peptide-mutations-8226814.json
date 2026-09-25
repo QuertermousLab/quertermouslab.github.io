@@ -1,0 +1,29 @@
+{
+  "title": "Effect of heavy chain signal peptide mutations and NH2-terminal chain length on binding of anti-digoxin antibodies",
+  "authors": [
+    "J Ping",
+    "J F Schildbach",
+    "S Y Shaw",
+    "T Quertermous",
+    "J Novotny",
+    "R Bruccoleri",
+    "M N Margolies"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1993,
+  "date": "1993-11-05",
+  "doi": null,
+  "pmid": "8226814",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/8226814/",
+  "abstract": "In certain instances, antibody variable region mutations outside of the antigen-combining site influence antigen binding. We reported previously that a heavy chain mutation (Ser-94-->Arg) decreased binding of the anti-digoxin antibody 40-150, whereas an additional signal peptide mutation at the -2 position (Gln-->Pro) causing NH2-terminal 2-residue truncation partially restored binding. To assess the combined effects on binding of two seemingly distant mutations, we constructed signal peptide mutations and NH2-terminal deletions in the presence of Ser-94 and Arg-94. Deletions of one to three amino acids had little effect on binding for Ser-94 mutants, whereas 2-residue truncations produced directly or by signal peptide mutation increased affinity approximately 40-fold for Arg-94 mutants. These observations are consistent with the reported computer-generated model of antibody 40-150. Introduction of Pro at the signal peptide -3 position in 40-150 resulted in cleavage at alternative sites, with varying effects on affinity. Introduction of Pro at -2 into the anti-digoxin antibody 26-10 resulted, unexpectedly, in expression of heavy chains with 3 extra NH2-terminal residues, causing an approximately 100-fold reduction in affinity. Thus, both extensions and deletions of the heavy chain amino terminus can enhance or reduce antigen binding, depending on the structural context of specific antigen combining sites.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

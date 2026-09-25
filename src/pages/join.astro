@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+import { lab } from '../data/site';
+const tracks = [
+  ['Postdoctoral fellows', 'PhD or MD/PhD scientists in genomics, computational biology, vascular biology or related fields. Experience with single-cell, epigenomic, CRISPR or mouse models is valued; so is enthusiasm to learn both wet- and dry-lab approaches. Please email a CV, a brief statement of research interests, and the names of three references.'],
+  ['Physician-scientists', 'Cardiology and internal medicine trainees — including those in Stanford’s Translational Investigator Pathway and CVI T32 programs — are welcome to discuss research years in the lab.'],
+  ['Graduate students', 'Stanford Biosciences PhD students (e.g. Genetics, Biomedical Data Science, CMP) interested in rotations are encouraged to reach out.'],
+  ['Undergraduates & staff', 'Research assistant and life-science research professional positions are posted on Stanford Careers when available.'],
+];
+---
+<Base title="Join & Contact" description="Join the Quertermous Lab or get in touch.">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Join &amp; contact</span>
+      <h1>Work with us</h1>
+      <p class="lede">We are always interested in hearing from creative, collaborative scientists who want to understand
+        how human genetics shapes vascular disease.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container tracks">
+      {tracks.map(([t, d]) => <article class="card reveal"><h3>{t}</h3><p>{d}</p></article>)}
+    </div>
+  </section>
+  <section class="section section--tint" id="contact">
+    <div class="container contact">
+      <div class="reveal">
+        <span class="eyebrow">Contact</span>
+        <h2>Get in touch</h2>
+        <ul class="people">
+          {lab.contacts.map((c) => (
+            <li>
+              <span class="role">{c.role}</span>
+              <strong>{c.name}</strong>
+              <a href={`mailto:${c.email}`}>{c.email}</a>
+              <span class="muted">{c.phone}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <div class="reveal">
+        <span class="eyebrow">Where to find us</span>
+        <h2>Visit</h2>
+        <address>
+          <strong>{lab.address.building}</strong><br />{lab.address.street}<br />{lab.address.city}
+        </address>
+        <p class="muted"><strong>Postal address:</strong> {lab.postal}</p>
+        <iframe title="Map of Falk Cardiovascular Research Center" loading="lazy"
+          src="https://www.openstreetmap.org/export/embed.html?bbox=-122.1790%2C37.4290%2C-122.1690%2C37.4350&layer=mapnik&marker=37.4318%2C-122.1745"></iframe>
+      </div>
+    </div>
+  </section>
+</Base>
+<style>
+  .tracks { display: grid; grid-template-columns: repeat(2, 1fr); gap: 22px; }
+  .tracks .card { padding: 28px; border-left: 4px solid var(--artery); }
+  .tracks p { color: var(--ink-2); margin: 0; }
+  .contact { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; }
+  .people { list-style: none; padding: 0; margin: 0; }
+  .people li { display: grid; gap: 2px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+  .role { font-size: .74rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--artery); }
+  address { font-style: normal; font-size: 1.1rem; margin-bottom: 14px; }
+  iframe { width: 100%; height: 280px; border: 1px solid var(--line); border-radius: var(--radius); margin-top: 10px; }
+  @media (max-width: 800px) { .tracks, .contact { grid-template-columns: 1fr; } }
+</style>

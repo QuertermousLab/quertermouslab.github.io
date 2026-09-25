@@ -1,0 +1,37 @@
+{
+  "title": "The endogenous peptide apelin potently improves cardiac contractility and reduces cardiac loading in vivo",
+  "authors": [
+    "Euan A Ashley",
+    "Jennifer Powers",
+    "Mary Chen",
+    "Ramendra Kundu",
+    "Tom Finsterbach",
+    "Anthony Caffarelli",
+    "Alicia Deng",
+    "Jens Eichhorn",
+    "Raina Mahajan",
+    "Rani Agrawal",
+    "Joan Greve",
+    "Robert Robbins",
+    "Andrew J Patterson",
+    "Daniel Bernstein",
+    "Thomas Quertermous"
+  ],
+  "journal": "Cardiovascular research",
+  "journalAbbrev": "Cardiovasc Res",
+  "year": 2005,
+  "date": "2005-01-01",
+  "doi": "10.1016/j.cardiores.2004.08.018",
+  "pmid": "15621035",
+  "pmcid": "PMC2517138",
+  "url": "https://doi.org/10.1016/j.cardiores.2004.08.018",
+  "abstract": "OBJECTIVE: The endogenous peptide apelin is differentially regulated in cardiovascular disease but the nature of its role in cardiac function remains unclear. METHODS: We investigated the functional relevance of this peptide using ECG and respiration gated magnetic resonance imaging, conductance catheter pressure-volume hemodynamic measurements, and echocardiography in vivo. In addition, we carried out histology and immunohistochemistry to assess cardiac hypertrophy and to localize apelin and APJ in the adult and embryonic mouse heart. RESULTS: Intraperitoneal injection of apelin (300 microg/kg) resulted in a decrease in left ventricular end diastolic area (pre: 0.122+/-0.007; post: 0.104+/-0.005 cm(2), p=0.006) and an increase in heart rate (pre: 537+/-20; post: 559+/-19 beats per minute, p=0.03). Hemodynamic measurements revealed a marked increase in ventricular elastance (pre: 3.7+/-0.9; post: 6.5+/-1.4 mm Hg/RVU, p=0.018) and preload recruitable stroke work (pre: 27.4+/-8.0; post: 51.8+/-3.1, p=0.059) with little change in diastolic parameters following acute infusion of apelin. Chronic infusion (2 mg/kg/day) resulted in significant increases in the velocity of circumferential shortening (baseline: 5.36+/-0.401; 14 days: 6.85+/-0.358 circ/s, p=0.049) and cardiac output (baseline: 0.142+/-0.019; 14 days: 0.25+/-0.019 l/min, p=0.001) as determined by 15 MHz echocardiography. Post-mortem corrected heart weights were not different between apelin and saline groups (p=0.5) and histology revealed no evidence of cellular hypertrophy in the apelin group (nuclei per unit area, p=0.9). Immunohistochemistry studies revealed APJ staining of myocardial cells in all regions of the adult mouse heart. Antibody staining, as well as quantitative real time polymerase chain reaction identified expression of both APJ and apelin in embryonic myocardium as early as embryonic day 13.5. CONCLUSIONS: Apelin reduces left ventricular preload and afterload and increases contractile reserve without evidence of hypertrophy. These results associate apelin with a positive hemodynamic profile and suggest it as an attractive target for pharmacotherapy in the setting of heart failure.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

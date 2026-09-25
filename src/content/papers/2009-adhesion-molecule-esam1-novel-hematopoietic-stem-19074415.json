@@ -1,0 +1,32 @@
+{
+  "title": "The adhesion molecule esam1 is a novel hematopoietic stem cell marker",
+  "authors": [
+    "A G Lisa Ooi",
+    "Holger Karsunky",
+    "Ravindra Majeti",
+    "Stefan Butz",
+    "Dietmar Vestweber",
+    "Tatsuro Ishida",
+    "Thomas Quertermous",
+    "Irving L Weissman",
+    "E Camilla Forsberg"
+  ],
+  "journal": "Stem cells (Dayton, Ohio)",
+  "journalAbbrev": "Stem Cells",
+  "year": 2009,
+  "date": "2009-03-01",
+  "doi": "10.1634/stemcells.2008-0824",
+  "pmid": "19074415",
+  "pmcid": "PMC4186794",
+  "url": "https://doi.org/10.1634/stemcells.2008-0824",
+  "abstract": "Hematopoietic stem cells (HSCs) have been highly enriched using combinations of 12-14 surface markers. Genes specifically expressed by HSCs as compared with other multipotent progenitors may yield new stem cell enrichment markers, as well as elucidate self-renewal and differentiation mechanisms. We previously reported that multiple cell surface molecules are enriched on mouse HSCs compared with more differentiated progeny. Here, we present a definitive expression profile of the cell adhesion molecule endothelial cell-selective adhesion molecule (Esam1) in hematopoietic cells using reverse transcription-quantitative polymerase chain reaction and flow cytometry studies. We found Esam1 to be highly and selectively expressed by HSCs from mouse bone marrow (BM). Esam1 was also a viable positive HSC marker in fetal, young, and aged mice, as well as in mice of several different strains. In addition, we found robust levels of Esam1 transcripts in purified human HSCs. Esam1(-/-) mice do not exhibit severe hematopoietic defects; however, Esam1(-/-) BM has a greater frequency of HSCs and fewer T cells. HSCs from Esam1(-/-) mice give rise to more granulocyte/monocytes in culture and a higher T cell:B cell ratio upon transplantation into congenic mice. These studies identify Esam1 as a novel, widely applicable HSC-selective marker and suggest that Esam1 may play roles in both HSC proliferation and lineage decisions.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

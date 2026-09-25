@@ -1,0 +1,22 @@
+{
+  "title": "Size fractionation using agarose gels",
+  "authors": [
+    "T Quertermous"
+  ],
+  "journal": "Current protocols in molecular biology",
+  "journalAbbrev": "Curr Protoc Mol Biol",
+  "year": 2001,
+  "date": "2001-05-01",
+  "doi": "10.1002/0471142727.mb0504s34",
+  "pmid": "18265248",
+  "pmcid": null,
+  "url": "https://doi.org/10.1002/0471142727.mb0504s34",
+  "abstract": "In the Basic Protocol, digested genomic DNA is size fractionated on a slab agarose gel, and the appropriate region of the gel is defined by Southern blot analysis (for subgenomic libraries) or by size (for genomic libraries) and the DNA is eluted. An Alternate Protocol describes electrophoresis using a Bull's-eye apparatus. Digested genomic DNA is loaded onto a large preparative circular agarose gel in this apparatus, the DNA fragments are electrophoresed toward the center of the gel and then eluted. Fragments leaving the gel are pooled and constitute a fraction. Fractions containing the gene of interest are identified by Southern blotting of a small aliquot of alternate fractions. This procedure allows the purification of large amounts of size-fractionated DNA that is particularly well suited for genomic library construction and normally allows creation of large numbers of recombinant clones.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

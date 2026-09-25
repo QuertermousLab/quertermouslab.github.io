@@ -1,0 +1,38 @@
+{
+  "title": "Network analysis of human in-stent restenosis",
+  "authors": [
+    "Euan A Ashley",
+    "Rossella Ferrara",
+    "Jennifer Y King",
+    "Aditya Vailaya",
+    "Allan Kuchinsky",
+    "Xuanmin He",
+    "Blake Byers",
+    "Ulrich Gerckens",
+    "Stefan Oblin",
+    "Anya Tsalenko",
+    "Angela Soito",
+    "Joshua M Spin",
+    "Raymond Tabibiazar",
+    "Andrew J Connolly",
+    "John B Simpson",
+    "Eberhard Grube",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation",
+  "journalAbbrev": "Circulation",
+  "year": 2006,
+  "date": "2006-12-04",
+  "doi": "10.1161/CIRCULATIONAHA.106.637025",
+  "pmid": "17145989",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/CIRCULATIONAHA.106.637025",
+  "abstract": "BACKGROUND: Recent successes in the treatment of in-stent restenosis (ISR) by drug-eluting stents belie the challenges still faced in certain lesions and patient groups. We analyzed human coronary atheroma in de novo and restenotic disease to identify targets of therapy that might avoid these limitations. METHODS AND RESULTS: We recruited 89 patients who underwent coronary atherectomy for de novo atherosclerosis (n=55) or in-stent restenosis (ISR) of a bare metal stent (n=34). Samples were fixed for histology, and gene expression was assessed with a dual-dye 22,000 oligonucleotide microarray. Histological analysis revealed significantly greater cellularity and significantly fewer inflammatory infiltrates and lipid pools in the ISR group. Gene ontology analysis demonstrated the prominence of cell proliferation programs in ISR and inflammation/immune programs in de novo restenosis. Network analysis, which combines semantic mining of the published literature with the expression signature of ISR, revealed gene expression modules suggested as candidates for selective inhibition of restenotic disease. Two modules are presented in more detail, the procollagen type 1 alpha2 gene and the ADAM17/tumor necrosis factor-alpha converting enzyme gene. We tested our contention that this method is capable of identifying successful targets of therapy by comparing mean significance scores for networks generated from subsets of the published literature containing the terms \"sirolimus\" or \"paclitaxel.\" In addition, we generated 2 large networks with sirolimus and paclitaxel at their centers. Both analyses revealed higher mean values for sirolimus, suggesting that this agent has a broader suppressive action against ISR than paclitaxel. CONCLUSIONS: Comprehensive histological and gene network analysis of human ISR reveals potential targets for directed abrogation of restenotic disease and recapitulates the results of clinical trials of existing agents.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

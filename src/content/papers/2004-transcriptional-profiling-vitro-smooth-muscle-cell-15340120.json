@@ -1,0 +1,31 @@
+{
+  "title": "Transcriptional profiling of in vitro smooth muscle cell differentiation identifies specific patterns of gene and pathway activation",
+  "authors": [
+    "Joshua M Spin",
+    "Shriram Nallamshetty",
+    "Raymond Tabibiazar",
+    "Euan A Ashley",
+    "Jennifer Y King",
+    "Mary Chen",
+    "Phillip S Tsao",
+    "Thomas Quertermous"
+  ],
+  "journal": "Physiological genomics",
+  "journalAbbrev": "Physiol Genomics",
+  "year": 2004,
+  "date": "2004-08-31",
+  "doi": "10.1152/physiolgenomics.00148.2004",
+  "pmid": "15340120",
+  "pmcid": null,
+  "url": "https://doi.org/10.1152/physiolgenomics.00148.2004",
+  "abstract": "Mesodermal and epidermal precursor cells undergo phenotypic changes during differentiation to the smooth muscle cell (SMC) lineage that are relevant to pathophysiological processes in the adult. Molecular mechanisms that underlie lineage determination and terminal differentiation of this cell type have received much attention, but the genetic program that regulates these processes has not been fully defined. Study of SMC differentiation has been facilitated by development of the P19-derived A404 embryonal cell line, which differentiates toward this lineage in the presence of retinoic acid and allows selection for cells adopting a SMC fate through a differentiation-specific drug marker. We sought to define global alterations in gene expression by studying A404 cells during SMC differentiation with oligonucleotide microarray transcriptional profiling. Using an in situ 60-mer array platform with more than 20,000 mouse genes derived from the National Institute on Aging clone set, we identified 2,739 genes that were significantly upregulated after differentiation was completed (false-detection ratio <1). These genes encode numerous markers known to characterize differentiated SMC, as well as many unknown factors. We further characterized the sequential patterns of gene expression during the differentiation time course, particularly for known transcription factor families, providing new insights into the regulation of the differentiation process. Changes in genes associated with specific biological ontology-based pathways were evaluated, and temporal trends were identified for functional pathways. In addition to confirming the utility of the A404 model, our data provide a large-scale perspective of gene regulation during SMC differentiation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

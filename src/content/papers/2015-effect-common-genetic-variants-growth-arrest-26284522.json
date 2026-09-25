@@ -1,0 +1,31 @@
+{
+  "title": "Effect of Common Genetic Variants of Growth Arrest-Specific 6 Gene on Insulin Resistance, Obesity and Type 2 Diabetes in an Asian Population",
+  "authors": [
+    "Chang-Hsun Hsieh",
+    "Ren-Hua Chung",
+    "Wen-Jane Lee",
+    "Ming-Wei Lin",
+    "Lee-Ming Chuang",
+    "Thomas Quertermous",
+    "Themistocles Assimes",
+    "Yi-Jen Hung",
+    "Ya-Wen Yu"
+  ],
+  "journal": "PloS one",
+  "journalAbbrev": "PLoS One",
+  "year": 2015,
+  "date": "2015-08-18",
+  "doi": "10.1371/journal.pone.0135681",
+  "pmid": "26284522",
+  "pmcid": "PMC4540485",
+  "url": "https://doi.org/10.1371/journal.pone.0135681",
+  "abstract": "OBJECTIVES: Growth arrest-specific 6 (Gas6), a vitamin K-dependent protein, has been implicated in systemic inflammation, obesity, and insulin resistance (IR). Data from recent studies suggest that polymorphisms in the Gas6 gene are associated with cardiovascular disorders and type 2 diabetes (T2D). However, the association of Gas6 gene variants with obesity, IR, and T2D development has not been explored. MATERIALS AND METHODS: Four common single nucleotide polymorphisms (SNPs) in the Gas6 gene were genotyped in 984 participants from the Stanford Asia-Pacific Program for Hypertension and Insulin Resistance (SAPPHIRe) family cohort. An insulin suppression test was performed to determine IR based on steady-state plasma glucose (SSPG). Associations between IR indices and obesity, and SNP genotypes, based on previously-reported data for this cohort (Phase I), were analyzed. In the present follow-up study (Phase II), the effects of gene variants of Gas6 on the progression to T2D were explored in individuals who were free of T2D in Phase I. The mean follow-up period for Phase II was 5.7 years. RESULTS: The mean age of the study population in Phase I was 49.5 years and 16.7% of individuals developed T2D during follow-up. After adjusting for covariates, three SNPs (rs8191973, rs8197974, and rs7323932) were found to be associated with SSPG levels (p = 0.007, p = 0.03, and p = 0.011, respectively). This association remained significant after multiple testing and showed a significant interaction with physical activity for SNP rs8191973. However, no other significant correlations were observed between Gas6 polymorphisms and other indices of IR or obesity. A specific haplotype, AACG (from rs8191974, rs7323932, rs7331124, and rs8191973), was positively associated with SSPG levels (p = 0.0098). None of the polymorphisms were associated with an increased risk of T2D development. CONCLUSIONS: Our results suggest that Gas6 gene variants are associated with IR, although their effects on subsequent progression to T2D were minimal in this prospective Asian cohort.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

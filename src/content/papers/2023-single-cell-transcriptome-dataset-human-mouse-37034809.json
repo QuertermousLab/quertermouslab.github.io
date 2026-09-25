@@ -1,0 +1,33 @@
+{
+  "title": "Single-cell transcriptome dataset of human and mouse in vitro adipogenesis models",
+  "authors": [
+    "Jiehan Li",
+    "Christopher Jin",
+    "Stefan Gustafsson",
+    "Abhiram Rao",
+    "Martin Wabitsch",
+    "Chong Y Park",
+    "Thomas Quertermous",
+    "Ewa Bielczyk-Maczynska",
+    "Joshua W Knowles"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "journalAbbrev": "bioRxiv",
+  "year": 2023,
+  "date": "2023-03-29",
+  "doi": "10.1101/2023.03.27.534456",
+  "pmid": "37034809",
+  "pmcid": "PMC10081256",
+  "url": "https://doi.org/10.1101/2023.03.27.534456",
+  "abstract": "Adipogenesis is a process in which fat-specific progenitor cells (preadipocytes) differentiate into adipocytes that carry out the key metabolic functions of the adipose tissue, including glucose uptake, energy storage, and adipokine secretion. Several cell lines are routinely used to study the molecular regulation of adipogenesis, in particular the immortalized mouse 3T3-L1 line and the primary human Simpson-Golabi-Behmel syndrome (SGBS) line. However, the cell-to-cell variability of transcriptional changes prior to and during adipogenesis in these models is not well understood. Here, we present a single-cell RNA-Sequencing (scRNA-Seq) dataset collected before and during adipogenic differentiation of 3T3-L1 and SGBS cells. To minimize the effects of experimental variation, we mixed 3T3-L1 and SGBS cells and used computational analysis to demultiplex transcriptomes of mouse and human cells. In both models, adipogenesis results in the appearance of three cell clusters, corresponding to preadipocytes, early and mature adipocytes. These data provide a groundwork for comparative studies on human and mouse adipogenesis, as well as on cell-to-cell variability in gene expression during this process.",
+  "pubTypes": [
+    "Preprint",
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": [],
+  "hidden": true,
+  "hiddenReason": "preprint of 37328521"
+}

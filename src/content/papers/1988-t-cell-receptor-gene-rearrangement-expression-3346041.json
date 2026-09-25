@@ -1,0 +1,33 @@
+{
+  "title": "T-cell receptor gene rearrangement and expression in human natural killer cells: natural killer activity is not dependent on the rearrangement and expression of T-cell receptor alpha, beta, or gamma genes",
+  "authors": [
+    "J M Leiden",
+    "K M Gottesdiener",
+    "T Quertermous",
+    "L Coury",
+    "R A Bray",
+    "L Gottschalk",
+    "H Gebel",
+    "J G Seidman",
+    "J L Strominger",
+    "A L Landay"
+  ],
+  "journal": "Immunogenetics",
+  "journalAbbrev": "Immunogenetics",
+  "year": 1988,
+  "date": "1988-01-01",
+  "doi": "10.1007/BF00376117",
+  "pmid": "3346041",
+  "pmcid": null,
+  "url": "https://doi.org/10.1007/BF00376117",
+  "abstract": "To test the hypothesis that the T-cell receptor (Tcr) gamma gene encodes a natural killer (NK) cell receptor molecule, three human NK clones and fresh peripheral blood lymphocytes with NK activity from two patients with a CD16+ lymphocytosis were analyzed for rearrangements and expression of the human Tcr alpha, beta, and gamma genes. Two of the clones displayed distinct rearrangements of their Tcr beta and gamma genes and expressed mature Tcr alpha, beta, and gamma RNA. However, one of the clones and both patient samples displayed marked NK activity but failed to rearrange or express any of their Tcr genes. These findings demonstrate that human natural killer activity is not dependent on Tcr gamma gene rearrangement and expression. In addition, they confirm previous findings concerning the lack of Tcr alpha and beta gene expression in some natural killer cells. Thus, they suggest the existence of additional NK-specific recognition molecules.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Genome-wide expression profiling of a cardiac pressure overload model identifies major metabolic and signaling pathway responses",
+  "authors": [
+    "Roger A Wagner",
+    "Raymond Tabibiazar",
+    "Jennifer Powers",
+    "Daniel Bernstein",
+    "Thomas Quertermous"
+  ],
+  "journal": "Journal of molecular and cellular cardiology",
+  "journalAbbrev": "J Mol Cell Cardiol",
+  "year": 2004,
+  "date": "2004-12-01",
+  "doi": "10.1016/j.yjmcc.2004.09.003",
+  "pmid": "15572046",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.yjmcc.2004.09.003",
+  "abstract": "Cardiac hypertrophy is a predictor of cardiovascular morbidity and mortality independent of other risk factors. Pressure overload induces the development of left ventricular hypertrophy (LVH) and left atrial enlargement (LAE) in the mammalian heart. To systematically investigate the transcriptional changes, which mediate these processes, we have performed a genome-wide transcriptional profiling of each of the four heart chambers from mice subjected to transverse aortic constriction (TAC). A major new finding of this analysis is that during enlargement the left atrium undergoes radical changes in gene transcription that may play a significant role in pathophysiology. Structural changes in the LA and LV are correlated with significant changes in the transcriptional profile of these chambers, with thousands of differentially expressed known and novel factors. Statistical analysis of the results identified Gene Ontology biological process groups with significant group-wide changes, including angiogenesis, energy pathways, fatty acid oxidation, oxidative phosphorylation, cytoskeletal and matrix reorganization, and G-protein coupled receptor (GPCR) signaling. To facilitate future research, a searchable annotated Internet database has been constructed that allows access to the expression data presented here. Further study of these genes and processes will lead to better understanding of pathways involved in the pathophysiology of the cardiac response to pressure overload.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

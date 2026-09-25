@@ -1,0 +1,32 @@
+{
+  "title": "Apelin decreases lipolysis via G(q), G(i), and AMPK-Dependent Mechanisms",
+  "authors": [
+    "Patrick Yue",
+    "Hong Jin",
+    "Shiming Xu",
+    "Marissa Aillaud",
+    "Alicia C Deng",
+    "Junya Azuma",
+    "Ramendra K Kundu",
+    "Gerald M Reaven",
+    "Thomas Quertermous",
+    "Philip S Tsao"
+  ],
+  "journal": "Endocrinology",
+  "journalAbbrev": "Endocrinology",
+  "year": 2010,
+  "date": "2010-11-03",
+  "doi": "10.1210/en.2010-0576",
+  "pmid": "21047945",
+  "pmcid": "PMC3033059",
+  "url": "https://doi.org/10.1210/en.2010-0576",
+  "abstract": "The release of free fatty acids (FFAs) from adipocytes (i.e. lipolysis) is increased in obesity and is a contributory factor to the development of insulin resistance. A recently identified adipokine, apelin, is up-regulated in states of obesity. Although apelin is secreted by adipocytes, its functions in them remain largely unknown. To determine whether apelin affects lipolysis, FFA, glycerol, and leptin levels, as well as abdominal adiposity, were measured at baseline and after reintroduction of exogenous apelin in apelin-null mice. To examine apelin's effects in vitro, isoproterenol-induced FFA/glycerol release, and hormone-sensitive lipase (HSL) and acetyl CoA carboxylase phosphorylation were investigated in 3T3-L1 cells and isolated wild-type adipocytes. Serum FFA, glycerol, and leptin concentrations, as well as abdominal adiposity, were significantly increased in apelin-null vs. wild-type mice; these changes were ameliorated in response to exogenous apelin. Apelin also reduced isoproterenol-induced FFA release in adipocytes isolated from wild-type but not APJ-null mice. In 3T3-L1 cells and isolated adipocytes, apelin attenuated isoproterenol-induced FFA/glycerol release. Apelin's inhibition was reversed by pertussis toxin, the G(q) inhibitor glycoprotein antagonist 2A, and the AMP-activated protein kinase inhibitors compound C and dorsomorphin. Apelin increased HSL phosphorylation at Ser-565 and also abrogated isoproterenol-induced HSL phosphorylation at Ser-563. Notably, apelin increased acetyl CoA carboxylase phosphorylation, suggesting AMPK activation. In conclusion, apelin negatively regulates lipolysis. Its actions may be mediated by pathways involving G(q), G(i), and AMP-activated protein kinase.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Disease-related growth factor and embryonic signaling pathways modulate an enhancer of TCF21 expression at the 6q23.2 coronary heart disease locus",
+  "authors": [
+    "Clint L Miller",
+    "D Ryan Anderson",
+    "Ramendra K Kundu",
+    "Azad Raiesdana",
+    "Sylvia T Nürnberg",
+    "Roxanne Diaz",
+    "Karen Cheng",
+    "Nicholas J Leeper",
+    "Chung-Hsing Chen",
+    "I-Shou Chang",
+    "Eric E Schadt",
+    "Chao Agnes Hsiung",
+    "Themistocles L Assimes",
+    "Thomas Quertermous"
+  ],
+  "journal": "PLoS genetics",
+  "journalAbbrev": "PLoS Genet",
+  "year": 2013,
+  "date": "2013-07-18",
+  "doi": "10.1371/journal.pgen.1003652",
+  "pmid": "23874238",
+  "pmcid": "PMC3715442",
+  "url": "https://doi.org/10.1371/journal.pgen.1003652",
+  "abstract": "Coronary heart disease (CHD) is the leading cause of mortality in both developed and developing countries worldwide. Genome-wide association studies (GWAS) have now identified 46 independent susceptibility loci for CHD, however, the biological and disease-relevant mechanisms for these associations remain elusive. The large-scale meta-analysis of GWAS recently identified in Caucasians a CHD-associated locus at chromosome 6q23.2, a region containing the transcription factor TCF21 gene. TCF21 (Capsulin/Pod1/Epicardin) is a member of the basic-helix-loop-helix (bHLH) transcription factor family, and regulates cell fate decisions and differentiation in the developing coronary vasculature. Herein, we characterize a cis-regulatory mechanism by which the lead polymorphism rs12190287 disrupts an atypical activator protein 1 (AP-1) element, as demonstrated by allele-specific transcriptional regulation, transcription factor binding, and chromatin organization, leading to altered TCF21 expression. Further, this element is shown to mediate signaling through platelet-derived growth factor receptor beta (PDGFR-β) and Wilms tumor 1 (WT1) pathways. A second disease allele identified in East Asians also appears to disrupt an AP-1-like element. Thus, both disease-related growth factor and embryonic signaling pathways may regulate CHD risk through two independent alleles at TCF21.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

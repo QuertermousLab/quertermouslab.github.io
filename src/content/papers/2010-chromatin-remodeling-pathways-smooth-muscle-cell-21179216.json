@@ -1,0 +1,25 @@
+{
+  "title": "Chromatin remodeling pathways in smooth muscle cell differentiation, and evidence for an integral role for p300",
+  "authors": [
+    "Joshua M Spin",
+    "Thomas Quertermous",
+    "Philip S Tsao"
+  ],
+  "journal": "PloS one",
+  "journalAbbrev": "PLoS One",
+  "year": 2010,
+  "date": "2010-12-13",
+  "doi": "10.1371/journal.pone.0014301",
+  "pmid": "21179216",
+  "pmcid": "PMC3001469",
+  "url": "https://doi.org/10.1371/journal.pone.0014301",
+  "abstract": "BACKGROUND: Phenotypic alteration of vascular smooth muscle cells (SMC) in response to injury or inflammation is an essential component of vascular disease. Evidence suggests that this process is dependent on epigenetic regulatory processes. P300, a histone acetyltransferase (HAT), activates crucial muscle-specific promoters in terminal (non-SMC) myocyte differentiation, and may be essential to SMC modulation as well. RESULTS: We performed a subanalysis examining transcriptional time-course microarray data obtained using the A404 model of SMC differentiation. Numerous chromatin remodeling genes (up to 62% of such genes on our array platform) showed significant regulation during differentiation. Members of several chromatin-remodeling families demonstrated involvement, including factors instrumental in histone modification, chromatin assembly-disassembly and DNA silencing, suggesting complex, multi-level systemic epigenetic regulation. Further, trichostatin A, a histone deacetylase inhibitor, accelerated expression of SMC differentiation markers in this model. Ontology analysis indicated a high degree of p300 involvement in SMC differentiation, with 60.7% of the known p300 interactome showing significant expression changes. Knockdown of p300 expression accelerated SMC differentiation in A404 cells and human SMCs, while inhibition of p300 HAT activity blunted SMC differentiation. The results suggest a central but complex role for p300 in SMC phenotypic modulation. CONCLUSIONS: Our results support the hypothesis that chromatin remodeling is important for SMC phenotypic switching, and detail wide-ranging involvement of several epigenetic modification families. Additionally, the transcriptional coactivator p300 may be partially degraded during SMC differentiation, leaving an activated subpopulation with increased HAT activity and SMC differentiation-gene specificity.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

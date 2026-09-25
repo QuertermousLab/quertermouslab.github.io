@@ -1,0 +1,29 @@
+{
+  "title": "Structural organization and chromosomal assignment of the gene encoding endothelin",
+  "authors": [
+    "K D Bloch",
+    "S P Friedrich",
+    "M E Lee",
+    "R L Eddy",
+    "T B Shows",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1989,
+  "date": "1989-06-25",
+  "doi": null,
+  "pmid": "2659594",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2659594/",
+  "abstract": "Endothelin is a 21-amino acid vasoconstrictor synthesized and secreted by vascular endothelial cells. The human peptide is derived from a 212-amino acid precursor, preproendothelin. A nearly full length clone containing DNA complementary to human preproendothelin mRNA was isolated, and its nucleotide sequence was determined. Using this cDNA as a probe, the genomic organization of the human endothelin gene was determined and the promoter region delineated. The gene contains five exons and four intervening sequences. Nucleotide sequences encoding endothelin are contained within the second exon, and the third exon specifies a portion of preproendothelin that is homologous to endothelin. The second and third exons may represent descendants of a common progenitor exon. The 3'-untranslated portion of the gene contains a 250-base pair region that is highly conserved between human and porcine genomes and may have an important role in endothelin mRNA stability. On the basis of DNA isolated from human-mouse somatic hybrid cell lines, the endothelin gene was assigned to human chromosome 6.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

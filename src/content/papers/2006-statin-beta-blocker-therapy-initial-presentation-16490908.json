@@ -1,0 +1,30 @@
+{
+  "title": "Statin and beta-blocker therapy and the initial presentation of coronary heart disease",
+  "authors": [
+    "Alan S Go",
+    "Carlos Iribarren",
+    "Malini Chandra",
+    "Phenius V Lathon",
+    "Stephen P Fortmann",
+    "Thomas Quertermous",
+    "Mark A Hlatky",
+    "Atherosclerotic Disease, Vascular Function and Genetic Epidemiology (ADVANCE) Study"
+  ],
+  "journal": "Annals of internal medicine",
+  "journalAbbrev": "Ann Intern Med",
+  "year": 2006,
+  "date": "2006-02-21",
+  "doi": "10.7326/0003-4819-144-4-200602210-00004",
+  "pmid": "16490908",
+  "pmcid": null,
+  "url": "https://doi.org/10.7326/0003-4819-144-4-200602210-00004",
+  "abstract": "BACKGROUND: Coronary atherosclerosis develops slowly over decades but is frequently characterized clinically by sudden unstable episodes. Patients who present with unstable coronary disease, such as acute myocardial infarction, may systematically differ from patients who present with relatively stable coronary disease, such as exertional angina. OBJECTIVE: To examine whether medication use or patient characteristics influence the mode of initial clinical presentation of coronary disease. DESIGN: Case-control study. SETTING: Large integrated health care delivery system in northern California. PATIENTS: Adults whose first clinical presentation of coronary disease was either acute myocardial infarction (n = 916) or stable exertional angina (n = 468). MEASUREMENTS: Use of cardiac medications before the event from pharmacy databases and demographic, lifestyle, and clinical characteristics from self-report and clinical and administrative databases. RESULTS: Compared with patients with incident stable exertional angina, patients with incident acute myocardial infarction were more likely to be men, smokers, physically inactive, and hypertensive but were less likely to have a parental history of coronary disease. Patients presenting with myocardial infarction were much less likely to have received statins (19.3% vs. 40.4%; P < 0.001) and beta-blockers (19.0% vs. 47.7%; P < 0.001) than patients presenting with exertional angina. After adjustment for potential confounders, recent use of statins (adjusted odds ratio, 0.45 [95% CI, 0.32 to 0.62]) and beta-blockers (adjusted odds ratio, 0.26 [CI, 0.19 to 0.35]) was associated with lower likelihoods of presenting with an acute myocardial infarction than with stable angina. LIMITATIONS: This observational study did not have information on all possible confounding factors, including use of aspirin therapy. CONCLUSION: Statin and beta-blocker use was associated with lower odds of presenting with an acute myocardial infarction than with stable angina. Additional studies are needed to confirm that these therapies protect against unstable, higher-risk clinical presentations of coronary disease.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

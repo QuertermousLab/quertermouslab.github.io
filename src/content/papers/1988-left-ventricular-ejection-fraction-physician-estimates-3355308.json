@@ -1,0 +1,30 @@
+{
+  "title": "Left ventricular ejection fraction. Physician estimates compared with gated blood pool scan measurements",
+  "authors": [
+    "K A Eagle",
+    "T Quertermous",
+    "D E Singer",
+    "A G Mulley",
+    "V A Reder",
+    "C A Boucher",
+    "H W Strauss",
+    "G E Thibault"
+  ],
+  "journal": "Archives of internal medicine",
+  "journalAbbrev": "Arch Intern Med",
+  "year": 1988,
+  "date": "1988-04-01",
+  "doi": null,
+  "pmid": "3355308",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/3355308/",
+  "abstract": "Gated blood pool scanning (GBPS) is an expensive, frequently used test to assess the left ventricular ejection fraction (LVEF). To determine whether a simpler method of evaluating LVEFs was reliable, we compared the LVEFs derived by GBPS with those estimated in a cardiologist's examination in 125 hospitalized patients. Of the physician estimates, 56% were accurate to within 7.5%, while 17% were underestimates and 27% were overestimates. The variables that were most predictive of reduced LVEF included cardiomegaly and pulmonary venous congestion on chest roentgenogram and S3 gallop, hypotension, and sustained left ventricular apex beat on examination. Prior hypertension was correlated with an increased LVEF. Variables associated with physician error in estimating the LVEF included a history of hypertension, bronchodilator therapy, and right bundle-branch block seen on the electrocardiogram. These data suggest that although qualitatively accurate estimates of the LVEF can sometimes be made on the basis of clinical findings, GBPS should be performed when management decisions hinge on a precise knowledge of this value.",
+  "pubTypes": [
+    "Comparative Study",
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

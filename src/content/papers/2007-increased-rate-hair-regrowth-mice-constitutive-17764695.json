@@ -1,0 +1,31 @@
+{
+  "title": "Increased rate of hair regrowth in mice with constitutive overexpression of Del1",
+  "authors": [
+    "Gloria P Hsu",
+    "Jonathan A Mathy",
+    "Zhen Wang",
+    "Wei Xia",
+    "Gordon Sakamoto",
+    "Ramendra Kundu",
+    "Michael T Longaker",
+    "Thomas Quertermous",
+    "George P Yang"
+  ],
+  "journal": "The Journal of surgical research",
+  "journalAbbrev": "J Surg Res",
+  "year": 2007,
+  "date": "2007-08-30",
+  "doi": "10.1016/j.jss.2007.02.024",
+  "pmid": "17764695",
+  "pmcid": null,
+  "url": "https://doi.org/10.1016/j.jss.2007.02.024",
+  "abstract": "BACKGROUND: Developmental endothelial locus (Del)1 is a secreted extracellular matrix-associated protein that stimulates angiogenesis through integrin binding and is implicated in vasculogenesis. We hypothesized that increased expression of an angiogenic factor would lead to enhanced wound healing. MATERIALS AND METHODS: Transgenic mice had Del1 cloned behind a keratin 14 promoter (K14-Del1) to drive constitutive expression in basal keratinocytes. Transgenic animals and wild-type litter mates underwent excisional wounding or depilation, and tissues were harvested at various time points. Wound healing and hair regrowth were assessed by photography, histology, and immunohistochemistry. For injection experiments, purified Del1 protein was injected in the flanks of wild-type mice with carrier on the contralateral flank as a control. Del1 expression during hair development was performed using transgenic mice with a LacZ cassette introduced downstream from the native promoter. RESULTS: K14-Del1 animals appeared normal and healed excisional wounds normally but demonstrated an increased rate of hair regrowth after wound healing. Using depilation experiments to specifically address hair follicle growth, we found increased hair regrowth was independent of wounding. This was confirmed by injection of purified Del1 protein. During normal hair anagenesis, Del1 is expressed in the root of the hair follicle. CONCLUSIONS: Constitutive expression of Del1 in skin does not affect skin vascularity or improve wound healing. Surprisingly, we found the primary effect of constitutive Del1 expression in the basal keratinocytes was increased hair growth following induction of anagenesis. During normal hair anagenesis, we see expression of Del1 in the root of the hair follicle suggesting it may function there to stimulate hair growth.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

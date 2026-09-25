@@ -1,0 +1,41 @@
+{
+  "title": "Endothelial APLNR regulates tissue fatty acid uptake and is essential for apelin's glucose-lowering effects",
+  "authors": [
+    "Cheol Hwangbo",
+    "Jingxia Wu",
+    "Irinna Papangeli",
+    "Takaomi Adachi",
+    "Bikram Sharma",
+    "Saejeong Park",
+    "Lina Zhao",
+    "Hyekyung Ju",
+    "Gwang-Woong Go",
+    "Guoliang Cui",
+    "Mohammed Inayathullah",
+    "Judith K Job",
+    "Jayakumar Rajadas",
+    "Stephanie L Kwei",
+    "Ming O Li",
+    "Alan R Morrison",
+    "Thomas Quertermous",
+    "Arya Mani",
+    "Kristy Red-Horse",
+    "Hyung J Chun"
+  ],
+  "journal": "Science translational medicine",
+  "journalAbbrev": "Sci Transl Med",
+  "year": 2017,
+  "date": "2017-09-13",
+  "doi": "10.1126/scitranslmed.aad4000",
+  "pmid": "28904225",
+  "pmcid": "PMC5703224",
+  "url": "https://doi.org/10.1126/scitranslmed.aad4000",
+  "abstract": "Treatment of type 2 diabetes mellitus continues to pose an important clinical challenge, with most existing therapies lacking demonstrable ability to improve cardiovascular outcomes. The atheroprotective peptide apelin (APLN) enhances glucose utilization and improves insulin sensitivity. However, the mechanism of these effects remains poorly defined. We demonstrate that the expression of APLNR (APJ/AGTRL1), the only known receptor for apelin, is predominantly restricted to the endothelial cells (ECs) of multiple adult metabolic organs, including skeletal muscle and adipose tissue. Conditional endothelial-specific deletion of Aplnr (AplnrECKO ) resulted in markedly impaired glucose utilization and abrogation of apelin-induced glucose lowering. Furthermore, we identified inactivation of Forkhead box protein O1 (FOXO1) and inhibition of endothelial expression of fatty acid (FA) binding protein 4 (FABP4) as key downstream signaling targets of apelin/APLNR signaling. Both the Apln-/- and AplnrECKO mice demonstrated increased endothelial FABP4 expression and excess tissue FA accumulation, whereas concurrent endothelial Foxo1 deletion or pharmacologic FABP4 inhibition rescued the excess FA accumulation phenotype of the Apln-/- mice. The impaired glucose utilization in the AplnrECKO mice was associated with excess FA accumulation in the skeletal muscle. Treatment of these mice with an FABP4 inhibitor abrogated these metabolic phenotypes. These findings provide mechanistic insights that could greatly expand the therapeutic repertoire for type 2 diabetes and related metabolic disorders.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

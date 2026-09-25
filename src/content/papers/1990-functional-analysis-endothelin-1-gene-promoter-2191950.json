@@ -1,0 +1,27 @@
+{
+  "title": "Functional analysis of the endothelin-1 gene promoter. Evidence for an endothelial cell-specific cis-acting sequence",
+  "authors": [
+    "M E Lee",
+    "K D Bloch",
+    "J A Clifford",
+    "T Quertermous"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 1990,
+  "date": "1990-06-25",
+  "doi": null,
+  "pmid": "2191950",
+  "pmcid": null,
+  "url": "https://pubmed.ncbi.nlm.nih.gov/2191950/",
+  "abstract": "Endothelin-1 (ET-1) is a peptide synthesized by endothelial cells both in culture and in vivo. ET-1 induces contraction of smooth muscle cells and stimulates growth in a variety of mesenchymal cell types. We have previously characterized the genomic organization of the ET-1 gene and described its chromosomal localization and promoter region sequence. In this report, we describe the use of fusion plasmids containing ET-1 5'-flanking sequence and the chloramphenicol acetyltransferase gene to identify cis-acting sequences that direct transcription of the ET-1 gene. When transfected into bovine aortic endothelial cells, constructs containing 143 base pairs of ET-1 5'-flanking sequence allowed maximal transcription, whereas constructs containing 129 base pairs of sequence had 40-fold lower rates of transcription. A synthetic DNA fragment encoding the region delineated by these deletion mutants was found to have a positive effect on transcription when placed in either orientation upstream of short inactive ET-1 promoter constructs. However, this increase in transcription was noted only when a second region containing an AP1 consensus sequence was also included in the constructs. In experiments with a heterologous promoter and a 119-base pair DNA fragment containing these two functional regions, this 119-base pair sequence acted in a positive and endothelial cell-specific fashion. Taken together, these data localize cis-acting sequences important in determining the rate and tissue specificity of ET-1 gene transcription and should allow the study of protein-DNA interactions which mediate transcription of this gene in endothelial cells.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Advances in Transcriptomics: Investigating Cardiovascular Disease at Unprecedented Resolution",
+  "authors": [
+    "Robert C Wirka",
+    "Milos Pjanic",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2018,
+  "date": "2018-04-27",
+  "doi": "10.1161/CIRCRESAHA.117.310910",
+  "pmid": "29700068",
+  "pmcid": "PMC7274217",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.117.310910",
+  "abstract": "Whole-genome transcriptional profiling has become a standard genomic approach to investigate biological processes. RNA sequencing (RNAseq) in particular has witnessed myriad applications in genetics and various biomedical fields. RNAseq involves a relatively simple experimental protocol of RNA extraction and cDNA library preparation and, because of decreasing next-generation sequencing cost and lower computational burden for data processing, has obtained a central role in the modern biology. The recent application of RNAseq methodology to single-cell transcriptional profiling has enabled the more precise characterization of cell lineage and cell state genetic profiles. The development of bioinformatic and statistical tools has provided for differential gene expression analysis, RNA isoform analysis, haplotype-specific analysis of gene expression (allele-specific expression), and analysis of expression quantitative trait loci. We give an overview of these and recent developments in RNAseq methodology with emphasis on quality control, read mapping, feature counting, differential gene expression, allele-specific expression and expression quantitative trait loci analysis, and fusion transcript detection. We describe utilization of RNAseq as a diagnostic tool in Mendelian diseases, complex phenotypes, and cancer and give an overview of long read RNAseq technology. Furthermore, we discuss in detail the recent revolution in single-cell transcriptomics that is reshaping modern biology.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,226 @@
+---
+/**
+ * Procedural cross-section of a diseased coronary artery, drawn like a
+ * spatial-transcriptomics cell map: every dot is a cell, coloured by type.
+ * Deterministic (seeded) so the build output is stable.
+ *
+ *   adventitia (fibroblasts) · media (contractile SMCs) · internal elastic
+ *   lamina · eccentric plaque (fibromyocytes in the cap, chondromyocytes,
+ *   foam cells, lipid core, calcification) · endothelium · lumen (RBCs)
+ */
+const C = 300;
+const R_ADV = 286, R_EEL = 246, R_IEL = 178;
+const LUM = { x: C - 40, y: C - 36, r: 110 }; // lumen upper-left, plaque lower-right (same as the logo)
+const PLAQUE_DIR = Math.atan2(-(LUM.y - C), -(LUM.x - C)); // points away from lumen offset
+
+let seed = 7;
+const rnd = () => ((seed = (seed * 16807) % 2147483647) / 2147483647);
+const gauss = () => (rnd() + rnd() + rnd() - 1.5) / 1.5;
+const dist = (x: number, y: number, cx: number, cy: number) => Math.hypot(x - cx, y - cy);
+const angDiff = (a: number, b: number) => Math.atan2(Math.sin(a - b), Math.cos(a - b));
+const f1 = (n: number) => n.toFixed(1);
+
+type Cell = { x: number; y: number; rx: number; ry: number; rot: number; type: string; o: number };
+const cells: Cell[] = [];
+
+// ---- adventitia: sparse, loosely oriented fibroblasts
+for (let i = 0; i < 330; i++) {
+  const a = rnd() * Math.PI * 2;
+  const r = R_EEL + 6 + rnd() * (R_ADV - R_EEL - 4);
+  cells.push({ x: C + r * Math.cos(a), y: C + r * Math.sin(a), rx: 3 + rnd() * 3.2, ry: 1.6 + rnd() * 1.2,
+    rot: (a * 180) / Math.PI + 90 + gauss() * 55, type: 'fib', o: 0.55 + rnd() * 0.45 });
+}
+// ---- media: concentric rows of tangential contractile SMCs
+const rows = 8;
+for (let k = 0; k < rows; k++) {
+  const r = R_IEL + 9 + (k * (R_EEL - R_IEL - 16)) / (rows - 1);
+  const n = Math.floor((2 * Math.PI * r) / 17);
+  const off = rnd() * Math.PI;
+  for (let i = 0; i < n; i++) {
+    const a = off + (i / n) * Math.PI * 2 + gauss() * 0.01;
+    const rr = r + gauss() * 2.5;
+    // SMCs next to the plaque begin to modulate
+    const nearPlaque = Math.abs(angDiff(a, PLAQUE_DIR)) < 0.8 && k < 2 && rnd() < 0.35;
+    cells.push({ x: C + rr * Math.cos(a), y: C + rr * Math.sin(a), rx: 7.5 + rnd() * 2.5, ry: 2.2 + rnd() * 0.8,
+      rot: (a * 180) / Math.PI + 90 + gauss() * 8, type: nearPlaque ? 'fmc' : 'smc', o: 0.7 + rnd() * 0.3 });
+  }
+}
+// ---- plaque: inside IEL, outside lumen
+const inPlaque = (x: number, y: number) => dist(x, y, C, C) < R_IEL - 5 && dist(x, y, LUM.x, LUM.y) > LUM.r + 6;
+const core = { a: PLAQUE_DIR, r: 132 }; // lipid core centre along plaque direction
+const coreC = { x: C + Math.cos(core.a) * core.r * 0.72, y: C + Math.sin(core.a) * core.r * 0.72 };
+const inCore = (x: number, y: number) => {
+  const dx = x - coreC.x, dy = y - coreC.y;
+  const t = Math.atan2(dy, dx) - core.a;
+  const u = dx * Math.cos(-core.a) - dy * Math.sin(-core.a);
+  const v = dx * Math.sin(-core.a) + dy * Math.cos(-core.a);
+  return (u / 30) ** 2 + (v / 62) ** 2 < 1 + 0.08 * Math.sin(3 * t);
+};
+for (let i = 0; i < 2600 && cells.length < 1700; i++) {
+  const x = C - R_IEL + rnd() * R_IEL * 2, y = C - R_IEL + rnd() * R_IEL * 2;
+  if (!inPlaque(x, y)) continue;
+  const dl = dist(x, y, LUM.x, LUM.y) - LUM.r; // depth from lumen
+  if (inCore(x, y)) {
+    if (rnd() < 0.18) cells.push({ x, y, rx: 3.6 + rnd() * 2, ry: 3.6 + rnd() * 2, rot: 0, type: 'mac', o: 0.9 });
+    continue;
+  }
+  if (rnd() > 0.34) continue;
+  const aL = Math.atan2(y - LUM.y, x - LUM.x);
+  if (dl < 30) {
+    // fibrous cap: fibromyocytes aligned with the lumen
+    cells.push({ x, y, rx: 6 + rnd() * 2, ry: 2 + rnd() * 0.7, rot: (aL * 180) / Math.PI + 90 + gauss() * 12, type: 'fmc', o: 0.85 });
+  } else {
+    const p = rnd();
+    const type = p < 0.34 ? 'cmc' : p < 0.62 ? 'mac' : p < 0.85 ? 'fmc' : 'fib';
+    const round = type === 'cmc' || type === 'mac';
+    cells.push({ x, y, rx: round ? 3.4 + rnd() * 1.8 : 5 + rnd() * 2, ry: round ? 3.2 + rnd() * 1.6 : 2 + rnd(),
+      rot: rnd() * 180, type, o: 0.85 });
+  }
+}
+// ---- calcification specks at the base of the core
+const calc: { x: number; y: number; r: number }[] = [];
+for (let i = 0; i < 400 && calc.length < 26; i++) {
+  const a = core.a + gauss() * 0.5, r = R_IEL - 14 - rnd() * 24;
+  const x = C + r * Math.cos(a), y = C + r * Math.sin(a);
+  if (inPlaque(x, y)) calc.push({ x, y, r: 1 + rnd() * 2.4 });
+}
+// ---- endothelium along the lumen
+const endo: Cell[] = [];
+const ne = 64;
+for (let i = 0; i < ne; i++) {
+  const a = (i / ne) * Math.PI * 2;
+  endo.push({ x: LUM.x + (LUM.r + 2) * Math.cos(a), y: LUM.y + (LUM.r + 2) * Math.sin(a), rx: 5.4, ry: 1.7,
+    rot: (a * 180) / Math.PI + 90, type: 'ec', o: 0.95 });
+}
+// ---- red blood cells in the lumen
+const rbc: { x: number; y: number; r: number; rot: number }[] = [];
+for (let i = 0; i < 400 && rbc.length < 46; i++) {
+  const a = rnd() * Math.PI * 2, r = Math.sqrt(rnd()) * (LUM.r - 16);
+  const x = LUM.x + r * Math.cos(a), y = LUM.y + r * Math.sin(a);
+  if (rbc.every((b) => dist(x, y, b.x, b.y) > 17)) rbc.push({ x, y, r: 6 + rnd() * 1.6, rot: rnd() * 180 });
+}
+// ---- internal elastic lamina (wavy)
+const iel = Array.from({ length: 181 }, (_, i) => {
+  const a = (i / 180) * Math.PI * 2;
+  const r = R_IEL + 2.2 * Math.sin(a * 46);
+  return `${i ? 'L' : 'M'}${f1(C + r * Math.cos(a))} ${f1(C + r * Math.sin(a))}`;
+}).join(' ') + 'Z';
+// ---- lipid core outline
+const corePath = Array.from({ length: 73 }, (_, i) => {
+  const t = (i / 72) * Math.PI * 2;
+  const s = 1 + 0.08 * Math.sin(3 * t) + 0.04 * Math.sin(7 * t);
+  const u = 30 * s * Math.cos(t), v = 62 * s * Math.sin(t);
+  const x = coreC.x + u * Math.cos(core.a) - v * Math.sin(core.a);
+  const y = coreC.y + u * Math.sin(core.a) + v * Math.cos(core.a);
+  return `${i ? 'L' : 'M'}${f1(x)} ${f1(y)}`;
+}).join(' ') + 'Z';
+
+const legend = [
+  { type: 'ec', label: 'Endothelial cells' },
+  { type: 'smc', label: 'Contractile SMCs' },
+  { type: 'fmc', label: 'Fibromyocytes' },
+  { type: 'cmc', label: 'Chondromyocytes' },
+  { type: 'mac', label: 'Macrophages / foam cells' },
+  { type: 'fib', label: 'Adventitial fibroblasts' },
+];
+const all = [...cells, ...endo];
+---
+<figure class="artery" data-artery>
+  <svg viewBox="0 0 600 600" role="img" aria-labelledby="artery-title">
+    <title id="artery-title">Illustrated cross-section of a coronary artery with an atherosclerotic plaque, drawn as a map of individual cells coloured by type.</title>
+    <defs>
+      <radialGradient id="g-adv" cx="50%" cy="50%" r="50%">
+        <stop offset="80%" stop-color="#2a4a86" stop-opacity="0" />
+        <stop offset="94%" stop-color="#2a4a86" stop-opacity=".22" />
+        <stop offset="100%" stop-color="#2a4a86" stop-opacity="0" />
+      </radialGradient>
+      <radialGradient id="g-lumen" cx="45%" cy="40%" r="65%">
+        <stop offset="0%" stop-color="#3a0d18" />
+        <stop offset="100%" stop-color="#1a060b" />
+      </radialGradient>
+      <radialGradient id="g-core" cx="50%" cy="50%" r="60%">
+        <stop offset="0%" stop-color="#f6c65b" stop-opacity=".55" />
+        <stop offset="100%" stop-color="#e7a93b" stop-opacity=".12" />
+      </radialGradient>
+      <radialGradient id="g-glow" cx="50%" cy="50%" r="50%">
+        <stop offset="55%" stop-color="#c8243a" stop-opacity=".0" />
+        <stop offset="80%" stop-color="#c8243a" stop-opacity=".22" />
+        <stop offset="100%" stop-color="#c8243a" stop-opacity="0" />
+      </radialGradient>
+    </defs>
+    <g class="artery__beat">
+      <circle cx={C} cy={C} r="298" fill="url(#g-glow)" />
+      <circle cx={C} cy={C} r={R_ADV + 8} fill="url(#g-adv)" />
+      <circle cx={C} cy={C} r={R_EEL} fill="rgba(200,36,58,.06)" stroke="rgba(255,255,255,.18)" stroke-width="1" stroke-dasharray="2 4" />
+      <circle cx={C} cy={C} r={R_IEL} fill="rgba(231,169,59,.05)" />
+      <path d={iel} fill="none" stroke="rgba(255,236,220,.35)" stroke-width="1.1" />
+      <path d={corePath} fill="url(#g-core)" stroke="rgba(246,198,91,.45)" stroke-width=".8" class="cell-layer" data-type="mac" />
+      <circle cx={LUM.x} cy={LUM.y} r={LUM.r} fill="url(#g-lumen)" />
+      <g class="artery__flow" style={`transform-origin:${LUM.x}px ${LUM.y}px`}>
+        {rbc.map((b) => (
+          <g transform={`translate(${f1(b.x)} ${f1(b.y)}) rotate(${f1(b.rot)})`}>
+            <ellipse rx={b.r} ry={b.r * 0.86} fill="#8e1426" />
+            <ellipse rx={b.r * 0.45} ry={b.r * 0.36} fill="#5c0b18" />
+          </g>
+        ))}
+      </g>
+      {calc.map((c) => <circle class="cell calc" cx={f1(c.x)} cy={f1(c.y)} r={f1(c.r)} />)}
+      {all.map((c) => (
+        <ellipse class={`cell t-${c.type}`} data-type={c.type} cx={f1(c.x)} cy={f1(c.y)} rx={f1(c.rx)} ry={f1(c.ry)}
+          transform={`rotate(${f1(c.rot)} ${f1(c.x)} ${f1(c.y)})`} opacity={c.o.toFixed(2)} />
+      ))}
+    </g>
+  </svg>
+  <figcaption class="artery__legend">
+    {legend.map((l) => (
+      <button type="button" data-legend={l.type}><i class={`t-${l.type}`}></i>{l.label}</button>
+    ))}
+  </figcaption>
+</figure>
+
+<style>
+  .artery { margin: 0; position: relative; }
+  .artery svg { width: 100%; height: auto; overflow: visible; }
+  .artery__flow { animation: flow 60s linear infinite; }
+  @keyframes flow { to { transform: rotate(360deg); } }
+  .cell { transition: opacity .35s, filter .35s; }
+  .t-ec { fill: #3fb6a8; }
+  .t-smc { fill: #d6344a; }
+  .t-fmc { fill: #f28c6b; }
+  .t-cmc { fill: #c49bff; }
+  .t-mac { fill: #f2b441; }
+  .t-fib { fill: #7f9be0; }
+  .calc { fill: #fff6ea; opacity: .85; }
+  .artery[data-focus] .cell { opacity: .12 !important; }
+  .artery[data-focus='ec'] .t-ec, .artery[data-focus='smc'] .t-smc, .artery[data-focus='fmc'] .t-fmc,
+  .artery[data-focus='cmc'] .t-cmc, .artery[data-focus='mac'] .t-mac, .artery[data-focus='fib'] .t-fib {
+    opacity: 1 !important; filter: drop-shadow(0 0 3px currentColor);
+  }
+  .artery__legend { display: flex; flex-wrap: wrap; gap: 6px 8px; justify-content: center; margin-top: 10px; }
+  .artery__legend button {
+    display: inline-flex; align-items: center; gap: 7px; cursor: pointer;
+    font: 500 .78rem var(--font-sans); color: #e9dadd; background: rgba(255,255,255,.05);
+    border: 1px solid rgba(255,255,255,.1); border-radius: 999px; padding: 4px 11px; transition: all .2s;
+  }
+  .artery__legend button:hover, .artery__legend button.on { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.3); }
+  .artery__legend i { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .artery__legend i.t-ec { background: #3fb6a8; } .artery__legend i.t-smc { background: #d6344a; }
+  .artery__legend i.t-fmc { background: #f28c6b; } .artery__legend i.t-cmc { background: #c49bff; }
+  .artery__legend i.t-mac { background: #f2b441; } .artery__legend i.t-fib { background: #7f9be0; }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-artery]').forEach((fig) => {
+    const buttons = fig.querySelectorAll<HTMLButtonElement>('[data-legend]');
+    let locked: string | null = null;
+    const set = (t: string | null) => {
+      if (t) fig.dataset.focus = t; else delete fig.dataset.focus;
+      buttons.forEach((b) => b.classList.toggle('on', b.dataset.legend === t));
+    };
+    buttons.forEach((b) => {
+      b.addEventListener('mouseenter', () => set(b.dataset.legend!));
+      b.addEventListener('mouseleave', () => set(locked));
+      b.addEventListener('click', () => { locked = locked === b.dataset.legend ? null : b.dataset.legend!; set(locked); });
+    });
+  });
+</script>

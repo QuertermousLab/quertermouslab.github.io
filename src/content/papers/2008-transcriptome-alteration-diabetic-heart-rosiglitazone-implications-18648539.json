@@ -1,0 +1,33 @@
+{
+  "title": "Transcriptome alteration in the diabetic heart by rosiglitazone: implications for cardiovascular mortality",
+  "authors": [
+    "Kitchener D Wilson",
+    "Zongjin Li",
+    "Roger Wagner",
+    "Patrick Yue",
+    "Phillip Tsao",
+    "Gergana Nestorova",
+    "Mei Huang",
+    "David L Hirschberg",
+    "Paul G Yock",
+    "Thomas Quertermous",
+    "Joseph C Wu"
+  ],
+  "journal": "PloS one",
+  "journalAbbrev": "PLoS One",
+  "year": 2008,
+  "date": "2008-07-09",
+  "doi": "10.1371/journal.pone.0002609",
+  "pmid": "18648539",
+  "pmcid": "PMC2481284",
+  "url": "https://doi.org/10.1371/journal.pone.0002609",
+  "abstract": "BACKGROUND: Recently, the type 2 diabetes medication, rosiglitazone, has come under scrutiny for possibly increasing the risk of cardiac disease and death. To investigate the effects of rosiglitazone on the diabetic heart, we performed cardiac transcriptional profiling and imaging studies of a murine model of type 2 diabetes, the C57BL/KLS-lepr(db)/lepr(db) (db/db) mouse. METHODS AND FINDINGS: We compared cardiac gene expression profiles from three groups: untreated db/db mice, db/db mice after rosiglitazone treatment, and non-diabetic db/+ mice. Prior to sacrifice, we also performed cardiac magnetic resonance (CMR) and echocardiography. As expected, overall the db/db gene expression signature was markedly different from control, but to our surprise was not significantly reversed with rosiglitazone. In particular, we have uncovered a number of rosiglitazone modulated genes and pathways that may play a role in the pathophysiology of the increase in cardiac mortality as seen in several recent meta-analyses. Specifically, the cumulative upregulation of (1) a matrix metalloproteinase gene that has previously been implicated in plaque rupture, (2) potassium channel genes involved in membrane potential maintenance and action potential generation, and (3) sphingolipid and ceramide metabolism-related genes, together give cause for concern over rosiglitazone's safety. Lastly, in vivo imaging studies revealed minimal differences between rosiglitazone-treated and untreated db/db mouse hearts, indicating that rosiglitazone's effects on gene expression in the heart do not immediately turn into detectable gross functional changes. CONCLUSIONS: This study maps the genomic expression patterns in the hearts of the db/db murine model of diabetes and illustrates the impact of rosiglitazone on these patterns. The db/db gene expression signature was markedly different from control, and was not reversed with rosiglitazone. A smaller number of unique and interesting changes in gene expression were noted with rosiglitazone treatment. Further study of these genes and molecular pathways will provide important insights into the cardiac decompensation associated with both diabetes and rosiglitazone treatment.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

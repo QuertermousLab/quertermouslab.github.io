@@ -1,0 +1,34 @@
+{
+  "title": "Coronary artery disease genes SMAD3 and TCF21 promote opposing interactive genetic programs that regulate smooth muscle cell differentiation and disease risk",
+  "authors": [
+    "Dharini Iyer",
+    "Quanyi Zhao",
+    "Robert Wirka",
+    "Ameay Naravane",
+    "Trieu Nguyen",
+    "Boxiang Liu",
+    "Manabu Nagao",
+    "Paul Cheng",
+    "Clint L Miller",
+    "Juyong Brian Kim",
+    "Milos Pjanic",
+    "Thomas Quertermous"
+  ],
+  "journal": "PLoS genetics",
+  "journalAbbrev": "PLoS Genet",
+  "year": 2018,
+  "date": "2018-10-11",
+  "doi": "10.1371/journal.pgen.1007681",
+  "pmid": "30307970",
+  "pmcid": "PMC6198989",
+  "url": "https://doi.org/10.1371/journal.pgen.1007681",
+  "abstract": "Although numerous genetic loci have been associated with coronary artery disease (CAD) with genome wide association studies, efforts are needed to identify the causal genes in these loci and link them into fundamental signaling pathways. Recent studies have investigated the disease mechanism of CAD associated gene SMAD3, a central transcription factor (TF) in the TGFβ pathway, investigating its role in smooth muscle biology. In vitro studies in human coronary artery smooth muscle cells (HCASMC) revealed that SMAD3 modulates cellular phenotype, promoting expression of differentiation marker genes while inhibiting proliferation. RNA sequencing and chromatin immunoprecipitation sequencing studies in HCASMC identified downstream genes that reside in pathways which mediate vascular development and atherosclerosis processes in this cell type. HCASMC phenotype, and gene expression patterns promoted by SMAD3 were noted to have opposing direction of effect compared to another CAD associated TF, TCF21. At sites of SMAD3 and TCF21 colocalization on DNA, SMAD3 binding was inversely correlated with TCF21 binding, due in part to TCF21 locally blocking chromatin accessibility at the SMAD3 binding site. Further, TCF21 was able to directly inhibit SMAD3 activation of gene expression in transfection reporter gene studies. In contrast to TCF21 which is protective toward CAD, SMAD3 expression in HCASMC was shown to be directly correlated with disease risk. We propose that the pro-differentiation action of SMAD3 inhibits dedifferentiation that is required for HCASMC to expand and stabilize disease plaque as they respond to vascular stresses, counteracting the protective dedifferentiating activity of TCF21 and promoting disease risk.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

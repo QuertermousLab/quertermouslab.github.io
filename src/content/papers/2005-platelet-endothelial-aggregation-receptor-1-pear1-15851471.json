@@ -1,0 +1,30 @@
+{
+  "title": "Platelet endothelial aggregation receptor 1 (PEAR1), a novel epidermal growth factor repeat-containing transmembrane receptor, participates in platelet contact-induced activation",
+  "authors": [
+    "Nisha Nanda",
+    "Ming Bao",
+    "Hanna Lin",
+    "Karl Clauser",
+    "Laszlo Komuves",
+    "Thomas Quertermous",
+    "Pamela B Conley",
+    "David R Phillips",
+    "Matthew J Hart"
+  ],
+  "journal": "The Journal of biological chemistry",
+  "journalAbbrev": "J Biol Chem",
+  "year": 2005,
+  "date": "2005-04-25",
+  "doi": "10.1074/jbc.M413411200",
+  "pmid": "15851471",
+  "pmcid": null,
+  "url": "https://doi.org/10.1074/jbc.M413411200",
+  "abstract": "The present study was designed to identify novel membrane proteins that signal during platelet aggregation. Because one putative mechanism for signaling by a membrane protein involves phosphorylation, we used oligonucleotide-based microarray analyses and mass spectrometric proteomics techniques to specifically discover membrane proteins and also identify those proteins that become phosphorylated on tyrosine, threonine, or serine residues upon platelet aggregation. Surprisingly, both techniques converged to identify a novel membrane protein we have termed PEAR1 (platelet endothelial aggregation receptor 1). Sequence analysis of PEAR1 predicts a type-1 membrane protein, 15 extracellular epidermal growth factor-like repeats, and multiple cytoplasmic tyrosines. Analysis of the tissue distribution of PEAR1 showed that it was most highly expressed in platelets and endothelial cells. Upon platelet aggregation induced by physiological agonists, PEAR1 became phosphorylated on tyrosine (Tyr-925), and serine (Ser-953 and Ser-1029) residues. PEAR1 tyrosine phosphorylation was blocked by eptifibatide, an alpha(IIb)beta(3) antagonist, which inhibits platelet aggregation. Immune clustering of PEAR1 resulted in PEAR1 phosphorylation. Aggregation-induced PEAR1 tyrosine phosphorylation lead to the subsequent association with the ShcB adaptor protein. Platelet proximity induced by centrifugation also induced PEAR1 tyrosine phosphorylation, a reaction not inhibited by eptifibatide. These data suggest that PEAR1 is a novel platelet receptor that signals secondary to alpha(IIb)beta(3)-mediated platelet-platelet contacts.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

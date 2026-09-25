@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+const team = [
+  ['Thomas Quertermous, MD, MS', 'US Organizer', 'Professor, Stanford University, Stanford, US'],
+  ['Helle Jørgensen, PhD', 'European Organizer', 'Associate Professor, University of Cambridge, UK'],
+  ['Ljubica Matic, PhD', '', 'Professor, Karolinska Institutet, Stockholm, Sweden'],
+  ['Samuli Ripatti, PhD', '', 'Director, FIMM; Professor, University of Helsinki, Finland'],
+  ['Nathan Stitziel, MD, PhD', '', 'Professor, Washington University in St. Louis, US'],
+];
+const pillars = [
+  ['Human genetics–driven discovery', 'Large-scale human genetic data integrated with functional genomic, proteomic and clinical datasets identify causal mechanisms in cardiovascular disease and improve risk prediction.', 'var(--artery)'],
+  ['Functional genomics in human tissues and cells', 'Genomic and single-cell approaches in relevant human tissues and cell types identify causal genes within CVD-associated loci.', 'var(--vein-soft)'],
+  ['In vivo causal mechanism discovery', 'Top candidate genes for coronary artery disease and stroke are validated in simplex and multiplex murine models, complemented by ex vivo studies of human tissue.', 'var(--plaque)'],
+];
+const ways = [
+  ['Propose', 'a candidate locus or genes for study in ATHENA functional assays'],
+  ['Submit', 'atherosclerosis candidate genes for ATHENA CRISPR screens'],
+  ['Access', 'genome-scale ATHENA CRISPR screening data'],
+  ['Explore', 'vascular gene expression through the interactive ATHENA spatial transcriptomics portal'],
+  ['Access', 'ATHENA study protocols and single-cell workflows'],
+];
+---
+<Base title="ATHENA Co-Lab" description="ATHENA: Atherosclerosis Targets from Human gEnetics and functional geNomic Approaches — a collaborative laboratory.">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">ATHENA Network Collaborative Laboratory</span>
+      <h1>ATHENA Co-Lab</h1>
+      <p class="lede"><strong>A</strong>therosclerosis <strong>T</strong>argets from <strong>H</strong>uman g<strong>E</strong>netics and functional ge<strong>N</strong>omic <strong>A</strong>pproaches —
+        a shared research platform that enables cardiovascular investigators to identify, prioritize and validate causal genes and
+        mechanisms underlying atherosclerosis.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <figure class="fig reveal"><img src="/figures/athena.webp" alt="ATHENA workflow" /></figure>
+      <div class="pillars">
+        {pillars.map(([t, d, c]) => <article class="card reveal" style={`--c:${c}`}><h3>{t}</h3><p>{d}</p></article>)}
+      </div>
+    </div>
+  </section>
+  <section class="section section--tint">
+    <div class="container two">
+      <div class="reveal">
+        <span class="eyebrow">Collaborate</span>
+        <h2>Ways to work with ATHENA</h2>
+        <ul class="ways">{ways.map(([v, t]) => <li><b>{v}</b> {t}</li>)}</ul>
+        <p>Other proposals welcome! <a href="/join/#contact">Contact us</a>.</p>
+      </div>
+      <div class="reveal">
+        <span class="eyebrow">Investigative team</span>
+        <h2>Organizers</h2>
+        <ul class="team">{team.map(([n, r, a]) => <li><strong>{n}</strong>{r && <span class="chip chip--red">{r}</span>}<span>{a}</span></li>)}</ul>
+      </div>
+    </div>
+  </section>
+</Base>
+<style>
+  .fig { margin: 0 0 40px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow); }
+  .fig img { margin: 0 auto; max-height: 520px; }
+  .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .pillars .card { padding: 26px; border-top: 4px solid var(--c); }
+  .pillars p { color: var(--ink-2); margin: 0; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; }
+  .ways, .team { list-style: none; padding: 0; margin: 0 0 20px; }
+  .ways li, .team li { padding: 14px 0; border-bottom: 1px solid var(--line); }
+  .ways b { color: var(--artery); }
+  .team li { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+  .team li > span:last-child { flex-basis: 100%; color: var(--ink-2); font-size: .92rem; }
+  @media (max-width: 900px) { .pillars, .two { grid-template-columns: 1fr; } }
+</style>

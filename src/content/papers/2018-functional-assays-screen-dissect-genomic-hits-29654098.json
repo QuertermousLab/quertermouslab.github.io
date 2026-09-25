@@ -1,0 +1,37 @@
+{
+  "title": "Functional Assays to Screen and Dissect Genomic Hits: Doubling Down on the National Investment in Genomic Research",
+  "authors": [
+    "Kiran Musunuru",
+    "Daniel Bernstein",
+    "F Sessions Cole",
+    "Mustafa K Khokha",
+    "Frank S Lee",
+    "Shin Lin",
+    "Thomas V McDonald",
+    "Ivan P Moskowitz",
+    "Thomas Quertermous",
+    "Vijay G Sankaran",
+    "David A Schwartz",
+    "Edwin K Silverman",
+    "Xiaobo Zhou",
+    "Ahmed A K Hasan",
+    "Xiao-Zhong James Luo"
+  ],
+  "journal": "Circulation. Genomic and precision medicine",
+  "journalAbbrev": "Circ Genom Precis Med",
+  "year": 2018,
+  "date": "2018-04-01",
+  "doi": "10.1161/CIRCGEN.118.002178",
+  "pmid": "29654098",
+  "pmcid": "PMC5901889",
+  "url": "https://doi.org/10.1161/CIRCGEN.118.002178",
+  "abstract": "The National Institutes of Health have made substantial investments in genomic studies and technologies to identify DNA sequence variants associated with human disease phenotypes. The National Heart, Lung, and Blood Institute has been at the forefront of these commitments to ascertain genetic variation associated with heart, lung, blood, and sleep diseases and related clinical traits. Genome-wide association studies, exome- and genome-sequencing studies, and exome-genotyping studies of the National Heart, Lung, and Blood Institute-funded epidemiological and clinical case-control studies are identifying large numbers of genetic variants associated with heart, lung, blood, and sleep phenotypes. However, investigators face challenges in identification of genomic variants that are functionally disruptive among the myriad of computationally implicated variants. Studies to define mechanisms of genetic disruption encoded by computationally identified genomic variants require reproducible, adaptable, and inexpensive methods to screen candidate variant and gene function. High-throughput strategies will permit a tiered variant discovery and genetic mechanism approach that begins with rapid functional screening of a large number of computationally implicated variants and genes for discovery of those that merit mechanistic investigation. As such, improved variant-to-gene and gene-to-function screens-and adequate support for such studies-are critical to accelerating the translation of genomic findings. In this White Paper, we outline the variety of novel technologies, assays, and model systems that are making such screens faster, cheaper, and more accurate, referencing published work and ongoing work supported by the National Heart, Lung, and Blood Institute's R21/R33 Functional Assays to Screen Genomic Hits program. We discuss priorities that can accelerate the impressive but incomplete progress represented by big data genomic research.",
+  "pubTypes": [
+    "Journal Article",
+    "Review"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

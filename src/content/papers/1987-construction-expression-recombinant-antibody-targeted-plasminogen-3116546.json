@@ -1,0 +1,30 @@
+{
+  "title": "Construction and expression of a recombinant antibody-targeted plasminogen activator",
+  "authors": [
+    "J M Schnee",
+    "M S Runge",
+    "G R Matsueda",
+    "N W Hudson",
+    "J G Seidman",
+    "E Haber",
+    "T Quertermous"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "journalAbbrev": "Proc Natl Acad Sci U S A",
+  "year": 1987,
+  "date": "1987-10-01",
+  "doi": "10.1073/pnas.84.19.6904",
+  "pmid": "3116546",
+  "pmcid": "PMC299193",
+  "url": "https://doi.org/10.1073/pnas.84.19.6904",
+  "abstract": "Covalent linkage of tissue-type plasminogen activator (t-PA) to a monoclonal antibody specific for the fibrin beta chain (anti-fibrin 59D8) results in a thrombolytic agent that is more specific and more potent than t-PA alone. To provide a ready source of this hybrid molecule and to allow tailoring of the active moieties for optimal activity, we have engineered a recombinant version of the 59D8-t-PA conjugate. The rearranged 59D8 heavy chain gene was cloned and combined in the expression vector pSV2gpt with sequence coding for a portion of the gamma 2b constant region and the catalytic beta chain of t-PA. This construct was transfected into heavy chain loss variant cells derived from the 59D8 hybridoma. Recombinant protein was purified by affinity chromatography and analyzed with electrophoretic transfer blots. These revealed a 65-kDa heavy chain-t-PA fusion protein that is secreted in association with the 59D8 light chain in the form of a 170-kDa disulfide-linked dimer. Chromogenic substrate assays showed the fusion protein to have 70% of the peptidolytic activity of native t-PA and to activate plasminogen as efficiently as t-PA. In a competitive binding assay, reconstituted antibody was shown to have a binding profile similar to that of native 59D8. Thus, by recombinant techniques, we have produced a hybrid protein capable of high-affinity fibrin binding and plasminogen activation.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

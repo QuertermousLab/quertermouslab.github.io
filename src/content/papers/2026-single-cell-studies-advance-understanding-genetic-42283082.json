@@ -1,0 +1,27 @@
+{
+  "title": "Single-Cell Studies Advance Understanding of the Genetic and Molecular Basis of Atherosclerosis",
+  "authors": [
+    "Daniel Y Li",
+    "João P Monteiro",
+    "Quanyi Zhao",
+    "Nathan O Stitziel",
+    "Thomas Quertermous"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2026,
+  "date": "2026-06-12",
+  "doi": "10.1161/CIRCRESAHA.125.327472",
+  "pmid": "42283082",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/CIRCRESAHA.125.327472",
+  "abstract": "Atherosclerosis is a chronic disease of the arterial wall driven by complex interactions between vascular, immune, and stromal cells. For decades, our understanding of plaque biology relied on bulk assays that masked the underlying cellular heterogeneity. The development of single-cell and spatial genomics now enables the dissection of these multicellular systems with unprecedented granularity. These technologies have revealed the dynamic nature of vascular smooth muscle and endothelial cells, providing a framework to link genetic risk to specific transcriptional programs and cellular phenotypes. Single-cell RNA sequencing and single-cell epigenome sequencing (single-cell assay for transposase-accessible chromatin with sequencing) have redefined vascular cell biology, revealing intermediate phenotypic states and transcriptional regulators of disease progression. Recent advances in spatially resolved transcriptomics have begun to link these molecular profiles to their anatomic context within the plaque microenvironment, informing on cell-cell signaling pathways. Integrating genetic risk with single-cell data is illuminating how noncoding variants converge on specific vascular cell types and gene-regulatory networks. In this review, we summarize key technological advances in single-cell RNA sequencing, single-cell assay for transposase-accessible chromatin with sequencing, and spatial transcriptomics. Furthermore, we highlight recent biological discoveries and discuss emerging approaches, particularly clustered regularly interspaced short palindromic repeats perturbation-based single-cell methods, which are poised to bridge causal genetics and functional vascular biology in atherosclerosis.",
+  "pubTypes": [
+    "Journal Article",
+    "Review"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Cardiovascular overexpression of transforming growth factor-beta(1) causes abnormal yolk sac vasculogenesis and early embryonic death",
+  "authors": [
+    "R Agah",
+    "K S Prasad",
+    "R Linnemann",
+    "M T Firpo",
+    "T Quertermous",
+    "D A Dichek"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2000,
+  "date": "2000-05-26",
+  "doi": "10.1161/01.res.86.10.1024",
+  "pmid": "10827131",
+  "pmcid": null,
+  "url": "https://doi.org/10.1161/01.res.86.10.1024",
+  "abstract": "Transforming growth factor-beta(1) (TGF-beta(1)) is expressed in the adult and embryonic vasculature; however, the biological consequences of increased vascular TGF-beta(1) expression remain controversial. To establish an experimental setting for investigating the role of increased TGF-beta(1) in vascular development and disease, we generated transgenic mice in which a cDNA encoding a constitutively active form of TGF-beta(1) is expressed from the SM22alpha promoter. This promoter fragment directs transgene expression to smooth muscle cells of large arteries in late-term embryos and postnatal mice. We confirmed the anticipated pattern of SM22alpha-directed transgene expression (heart, somites, and vasculature of the embryo and yolk sac) in embryos carrying an SM22alpha-beta-galactosidase transgene. SM22alpha- beta-galactosidase transgenic mice were born at the expected frequency (13%); however, nearly all SM22alpha-TGF-beta(1) transgenic mice died before E11.5. SM22alpha-TGF-beta(1) transgenic embryos identified at E8.5 to E10.5 had growth retardation and both gross and microscopic abnormalities of the yolk sac vasculature. Overexpression of TGF-beta(1) from the SM22alpha promoter is lethal at E8.5 to E10.5, most likely because of yolk sac insufficiency. Investigation of the consequences of increased vascular TGF-beta(1) expression in adults may require a conditional transgenic approach. Moreover, because the SM22alpha promoter drives transgene expression in the yolk sac vasculature at a time when embryonic survival is dependent on yolk sac function, use of the SM22alpha promoter to drive expression of \"vasculoactive\" transgenes may be particularly likely to cause embryonic death.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

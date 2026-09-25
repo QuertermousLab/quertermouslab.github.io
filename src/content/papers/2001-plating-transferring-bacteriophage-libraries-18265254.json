@@ -1,0 +1,22 @@
+{
+  "title": "Plating and transferring bacteriophage libraries",
+  "authors": [
+    "T Quertermous"
+  ],
+  "journal": "Current protocols in molecular biology",
+  "journalAbbrev": "Curr Protoc Mol Biol",
+  "year": 2001,
+  "date": "2001-05-01",
+  "doi": "10.1002/0471142727.mb0601s34",
+  "pmid": "18265254",
+  "pmcid": null,
+  "url": "https://doi.org/10.1002/0471142727.mb0601s34",
+  "abstract": "The usefulness of a recombinant phage library depends on the ability to screen a large number of phage and identify the clone that carries the DNA sequence of interest. This unit presents a protocol in which phage are allowed to multiply in host bacteria in a thin layer of agarose on regular bacterial plates. When nitrocellulose is applied to the agarose, phage particles and unpackaged DNA adsorb to the filter to produce a replica of the plate surface. If the agarose surface is not excessively wet, there will be little spreading of the phage on the filter. Subsequent treatment of the filter with sodium hydroxide destroys the phage particles and denatures the phage DNA which then binds to the nitrocellulose. Neutralization of the filters is required to maintain the integrity of the nitrocellulose. Hybridization of these filters to a DNA or RNA probe will identify the location of the phage plaque of interest, which can then be recovered from the plate.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

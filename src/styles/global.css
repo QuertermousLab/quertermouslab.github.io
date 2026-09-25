@@ -1,0 +1,131 @@
+/* ------------------------------------------------------------------
+   Quertermous Lab — design tokens
+   Palette follows the circulation: oxygenated arterial reds, Stanford
+   cardinal, deoxygenated venous blues, and the lipid-yellow of plaque.
+------------------------------------------------------------------- */
+:root {
+  --cardinal: #8c1515;
+  --artery: #c8243a;
+  --artery-bright: #ef4056;
+  --blood-deep: #14070b;
+  --blood-night: #1d0b12;
+  --vein: #2a4a86;
+  --vein-soft: #6f8fcf;
+  --plaque: #e7a93b;
+  --fibro: #8a6fd1;
+  --endo: #3fb6a8;
+
+  --ink: #1a1519;
+  --ink-2: #4a4248;
+  --muted: #7a7076;
+  --line: #e7dfdc;
+  --paper: #fbf8f6;
+  --paper-2: #f4eeeb;
+  --white: #ffffff;
+
+  --font-sans: 'Figtree Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Source Serif 4 Variable', Georgia, 'Times New Roman', serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
+
+  --maxw: 1200px;
+  --radius: 14px;
+  --radius-sm: 8px;
+  --shadow: 0 1px 2px rgba(40, 10, 20, .06), 0 8px 24px -12px rgba(40, 10, 20, .18);
+  --shadow-lg: 0 2px 4px rgba(40, 10, 20, .06), 0 24px 48px -20px rgba(40, 10, 20, .35);
+  --ease: cubic-bezier(.2, .7, .2, 1);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--ink);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+}
+img, svg { max-width: 100%; display: block; }
+a { color: var(--artery); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { color: var(--cardinal); }
+h1, h2, h3, h4 { font-family: var(--font-serif); font-weight: 600; line-height: 1.15; letter-spacing: -.01em; margin: 0 0 .5em; color: var(--ink); }
+h1 { font-size: clamp(2.3rem, 5vw, 3.9rem); }
+h2 { font-size: clamp(1.7rem, 3vw, 2.4rem); }
+h3 { font-size: 1.3rem; }
+p { margin: 0 0 1em; }
+::selection { background: var(--artery); color: #fff; }
+
+.container { width: min(var(--maxw), 100% - 48px); margin-inline: auto; }
+.section { padding: clamp(64px, 9vw, 112px) 0; }
+.section--tint { background: var(--paper-2); }
+.section--dark { background: var(--blood-deep); color: #f3e9ea; }
+.section--dark h2, .section--dark h3 { color: #fff; }
+
+.eyebrow {
+  display: inline-flex; align-items: center; gap: 10px;
+  font-family: var(--font-sans); font-size: .78rem; font-weight: 700;
+  letter-spacing: .16em; text-transform: uppercase; color: var(--artery);
+  margin-bottom: 14px;
+}
+.eyebrow::before { content: ''; width: 22px; height: 2px; background: currentColor; border-radius: 2px; }
+.lede { font-size: 1.2rem; color: var(--ink-2); max-width: 62ch; }
+.section--dark .lede { color: #d9c7ca; }
+.muted { color: var(--muted); }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 12px 22px; border-radius: 999px;
+  font-weight: 600; font-size: .95rem; text-decoration: none;
+  border: 1.5px solid transparent; transition: all .25s var(--ease);
+}
+.btn--primary { background: var(--artery); color: #fff; }
+.btn--primary:hover { background: var(--cardinal); color: #fff; transform: translateY(-1px); }
+.btn--ghost { border-color: currentColor; color: inherit; }
+.btn--ghost:hover { background: rgba(255,255,255,.08); color: inherit; }
+.btn--light { border-color: var(--line); color: var(--ink); background: #fff; }
+.btn--light:hover { border-color: var(--artery); color: var(--artery); }
+
+.chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: .75rem; font-weight: 600; letter-spacing: .02em;
+  padding: 3px 10px; border-radius: 999px;
+  background: var(--paper-2); color: var(--ink-2); border: 1px solid var(--line);
+  text-decoration: none; white-space: nowrap;
+}
+a.chip:hover { border-color: var(--artery); color: var(--artery); }
+.chip--red { background: #fbe8ea; color: var(--cardinal); border-color: #f3c9ce; }
+
+.grid { display: grid; gap: 24px; }
+.card {
+  background: var(--white); border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); overflow: hidden;
+}
+
+/* heading block used at the top of sections */
+.section-head { display: flex; justify-content: space-between; align-items: end; gap: 24px; margin-bottom: 40px; flex-wrap: wrap; }
+.section-head h2 { margin: 0; }
+.section-head .lede { margin: 12px 0 0; }
+
+/* page hero for inner pages */
+.page-hero {
+  position: relative; overflow: hidden;
+  background: radial-gradient(1200px 400px at 85% -10%, rgba(200,36,58,.45), transparent 60%),
+              radial-gradient(800px 300px at 0% 120%, rgba(42,74,134,.45), transparent 60%),
+              var(--blood-deep);
+  color: #f3e9ea; padding: 140px 0 72px;
+}
+.page-hero h1 { color: #fff; margin-bottom: .3em; }
+.page-hero .lede { color: #dcc9cc; }
+.page-hero .eyebrow { color: var(--artery-bright); }
+
+/* scroll reveal */
+.reveal { opacity: 0; transform: translateY(18px); transition: opacity .8s var(--ease), transform .8s var(--ease); }
+.reveal.is-in { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1; transform: none; transition: none; }
+  * { animation: none !important; }
+}
+.no-js .reveal { opacity: 1; transform: none; }
+
+.visually-hidden { position: absolute !important; clip: rect(1px,1px,1px,1px); width: 1px; height: 1px; overflow: hidden; }

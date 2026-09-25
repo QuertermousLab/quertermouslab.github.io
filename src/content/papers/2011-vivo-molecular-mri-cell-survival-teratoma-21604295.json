@@ -1,0 +1,35 @@
+{
+  "title": "In vivo molecular MRI of cell survival and teratoma formation following embryonic stem cell transplantation into the injured murine myocardium",
+  "authors": [
+    "Jaehoon Chung",
+    "Kehkooi Kee",
+    "Joëlle K Barral",
+    "Rajesh Dash",
+    "Hisanori Kosuge",
+    "Xi Wang",
+    "Irving Weissman",
+    "Robert C Robbins",
+    "Dwight Nishimura",
+    "Thomas Quertermous",
+    "Renee A Reijo-Pera",
+    "Phillip C Yang"
+  ],
+  "journal": "Magnetic resonance in medicine",
+  "journalAbbrev": "Magn Reson Med",
+  "year": 2011,
+  "date": "2011-05-20",
+  "doi": "10.1002/mrm.22929",
+  "pmid": "21604295",
+  "pmcid": "PMC3381354",
+  "url": "https://doi.org/10.1002/mrm.22929",
+  "abstract": "Embryonic stem cells (ESCs) have shown the potential to restore cardiac function after myocardial injury. Superparamagnetic iron oxide nanoparticles (SPIO) have been widely employed to label ESCs for cellular MRI. However, nonspecific intracellular accumulation of SPIO limits long-term in vivo assessment of the transplanted cells. To overcome this limitation, a novel reporter gene (RG) has been developed to express antigens on the ESC surface. By employing SPIO-conjugated monoclonal antibody against these antigens (SPIO-MAb), the viability of transplanted ESCs can be detected in vivo. This study aims to develop a new molecular MRI method to assess in vivo ESC viability, proliferation, and teratoma formation. The RG is designed to express 2 antigens (hemagglutinin A and myc) and luciferase on the ESC surface. The two antigens serve as the molecular targets for SPIO-MAb. The human and mouse ESCs were transduced with the RG (ESC-RGs) and transplanted into the peri-infarct area using the murine myocardial injury model. In vivo MRI was performed following serial intravenous administration of SPIO-MAb. Significant hypointense signal was generated from the viable and proliferating ESCs and subsequent teratoma. This novel molecular MRI technique enabled in vivo detection of early ESC-derived teratoma formation in the injured murine myocardium.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

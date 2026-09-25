@@ -1,0 +1,28 @@
+{
+  "title": "Generation of Vascular Smooth Muscle Cells From Induced Pluripotent Stem Cells: Methods, Applications, and Considerations",
+  "authors": [
+    "Mengcheng Shen",
+    "Thomas Quertermous",
+    "Michael P Fischbein",
+    "Joseph C Wu"
+  ],
+  "journal": "Circulation research",
+  "journalAbbrev": "Circ Res",
+  "year": 2021,
+  "date": "2021-03-04",
+  "doi": "10.1161/CIRCRESAHA.120.318049",
+  "pmid": "33818124",
+  "pmcid": "PMC10817206",
+  "url": "https://doi.org/10.1161/CIRCRESAHA.120.318049",
+  "abstract": "The developmental origin of vascular smooth muscle cells (VSMCs) has been increasingly recognized as a major determinant for regional susceptibility or resistance to vascular diseases. As a human material-based complement to animal models and human primary cultures, patient induced pluripotent stem cell iPSC-derived VSMCs have been leveraged to conduct basic research and develop therapeutic applications in vascular diseases. However, iPSC-VSMCs (induced pluripotent stem cell VSMCs) derived by most existing induction protocols are heterogeneous in developmental origins. In this review, we summarize signaling networks that govern in vivo cell fate decisions and in vitro derivation of distinct VSMC progenitors, as well as key regulators that terminally specify lineage-specific VSMCs. We then highlight the significance of leveraging patient-derived iPSC-VSMCs for vascular disease modeling, drug discovery, and vascular tissue engineering and discuss several obstacles that need to be circumvented to fully unleash the potential of induced pluripotent stem cells for precision vascular medicine.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}

@@ -1,0 +1,40 @@
+{
+  "title": "In vivo genetic profiling and cellular localization of apelin reveals a hypoxia-sensitive, endothelial-centered pathway activated in ischemic heart failure",
+  "authors": [
+    "Ahmad Y Sheikh",
+    "Hyung J Chun",
+    "Alexander J Glassford",
+    "Ramendera K Kundu",
+    "Ingo Kutschka",
+    "Diego Ardigo",
+    "Stephen L Hendry",
+    "Roger A Wagner",
+    "Mary M Chen",
+    "Ziad A Ali",
+    "Patrick Yue",
+    "Diem T Huynh",
+    "Andrew J Connolly",
+    "Marc P Pelletier",
+    "Philip S Tsao",
+    "Robert C Robbins",
+    "Thomas Quertermous"
+  ],
+  "journal": "American journal of physiology. Heart and circulatory physiology",
+  "journalAbbrev": "Am J Physiol Heart Circ Physiol",
+  "year": 2007,
+  "date": "2007-09-28",
+  "doi": "10.1152/ajpheart.00935.2007",
+  "pmid": "17906101",
+  "pmcid": "PMC2570026",
+  "url": "https://doi.org/10.1152/ajpheart.00935.2007",
+  "abstract": "Signaling by the peptide ligand apelin and its cognate G protein-coupled receptor APJ has a potent inotropic effect on cardiac contractility and modulates systemic vascular resistance through nitric oxide-dependent signaling. In addition, there is evidence for counterregulation of the angiotensin and vasopressin pathways. Regulatory stimuli of the apelin-APJ pathway are of obvious importance but remain to be elucidated. To better understand the physiological response of apelin-APJ to disease states such as heart failure and to elucidate the mechanism by which such a response might occur, we have used the murine model of left anterior descending coronary artery ligation-induced ischemic cardiac failure. To identify the key cells responsible for modulation and production of apelin in vivo, we have created a novel apelin-lacZ reporter mouse. Data from these studies demonstrate that apelin and APJ are upregulated in the heart and skeletal muscle following myocardial injury and suggest that apelin expression remains restricted to the endothelium. In cardiac failure, endothelial apelin expression correlates with other hypoxia-responsive genes, and in healthy animals both apelin and APJ are markedly upregulated in various tissues following systemic hypoxic exposure. Experiments with cultured endothelial cells in vitro show apelin mRNA and protein levels to be increased by hypoxia, through a hypoxia-inducible factor-mediated pathway. These studies suggest that apelin-expressing endothelial cells respond to conditions associated with heart failure, possibly including local tissue hypoxia, and modulate apelin-APJ expression to regulate cardiovascular homeostasis. The apelin-APJ pathway may thus provide a mechanism for systemic endothelial monitoring of tissue perfusion and adaptive regulation of cardiovascular function.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

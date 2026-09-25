@@ -1,0 +1,26 @@
+{
+  "title": "Regulated expression of endothelial cell-derived lipase",
+  "authors": [
+    "K Hirata",
+    "T Ishida",
+    "H Matsushita",
+    "P S Tsao",
+    "T Quertermous"
+  ],
+  "journal": "Biochemical and biophysical research communications",
+  "journalAbbrev": "Biochem Biophys Res Commun",
+  "year": 2000,
+  "date": "2000-05-27",
+  "doi": "10.1006/bbrc.2000.2747",
+  "pmid": "10872808",
+  "pmcid": null,
+  "url": "https://doi.org/10.1006/bbrc.2000.2747",
+  "abstract": "A lipoprotein lipase-like gene was recently cloned from endothelial cells. In vitro functional experiments have suggested that this endothelial-derived lipase (EDL) has phospholipase activity, and preliminary in vivo studies have suggested a role in the regulation of high-density lipoprotein metabolism. To investigate local control of lipase activity and lipid metabolism in the blood vessel wall, we have examined the regulation of EDL expression in cultured human umbilical vein and coronary artery endothelial cells. EDL mRNA levels were upregulated in both cell types by inflammatory cytokines implicated in vascular disease etiology, including TNF-alpha and IL-1beta. In addition, both fluid shear stress and cyclic stretch were found to increase the EDL mRNA levels in these cultured cells. This highly regulated expression of EDL in vascular endothelial cells suggests that this recently identified lipase is intricately involved in modulating vessel wall lipid metabolism and may play a role in vascular diseases such as atherosclerosis.",
+  "pubTypes": [
+    "Journal Article"
+  ],
+  "tqPosition": "last",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

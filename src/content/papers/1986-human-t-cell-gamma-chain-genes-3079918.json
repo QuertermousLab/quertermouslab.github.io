@@ -1,0 +1,30 @@
+{
+  "title": "Human T-cell gamma chain genes: organization, diversity, and rearrangement",
+  "authors": [
+    "T Quertermous",
+    "C Murre",
+    "D Dialynas",
+    "A D Duby",
+    "J L Strominger",
+    "T A Waldman",
+    "J G Seidman"
+  ],
+  "journal": "Science (New York, N.Y.)",
+  "journalAbbrev": "Science",
+  "year": 1986,
+  "date": "1986-01-17",
+  "doi": "10.1126/science.3079918",
+  "pmid": "3079918",
+  "pmcid": null,
+  "url": "https://doi.org/10.1126/science.3079918",
+  "abstract": "The human T-cell gamma chain genes have been characterized in an attempt to better understand their role in immune response. These immunoglobulin-like genes are encoded in the genome in variable, joining, and constant segments. The human gamma genes include at least six variable region genes, two joining segments, and two constant-region genes in germline DNA. Variable and joining segments recombine during the development of T cells to form rearranged genes. The diversity of human gamma genes produced by this recombinational mechanism is greater than that produced by the murine genome but is more limited than that of other immunoglobulin-like genes.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "tqPosition": "first",
+  "labPaper": true,
+  "highlight": false,
+  "tags": []
+}

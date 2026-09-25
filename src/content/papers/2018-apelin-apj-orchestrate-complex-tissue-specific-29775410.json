@@ -1,0 +1,37 @@
+{
+  "title": "Apelin and APJ orchestrate complex tissue-specific control of cardiomyocyte hypertrophy and contractility in the hypertrophy-heart failure transition",
+  "authors": [
+    "Victoria N Parikh",
+    "Jing Liu",
+    "Ching Shang",
+    "Christopher Woods",
+    "Alex C Chang",
+    "Mingming Zhao",
+    "David N Charo",
+    "Zachary Grunwald",
+    "Yong Huang",
+    "Kinya Seo",
+    "Philip S Tsao",
+    "Daniel Bernstein",
+    "Pilar Ruiz-Lozano",
+    "Thomas Quertermous",
+    "Euan A Ashley"
+  ],
+  "journal": "American journal of physiology. Heart and circulatory physiology",
+  "journalAbbrev": "Am J Physiol Heart Circ Physiol",
+  "year": 2018,
+  "date": "2018-05-18",
+  "doi": "10.1152/ajpheart.00693.2017",
+  "pmid": "29775410",
+  "pmcid": "PMC6139625",
+  "url": "https://doi.org/10.1152/ajpheart.00693.2017",
+  "abstract": "The G protein-coupled receptor APJ is a promising therapeutic target for heart failure. Constitutive deletion of APJ in the mouse is protective against the hypertrophy-heart failure transition via elimination of ligand-independent, β-arrestin-dependent stretch transduction. However, the cellular origin of this stretch transduction and the details of its interaction with apelin signaling remain unknown. We generated mice with conditional elimination of APJ in the endothelium (APJendo-/-) and myocardium (APJmyo-/-). No baseline difference was observed in left ventricular function in APJendo-/-, APJmyo-/-, or control (APJendo+/+, APJmyo+/+) mice. After exposure to transaortic constriction, APJendo-/- mice displayed decreased left ventricular systolic function and increased wall thickness, whereas APJmyo-/- mice were protected. At the cellular level, carbon fiber stretch of freshly isolated single cardiomyocytes demonstrated decreased contractile responses to stretch in APJ-/- cardiomyocytes compared with APJ+/+ cardiomyocytes. Ca2+ transients did not change with stretch in either APJ-/- or APJ+/+ cardiomyocytes. Application of apelin to APJ+/+ cardiomyocytes resulted in decreased Ca2+ transients. Furthermore, hearts of mice treated with apelin exhibited decreased phosphorylation in cardiac troponin I NH2-terminal residues (Ser22 and Ser23) consistent with increased Ca2+ sensitivity. These data establish that APJ stretch transduction is mediated specifically by myocardial APJ, that APJ is necessary for stretch-induced increases in contractility, and that apelin opposes APJ's stretch-mediated hypertrophy signaling by lowering Ca2+ transients while maintaining contractility through myofilament Ca2+ sensitization. These findings underscore apelin's unique potential as a therapeutic agent that can simultaneously support cardiac function and protect against the hypertrophy-heart failure transition. NEW & NOTEWORTHY These data address fundamental gaps in our understanding of apelin-APJ signaling in heart failure by localizing APJ's ligand-independent stretch sensing to the myocardium, identifying a novel mechanism of apelin-APJ inotropy via myofilament Ca2+ sensitization, and identifying potential mitigating effects of apelin in APJ stretch-induced hypertrophic signaling.",
+  "pubTypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "tqPosition": "middle",
+  "labPaper": false,
+  "highlight": false,
+  "tags": []
+}
