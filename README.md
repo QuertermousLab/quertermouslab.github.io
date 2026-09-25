@@ -15,7 +15,7 @@ npm run build    # → dist/ (static)
 ## Deploy
 
 Hosted on GitHub Pages from `QuertermousLab/quertermouslab.github.io`:
-**https://quertermouslab.github.io/**
+**https://quertermouslab.stanford.edu/** (DNS: Stanford NetDB CNAME → `quertermouslab.github.io`; the github.io address forwards here)
 
 - Every push to `main` builds and deploys (`.github/workflows/deploy.yml`, ~1–2 min).
 - A weekly scheduled rebuild refreshes IGVF counts.
@@ -78,4 +78,4 @@ unreachable. Rebuild to refresh the counts.
 - Current member roster/titles (seeded from the old site + Stanford Profiles, Sept 2026);
   Laila Rad has no bio/photo yet.
 - Alumni positions are copied from the old alumni page and may be out of date.
-- If a custom domain is added, update `site` in `astro.config.mjs` and `public/robots.txt`.
+- If the domain changes, update `site` in `astro.config.mjs`, `public/robots.txt`, `public/CNAME` and the repo Pages settings.

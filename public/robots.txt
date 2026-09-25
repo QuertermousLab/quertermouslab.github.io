@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://quertermouslab.github.io/sitemap-index.xml
+Sitemap: https://quertermouslab.stanford.edu/sitemap-index.xml
