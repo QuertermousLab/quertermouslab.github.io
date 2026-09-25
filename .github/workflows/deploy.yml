@@ -1,9 +1,12 @@
 # Build the Astro site and publish it to GitHub Pages on every push to main.
 # A weekly run also rebuilds, which refreshes the live IGVF dataset counts.
+# Pull requests are built (to catch errors) but not deployed.
 name: Deploy site
 
 on:
   push:
+    branches: [main]
+  pull_request:
     branches: [main]
   workflow_dispatch:
   schedule:
@@ -34,6 +37,7 @@ jobs:
           path: dist
 
   deploy:
+    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
     environment:
