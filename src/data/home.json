@@ -1,0 +1,38 @@
+{
+  "heroEyebrow": "Stanford Cardiovascular Medicine",
+  "heroTitle": "From genetic risk to the",
+  "heroTitleEmphasis": "artery wall",
+  "heroLede": "We decode how inherited variation reshapes the smooth muscle, endothelial and fibroblast cells of human arteries — and how those changes cause coronary artery disease, the world's leading cause of death.",
+  "approachTitle": "Following risk from DNA to disease",
+  "approachLede": "Each coronary artery disease locus is a clue. We trace it through the regulatory genome to a causal gene, to the cell state it controls, and finally to the biology of the plaque.",
+  "pipeline": [
+    {
+      "k": "Variant",
+      "t": "GWAS risk loci",
+      "d": "Hundreds of loci from multi-ancestry CAD genetics"
+    },
+    {
+      "k": "Enhancer",
+      "t": "Regulatory element",
+      "d": "Single-cell ATAC, ChIP, HiChIP, QTLs, CRISPRi screens"
+    },
+    {
+      "k": "Gene",
+      "t": "Causal gene",
+      "d": "TCF21, SMAD3, ZEB2, PDGFD, ADAR1, AHR …"
+    },
+    {
+      "k": "Cell state",
+      "t": "Vascular cell fate",
+      "d": "SMC → fibromyocyte, chondromyocyte; EC, fibroblast programs"
+    },
+    {
+      "k": "Disease",
+      "t": "Plaque biology",
+      "d": "Stability, calcification, inflammation, remodeling"
+    }
+  ],
+  "piBlurb": "Three decades of genetic studies of vascular disease — from multi-ethnic GWAS of coronary artery disease to single-cell mechanisms in the vessel wall. Dr. Quertermous has trained more than 30 alumni now leading labs and programs at Stanford, Columbia, Yale, UNC, UVA, Kobe, Kyoto and beyond.",
+  "joinTitle": "Join us",
+  "joinText": "We welcome postdoctoral fellows, physician-scientists, graduate and undergraduate students who want to combine experimental and computational genomics to understand vascular disease."
+}

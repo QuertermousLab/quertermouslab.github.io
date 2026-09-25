@@ -5,7 +5,7 @@ import PaperCard from '../components/PaperCard.astro';
 import ThemeArt from '../components/ThemeArt.astro';
 import { getCollection } from 'astro:content';
 import { getPapers, fmtDate, bySurname } from '../lib/papers';
-import { pipeline, themes, consortia } from '../data/site';
+import { home, pipeline, themes, consortia } from '../data/site';
 
 const papers = await getPapers();
 const highlights = papers
@@ -23,13 +23,9 @@ const pi = people.find((p) => p.data.group === 'pi')!;
     <div class="hero__bg" aria-hidden="true"></div>
     <div class="container hero__grid">
       <div class="hero__copy">
-        <span class="eyebrow">Stanford Cardiovascular Medicine</span>
-        <h1>From genetic risk to the <em>artery wall</em>.</h1>
-        <p class="lede">
-          We decode how inherited variation reshapes the smooth muscle, endothelial and fibroblast
-          cells of human arteries — and how those changes cause coronary artery disease, the world's
-          leading cause of death.
-        </p>
+        <span class="eyebrow">{home.heroEyebrow}</span>
+        <h1>{home.heroTitle} <em>{home.heroTitleEmphasis}</em>.</h1>
+        <p class="lede">{home.heroLede}</p>
         <div class="hero__cta">
           <a class="btn btn--primary" href="/research/">Explore our research</a>
           <a class="btn btn--ghost" href="/publications/">Publications</a>
@@ -48,9 +44,8 @@ const pi = people.find((p) => p.data.group === 'pi')!;
       <div class="section-head reveal">
         <div>
           <span class="eyebrow">Our approach</span>
-          <h2>Following risk from DNA to disease</h2>
-          <p class="lede">Each coronary artery disease locus is a clue. We trace it through the regulatory genome to a causal gene,
-            to the cell state it controls, and finally to the biology of the plaque.</p>
+          <h2>{home.approachTitle}</h2>
+          <p class="lede">{home.approachLede}</p>
         </div>
       </div>
       <ol class="flow reveal">
@@ -128,9 +123,7 @@ const pi = people.find((p) => p.data.group === 'pi')!;
           <span class="eyebrow">Principal investigator</span>
           <h3>{pi.data.name}, {pi.data.degrees}</h3>
           <p class="muted">{pi.data.role}<br />Director of Research, Division of Cardiovascular Medicine</p>
-          <p>Three decades of genetic studies of vascular disease — from multi-ethnic GWAS of coronary artery disease to
-            single-cell mechanisms in the vessel wall. Dr. Quertermous has trained {alumni.length}+ alumni now leading labs and programs
-            at Stanford, Columbia, Yale, UNC, UVA, Kobe, Kyoto and beyond.</p>
+          <p>{home.piBlurb}</p>
           <a href="/people/">Meet the team →</a>
         </div>
       </div>
@@ -181,9 +174,8 @@ const pi = people.find((p) => p.data.group === 'pi')!;
   <section class="join">
     <div class="container join__inner reveal">
       <div>
-        <h2>Join us</h2>
-        <p>We welcome postdoctoral fellows, physician-scientists, graduate and undergraduate students who want to
-          combine experimental and computational genomics to understand vascular disease.</p>
+        <h2>{home.joinTitle}</h2>
+        <p>{home.joinText}</p>
       </div>
       <a class="btn btn--primary" href="/join/">Open positions &amp; contact</a>
     </div>

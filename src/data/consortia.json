@@ -1,0 +1,20 @@
+[
+  {
+    "name": "IGVF Consortium",
+    "full": "Impact of Genomic Variation on Function · NHGRI",
+    "url": "https://www.genome.gov/Funded-Programs-Projects/Impact-of-Genomic-Variation-on-Function-Consortium",
+    "desc": "With five other Stanford labs, decoding how cardiovascular GWAS variants affect genome function and disease."
+  },
+  {
+    "name": "CZI Human Cell Atlas",
+    "full": "Seed Network · Human vasculature",
+    "url": "https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/single-cell-transcriptomic-and-epigenomic-features-of-the-human-vasculature/",
+    "desc": "Single-cell transcriptomic and epigenomic features of human arterial segments, released openly on CELLxGENE."
+  },
+  {
+    "name": "ATHENA Network",
+    "full": "Atherosclerosis Targets from Human gEnetics and functional geNomic Approaches",
+    "url": "/athena/",
+    "desc": "A transatlantic collaborative laboratory (Stanford, Cambridge, Karolinska, Helsinki, WashU) to validate causal atherosclerosis genes."
+  }
+]

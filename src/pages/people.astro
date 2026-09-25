@@ -2,26 +2,15 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { bySurname } from '../lib/papers';
+import { gallery } from '../data/site';
 
 const everyone = (await getCollection('people')).sort((a, b) => a.data.order - b.data.order);
 const pi = everyone.find((p) => p.data.group === 'pi')!;
 // everyone except the PI and alumni, in one grid, alphabetical by surname
 const team = everyone.filter((p) => p.data.group !== 'pi' && p.data.group !== 'alumni').sort(bySurname);
 const alumni = everyone.filter((p) => p.data.group === 'alumni').sort(bySurname);
-// Life-in-the-lab gallery, shown newest first. `date` drives the order; photos
-// without a known date carry an estimate (approx: true) — correct these as needed.
-const photos = [
-  { src: '/lab/group-picnic-2025.webp', alt: 'Lab picnic', date: '2025-06', approx: true },
-  { src: '/lab/group-holiday-2024.webp', alt: 'Holiday party', date: '2024-12' },
-  { src: '/lab/group-picnic-2024.webp', alt: 'Lab picnic', date: '2024-06' },
-  { src: '/lab/group-picnic-2023.webp', alt: 'Lab picnic', date: '2023-06' },
-  { src: '/lab/group-2022.webp', alt: 'Lab picnic', date: '2022-06' },
-  { src: '/lab/hike-stairs-2021.webp', alt: 'Lab hike', date: '2021-08', approx: true, tall: true },
-  { src: '/lab/san-diego-ballast-point.webp', alt: 'Conference trip, San Diego', date: '2018-10', approx: true },
-  { src: '/lab/hike-madrone-fire-road.webp', alt: 'Lab hike, Madrone Fire Road', date: '2018-07', approx: true },
-  { src: '/lab/hike-ridge.webp', alt: 'Lab hike', date: '2018-07', approx: true, tall: true },
-  { src: '/lab/lake-dock.webp', alt: 'Lab outing at the lake', date: '2017-06', approx: true },
-].sort((a, b) => b.date.localeCompare(a.date));
+// Life-in-the-lab gallery (src/data/gallery.json), newest first. `approx` marks estimated dates.
+const photos = [...gallery].sort((a, b) => b.date.localeCompare(a.date));
 const photoYear = (p: { date: string; approx?: boolean }) => `${p.approx ? 'c. ' : ''}${p.date.slice(0, 4)}`;
 const initials = (n: string) => n.split(' ').filter((w) => /^[A-Z]/.test(w)).map((w) => w[0]).slice(0, 2).join('');
 const linkLabel: Record<string, string> = { profile: 'Stanford Profile', orcid: 'ORCID', pubmed: 'PubMed', github: 'GitHub', website: 'Website', scholar: 'Scholar' };
@@ -107,7 +96,7 @@ const linkLabel: Record<string, string> = { profile: 'Stanford Profile', orcid: 
     <div class="container">
       <div class="section-head reveal"><div><span class="eyebrow">Life in the lab</span><h2>Picnics, parties &amp; hikes</h2></div></div>
       <div class="gallery">
-        {photos.map((p) => <figure class:list={['reveal', { tall: p.tall }]}><img src={p.src} alt={`${p.alt}, ${photoYear(p)}`} loading="lazy" /><figcaption>{p.alt} · {photoYear(p)}</figcaption></figure>)}
+        {photos.map((p) => <figure class:list={['reveal', { tall: p.tall }]}><img src={p.image} alt={`${p.caption}, ${photoYear(p)}`} loading="lazy" /><figcaption>{p.caption} · {photoYear(p)}</figcaption></figure>)}
       </div>
     </div>
   </section>

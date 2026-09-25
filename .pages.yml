@@ -1,0 +1,233 @@
+# Pages CMS (https://app.pagescms.org) — visual editor for this repo.
+# Every save is a commit to main, which redeploys the site in ~1 minute.
+settings:
+  content:
+    merge: true   # keep fields not listed below (e.g. PubMed data) when saving
+
+media:
+  - name: people
+    label: People photos
+    input: public/people
+    output: /people
+    extensions: [jpg, jpeg, png, webp]
+  - name: lab
+    label: Lab photos
+    input: public/lab
+    output: /lab
+    extensions: [jpg, jpeg, png, webp]
+  - name: figures
+    label: Figures
+    input: public/figures
+    output: /figures
+    extensions: [jpg, jpeg, png, webp, svg]
+
+content:
+  # ---------------------------------------------------------------- pages
+  - name: home
+    label: Homepage text
+    type: file
+    path: src/data/home.json
+    format: json
+    fields:
+      - { name: heroEyebrow, label: Hero – small heading, type: string }
+      - { name: heroTitle, label: Hero – title, type: string }
+      - { name: heroTitleEmphasis, label: Hero – title (red italic part), type: string }
+      - { name: heroLede, label: Hero – intro paragraph, type: text }
+      - { name: approachTitle, label: Approach – title, type: string }
+      - { name: approachLede, label: Approach – intro, type: text }
+      - name: pipeline
+        label: Approach – steps
+        type: object
+        list: true
+        fields:
+          - { name: k, label: Step label, type: string }
+          - { name: t, label: Title, type: string }
+          - { name: d, label: Description, type: string }
+      - { name: piBlurb, label: PI card text, type: text }
+      - { name: joinTitle, label: Join banner – title, type: string }
+      - { name: joinText, label: Join banner – text, type: text }
+
+  - name: themes
+    label: Research themes
+    type: file
+    path: src/data/themes.json
+    format: json
+    list: true
+    fields:
+      - { name: id, label: ID (used in links, don't change), type: string, readonly: true }
+      - { name: title, label: Title, type: string }
+      - { name: short, label: One-line summary, type: text }
+      - { name: color, label: Accent colour (CSS), type: string }
+      - name: illustration
+        label: Illustration
+        type: select
+        options: { values: [locus, smc, atlas, perturb] }
+      - { name: body, label: Paragraphs, type: text, list: true }
+      - { name: methods, label: Method tags, type: string, list: true }
+      - { name: papers, label: Key papers (PMIDs), type: string, list: true }
+
+  - name: lab
+    label: Lab info & contacts
+    type: file
+    path: src/data/lab.json
+    format: json
+    fields:
+      - { name: name, type: string }
+      - { name: tagline, type: text }
+      - name: address
+        type: object
+        fields:
+          - { name: building, type: string }
+          - { name: street, type: string }
+          - { name: city, type: string }
+      - { name: postal, label: Postal address, type: string }
+      - name: contacts
+        type: object
+        list: true
+        fields:
+          - { name: role, type: string }
+          - { name: name, type: string }
+          - { name: email, type: string }
+          - { name: phone, type: string }
+
+  # ---------------------------------------------------------------- people
+  - name: people
+    label: People
+    type: collection
+    path: src/content/people
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: name
+      fields: [name, role, group]
+      sort: [name]
+    fields:
+      - { name: name, label: Full name, type: string, required: true }
+      - { name: degrees, label: Degrees (e.g. MD, PhD), type: string }
+      - { name: role, label: Title / role, type: string, required: true }
+      - name: group
+        label: Group
+        type: select
+        required: true
+        options:
+          values:
+            - { value: pi, label: PI }
+            - { value: faculty, label: Instructor / faculty }
+            - { value: staff, label: Research staff }
+            - { value: postdoc, label: Postdoc }
+            - { value: student, label: Student }
+            - { value: admin, label: Administration }
+            - { value: alumni, label: Alumni }
+      - { name: photo, label: Photo (square, alumni need none), type: image, options: { media: people } }
+      - { name: focus, label: Research focus (one line), type: string }
+      - { name: bio, label: Bio, type: text }
+      - { name: email, type: string }
+      - { name: subsequentPosition, label: Alumni – current position, type: string }
+      - name: links
+        type: object
+        fields:
+          - { name: profile, label: Stanford Profile URL, type: string }
+          - { name: github, label: GitHub URL, type: string }
+          - { name: orcid, label: ORCID URL, type: string }
+          - { name: website, label: Website URL, type: string }
+
+  - name: gallery
+    label: Life in the lab (photos)
+    type: file
+    path: src/data/gallery.json
+    format: json
+    fields:
+      - name: photos
+        type: object
+        list: true
+        fields:
+          - { name: image, type: image, options: { media: lab } }
+          - { name: caption, type: string }
+          - { name: date, label: Date (YYYY-MM), type: string }
+          - { name: approx, label: Date is approximate, type: boolean }
+          - { name: tall, label: Portrait photo (spans two rows), type: boolean }
+
+  # ---------------------------------------------------------------- news
+  - name: news
+    label: News
+    type: collection
+    path: src/content/news
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{primary}.md"
+    view:
+      primary: title
+      fields: [title, date, category]
+      sort: [date]
+      default: { sort: date, order: desc }
+    fields:
+      - { name: title, type: string, required: true }
+      - { name: date, type: date, required: true }
+      - name: datePrecision
+        label: Show date as
+        type: select
+        default: day
+        options:
+          values:
+            - { value: day, label: Full date }
+            - { value: month, label: Month + year }
+            - { value: year, label: Year only }
+      - name: category
+        type: select
+        default: lab
+        options: { values: [paper, people, award, lab, event] }
+      - { name: summary, type: text, required: true }
+      - { name: image, type: image, options: { media: figures } }
+      - { name: link, label: Link (optional), type: string }
+      - { name: paper, label: Related paper PMID (optional), type: string }
+      - { name: body, label: Details (optional), type: rich-text }
+
+  # ---------------------------------------------------------------- publications
+  - name: papers
+    label: Publications (curation)
+    type: collection
+    path: src/content/papers
+    format: json
+    operations: { create: false, delete: false }
+    view:
+      primary: title
+      fields: [title, year, journalAbbrev, highlight]
+      sort: [year, title]
+      default: { sort: year, order: desc }
+    fields:
+      - { name: title, type: string, readonly: true }
+      - { name: year, type: number, readonly: true }
+      - { name: journalAbbrev, label: Journal, type: string, readonly: true }
+      - { name: highlight, label: Feature in "Selected publications", type: boolean }
+      - { name: highlightOrder, label: Position among selected (1 = first), type: number }
+      - { name: summary, label: Plain-language summary (for featured cards), type: text }
+      - { name: image, label: Card image, type: image, options: { media: figures } }
+      - { name: dataUrl, label: Data link, type: string }
+      - { name: codeUrl, label: Code link, type: string }
+      - { name: geo, label: GEO accession, type: string }
+      - { name: hidden, label: Hide (duplicate preprint, erratum…), type: boolean }
+      - { name: labPaperOverride, label: Count as lab paper even if TQ is not first/last author, type: boolean }
+
+  - name: consortia
+    label: Consortia
+    type: file
+    path: src/data/consortia.json
+    format: json
+    list: true
+    fields:
+      - { name: name, type: string }
+      - { name: full, label: Full name, type: string }
+      - { name: url, type: string }
+      - { name: desc, label: Description, type: text }
+
+  - name: datasets
+    label: Datasets (Resources page)
+    type: file
+    path: src/data/datasets.json
+    format: json
+    list: true
+    fields:
+      - { name: title, type: string }
+      - { name: kind, label: Type line (e.g. GEO · GSE…), type: string }
+      - { name: url, type: string }
+      - { name: desc, label: Description, type: text }
+      - { name: code, label: Code link (optional), type: string }

@@ -1,0 +1,74 @@
+{
+  "photos": [
+    {
+      "image": "/lab/group-picnic-2025.webp",
+      "caption": "Lab picnic",
+      "date": "2025-06",
+      "approx": true,
+      "tall": false
+    },
+    {
+      "image": "/lab/group-holiday-2024.webp",
+      "caption": "Holiday party",
+      "date": "2024-12",
+      "approx": false,
+      "tall": false
+    },
+    {
+      "image": "/lab/group-picnic-2024.webp",
+      "caption": "Lab picnic",
+      "date": "2024-06",
+      "approx": false,
+      "tall": false
+    },
+    {
+      "image": "/lab/group-picnic-2023.webp",
+      "caption": "Lab picnic",
+      "date": "2023-06",
+      "approx": false,
+      "tall": false
+    },
+    {
+      "image": "/lab/group-2022.webp",
+      "caption": "Lab picnic",
+      "date": "2022-06",
+      "approx": false,
+      "tall": false
+    },
+    {
+      "image": "/lab/hike-stairs-2021.webp",
+      "caption": "Lab hike",
+      "date": "2021-08",
+      "approx": true,
+      "tall": true
+    },
+    {
+      "image": "/lab/san-diego-ballast-point.webp",
+      "caption": "Conference trip, San Diego",
+      "date": "2018-10",
+      "approx": true,
+      "tall": false
+    },
+    {
+      "image": "/lab/hike-madrone-fire-road.webp",
+      "caption": "Lab hike, Madrone Fire Road",
+      "date": "2018-07",
+      "approx": true,
+      "tall": false
+    },
+    {
+      "image": "/lab/hike-ridge.webp",
+      "caption": "Lab hike",
+      "date": "2018-07",
+      "approx": true,
+      "tall": true
+    },
+    {
+      "image": "/lab/lake-dock.webp",
+      "caption": "Lab outing at the lake",
+      "date": "2017-06",
+      "approx": true,
+      "tall": false
+    }
+  ]
+}

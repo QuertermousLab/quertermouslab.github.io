@@ -137,9 +137,9 @@ def main():
                 # update in place so key order (and therefore the diff) stays stable
                 merged = dict(old)
                 merged.update(rec)
-                # keep a hand-set labPaper override
-                if "labPaperOverride" in old:
-                    merged["labPaper"] = old["labPaperOverride"]
+                # keep a hand-set labPaper override (only `true` forces it on)
+                if old.get("labPaperOverride") is True:
+                    merged["labPaper"] = True
             else:
                 path = OUT / f"{rec['year']}-{slugify(rec['title'])}-{rec['pmid']}.json"
                 merged = {**rec, "highlight": False, "tags": []}

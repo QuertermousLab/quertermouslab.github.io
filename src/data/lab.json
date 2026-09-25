@@ -1,0 +1,30 @@
+{
+  "name": "Quertermous Lab",
+  "tagline": "Decoding how human genetic variation acts in the cells of the artery wall to cause coronary artery disease.",
+  "address": {
+    "building": "Falk Cardiovascular Research Center, CV184",
+    "street": "870 Quarry Road",
+    "city": "Stanford, CA 94305-5406"
+  },
+  "postal": "300 Pasteur Dr, Mail Code 5406, Stanford, CA 94305",
+  "contacts": [
+    {
+      "role": "Principal Investigator",
+      "name": "Thomas Quertermous, MD",
+      "email": "tomq1@stanford.edu",
+      "phone": "650-723-5012"
+    },
+    {
+      "role": "Administrative Associate",
+      "name": "Mariah J. Roberts",
+      "email": "mariahr@stanford.edu",
+      "phone": "650-497-6234"
+    },
+    {
+      "role": "Lab Manager",
+      "name": "Trieu Nguyen",
+      "email": "trieu@stanford.edu",
+      "phone": "650-498-4810"
+    }
+  ]
+}

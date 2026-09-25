@@ -1,0 +1,97 @@
+[
+  {
+    "id": "gwas-mechanisms",
+    "illustration": "locus",
+    "title": "From GWAS loci to causal genes and variants",
+    "short": "Pinpointing the variants, enhancers and genes that carry coronary artery disease risk.",
+    "color": "var(--artery)",
+    "body": [
+      "Genome-wide association studies — many of which our lab helped lead in multi-ethnic cohorts — have mapped hundreds of loci for coronary artery disease (CAD). Most risk variants are noncoding and act by changing gene expression in specific cell types, so the path from association to mechanism runs through the regulatory genome.",
+      "We map allele-specific transcription factor binding, chromatin accessibility and 3D chromatin looping in primary human coronary artery smooth muscle cells, and combine these molecular QTLs with CRISPR interference to connect risk variants to their target genes. This has revealed causal mechanisms at loci including TCF21, SMAD3, ZEB2, PDGFD, FN1 and 9p21.3."
+    ],
+    "papers": [
+      "36792607",
+      "32513244",
+      "31014396",
+      "34990206",
+      "30146127",
+      "40950476"
+    ],
+    "methods": [
+      "Molecular QTLs (bQTL, caQTL, clQTL)",
+      "HiChIP",
+      "CRISPRi / CRISPRa",
+      "Colocalization & fine-mapping"
+    ]
+  },
+  {
+    "id": "smc-states",
+    "illustration": "smc",
+    "title": "Smooth muscle cell fate in atherosclerosis",
+    "short": "How smooth muscle cells change identity in plaque — and which transitions protect or harm.",
+    "color": "var(--plaque)",
+    "body": [
+      "Smooth muscle cells (SMCs) are the cell type in which CAD genetic risk is most strongly enriched. During atherosclerosis they undergo \"phenotypic modulation\" into fibromyocytes that stabilize the fibrous cap, or chondromyocytes that drive calcification. Using lineage tracing with single-cell genomics, we discovered that the CAD gene TCF21 promotes the protective transition, and that SMAD3, ZEB2, AHR and PDGFD control the balance between fates.",
+      "Our dense single-cell RNA and chromatin timecourses now trace these trajectories step by step, identify the transcription factor networks that drive them, and show where along each trajectory inherited risk acts."
+    ],
+    "papers": [
+      "41844614",
+      "31359001",
+      "36246779",
+      "32441123",
+      "41610194"
+    ],
+    "methods": [
+      "SMC lineage tracing (Myh11-CreERT2, tdTomato)",
+      "Conditional knockouts",
+      "scRNA-seq / scATAC-seq timecourses",
+      "Xenium spatial transcriptomics"
+    ]
+  },
+  {
+    "id": "atlas",
+    "illustration": "atlas",
+    "title": "Single-cell and spatial atlases of human arteries",
+    "short": "Cataloguing the cells of every major arterial bed, and the enhancers that define them.",
+    "color": "var(--vein-soft)",
+    "body": [
+      "As part of the Chan Zuckerberg Initiative Human Cell Atlas, we built a single-cell and spatial atlas of healthy human arteries across multiple segments — from the aortic root and coronary arteries to the carotid, pulmonary and iliac arteries. Arterial smooth muscle cells, fibroblasts and endothelial cells carry segment-specific programs that reflect their embryonic origin and help explain why disease strikes some vessels and spares others.",
+      "Paired single-cell chromatin maps reveal vascular site–specific enhancers, and deep-learning models of chromatin accessibility (ChromBPNet) predict how disease variants act in each cell type and vascular site."
+    ],
+    "papers": [
+      "41086809",
+      "40931195",
+      "38152886",
+      "42283082"
+    ],
+    "methods": [
+      "Single-cell multiome",
+      "Slide-seq & Xenium",
+      "ChromBPNet deep learning",
+      "CELLxGENE data release"
+    ]
+  },
+  {
+    "id": "functional-genomics",
+    "illustration": "perturb",
+    "title": "Functional genomics at scale",
+    "short": "CRISPRi Perturb-seq and TAP-seq screens of CAD genes and enhancers, in human cells and in vivo — shared through IGVF.",
+    "color": "var(--endo)",
+    "body": [
+      "To move from single loci to the whole genetic architecture of CAD, we perturb hundreds of candidate genes and enhancers at once in human coronary artery smooth muscle cells and in mouse arteries, reading out each perturbation by single-cell RNA sequencing.",
+      "As part of the NHGRI Impact of Genomic Variation on Function (IGVF) consortium we have generated CRISPR interference screens with three complementary designs: Parse Perturb-seq targeting the promoters of genes at CAD loci, TAP-seq targeting candidate cis-regulatory elements across CAD loci with a targeted readout of nearby genes, and in vivo Perturb-seq in Myh11-Cre; Rosa26-LSL-dCas9-KRAB mice, in which an AAV guide library silences candidate genes specifically in aortic smooth muscle cells. Released datasets are available on the IGVF Data Portal, with more to follow."
+    ],
+    "papers": [
+      "40950476",
+      "39606421",
+      "37486064"
+    ],
+    "methods": [
+      "CRISPRi (dCas9-KRAB / ZIM3-KRAB)",
+      "Parse Perturb-seq",
+      "TAP-seq",
+      "In vivo AAV Perturb-seq",
+      "cNMF gene programs"
+    ]
+  }
+]
