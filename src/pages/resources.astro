@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { dataResources, github, igvf } from '../data/site';
+import { athenaPortal, dataResources, github, igvf } from '../data/site';
 ---
 <Base title="Resources" description="Open data, code and tools from the Quertermous Lab.">
   <section class="page-hero">
@@ -45,7 +45,11 @@ import { dataResources, github, igvf } from '../data/site';
         <h2>ATHENA Network Collaborative Laboratory</h2>
         <p class="lede">A shared platform to identify, prioritize and validate causal atherosclerosis genes — submit candidate loci
           for functional assays and CRISPR screens, or access screening data, spatial transcriptomics and protocols.</p>
-        <a class="btn btn--primary" href="/athena/">ATHENA Co-Lab portal</a>
+        <div class="athena__cta">
+          <a class="btn btn--primary" href={athenaPortal}>ATHENA Co-Lab portal</a>
+          <a class="btn btn--ghost" href="/athena/">About ATHENA</a>
+        </div>
+        <p class="athena__note">The portal is open to ATHENA collaborators — sign in with your registered e-mail.</p>
       </div>
       <img class="reveal" src="/figures/athena.webp" alt="ATHENA workflow: human genetics, functional genomics and in vivo mechanisms" loading="lazy" />
     </div>
@@ -74,6 +78,8 @@ import { dataResources, github, igvf } from '../data/site';
   .rcard__links a { text-decoration: none; }
   .athena { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
   .athena img { border-radius: var(--radius); background: #fff; padding: 10px; }
+  .athena__cta { display: flex; gap: 12px; flex-wrap: wrap; }
+  .athena__note { font-size: .88rem; color: #b8a3a8; margin: 14px 0 0; }
   @media (max-width: 900px) { .athena { grid-template-columns: 1fr; } }
   .rcard--igvf { border-top-color: var(--endo); background: linear-gradient(160deg, #f0faf8, #fff 60%); }
 </style>

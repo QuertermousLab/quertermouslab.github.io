@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import { athenaPortal } from '../data/site';
 const team = [
   ['Thomas Quertermous, MD, MS', 'US Organizer', 'Professor, Stanford University, Stanford, US'],
   ['Helle Jørgensen, PhD', 'European Organizer', 'Associate Professor, University of Cambridge, UK'],
@@ -28,6 +29,10 @@ const ways = [
       <p class="lede"><strong>A</strong>therosclerosis <strong>T</strong>argets from <strong>H</strong>uman g<strong>E</strong>netics and functional ge<strong>N</strong>omic <strong>A</strong>pproaches —
         a shared research platform that enables cardiovascular investigators to identify, prioritize and validate causal genes and
         mechanisms underlying atherosclerosis.</p>
+      <div class="hero-cta">
+        <a class="btn btn--primary" href={athenaPortal}>Collaborator login</a>
+        <a class="btn btn--ghost" href="/join/#contact">Request access</a>
+      </div>
     </div>
   </section>
   <section class="section">
@@ -45,6 +50,8 @@ const ways = [
         <h2>Ways to work with ATHENA</h2>
         <ul class="ways">{ways.map(([v, t]) => <li><b>{v}</b> {t}</li>)}</ul>
         <p>Other proposals welcome! <a href="/join/#contact">Contact us</a>.</p>
+        <p>ATHENA collaborators: submit genes, browse protocols and data in the <a href={athenaPortal}>ATHENA Co-Lab portal</a>
+          (sign in with your registered e-mail).</p>
       </div>
       <div class="reveal">
         <span class="eyebrow">Investigative team</span>
@@ -55,6 +62,7 @@ const ways = [
   </section>
 </Base>
 <style>
+  .hero-cta { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
   .fig { margin: 0 0 40px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow); }
   .fig img { margin: 0 auto; max-height: 520px; }
   .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }

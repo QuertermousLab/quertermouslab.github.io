@@ -14,6 +14,9 @@ export const consortia = consortiaJson;
 export const dataResources = datasetsJson as { title: string; kind: string; url: string; desc: string; code?: string }[];
 export const gallery = galleryJson.photos;
 
+/** ATHENA Co-Lab portal (collaborators only, Cloudflare Access login; repo QuertermousLab/athena). */
+export const athenaPortal = 'https://athena-colab.pages.dev';
+
 export type Theme = {
   id: string;
   title: string;
