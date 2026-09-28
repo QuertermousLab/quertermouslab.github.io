@@ -71,7 +71,8 @@ for (let i = 0; i < 2600 && cells.length < 1700; i++) {
     cells.push({ x, y, rx: 6 + rnd() * 2, ry: 2 + rnd() * 0.7, rot: (aL * 180) / Math.PI + 90 + gauss() * 12, type: 'fmc', o: 0.85 });
   } else {
     const p = rnd();
-    const type = p < 0.34 ? 'cmc' : p < 0.62 ? 'mac' : p < 0.85 ? 'fmc' : 'fib';
+    // no fibroblasts inside the vessel wall — they live only in the adventitia
+    const type = p < 0.4 ? 'cmc' : p < 0.72 ? 'mac' : 'fmc';
     const round = type === 'cmc' || type === 'mac';
     cells.push({ x, y, rx: round ? 3.4 + rnd() * 1.8 : 5 + rnd() * 2, ry: round ? 3.2 + rnd() * 1.6 : 2 + rnd(),
       rot: rnd() * 180, type, o: 0.85 });
