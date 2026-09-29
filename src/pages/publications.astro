@@ -28,7 +28,7 @@ const nLab = papers.filter((p) => p.data.labPaper).length;
       <span class="eyebrow">Publications</span>
       <h1>Publications</h1>
       <p class="lede">{papers.length} papers from {y0} to {y1}, including {nLab} led by the lab. Lab members are shown in bold.
-        The list is generated from PubMed and refreshed with <code>npm run papers</code>.</p>
+        The list is generated from PubMed.</p>
       <figure class="chart" aria-label="Publications per year">
         <svg viewBox={`0 0 ${W} ${H + 22}`} preserveAspectRatio="none">
           {counts.map((c, i) => (
