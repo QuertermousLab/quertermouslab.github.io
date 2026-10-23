@@ -1,7 +1,8 @@
 {
   "name": "Markus Ramste",
   "degrees": "MD, PhD",
-  "role": "Faculty of Medicine University of Helsinki",
+  "role": "Postdoc",
   "group": "alumni",
-  "order": 106
+  "order": 106,
+  "subsequentPosition": "Faculty of Medicine University of Helsinki"
 }
